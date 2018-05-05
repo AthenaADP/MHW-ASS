@@ -1,0 +1,13 @@
+Vangis Helm α,Vangis Mail α,Vangis Vambraces α,Vangis Coil α,Vangis Greaves α, Vangis Helm β,Vangis Mail β,Vangis Vambraces β,Vangis Coil β,Vangis Greaves β
+Aloy's Head α,Aloy's Body α,Aloy's Arms α,Aloy's Torso α,Aloy's Leggings α
+Ryu's Head,Ryu's Karate Gi,Ryu's Arms,Ryu's Torso,Ryu's Legs
+Sakura's Head α,Sakura's Work Uniform α,Sakura's Arms α,Sakura's Skirt α,Sakura's Legs α
+Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura, Queen Beetle Vertex,Queen Beetle Thorax,Queen Beetle Brachia,Queen Beetle Elytra,Queen Beetle Crura
+Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots, Blossom Headgear α,Blossom Vest α,Blossom Cuffs α,Blossom Coat α,Blossom Boots α
+Kulve Taroth's Fury α,Kulve Taroth's Ire α,Kulve Taroth's Rage α,Kulve Taroth's Malice α,Kulve Taroth's Wrath α, Kulve Taroth's Fury β,Kulve Taroth's Ire β,Kulve Taroth's Rage β,Kulve Taroth's Malice β,Kulve Taroth's Wrath β
+Dante's Hair α,Dante's Coat α,Dante's Gloves α,Dante's Belt α,Dante's Leather Boots α
+Azure Starlord Crown α,Azure Starlord Armor α,Azure Starlord Gauntlets α,Azure Starlord Tassets α,Azure Starlord Guards α
+Sealed Eyepatch α
+Shadow Shades α
+Kulu-Ya-Ku Head α
+Wiggler Head

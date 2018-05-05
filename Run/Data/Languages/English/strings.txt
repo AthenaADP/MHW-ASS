@@ -1,0 +1,185 @@
+﻿#  MHW ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+-
+
+#Menu options
+&File
+&Options
+&Language
+&Help
+&Load
+&Save
+&Update
+E&xit
+
+#This option resets all settings to default
+&Clear Settings
+
+#This refers to armor made from Arena coins
+Allow A&rena Armor
+
+#Event items from Event/Challenge quests
+Allow &Event Armor
+
+#Japanese only USJ gear
+Allow &USJ gear
+
+#This setting will ignore low rank armor if you are in high rank
+Allow &Lower Rank Armor
+
+Sort Skills Alpha&betically
+
+&Donate
+&Skill Information
+
+#This option opens a browser to my Facebook page
+Check for &Updates
+
+&About
+My &Decorations
+&Import
+&Quick Search
+&Advanced Search
+&Cancel
+&Default
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&None
+
+#This string is used in the combobox that sorts solutions by various criteria
+Unsorted
+
+#Buttons
+&Search
+Select &None
+Select &Best
+&Add
+&Reset
+&Remove
+&Delete All
+Move &Up
+Move &Down
+&Close
+&Find Next
+
+Quest Level
+Weapon Slots
+Male
+Female
+No Extra Skill Filtering
+Sort/Filter Results
+
+
+Dragon Res
+Fire Res
+Ice Res
+Thunder Res
+Water Res
+Base Defence
+Max Defence
+Aug Defence
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Difficulty
+
+Rarity
+Slots Spare
+
+#When sorting solutions, "Family" refers to which monsters the gear is made from
+Family
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Extra Skills
+
+Decorations
+Use none
+Use mine
+Use all
+
+Skill
+Skills
+Skill Filters
+
+#Used in the Advanced Search dialog
+Select Armor
+
+Slots
+Slot Level
+(none)
+
+#When a solution has spare slots. Format: "3 slots spare (1+1+2)"
+%1 slots spare
+
+Solutions found:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Showing first %1 solutions only:
+
+Decoration list
+File is corrupt.
+Version
+Find
+
+#Used in some error popups
+Error
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 to %2
+
+Defence
+Results
+Delete All Decorations
+ASS Settings
+&Max Results
+Print &Decoration Names
+Print &Material Lists
+Preview Image Default &Zoom
+
+#Showing min/max defence and elemental resists
+%1-%2 Def, %3 Fir, %4 Wat, %5 Ice, %6 Thn, %7 Drg
+
+#This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
+%1 Jewel
+
+#Item Type refers to weapon/helm/body armor/etc.
+Item Type
+
+#This string is for displaying potential extra skills
+(%1 possible)
+
+#Strings for the skill description dialog
+Show
+Description
+Skills
+Skill Trees
+Available from these Armor pieces:
+Available as a set bonus from these Armor pieces:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+All
+
+#Confirmation popup
+Are you sure?
+
+#Skill Level. %1 is the skill name, %2 is the level number
+%1 Lv%2
+
+#Slot formatting. Gear can have up to 3 slots, each with a level from 1-3
+%1-%2-%3
+
+#Showing a number of decorations. First value is the number, second is the name. E.g. 3x Thunder Jewel
+%1x %2

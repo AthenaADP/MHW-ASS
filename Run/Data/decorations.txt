@@ -1,0 +1,99 @@
+#Name,Slot Level,Rarity,Acquire,Skill
+Antidote Jewel,1,5,6,Poison Resistance
+Geology Jewel,1,5,6,Geologist
+Heavy Artillery Jewel,1,5,6,Heavy Artillery
+Hungerless Jewel,1,5,6,Hunger Resistance
+Satiated Jewel,1,5,6,Free Meal
+Protection Jewel,1,5,6,Divine Blessing
+Meowster Jewel,1,5,6,Palico Rally
+Botany Jewel,1,5,6,Botanist
+Tip Toe Jewel,1,5,6,Stealth
+Flight Jewel,2,5,6,Airborne
+Smoke Jewel,1,5,6,Sporepuff Expert
+Mirewalker Jewel,1,5,6,Aquatic Expert
+Specimen Jewel,1,5,6,Entomologist
+Miasma Jewel,1,5,6,Effluvia Resistance
+Scent Jewel,1,5,6,Scenthound
+Intimidator Jewel,1,5,6,Intimidator
+Maintenance Jewel,1,5,6,Tool Specialist
+Crisis Jewel,1,5,6,Resuscitate
+Antipara Jewel,1,5,6,Paralysis Resistance
+Fortitude Jewel,1,5,6,Fortify
+Water Res Jewel,1,5,6,Water Resistance
+Suture Jewel,1,5,6,Bleeding Resistance
+Dragon Res Jewel,1,5,6,Dragon Resistance
+Fire Res Jewel,1,5,6,Fire Resistance
+Ice Res Jewel,1,5,6,Ice Resistance
+Def Lock Jewel,1,5,6,Iron Skin
+Thunder Res Jewel,1,5,6,Thunder Resistance
+Pep Jewel,1,5,6,Sleep Resistance
+Antiblast Jewel,1,5,6,Blast Resistance
+Gobbler Jewel,1,6,6,Speed Eating
+Physique Jewel,2,6,6,Constitution
+Blaze Jewel,1,6,6,Fire Attack
+Evasion Jewel,2,6,6,Evade Window
+Jumping Jewel,2,6,6,Evade Extender
+Sheath Jewel,1,6,6,Quick Sheath
+Friendship Jewel,1,6,6,Wide-Range
+Enduring Jewel,1,6,6,Item Prolonger
+Medicine Jewel,1,6,6,Recovery Up
+Grinder Jewel,1,6,6,Speed Sharpening
+Steadfast Jewel,1,6,6,Stun Resistance
+Bomber Jewel,1,6,6,Bombardier
+Recovery Jewel,1,6,6,Recovery Speed
+Slider Jewel,2,6,6,Affinity Sliding
+Defense Jewel,1,6,6,Defense Boost
+Stonethrower Jewel,1,6,6,Slinger Capacity
+Footing Jewel,2,6,6,Tremor Resistance
+Brace Jewel,3,6,6,Flinch Free
+Wind Resist Jewel,2,6,6,Windproof
+Earplug Jewel,3,6,6,Earplugs
+Vitality Jewel,1,6,6,Health Boost
+Resistor Jewel,1,6,6,Blight Resistance
+Sonorous Jewel,1,6,6,Horn Maestro
+KO Jewel,2,6,6,Slugger
+Stream Jewel,1,6,6,Water Attack
+Frost Jewel,1,6,6,Ice Attack
+Bolt Jewel,1,6,6,Thunder Attack
+Dragon Jewel,1,6,6,Dragon Attack
+Venom Jewel,1,6,6,Poison Attack
+Poisoncoat Jewel,3,6,6,Poison Functionality
+Expert Jewel,1,6,6,Critical Eye
+Tenderizer Jewel,2,6,6,Weakness Exploit
+Destroyer Jewel,2,6,6,Partbreaker
+Elementless Jewel,2,6,6,Non-elemental Boost
+Drain Jewel,1,6,6,Stamina Thief
+Paracoat Jewel,3,7,9,Para Functionality
+Sharp Jewel,2,7,9,Protective Polish
+Shield Jewel,2,7,9,Guard Up
+Dragonseal Jewel,3,7,9,Elderseal Boost
+Trueshot Jewel,1,7,9,Special Ammo Boost
+Enhancer Jewel,2,7,9,Power Prolonger
+Forceshot Jewel,3,7,9,Normal Shots
+Furor Jewel,2,7,9,Resentment
+Potential Jewel,2,7,9,Heroics
+Paralyzer Jewel,1,7,9,Paralysis Attack
+Sleep Jewel,1,7,9,Sleep Attack
+Ironwall Jewel,1,7,9,Guard
+Refresh Jewel,2,7,9,Stamina Surge
+Blast Jewel,1,7,9,Blast Attack
+Sleepcoat Jewel,3,7,9,Sleep Functionality
+Blastcoat Jewel,3,7,9,Blast Functionality
+Throttle Jewel,2,7,9,Latent Power
+Challenger Jewel,2,7,9,Agitator
+Attack Jewel,1,7,9,Attack Boost
+Flawless Jewel,2,7,9,Peak Performance
+Magazine Jewel,2,7,9,Capacity Boost
+Mighty Jewel,2,7,9,Maximum Might
+Sprinter Jewel,2,8,9,Marathon Runner
+Critical Jewel,2,8,9,Critical Boost
+Artillery Jewel,1,8,9,Artillery
+Fungiform Jewel,1,8,9,Mushroomancer
+Release Jewel,3,8,9,Free Elem/Ammo Up
+Spread Jewel,3,8,9,Spread/Power Shots
+Charger Jewel,2,8,9,Focus
+Handicraft Jewel,3,8,9,Handicraft
+Mighty Bow Jewel,2,8,9,Bow Charge Plus
+Mind's Eye Jewel,2,8,9,Mind's Eye/Ballistics
+Draw Jewel,2,8,9,Critical Draw
+Pierce Jewel,3,8,9,Piercing Shots

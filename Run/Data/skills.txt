@@ -1,0 +1,136 @@
+#Name,Max Level,Tags
+Poison Resistance,3,Resistance
+Paralysis Resistance,3,Resistance
+Sleep Resistance,3,Resistance
+Stun Resistance,3,Resistance
+Muck Resistance,1,Resistance
+Blast Resistance,3,Resistance
+Bleeding Resistance,3,Resistance
+Iron Skin,3,Resistance
+Earplugs,5,Resistance
+Windproof,5,Resistance
+Tremor Resistance,3,Resistance
+Dungmaster,1
+Effluvial Expert,1,Resistance
+Heat Guard,1,Resistance
+Attack Boost,7,Offensive
+Defense Boost,7,Defensive
+Health Boost,3,Defensive
+Recovery Up,3,Defensive
+Recovery Speed,3,Defensive
+Fire Resistance,3,Resistance
+Water Resistance,3,Resistance
+Ice Resistance,3,Resistance
+Thunder Resistance,3,Resistance
+Dragon Resistance,3,Resistance
+Blight Resistance,3,Resistance
+Fire Attack,5,Offensive
+Water Attack,5,Offensive
+Ice Attack,5,Offensive
+Thunder Attack,5,Offensive
+Dragon Attack,5,Offensive
+Poison Attack,3,Offensive
+Paralysis Attack,3,Offensive
+Sleep Attack,3,Offensive
+Blast Attack,3,Offensive
+Normal Shots,1,Bow/Gunner
+Piercing Shots,1,Bow/Gunner
+Spread/Power Shots,1,Bow/Gunner
+Free Elem/Ammo Up,3,Offensive
+Critical Eye,7,Offensive
+Critical Boost,3,Offensive
+Weakness Exploit,3,Offensive
+Focus,3,Offensive
+Power Prolonger,3
+Handicraft,5,Blademaster
+Critical Draw,3,Offensive
+Partbreaker,3,Gathering
+Slugger,3,Blademaster
+Stamina Thief,3
+Master Mounter,1
+Airborne,1,Offensive
+Latent Power,5,Offensive
+Agitator,5,Offensive
+Peak Performance,3,Offensive
+Heroics,5,Offensive
+Fortify,1,Offensive
+Resentment,5,Offensive
+Resuscitate,1,Defensive
+Horn Maestro,1,Blademaster
+Capacity Boost,1,Bow/Gunner
+Special Ammo Boost,2
+Artillery,3,Offensive
+Heavy Artillery,2,Offensive
+Marathon Runner,3,Defensive
+Constitution,5,Defensive
+Leap of Faith,1,Defensive
+Stamina Surge,3
+Hunger Resistance,3,Resistance
+Evade Window,5,Defensive
+Evade Extender,3,Defensive
+Guard,5,Defensive
+Quick Sheath,3,Defensive
+Wide-Range,5
+Item Prolonger,3
+Free Meal,1
+Speed Eating,3
+Speed Sharpening,3,Blademaster
+Bombardier,3,Offensive
+Mushroomancer,3
+Master Fisher,1,Gathering
+Pro Transporter,1,Gathering
+Master Gatherer,1,Gathering
+Honey Hunter,1,Gathering
+Carving Pro,1,Gathering
+Divine Blessing,3,Defensive
+Palico Rally,5
+Botanist,4,Gathering
+Geologist,3,Gathering
+Maximum Might,3,Offensive
+Slinger Capacity,3
+Stealth,3,Defensive
+Flinch Free,3,Defensive
+Scoutfly Range Up,1,Gathering
+Speed Crawler,1
+Jump Master,1
+Sporepuff Expert,3,Defensive
+Aquatic Expert,3,Resistance
+Cliffhanger,1
+Blindsider,1
+Scholar,1,Gathering
+Entomologist,3,Gathering
+Effluvia Resistance,3,Resistance
+Scenthound,1,Gathering
+Forager's Luck,1,Gathering
+Detector,1,Gathering
+BBQ Master,1
+Tool Specialist,3
+Affinity Sliding,1,Offensive
+Intimidator,3,Defensive
+Hasten Recovery,1,Defensive
+Super Recovery,1,Defensive
+Poison Duration Up,1
+Adrenaline,1
+Stamina Cap Up,1
+Critical Element,1,Offensive
+Mind's Eye/Ballistics,1,Blademaster,Bow/Gunner
+Bludgeoner,1,Blademaster
+Non-elemental Boost,1,Offensive
+Capture Master,1,Gathering
+Guard Up,1,Defensive
+Guts,1,Defensive
+Master's Touch,1,Blademaster
+Nullify Wind Pressure,1,Resistance
+Razor Sharp/Spare Shot,1
+Critical Status,1,Offensive
+Good Luck,1,Gathering
+Bow Charge Plus,1,Bow/Gunner
+Punishing Draw,1,Blademaster
+Protective Polish,1,Blademaster
+Poison Functionality,1,Bow/Gunner
+Para Functionality,1,Bow/Gunner
+Sleep Functionality,1,Bow/Gunner
+Blast Functionality,1,Bow/Gunner
+Elderseal Boost,1
+Great Luck,1,Gathering
+Carving Master,1,Gathering

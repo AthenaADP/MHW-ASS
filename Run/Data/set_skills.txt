@@ -1,0 +1,29 @@
+#Name,Points Needed,Skill Granted
+Anjanath Power,3,Adrenaline
+Legiana Blessing,3,Good Luck
+Odogaron Power,3,Punishing Draw
+Rathalos Power,3,Critical Element
+Diablos Power,3,Bludgeoner
+Kirin Blessing,4,Capture Master
+Anjanath Will,2,Adrenaline
+Anjanath Will,4,Stamina Cap Up
+Pink Rathian Mastery,3,Poison Duration Up
+Zorah Magdaros Mastery,3,Critical Status
+Legiana Favor,2,Good Luck
+Legiana Favor,4,Bow Charge Plus
+Odogaron Mastery,2,Punishing Draw
+Odogaron Mastery,4,Protective Polish
+Rathalos Mastery,2,Critical Element
+Rathalos Mastery,4,Mind's Eye/Ballistics
+Diablos Mastery,2,Bludgeoner
+Diablos Mastery,4,Non-elemental Boost
+Uragaan Protection,3,Guard Up
+Bazelguese Protection,3,Guts
+Nergigante Hunger,3,Hasten Recovery
+Teostra Technique,3,Master's Touch
+Kushala Daora Flight,3,Nullify Wind Pressure
+Vaal Hazak Vitality,3,Super Recovery
+Kirin Favor,3,Capture Master
+Xeno'jiiva Divinity,3,Razor Sharp/Spare Shot
+Guild Guidance,4,Great Luck
+Commission Guidance,4,Carving Master

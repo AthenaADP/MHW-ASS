@@ -1,0 +1,6 @@
+Blademaster
+Bow/Gunner
+Offensive
+Defensive
+Resistance
+Gathering

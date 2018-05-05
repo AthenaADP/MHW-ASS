@@ -1,0 +1,156 @@
+#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3
+Leather Trousers,,1,1,0,2,38,68,2,0,0,0,0,,,,,,
+Chainmail Trousers,,1,1,0,2,38,68,0,2,0,0,0,,,,,,
+Hunter's Greaves,,1,1,0,6,42,72,2,2,0,0,0,BBQ Master,1,,,,
+Bone Greaves,,1,1,0,6,42,72,2,0,2,0,2,Entomologist,1,,,,
+Vespoid Greaves,,1,1,0,8,44,74,-2,1,1,1,2,Honey Hunter,1,,,,
+,,,,,,,,,,,,,,,,,,
+Gajau Boots,,1,1,0,12,48,78,0,5,0,0,0,Aquatic Expert,1,,,,
+Jagras Greaves,,1,1,0,8,44,74,-2,2,-1,-1,1,Speed Crawler,1,,,,
+Kulu Greaves,,1,2,0,10,46,76,0,-3,0,1,0,Critical Eye,1,,,,
+Alloy Greaves,,2,2,0,8,40,66,-2,1,-2,-2,1,Speed Sharpening,1,,,,
+Pukei Greaves,,2,3,0,12,44,70,0,3,-3,0,1,Botanist,1,,,,
+Barroth Greaves,,2,3,0,14,38,72,-3,-1,3,-1,0,Stun Resistance,1,,,,
+Jyura Greaves,,2,3,0,14,46,72,-1,2,-3,0,0,Focus,1,,,,
+Kadachi Greaves,,2,3,0,16,48,74,0,-3,3,0,0,Thunder Resistance,1,,,,
+High Metal Greaves,,3,3,0,18,46,70,0,-1,-2,3,0,Heavy Artillery,1,,,,
+King Beetle Crura,M,3,4,0,22,50,74,-1,-1,2,0,2,Forager's Luck,1,,,,
+Butterfly Crura,F,3,4,0,22,50,74,-1,-1,2,0,2,Forager's Luck,1,,,,
+,,,,,,,,,,,,,,,,,,
+Hornetaur Greaves,,3,4,0,18,46,70,-1,-1,0,0,2,Handicraft,1,,,,
+Anja Greaves,,3,4,0,20,48,72,3,-3,-1,-1,0,Artillery,1,,,Anjanath Power,1
+Rathian Greaves,,3,4,0,22,50,74,2,0,-2,0,-3,Recovery Up,1,,,,
+Tzitzi Greaves,,3,4,0,18,46,70,0,0,-3,-2,0,Sleep Resistance,1,,,,
+Lumu Greaves,,3,4,0,20,48,72,-3,2,0,1,0,Windproof,1,,,,
+Girros Greaves,,3,4,0,20,48,72,0,-3,2,0,1,Paralysis Attack,1,,,,
+Baan Greaves,,3,4,0,24,52,76,0,2,0,-1,-2,Bleeding Resistance,1,,,,
+Ingot Greaves,,4,5,0,28,52,72,-2,0,3,-1,0,Defense Boost,1,,,,
+Death Stench Heel,,4,5,0,32,56,76,3,2,-2,3,-4,Handicraft,1,,,,
+Brigade Boots,,4,5,0,28,52,72,1,0,2,0,2,Scholar,1,,,,
+Legiana Greaves,,4,5,0,30,54,74,-1,2,-3,3,0,Ice Resistance,1,,,Legiana Blessing,1
+Odogaron Greaves,,4,5,0,30,54,74,2,2,-2,-3,0,Quick Sheath,1,,,Odogaron Power,1
+Rathalos Greaves,,4,5,0,30,54,74,3,1,-2,1,-3,Jump Master,1,,,Rathalos Power,1
+Diablos Greaves,,4,5,0,32,56,76,3,-2,0,-3,2,Tremor Resistance,1,,,Diablos Power,1
+Kirin Leg Guards,,4,5,0,34,58,78,-3,-2,4,-2,3,Thunder Resistance,1,,,Kirin Blessing,1
+Leather Trousers α,,5,6,0,32,54,70,2,0,0,0,0,Cliffhanger,1,,,,
+Leather Trousers β,,5,6,1,32,54,70,2,0,0,0,0,,,,,,
+Chainmail Trousers α,,5,6,0,32,54,70,0,2,0,0,0,Recovery Up,1,,,,
+Chainmail Trousers β,,5,6,1,32,54,70,0,2,0,0,0,,,,,,
+Hunter's Greaves α,,5,6,0,36,58,74,2,2,0,0,0,Scenthound,1,Slinger Capacity,1,,
+Hunter's Greaves β,,5,6,1,36,58,74,2,2,0,0,0,Scenthound,1,,,,
+Bone Greaves α,,5,6,0,36,58,74,2,0,2,0,2,Entomologist,2,,,,
+Bone Greaves β,,5,6,1,36,58,74,2,0,2,0,2,Entomologist,1,,,,
+Alloy Greaves α,,5,6,0,36,58,74,-2,0,-2,-2,0,Speed Sharpening,2,,,,
+Alloy Greaves β,,5,6,1,36,58,74,-2,0,-2,-2,0,Speed Sharpening,1,,,,
+King Beetle Crura α,M,5,6,1,42,64,80,-1,-1,2,0,2,Forager's Luck,1,Evade Window,1,,
+King Beetle Crura β,M,5,6,21,42,64,80,-1,-1,2,0,2,Forager's Luck,1,,,,
+Butterfly Crura α,F,5,6,1,42,64,80,-1,-1,2,0,2,Forager's Luck,1,Evade Window,1,,
+Butterfly Crura β,F,5,6,21,42,64,80,-1,-1,2,0,2,Forager's Luck,1,,,,
+Vespoid Greaves α,,5,6,0,38,60,76,-2,1,1,1,2,Honey Hunter,1,Paralysis Resistance,1,,
+Vespoid Greaves β,,5,6,1,38,60,76,-2,1,1,1,2,Honey Hunter,1,,,,
+Hornetaur Greaves α,,5,6,0,38,60,76,-1,-1,0,0,2,Handicraft,1,Dragon Attack,1,,
+Hornetaur Greaves β,,5,6,1,38,60,76,-1,-1,0,0,2,Handicraft,1,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Gajau Boots α,,5,6,0,40,62,78,0,5,0,0,0,Aquatic Expert,2,Water Attack,1,,
+Gajau Boots β,,5,6,1,40,62,78,0,5,0,0,0,Aquatic Expert,1,Water Attack,1,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Jagras Greaves α,,5,6,0,40,62,78,-2,2,-1,-1,1,Speed Crawler,1,Free Meal,1,,
+Jagras Greaves β,,5,6,1,40,62,78,-2,2,-1,-1,1,Speed Crawler,1,,,,
+Kulu Greaves α,,5,6,0,40,62,78,0,-3,0,1,0,Critical Eye,1,Item Prolonger,1,,
+Kulu Greaves β,,5,6,1,40,62,78,0,-3,0,1,0,Critical Eye,1,,,,
+Tzitzi Greaves α,,5,6,0,40,62,78,0,0,-3,-2,0,Sleep Resistance,2,,,,
+Tzitzi Greaves β,,5,6,1,40,62,78,0,0,-3,-2,0,Sleep Resistance,1,,,,
+Girros Greaves α,,5,6,0,40,62,78,0,-3,2,0,1,Paralysis Attack,2,,,,
+Girros Greaves β,,5,6,1,40,62,78,0,-3,2,0,1,Paralysis Attack,1,,,,
+Pukei Greaves α,,5,6,0,42,64,80,0,3,-3,0,1,Botanist,2,Sporepuff Expert,1,,
+Pukei Greaves β,,5,6,2,42,64,80,0,3,-3,0,1,Botanist,1,,,,
+Barroth Greaves α,,5,6,0,42,64,80,-3,-1,3,-1,0,Stun Resistance,2,Marathon Runner,1,,
+Barroth Greaves β,,5,6,11,42,64,80,-3,-1,3,-1,0,Stun Resistance,1,,,,
+Anja Greaves α,,5,6,0,44,66,82,3,-3,-1,-1,0,Artillery,2,,,Anjanath Will,1
+Anja Greaves β,,5,6,1,44,66,82,3,-3,-1,-1,0,Artillery,1,,,Anjanath Will,1
+Jyura Greaves α,,5,6,0,44,66,82,-1,2,-3,0,0,Focus,2,,,,
+Jyura Greaves β,,5,6,2,44,66,82,-1,2,-3,0,0,Focus,1,,,,
+Kadachi Greaves α,,5,6,0,44,66,82,0,-3,3,0,0,Thunder Resistance,2,Constitution,1,,
+Kadachi Greaves β,,5,6,11,44,66,82,0,-3,3,0,0,Thunder Resistance,1,,,,
+Lumu Greaves α,,5,6,0,44,66,82,-3,2,0,1,0,Windproof,1,Stamina Surge,1,,
+Lumu Greaves β,,5,6,11,44,66,82,-3,2,0,1,0,Windproof,1,,,,
+Rathian Greaves α,,5,6,0,46,68,84,2,0,-2,0,-3,Recovery Up,2,,,,
+Rathian Greaves β,,5,6,1,46,68,84,2,0,-2,0,-3,Recovery Up,1,,,,
+Rath Heart Greaves α,,6,7,0,52,72,84,3,0,-3,0,-4,Tool Specialist,1,Windproof,1,Pink Rathian Mastery,1
+Rath Heart Greaves β,,6,7,2,52,72,84,3,0,-3,0,-4,Tool Specialist,1,,,Pink Rathian Mastery,1
+Baan Greaves α,,6,6,0,46,66,78,0,2,0,-1,-2,Bleeding Resistance,2,,,,
+Baan Greaves β,,6,6,1,46,66,78,0,2,0,-1,-2,Bleeding Resistance,1,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Dodogama Greaves α,,5,6,0,48,70,86,2,0,-3,0,2,Capacity Boost,1,Blast Attack,1,,
+Dodogama Greaves β,,5,6,1,48,70,86,2,0,-3,0,2,Capacity Boost,1,,,,
+Zorah Spurs α,,6,6,0,44,64,76,4,-3,-1,-2,-3,Bombardier,2,Earplugs,1,Zorah Magdaros Mastery,1
+Zorah Spurs β,,6,6,2,44,64,76,4,-3,-1,-2,-3,Bombardier,2,,,Zorah Magdaros Mastery,1
+High Metal Greaves α,,6,6,0,50,70,82,0,-1,-2,3,0,Heavy Artillery,1,Ice Resistance,1,,
+High Metal Greaves β,,6,6,1,50,70,82,0,-1,-2,3,0,Heavy Artillery,1,,,,
+Ingot Greaves α,,6,6,0,50,70,82,-2,0,3,-1,0,Defense Boost,2,Windproof,1,,
+Ingot Greaves β,,6,6,2,50,70,82,-2,0,3,-1,0,Defense Boost,2,,,,
+Brigade Boots α,,6,6,1,52,72,84,1,0,2,0,2,Scholar,1,Geologist,1,,
+Brigade Boots β,,6,6,3,52,72,84,1,0,2,0,2,Scholar,1,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Lavasioth Greaves α,,6,6,0,56,76,88,3,-3,1,-2,2,Spread/Power Shots,1,Fire Attack,1,,
+Lavasioth Greaves β,,6,6,2,56,76,88,3,-3,1,-2,2,Spread/Power Shots,1,,,,
+Legiana Greaves α,,6,7,0,54,74,86,-1,2,-3,3,0,Ice Resistance,2,Critical Draw,1,Legiana Favor,1
+Legiana Greaves β,,6,7,3,54,74,86,-1,2,-3,3,0,Ice Resistance,2,,,Legiana Favor,1
+Odogaron Greaves α,,6,7,0,54,74,86,2,2,-2,-3,0,Quick Sheath,1,Critical Eye,1,Odogaron Mastery,1
+Odogaron Greaves β,,6,7,1,54,74,86,2,2,-2,-3,0,Quick Sheath,1,,,Odogaron Mastery,1
+Rathalos Greaves α,,6,7,0,54,74,86,3,1,-2,1,-3,Jump Master,1,Weakness Exploit,1,Rathalos Mastery,1
+Rathalos Greaves β,,6,7,3,54,74,86,3,1,-2,1,-3,Jump Master,1,,,Rathalos Mastery,1
+Rath Soul Greaves α,,7,7,0,56,68,82,3,2,2,-3,-4,Focus,1,Cliffhanger,1,Rathalos Mastery,1
+Rath Soul Greaves β,,7,7,1,56,68,82,3,2,2,-3,-4,Focus,1,,,Rathalos Mastery,1
+Diablos Greaves α,,6,7,0,54,74,86,3,-2,0,-3,2,Tremor Resistance,2,Slugger,1,Diablos Mastery,1
+Diablos Greaves β,,6,7,11,54,74,86,3,-2,0,-3,2,Tremor Resistance,2,,,Diablos Mastery,1
+Diablos Nero Greaves α,,7,7,1,56,68,82,2,-3,0,-4,2,Normal Shots,1,Heroics,1,Diablos Mastery,1
+Diablos Nero Greaves β,,7,7,2,56,68,82,2,-3,0,-4,2,Normal Shots,1,,,Diablos Mastery,1
+Uragaan Greaves α,,7,7,1,60,72,86,4,-3,1,-2,-2,Guard,2,,,Uragaan Protection,1
+Uragaan Greaves β,,7,7,3,60,72,86,4,-3,1,-2,-2,Guard,1,,,Uragaan Protection,1
+Bazel Greaves α,,7,7,1,58,70,84,3,1,-4,-2,-2,Bombardier,2,Critical Draw,1,Bazelguese Protection,1
+Bazel Greaves β,,7,7,3,58,70,84,3,1,-4,-2,-2,Bombardier,2,,,Bazelguese Protection,1
+Damascus Greaves α,,7,8,1,60,72,86,4,-2,0,0,0,Defense Boost,2,Iron Skin,1,,
+Damascus Greaves β,,7,8,3,60,72,86,4,-2,0,0,0,Defense Boost,2,,,,
+Dober Greaves α,,7,8,0,60,72,86,-2,0,-1,-1,4,Attack Boost,2,Stamina Surge,1,,
+Dober Greaves β,,7,8,1,60,72,86,-2,0,-1,-1,4,Attack Boost,2,,,,
+Death Stench Heel α,,7,8,0,62,74,88,3,2,-2,3,-4,Handicraft,2,Dragon Attack,2,,
+Death Stench Heel β,,7,8,11,62,74,88,3,2,-2,3,-4,Handicraft,2,,,,
+,,,,,,,,,,,,,,,,,,
+Nergigante Greaves α,,8,8,1,64,70,84,1,1,-3,1,-3,Maximum Might,1,Agitator,1,Nergigante Hunger,1
+Nergigante Greaves β,,8,8,2,64,70,84,1,1,-3,1,-3,Maximum Might,1,,,Nergigante Hunger,1
+Kaiser Greaves α,,8,8,0,64,70,84,3,-3,1,-3,1,Latent Power,2,Blast Attack,1,Teostra Technique,1
+Kaiser Greaves β,,8,8,1,64,70,84,3,-3,1,-3,1,Latent Power,2,,,Teostra Technique,1
+Kushala Crus α,,8,8,0,64,70,84,0,2,-3,4,-2,Evade Extender,2,Handicraft,1,Kushala Daora Flight,1
+Kushala Crus β,,8,8,3,64,70,84,0,2,-3,4,-2,Evade Extender,2,,,Kushala Daora Flight,1
+Vaal Hazak Greaves α,,8,8,1,64,70,84,-4,4,1,-1,-3,Effluvia Resistance,2,Dragon Attack,1,Vaal Hazak Vitality,1
+Vaal Hazak Greaves β,,8,8,11,64,70,84,-4,4,1,-1,-3,Effluvia Resistance,2,,,Vaal Hazak Vitality,1
+Kirin Leg Guards α,,6,8,0,64,70,84,-3,-2,4,-2,2,Free Elem/Ammo Up,2,Thunder Resistance,2,Kirin Favor,1
+Kirin Leg Guards β,,6,8,11,64,70,84,-3,-2,4,-2,2,Free Elem/Ammo Up,2,,,Kirin Favor,1
+Xeno'jiiva Spurs α,,8,9,1,72,78,92,-3,2,2,2,-4,Flinch Free,1,Power Prolonger,1,Xeno'jiiva Divinity,1
+Xeno'jiiva Spurs β,,8,9,11,72,78,92,-3,2,2,2,-4,Flinch Free,1,,,Xeno'jiiva Divinity,1
+Guild Cross Boots α,,8,8,1,62,68,82,0,0,0,0,0,Airborne,1,Fire Resistance,2,Guild Guidance,1
+Guild Cross Boots β,,8,8,111,62,68,82,0,0,0,0,0,Airborne,1,,,Guild Guidance,1
+,,,,,,,,,,,,,,,,,,
+Commission Pants α,,8,9,0,70,76,90,2,2,2,2,2,Stealth,2,Affinity Sliding,1,Commission Guidance,1
+Commission Pants β,,8,9,2,70,76,90,2,2,2,2,2,Stealth,2,,,Commission Guidance,1
+Vangis Greaves α,,7,7,0,58,70,84,1,1,-3,2,-3,Speed Eating,2,Partbreaker,1,,
+Vangis Greaves β,,7,7,11,58,70,84,1,1,-3,2,-3,Speed Eating,2,,,,
+Aloy's Leggings α,Full,5,6,2,46,68,84,1,1,1,1,1,Slinger Capacity,2,,,Anjanath Will,1
+Ryu's Legs,Full,2,3,0,12,44,70,2,0,5,-3,2,Defense Boost,1,,,,
+Sakura's Legs α,Full,6,7,11,50,70,82,0,4,0,4,-2,Defense Boost,1,Evade Window,1,Pink Rathian Mastery,1
+Butterfly Crura,M,3,3,0,22,50,74,-1,-1,2,0,2,Marathon Runner,1,,,,
+Queen Beetle Crura,F,3,3,0,22,50,74,-1,-1,2,0,2,Marathon Runner,1,,,,
+Blossom Boots,,3,2,0,18,46,70,1,1,4,1,1,Recovery Speed,1,,,,
+Blossom Boots α,,5,6,11,40,62,78,1,1,4,1,1,Recovery Speed,1,,,,
+Kulve Taroth's Wrath α,,8,9,1,72,78,92,4,-2,3,-4,-2,Wide-Range,2,Peak Performance,2,,
+Kulve Taroth's Wrath β,,8,9,21,72,78,92,4,-2,3,-4,-2,Wide-Range,2,Peak Performance,1,,
+Dante's Leather Boots α,,8,8,1,64,70,84,3,-3,3,-3,3,Weakness Exploit,2,,,,
+Azure Starlord Guards α,,7,7,3,56,68,82,2,2,0,0,3,Critical Boost,1,,,Rathalos Mastery,1
