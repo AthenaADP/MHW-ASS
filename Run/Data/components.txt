@@ -31,6 +31,7 @@ Azure Rathalos Scale+
 Azure Rathalos Tail
 Azure Rathalos Wing
 Azure Star Shard
+Azure Stargem
 Baitbug
 Barnos Hide+
 Barnos Talon
@@ -97,6 +98,14 @@ Deluxe First Wyverian Print
 Demon Powder
 Demondrug
 Devil's Blight
+Deviljho Hide
+Deviljho Scalp
+Deviljho Talon
+Deviljho Gem
+Deviljho Scale
+Deviljho Saliva
+Deviljho Tail
+Deviljho Tallfang
 Diablos Carapace
 Diablos Fang
 Diablos Marrow
@@ -245,6 +254,13 @@ Kulu-Ya-Ku Plume
 Kulu-Ya-Ku Plume+
 Kulu-Ya-Ku Scale
 Kulu-Ya-Ku Scale+
+Kulu-Ya-Ku Ticket
+Kulve Taroth Golden Glimstone
+Kulve Taroth Golden Nugget
+Kulve Taroth Golden Scale
+Kulve Taroth Golden Shell
+Kulve Taroth Golden Spiralhorn
+Kulve Taroth Golden Tailshell
 Large Barrel
 Large Barrel Bomb
 Large Scale
@@ -386,9 +402,11 @@ Rathian Spike+
 Rathian Webbing
 Ration
 Raw Meat
+Red Orb
 Research Commission Ticket
 Rolled-up Dung
 SFV Ticket
+SFV Ticket II
 Screamer Pod
 Screamer Sac
 Shamos Hide
@@ -410,6 +428,8 @@ Smokenut
 Snow Herb
 Spider Web
 Spiritcore Ore
+Spring Blossom Ticket
+Spring Insect Field Guide
 Steel Egg
 Steel Wyverian Print
 Streamstone
@@ -501,3 +521,5 @@ Zorah Magdaros Magma
 Zorah Magdaros Pleura
 Zorah Magdaros Ridge
 (Pre-Order Exclusive)
+(B-Rank Arena Quests 1-7)
+(B-Rank Arena Quests 8-9)

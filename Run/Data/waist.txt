@@ -1,156 +1,156 @@
-#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3
-Leather Belt,,1,1,0,2,38,68,2,0,0,0,0,,,,,,
-Chainmail Belt,,1,1,0,2,38,68,0,2,0,0,0,,,,,,
-Hunter's Coil,,1,1,0,6,42,72,2,2,0,0,0,Scenthound,1,,,,
-Bone Coil,,1,1,0,6,42,72,2,0,2,0,2,Horn Maestro,1,,,,
-Vespoid Coil,,1,1,0,8,44,74,-2,1,1,1,2,Paralysis Resistance,1,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Jagras Coil,,1,1,0,8,44,74,-2,2,-1,-1,1,Fortify,1,,,,
-Kulu Coil,,1,2,0,10,46,76,0,-3,0,1,0,Item Prolonger,1,,,,
-Alloy Coil,,2,2,0,8,40,66,-2,1,-2,-2,1,Poison Resistance,1,,,,
-Pukei Coil,,2,3,0,12,44,70,0,3,-3,0,1,Poison Attack,1,,,,
-Barroth Coil,,2,3,0,14,38,72,-3,-1,3,-1,0,Muck Resistance,1,,,,
-Jyura Coil,,2,3,0,14,46,72,-1,2,-3,0,0,Ice Resistance,1,,,,
-Kadachi Coil,,2,3,0,16,48,74,0,-3,3,0,0,Thunder Attack,1,,,,
-High Metal Coil,,3,3,0,18,46,70,0,-1,-2,3,0,Capacity Boost,1,,,,
-King Beetle Elytra,M,3,4,0,22,50,74,-1,-1,2,0,2,Honey Hunter,1,,,,
-Butterfly Elytra,F,3,4,0,22,50,74,-1,-1,2,0,2,Honey Hunter,1,,,,
-,,,,,,,,,,,,,,,,,,
-Hornetaur Coil,,3,4,0,18,46,70,-1,-1,0,0,2,Carving Pro,1,,,,
-Anja Coil,,3,4,0,20,48,72,3,-3,-1,-1,0,Fire Resistance,1,,,Anjanath Power,1
-Rathian Coil,,3,4,0,22,50,74,2,0,-2,0,-3,Poison Resistance,1,,,,
-Tzitzi Coil,,3,4,0,18,46,70,0,0,-3,-2,0,Wide-Range,1,,,,
-Lumu Coil,,3,4,0,20,48,72,-3,2,0,1,0,Divine Blessing,1,,,,
-Girros Coil,,3,4,0,20,48,72,0,-3,2,0,1,Effluvial Expert,1,,,,
-Baan Coil,,3,4,0,24,52,76,0,2,0,-1,-2,Guard,1,,,,
-Ingot Coil,,4,5,0,28,52,72,-2,0,3,-1,0,Windproof,1,,,,
-Death Stench Bowels,,4,5,0,32,56,76,3,2,-2,3,-4,Dragon Attack,1,,,,
-Brigade Coil,,4,5,0,28,52,72,1,0,2,0,2,Geologist,1,,,,
-Legiana Coil,,4,5,0,30,54,74,-1,2,-3,3,0,Ice Attack,1,,,Legiana Blessing,1
-Odogaron Coil,,4,5,0,30,54,74,2,2,-2,-3,0,Critical Eye,1,,,Odogaron Power,1
-Rathalos Coil,,4,5,0,30,54,74,3,1,-2,1,-3,Fire Attack,1,,,Rathalos Power,1
-Diablos Coil,,4,5,0,32,56,76,3,-2,0,-3,2,Marathon Runner,1,,,Diablos Power,1
-Kirin Hoop,,4,5,0,34,58,78,-3,-2,4,-2,3,Thunder Attack,1,,,Kirin Blessing,1
-Leather Belt α,,5,6,0,32,54,70,2,0,0,0,0,Stamina Surge,1,,,,
-Leather Belt β,,5,6,1,32,54,70,2,0,0,0,0,,,,,,
-Chainmail Belt α,,5,6,0,32,54,70,0,2,0,0,0,Quick Sheath,1,,,,
-Chainmail Belt β,,5,6,1,32,54,70,0,2,0,0,0,,,,,,
-Hunter's Coil α,,5,6,0,36,58,74,2,2,0,0,0,Master Gatherer,1,Stealth,1,,
-Hunter's Coil β,,5,6,1,36,58,74,2,2,0,0,0,Master Gatherer,1,,,,
-Bone Coil α,,5,6,0,36,58,74,2,0,2,0,2,Horn Maestro,1,Master Fisher,1,,
-Bone Coil β,,5,6,1,36,58,74,2,0,2,0,2,Horn Maestro,1,,,,
-Alloy Coil α,,5,6,0,36,58,74,-2,0,-2,-2,0,Poison Resistance,1,Water Resistance,1,,
-Alloy Coil β,,5,6,1,36,58,74,-2,0,-2,-2,0,Poison Resistance,1,,,,
-King Beetle Elytra α,M,5,6,1,42,64,80,-1,-1,2,0,2,Honey Hunter,1,Quick Sheath,1,,
-King Beetle Elytra β,M,5,6,21,42,64,80,-1,-1,2,0,2,Honey Hunter,1,,,,
-Butterfly Elytra α,F,5,6,1,42,64,80,-1,-1,2,0,2,Honey Hunter,1,Quick Sheath,1,,
-Butterfly Elytra β,F,5,6,21,42,64,80,-1,-1,2,0,2,Honey Hunter,1,,,,
-Vespoid Coil α,,5,6,0,38,60,76,-2,1,1,1,2,Paralysis Resistance,2,,,,
-Vespoid Coil β,,5,6,1,38,60,76,-2,1,1,1,2,Paralysis Resistance,1,,,,
-Hornetaur Coil α,,5,6,0,38,60,76,-1,-1,0,0,2,Carving Pro,1,Hunger Resistance,1,,
-Hornetaur Coil β,,5,6,1,38,60,76,-1,-1,0,0,2,Carving Pro,1,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Jagras Coil α,,5,6,0,40,62,78,-2,2,-1,-1,1,Fortify,1,Speed Eating,1,,
-Jagras Coil β,,5,6,1,40,62,78,-2,2,-1,-1,1,Fortify,1,,,,
-Kulu Coil α,,5,6,0,40,62,78,0,-3,0,1,0,Item Prolonger,2,,,,
-Kulu Coil β,,5,6,2,40,62,78,0,-3,0,1,0,Item Prolonger,1,,,,
-Tzitzi Coil α,,5,6,0,40,62,78,0,0,-3,-2,0,Wide-Range,2,Water Attack,1,,
-Tzitzi Coil β,,5,6,2,40,62,78,0,0,-3,-2,0,Wide-Range,1,,,,
-Girros Coil α,,5,6,0,40,62,78,0,-3,2,0,1,Effluvial Expert,1,Paralysis Attack,1,,
-Girros Coil β,,5,6,1,40,62,78,0,-3,2,0,1,Effluvial Expert,1,,,,
-Pukei Coil α,,5,6,0,42,64,80,0,3,-3,0,1,Poison Attack,2,,,,
-Pukei Coil β,,5,6,1,42,64,80,0,3,-3,0,1,Poison Attack,1,,,,
-Barroth Coil α,,5,6,0,42,64,80,-3,-1,3,-1,0,Muck Resistance,1,Guard,1,,
-Barroth Coil β,,5,6,2,42,64,80,-3,-1,3,-1,0,Muck Resistance,1,,,,
-Anja Coil α,,5,6,0,44,66,82,3,-3,-1,-1,0,Fire Resistance,2,Artillery,1,Anjanath Will,1
-Anja Coil β,,5,6,2,44,66,82,3,-3,-1,-1,0,Fire Resistance,2,,,Anjanath Will,1
-Jyura Coil α,,5,6,0,44,66,82,-1,2,-3,0,0,Ice Resistance,2,,,,
-Jyura Coil β,,5,6,1,44,66,82,-1,2,-3,0,0,Ice Resistance,1,,,,
-Kadachi Coil α,,5,6,0,44,66,82,0,-3,3,0,0,Thunder Attack,2,Thunder Resistance,1,,
-Kadachi Coil β,,5,6,11,44,66,82,0,-3,3,0,0,Thunder Attack,1,,,,
-Lumu Coil α,,5,6,0,44,66,82,-3,2,0,1,0,Divine Blessing,2,,,,
-Lumu Coil β,,5,6,1,44,66,82,-3,2,0,1,0,Divine Blessing,1,,,,
-Rathian Coil α,,5,6,0,46,68,84,2,0,-2,0,-3,Poison Resistance,2,Health Boost,1,,
-Rathian Coil β,,5,6,1,46,68,84,2,0,-2,0,-3,Poison Resistance,1,Health Boost,1,,
-Rath Heart Coil α,,6,7,0,52,72,84,3,0,-3,0,-4,Handicraft,1,Poison Resistance,1,Pink Rathian Mastery,1
-Rath Heart Coil β,,6,7,1,52,72,84,3,0,-3,0,-4,Handicraft,1,,,Pink Rathian Mastery,1
-Baan Coil α,,6,6,0,46,66,78,0,2,0,-1,-2,Guard,2,,,,
-Baan Coil β,,6,6,2,46,66,78,0,2,0,-1,-2,Guard,1,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Dodogama Coil α,,5,6,0,48,70,86,2,0,-3,0,2,Artillery,2,Blast Resistance,1,,
-Dodogama Coil β,,5,6,1,48,70,86,2,0,-3,0,2,Artillery,2,,,,
-Zorah Spine α,,6,6,0,44,64,76,4,-3,-1,-2,-3,Fortify,1,Tremor Resistance,1,Zorah Magdaros Mastery,1
-Zorah Spine β,,6,6,2,44,64,76,4,-3,-1,-2,-3,Fortify,1,,,Zorah Magdaros Mastery,1
-High Metal Coil α,,6,6,0,50,70,82,0,-1,-2,3,0,Capacity Boost,1,Defense Boost,1,,
-High Metal Coil β,,6,6,1,50,70,82,0,-1,-2,3,0,Capacity Boost,1,,,,
-Ingot Coil α,,6,6,0,50,70,82,-2,0,3,-1,0,Windproof,2,,,,
-Ingot Coil β,,6,6,3,50,70,82,-2,0,3,-1,0,Windproof,1,,,,
-Brigade Coil α,,6,6,0,52,72,84,1,0,2,0,2,Geologist,2,Recovery Speed,1,,
-Brigade Coil β,,6,6,1,52,72,84,1,0,2,0,2,Geologist,2,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Lavasioth Coil α,,6,6,0,56,76,88,3,-3,1,-2,2,Quick Sheath,2,Recovery Up,1,,
-Lavasioth Coil β,,6,6,1,56,76,88,3,-3,1,-2,2,Quick Sheath,2,,,,
-Legiana Coil α,,6,7,0,54,74,86,-1,2,-3,3,0,Ice Attack,2,Windproof,1,Legiana Favor,1
-Legiana Coil β,,6,7,2,54,74,86,-1,2,-3,3,0,Ice Attack,2,,,Legiana Favor,1
-Odogaron Coil α,,6,7,0,54,74,86,2,2,-2,-3,0,Critical Eye,2,Speed Sharpening,1,Odogaron Mastery,1
-Odogaron Coil β,,6,7,2,54,74,86,2,2,-2,-3,0,Critical Eye,2,,,Odogaron Mastery,1
-Rathalos Coil α,,6,7,0,54,74,86,3,1,-2,1,-3,Fire Attack,2,Focus,1,Rathalos Mastery,1
-Rathalos Coil β,,6,7,2,54,74,86,3,1,-2,1,-3,Fire Attack,2,,,Rathalos Mastery,1
-Rath Soul Coil α,,7,7,0,56,68,82,3,2,2,-3,-4,Windproof,2,Piercing Shots,1,Rathalos Mastery,1
-Rath Soul Coil β,,7,7,3,56,68,82,3,2,2,-3,-4,Windproof,2,,,Rathalos Mastery,1
-Diablos Coil α,,6,7,0,54,74,86,3,-2,0,-3,2,Marathon Runner,2,Critical Draw,1,Diablos Mastery,1
-Diablos Coil β,,6,7,2,54,74,86,3,-2,0,-3,2,Marathon Runner,2,,,Diablos Mastery,1
-Diablos Nero Coil α,,7,7,0,56,68,82,2,-3,0,-4,2,Resentment,1,Partbreaker,1,Diablos Mastery,1
-Diablos Nero Coil β,,7,7,2,56,68,82,2,-3,0,-4,2,Resentment,1,,,Diablos Mastery,1
-Uragaan Coil α,,7,7,11,60,72,86,4,-3,1,-2,-2,Partbreaker,1,Thunder Resistance,1,Uragaan Protection,1
-Uragaan Coil β,,7,7,21,60,72,86,4,-3,1,-2,-2,Partbreaker,1,,,Uragaan Protection,1
-Bazel Coil α,,7,7,1,58,70,84,3,1,-4,-2,-2,Earplugs,2,Jump Master,1,Bazelguese Protection,1
-Bazel Coil β,,7,7,3,58,70,84,3,1,-4,-2,-2,Earplugs,2,,,Bazelguese Protection,1
-Damascus Coil α,,7,8,1,60,72,86,4,-2,0,0,0,Focus,1,Iron Skin,2,,
-Damascus Coil β,,7,8,111,60,72,86,4,-2,0,0,0,Focus,1,,,,
-Dober Coil α,,7,8,2,60,72,86,-2,0,-1,-1,4,Dragon Resistance,2,Attack Boost,1,,
-Dober Coil β,,7,8,3,60,72,86,-2,0,-1,-1,4,Dragon Resistance,2,,,,
-Death Stench Bowels α,,7,8,0,62,74,88,3,2,-2,3,-4,Dragon Attack,2,Focus,1,,
-Death Stench Bowels β,,7,8,11,62,74,88,3,2,-2,3,-4,Dragon Attack,2,,,,
-,,,,,,,,,,,,,,,,,,
-Nergigante Coil α,,8,8,0,64,70,84,1,1,-3,1,-3,Attack Boost,2,Stamina Surge,1,Nergigante Hunger,1
-Nergigante Coil β,,8,8,2,64,70,84,1,1,-3,1,-3,Attack Boost,2,,,Nergigante Hunger,1
-Kaiser Coil α,,8,8,0,64,70,84,3,-3,1,-3,1,Blast Attack,2,Weakness Exploit,1,Teostra Technique,1
-Kaiser Coil β,,8,8,2,64,70,84,3,-3,1,-3,1,Blast Attack,2,,,Teostra Technique,1
-Kushala Cocoon α,,8,8,0,64,70,84,0,2,-3,4,-2,Ice Attack,2,Evade Extender,1,Kushala Daora Flight,1
-Kushala Cocoon β,,8,8,11,64,70,84,0,2,-3,4,-2,Ice Attack,2,,,Kushala Daora Flight,1
-Vaal Hazak Coil α,,8,8,1,64,70,84,-4,4,1,-1,-3,Peak Performance,1,Effluvia Resistance,1,Vaal Hazak Vitality,1
-Vaal Hazak Coil β,,8,8,11,64,70,84,-4,4,1,-1,-3,Peak Performance,1,,,Vaal Hazak Vitality,1
-Kirin Hoop α,,6,8,0,64,70,84,-3,-2,4,-2,2,Blight Resistance,1,Free Elem/Ammo Up,1,Kirin Favor,1
-Kirin Hoop β,,6,8,111,64,70,84,-3,-2,4,-2,2,Blight Resistance,1,,,Kirin Favor,1
-Xeno'jiiva Spine α,,8,9,2,72,78,92,-3,2,2,2,-4,Blight Resistance,2,Special Ammo Boost,1,Xeno'jiiva Divinity,1
-Xeno'jiiva Spine β,,8,9,21,72,78,92,-3,2,2,2,-4,Blight Resistance,2,,,Xeno'jiiva Divinity,1
-Guild Cross Coil α,,8,8,1,62,68,82,0,0,0,0,0,Fortify,1,Dragon Resistance,2,Guild Guidance,1
-Guild Cross Coil β,,8,8,3,62,68,82,0,0,0,0,0,Fortify,1,,,Guild Guidance,1
-,,,,,,,,,,,,,,,,,,
-Commission Belt α,,8,9,1,70,76,90,2,2,2,2,2,Mushroomancer,1,Pro Transporter,1,Commission Guidance,1
-Commission Belt β,,8,9,2,70,76,90,2,2,2,2,2,Mushroomancer,1,,,Commission Guidance,1
-Vangis Coil α,,7,7,1,58,70,84,1,1,-3,2,-3,Latent Power,1,Handicraft,1,,
-Vangis Coil β,,7,7,31,58,70,84,1,1,-3,2,-3,Latent Power,1,,,,
-Aloy's Torso α,Full,5,6,3,46,68,84,1,1,1,1,1,Stealth,2,,,Anjanath Will,1
-Ryu's Torso,Full,2,3,0,12,44,70,2,0,5,-3,2,Latent Power,1,,,,
-Sakura's Skirt α,Full,6,7,3,50,70,82,0,4,0,4,-2,Latent Power,1,,,Pink Rathian Mastery,1
-Butterfly Elytra,M,3,3,0,22,50,74,-1,-1,2,0,2,Defense Boost,1,,,,
-Queen Beetle Elytra,F,3,3,0,22,50,74,-1,-1,2,0,2,Defense Boost,1,,,,
-Blossom Coat,,3,2,0,18,46,70,1,1,4,1,1,Scoutfly Range Up,1,,,,
-Blossom Coat α,,5,6,11,40,62,78,1,1,4,1,1,Scoutfly Range Up,1,,,,
-Kulve Taroth's Malice α,,8,9,1,72,78,92,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Handicraft,2,,
-Kulve Taroth's Malice β,,8,9,31,72,78,92,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Handicraft,1,,
-Dante's Belt α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Latent Power,1,,
-Azure Starlord Tassets α,,7,7,2,56,68,82,2,2,0,0,3,Handicraft,1,,,Rathalos Mastery,1
+#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
+Leather Belt,,1,1,0,2,38,68,2,0,0,0,0,,,,,,,Iron Ore,1,,,,,,
+Chainmail Belt,,1,1,0,2,38,68,0,2,0,0,0,,,,,,,Iron Ore,1,,,,,,
+Hunter's Coil,,1,1,0,6,42,72,2,2,0,0,0,Scenthound,1,,,,,Jagras Hide,1,Monster Bone S,1,,,,
+Bone Coil,,1,1,0,6,42,72,2,0,2,0,2,Horn Maestro,1,,,,,Monster Bone S,1,Kestodon Shell,1,,,,
+Vespoid Coil,,1,1,0,8,44,74,-2,1,1,1,2,Paralysis Resistance,1,,,,,Vespoid Shell,1,Iron Ore,4,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jagras Coil,,1,1,0,8,44,74,-2,2,-1,-1,1,Fortify,1,,,,,Great Jagras Hide,1,Great Jagras Mane,1,Great Jagras Scale,2,Sharp Claw,2
+Kulu Coil,,1,2,0,10,46,76,0,-3,0,1,0,Item Prolonger,1,,,,,Kulu-Ya-Ku Hide,2,Kulu-Ya-Ku Beak,1,Wingdrake Hide,2,,
+Alloy Coil,,2,2,0,8,40,66,-2,1,-2,-2,1,Poison Resistance,1,,,,,Machalite Ore,4,Iron Ore,4,Earth Crystal,2,,
+Pukei Coil,,2,3,0,12,44,70,0,3,-3,0,1,Poison Attack,1,,,,,Pukei-Pukei Shell,3,Pukei-Pukei Tail,1,Pukei-Pukei Sac,1,Poison Sac,1
+Barroth Coil,,2,3,0,14,38,72,-3,-1,3,-1,0,Muck Resistance,1,,,,,Barroth Shell,2,Barroth Ridge,1,Fertile Mud,2,,
+Jyura Coil,,2,3,0,14,46,72,-1,2,-3,0,0,Ice Resistance,1,,,,,Jyuratodus Scale,2,Jyuratodus Shell,1,Aqua Sac,1,,
+Kadachi Coil,,2,3,0,16,48,74,0,-3,3,0,0,Thunder Attack,1,,,,,Tobi-Kadachi Scale,2,Tobi-Kadachi Pelt,1,Electro Sac,1,,
+High Metal Coil,,3,3,0,18,46,70,0,-1,-2,3,0,Capacity Boost,1,,,,,Dragonite Ore,2,Machalite Ore,1,Iron Ore,6,,
+King Beetle Elytra,M,3,4,0,22,50,74,-1,-1,2,0,2,Honey Hunter,1,,,,,Great Hornfly,1,Earth Crystal,2,Monster Fluid,1,Electro Sac,1
+Butterfly Elytra,F,3,4,0,22,50,74,-1,-1,2,0,2,Honey Hunter,1,,,,,Great Hornfly,1,Earth Crystal,2,Monster Fluid,1,Electro Sac,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hornetaur Coil,,3,4,0,18,46,70,-1,-1,0,0,2,Carving Pro,1,,,,,Hornetaur Wing,1,Hornetaur Shell,1,Iron Ore,3,Machalite Ore,1
+Anja Coil,,3,4,0,20,48,72,3,-3,-1,-1,0,Fire Resistance,1,,,Anjanath Power,1,Anjanath Scale,2,Anjanath Pelt,1,Anjanath Fang,2,Machalite Ore,2
+Rathian Coil,,3,4,0,22,50,74,2,0,-2,0,-3,Poison Resistance,1,,,,,Rathian Scale,2,Rathian Shell,1,Rath Wingtalon,2,Boulder Bone,2
+Tzitzi Coil,,3,4,0,18,46,70,0,0,-3,-2,0,Wide-Range,1,,,,,Tzitzi-Ya-Ku Hide,2,Tzitzi-Ya-Ku Claw,2,Coral Crystal,2,,
+Lumu Coil,,3,4,0,20,48,72,-3,2,0,1,0,Divine Blessing,1,,,,,Paolumu Pelt,2,Paolumu Scale,1,Paolumu Shell,1,,
+Girros Coil,,3,4,0,20,48,72,0,-3,2,0,1,Effluvial Expert,1,,,,,Great Girros Hide,2,Great Girros Tail,1,Great Girros Hood,1,Girros Hide,3
+Baan Coil,,3,4,0,24,52,76,0,2,0,-1,-2,Guard,1,,,,,Radobaan Scale,2,Radobaan Oilshell,1,Sleep Sac,1,Monster Bone L,3
+Ingot Coil,,4,5,0,28,52,72,-2,0,3,-1,0,Windproof,1,,,,,Dragonite Ore,3,Monster Bone+,1,Coral Crystal,3,Lightcrystal,1
+Death Stench Bowels,,4,5,0,32,56,76,3,2,-2,3,-4,Dragon Attack,1,,,,,Sinister Cloth,1,Warped Bone,1,Sturdy Bone,2,Monster Fluid,2
+Brigade Coil,,4,5,0,28,52,72,1,0,2,0,2,Geologist,1,,,,,Pinnacle Coin,2,Pukei Coin,2,Kulu Coin,2,Commendation,1
+Legiana Coil,,4,5,0,30,54,74,-1,2,-3,3,0,Ice Attack,1,,,Legiana Blessing,1,Legiana Hide,2,Legiana Scale,2,Frost Sac,1,Shamos Hide,2
+Odogaron Coil,,4,5,0,30,54,74,2,2,-2,-3,0,Critical Eye,1,,,Odogaron Power,1,Odogaron Sinew,3,Odogaron Claw,2,Odogaron Fang,2,Odogaron Plate,1
+Rathalos Coil,,4,5,0,30,54,74,3,1,-2,1,-3,Fire Attack,1,,,Rathalos Power,1,Rathalos Scale,2,Rathalos Shell,2,Rathalos Webbing,1,Monster Bone+,3
+Diablos Coil,,4,5,0,32,56,76,3,-2,0,-3,2,Marathon Runner,1,,,Diablos Power,1,Diablos Shell,1,Diablos Ridge,1,Diablos Fang,1,Monster Bone L,2
+Kirin Hoop,,4,5,0,34,58,78,-3,-2,4,-2,3,Thunder Attack,1,,,Kirin Blessing,1,Kirin Hide,2,Kirin Thunderhorn,1,Kirin Tail,1,Electro Sac,1
+Leather Belt α,,5,6,0,32,54,70,2,0,0,0,0,Stamina Surge,1,,,,,Carbalite Ore,2,High-quality Pelt,1,,,,
+Leather Belt β,,5,6,1,32,54,70,2,0,0,0,0,,,,,,,Carbalite Ore,2,High-quality Pelt,1,,,,
+Chainmail Belt α,,5,6,0,32,54,70,0,2,0,0,0,Quick Sheath,1,,,,,Carbalite Ore,2,Dragonite Ore,2,,,,
+Chainmail Belt β,,5,6,1,32,54,70,0,2,0,0,0,,,,,,,Carbalite Ore,2,Dragonite Ore,2,,,,
+Hunter's Coil α,,5,6,0,36,58,74,2,2,0,0,0,Master Gatherer,1,Stealth,1,,,Jagras Hide+,2,Quality Bone,3,,,,
+Hunter's Coil β,,5,6,1,36,58,74,2,2,0,0,0,Master Gatherer,1,,,,,Jagras Hide+,2,Quality Bone,3,,,,
+Bone Coil α,,5,6,0,36,58,74,2,0,2,0,2,Horn Maestro,1,Master Fisher,1,,,Quality Bone,2,Monster Bone+,2,Ancient Bone,3,,
+Bone Coil β,,5,6,1,36,58,74,2,0,2,0,2,Horn Maestro,1,,,,,Quality Bone,2,Monster Bone+,2,Ancient Bone,3,,
+Alloy Coil α,,5,6,0,36,58,74,-2,0,-2,-2,0,Poison Resistance,1,Water Resistance,1,,,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
+Alloy Coil β,,5,6,1,36,58,74,-2,0,-2,-2,0,Poison Resistance,1,,,,,Carbalite Ore,3,Dragonite Ore,6,Dragonvein Crystal,3,Machalite Ore,5
+King Beetle Elytra α,M,5,6,1,42,64,80,-1,-1,2,0,2,Honey Hunter,1,Quick Sheath,1,,,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,3,Thunder Sac,2
+King Beetle Elytra β,M,5,6,21,42,64,80,-1,-1,2,0,2,Honey Hunter,1,,,,,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,3,Thunder Sac,2
+Butterfly Elytra α,F,5,6,1,42,64,80,-1,-1,2,0,2,Honey Hunter,1,Quick Sheath,1,,,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,2,,
+Butterfly Elytra β,F,5,6,21,42,64,80,-1,-1,2,0,2,Honey Hunter,1,,,,,Great Hornfly,1,Dragonvein Crystal,2,Vespoid Carapace,2,,
+Vespoid Coil α,,5,6,0,38,60,76,-2,1,1,1,2,Paralysis Resistance,2,,,,,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
+Vespoid Coil β,,5,6,1,38,60,76,-2,1,1,1,2,Paralysis Resistance,1,,,,,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
+Hornetaur Coil α,,5,6,0,38,60,76,-1,-1,0,0,2,Carving Pro,1,Hunger Resistance,1,,,Hornetaur Carapace,3,Hornetaur Innerwing,2,Monster Broth,2,,
+Hornetaur Coil β,,5,6,1,38,60,76,-1,-1,0,0,2,Carving Pro,1,,,,,Hornetaur Carapace,3,Hornetaur Innerwing,2,Monster Broth,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jagras Coil α,,5,6,0,40,62,78,-2,2,-1,-1,1,Fortify,1,Speed Eating,1,,,Great Jagras Hide+,3,Great Jagras Mane,3,Great Jagras Scale+,4,Jagras Scale+,3
+Jagras Coil β,,5,6,1,40,62,78,-2,2,-1,-1,1,Fortify,1,,,,,Great Jagras Hide+,3,Great Jagras Mane,3,Great Jagras Scale+,4,Jagras Scale+,3
+Kulu Coil α,,5,6,0,40,62,78,0,-3,0,1,0,Item Prolonger,2,,,,,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Beak+,2,Wingdrake Hide+,3,Earth Crystal,2
+Kulu Coil β,,5,6,2,40,62,78,0,-3,0,1,0,Item Prolonger,1,,,,,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Beak+,2,Wingdrake Hide+,3,Earth Crystal,2
+Tzitzi Coil α,,5,6,0,40,62,78,0,0,-3,-2,0,Wide-Range,2,Water Attack,1,,,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,4,Dragonvein Crystal,3,Lightcrystal,2
+Tzitzi Coil β,,5,6,2,40,62,78,0,0,-3,-2,0,Wide-Range,1,,,,,Tzitzi-Ya-Ku Hide+,2,Tzitzi-Ya-Ku Claw+,4,Dragonvein Crystal,3,Lightcrystal,2
+Girros Coil α,,5,6,0,40,62,78,0,-3,2,0,1,Effluvial Expert,1,Paralysis Attack,1,,,Great Girros Hide+,4,Great Girros Tail,2,Great Girros Hood+,2,Girros Hide+,4
+Girros Coil β,,5,6,1,40,62,78,0,-3,2,0,1,Effluvial Expert,1,,,,,Great Girros Hide+,4,Great Girros Tail,2,Great Girros Hood+,2,Girros Hide+,4
+Pukei Coil α,,5,6,0,42,64,80,0,3,-3,0,1,Poison Attack,2,,,,,Pukei-Pukei Carapace,4,Pukei-Pukei Wing,2,Pukei-Pukei Sac+,2,Bird Wyvern Gem,1
+Pukei Coil β,,5,6,1,42,64,80,0,3,-3,0,1,Poison Attack,1,,,,,Pukei-Pukei Carapace,4,Pukei-Pukei Wing,2,Pukei-Pukei Sac+,2,Bird Wyvern Gem,1
+Barroth Coil α,,5,6,0,42,64,80,-3,-1,3,-1,0,Muck Resistance,1,Guard,1,,,Barroth Carapace,4,Barroth Ridge+,3,Monster Bone+,4,,
+Barroth Coil β,,5,6,2,42,64,80,-3,-1,3,-1,0,Muck Resistance,1,,,,,Barroth Carapace,4,Barroth Ridge+,3,Monster Bone+,4,,
+Anja Coil α,,5,6,0,44,66,82,3,-3,-1,-1,0,Fire Resistance,2,Artillery,1,Anjanath Will,1,Anjanath Scale+,4,Anjanath Pelt+,3,Anjanath Fang+,3,Piercing Claw,4
+Anja Coil β,,5,6,2,44,66,82,3,-3,-1,-1,0,Fire Resistance,2,,,Anjanath Will,1,Anjanath Scale+,4,Anjanath Pelt+,3,Anjanath Fang+,3,Piercing Claw,4
+Jyura Coil α,,5,6,0,44,66,82,-1,2,-3,0,0,Ice Resistance,2,,,,,Jyuratodus Scale+,4,Jyuratodus Carapace,2,Torrent Sac,2,,
+Jyura Coil β,,5,6,1,44,66,82,-1,2,-3,0,0,Ice Resistance,1,,,,,Jyuratodus Scale+,4,Jyuratodus Carapace,2,Torrent Sac,2,,
+Kadachi Coil α,,5,6,0,44,66,82,0,-3,3,0,0,Thunder Attack,2,Thunder Resistance,1,,,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Thunder Sac,1,Wingdrake Hide+,3
+Kadachi Coil β,,5,6,11,44,66,82,0,-3,3,0,0,Thunder Attack,1,,,,,Tobi-Kadachi Scale+,4,Tobi-Kadachi Pelt+,3,Thunder Sac,1,Wingdrake Hide+,3
+Lumu Coil α,,5,6,0,44,66,82,-3,2,0,1,0,Divine Blessing,2,,,,,Paolumu Pelt+,4,Paolumu Scale+,2,Paolumu Carapace+,3,Coral Bone,5
+Lumu Coil β,,5,6,1,44,66,82,-3,2,0,1,0,Divine Blessing,1,,,,,Paolumu Pelt+,4,Paolumu Scale+,2,Paolumu Carapace+,3,Coral Bone,5
+Rathian Coil α,,5,6,0,46,68,84,2,0,-2,0,-3,Poison Resistance,2,Health Boost,1,,,Rathian Scale+,4,Rathian Carapace,2,Inferno Sac,2,Monster Broth,2
+Rathian Coil β,,5,6,1,46,68,84,2,0,-2,0,-3,Poison Resistance,1,Health Boost,1,,,Rathian Scale+,4,Rathian Carapace,2,Inferno Sac,2,Monster Broth,2
+Rath Heart Coil α,,6,7,0,52,72,84,3,0,-3,0,-4,Handicraft,1,Poison Resistance,1,Pink Rathian Mastery,1,Pink Rathian Carapace,4,Pink Rathian Scale+,3,Monster Hardbone,4,Rathian Plate,1
+Rath Heart Coil β,,6,7,1,52,72,84,3,0,-3,0,-4,Handicraft,1,,,Pink Rathian Mastery,1,Pink Rathian Carapace,4,Pink Rathian Scale+,3,Monster Hardbone,4,Rathian Plate,1
+Baan Coil α,,6,6,0,46,66,78,0,2,0,-1,-2,Guard,2,,,,,Radobaan Scale+,4,Radobaan Carapace,3,Coma Sac,3,Wyvern Bonemass,5
+Baan Coil β,,6,6,2,46,66,78,0,2,0,-1,-2,Guard,1,,,,,Radobaan Scale+,4,Radobaan Carapace,3,Coma Sac,3,Wyvern Bonemass,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dodogama Coil α,,5,6,0,48,70,86,2,0,-3,0,2,Artillery,2,Blast Resistance,1,,,Dodogama Scale+,4,Dodogama Hide+,2,Dodogama Jaw,1,Gastodon Carapace,5
+Dodogama Coil β,,5,6,1,48,70,86,2,0,-3,0,2,Artillery,2,,,,,Dodogama Scale+,4,Dodogama Hide+,2,Dodogama Jaw,1,Gastodon Carapace,5
+Zorah Spine α,,6,6,0,44,64,76,4,-3,-1,-2,-3,Fortify,1,Tremor Resistance,1,Zorah Magdaros Mastery,1,Zorah Magdaros Carapace,8,Zorah Magdaros Heat Scale,1,Zorah Magdaros Ridge,3,Zorah Magdaros Magma,2
+Zorah Spine β,,6,6,2,44,64,76,4,-3,-1,-2,-3,Fortify,1,,,Zorah Magdaros Mastery,1,Zorah Magdaros Carapace,8,Zorah Magdaros Heat Scale,1,Zorah Magdaros Ridge,3,Zorah Magdaros Magma,2
+High Metal Coil α,,6,6,0,50,70,82,0,-1,-2,3,0,Capacity Boost,1,Defense Boost,1,,,Fucium Ore,3,Carbalite Ore,4,Dragonvein Crystal,2,Barnos Talon,2
+High Metal Coil β,,6,6,1,50,70,82,0,-1,-2,3,0,Capacity Boost,1,,,,,Fucium Ore,3,Carbalite Ore,4,Dragonvein Crystal,2,Barnos Talon,2
+Ingot Coil α,,6,6,0,50,70,82,-2,0,3,-1,0,Windproof,2,,,,,Fucium Ore,1,Monster Hardbone,3,Dragonite Ore,4,Gastodon Carapace,3
+Ingot Coil β,,6,6,3,50,70,82,-2,0,3,-1,0,Windproof,1,,,,,Fucium Ore,1,Monster Hardbone,3,Dragonite Ore,4,Gastodon Carapace,3
+Brigade Coil α,,6,6,0,52,72,84,1,0,2,0,2,Geologist,2,Recovery Speed,1,,,Hunter King Coin,2,Barroth Coin,4,Gama Coin,3,Monster Hardbone,2
+Brigade Coil β,,6,6,1,52,72,84,1,0,2,0,2,Geologist,2,,,,,Hunter King Coin,2,Barroth Coin,4,Gama Coin,3,Monster Hardbone,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lavasioth Coil α,,6,6,0,56,76,88,3,-3,1,-2,2,Quick Sheath,2,Recovery Up,1,,,Lavasioth Scale+,4,Lavasioth Carapace,2,Lavasioth Fang+,2,Grand Gajau Whisker,4
+Lavasioth Coil β,,6,6,1,56,76,88,3,-3,1,-2,2,Quick Sheath,2,,,,,Lavasioth Scale+,4,Lavasioth Carapace,2,Lavasioth Fang+,2,Grand Gajau Whisker,4
+Legiana Coil α,,6,7,0,54,74,86,-1,2,-3,3,0,Ice Attack,2,Windproof,1,Legiana Favor,1,Legiana Hide+,4,Legiana Scale+,4,Freezer Sac,2,Legiana Plate,1
+Legiana Coil β,,6,7,2,54,74,86,-1,2,-3,3,0,Ice Attack,2,,,Legiana Favor,1,Legiana Hide+,4,Legiana Scale+,4,Freezer Sac,2,Legiana Plate,1
+Odogaron Coil α,,6,7,0,54,74,86,2,2,-2,-3,0,Critical Eye,2,Speed Sharpening,1,Odogaron Mastery,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Fang+,2,Odogaron Gem,1
+Odogaron Coil β,,6,7,2,54,74,86,2,2,-2,-3,0,Critical Eye,2,,,Odogaron Mastery,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Fang+,2,Odogaron Gem,1
+Rathalos Coil α,,6,7,0,54,74,86,3,1,-2,1,-3,Fire Attack,2,Focus,1,Rathalos Mastery,1,Rathalos Scale+,4,Rathalos Carapace,4,Rathalos Wing,2,Rathalos Tail,2
+Rathalos Coil β,,6,7,2,54,74,86,3,1,-2,1,-3,Fire Attack,2,,,Rathalos Mastery,1,Rathalos Scale+,4,Rathalos Carapace,4,Rathalos Wing,2,Rathalos Tail,2
+Rath Soul Coil α,,7,7,0,56,68,82,3,2,2,-3,-4,Windproof,2,Piercing Shots,1,Rathalos Mastery,1,Azure Rathalos Scale+,4,Azure Rathalos Carapace,4,Rathalos Medulla,1,Monster Hardbone,6
+Rath Soul Coil β,,7,7,3,56,68,82,3,2,2,-3,-4,Windproof,2,,,Rathalos Mastery,1,Azure Rathalos Scale+,4,Azure Rathalos Carapace,4,Rathalos Medulla,1,Monster Hardbone,6
+Diablos Coil α,,6,7,0,54,74,86,3,-2,0,-3,2,Marathon Runner,2,Critical Draw,1,Diablos Mastery,1,Diablos Carapace,4,Diablos Ridge+,3,Diablos Fang,2,Kestodon Scalp,3
+Diablos Coil β,,6,7,2,54,74,86,3,-2,0,-3,2,Marathon Runner,2,,,Diablos Mastery,1,Diablos Carapace,4,Diablos Ridge+,3,Diablos Fang,2,Kestodon Scalp,3
+Diablos Nero Coil α,,7,7,0,56,68,82,2,-3,0,-4,2,Resentment,1,Partbreaker,1,Diablos Mastery,1,Black Diablos Carapace,4,Black Diablos Ridge+,3,Diablos Tailcase,2,Gastodon Horn,3
+Diablos Nero Coil β,,7,7,2,56,68,82,2,-3,0,-4,2,Resentment,1,,,Diablos Mastery,1,Black Diablos Carapace,4,Black Diablos Ridge+,3,Diablos Tailcase,2,Gastodon Horn,3
+Uragaan Coil α,,7,7,11,60,72,86,4,-3,1,-2,-2,Partbreaker,1,Thunder Resistance,1,Uragaan Protection,1,Uragaan Scale+,4,Uragaan Carapace,2,Fucium Ore,5,Monster Hardbone,5
+Uragaan Coil β,,7,7,21,60,72,86,4,-3,1,-2,-2,Partbreaker,1,,,Uragaan Protection,1,Uragaan Scale+,4,Uragaan Carapace,2,Fucium Ore,5,Monster Hardbone,5
+Bazel Coil α,,7,7,1,58,70,84,3,1,-4,-2,-2,Earplugs,2,Jump Master,1,Bazelguese Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Scale+,4,Bazelgeuse Fuse,2,Uragaan Marrow,1
+Bazel Coil β,,7,7,3,58,70,84,3,1,-4,-2,-2,Earplugs,2,,,Bazelguese Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Scale+,4,Bazelgeuse Fuse,2,Uragaan Marrow,1
+Damascus Coil α,,7,8,1,60,72,86,4,-2,0,0,0,Focus,1,Iron Skin,2,,,Elder Dragon Blood,2,Fucium Ore,3,Dodogama Jaw,3,Firecell Stone,1
+Damascus Coil β,,7,8,111,60,72,86,4,-2,0,0,0,Focus,1,,,,,Elder Dragon Blood,2,Fucium Ore,3,Dodogama Jaw,3,Firecell Stone,1
+Dober Coil α,,7,8,2,60,72,86,-2,0,-1,-1,4,Dragon Resistance,2,Attack Boost,1,,,Elder Dragon Bone,3,Quality Bone,3,Rathalos Medulla,1,Brutal Bone,3
+Dober Coil β,,7,8,3,60,72,86,-2,0,-1,-1,4,Dragon Resistance,2,,,,,Elder Dragon Bone,3,Quality Bone,3,Rathalos Medulla,1,Brutal Bone,3
+Death Stench Bowels α,,7,8,0,62,74,88,3,2,-2,3,-4,Dragon Attack,2,Focus,1,,,Sinister Cloth,2,Brutal Bone,1,Vaal Hazak Membrane,1,Monster Broth,2
+Death Stench Bowels β,,7,8,11,62,74,88,3,2,-2,3,-4,Dragon Attack,2,,,,,Sinister Cloth,2,Brutal Bone,1,Vaal Hazak Membrane,1,Monster Broth,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nergigante Coil α,,8,8,0,64,70,84,1,1,-3,1,-3,Attack Boost,2,Stamina Surge,1,Nergigante Hunger,1,Nergigante Carapace,4,Immortal Dragonscale,4,Nergigante Regrowth Plate,4,Novacrystal,1
+Nergigante Coil β,,8,8,2,64,70,84,1,1,-3,1,-3,Attack Boost,2,,,Nergigante Hunger,1,Nergigante Carapace,4,Immortal Dragonscale,4,Nergigante Regrowth Plate,4,Novacrystal,1
+Kaiser Coil α,,8,8,0,64,70,84,3,-3,1,-3,1,Blast Attack,2,Weakness Exploit,1,Teostra Technique,1,Fire Dragon Scale+,4,Teostra Carapace,4,Teostra Mane,1,Elder Dragon Bone,3
+Kaiser Coil β,,8,8,2,64,70,84,3,-3,1,-3,1,Blast Attack,2,,,Teostra Technique,1,Fire Dragon Scale+,4,Teostra Carapace,4,Teostra Mane,1,Elder Dragon Bone,3
+Kushala Cocoon α,,8,8,0,64,70,84,0,2,-3,4,-2,Ice Attack,2,Evade Extender,1,Kushala Daora Flight,1,Daora Dragon Scale+,4,Daora Carapace,4,Daora Horn+,2,Carbalite Ore,5
+Kushala Cocoon β,,8,8,11,64,70,84,0,2,-3,4,-2,Ice Attack,2,,,Kushala Daora Flight,1,Daora Dragon Scale+,4,Daora Carapace,4,Daora Horn+,2,Carbalite Ore,5
+Vaal Hazak Coil α,,8,8,1,64,70,84,-4,4,1,-1,-3,Peak Performance,1,Effluvia Resistance,1,Vaal Hazak Vitality,1,Vaal Hazak Carapace,5,Vaal Hazak Wing,4,Vaal Hazak Membrane,2,Elder Dragon Blood,3
+Vaal Hazak Coil β,,8,8,11,64,70,84,-4,4,1,-1,-3,Peak Performance,1,,,Vaal Hazak Vitality,1,Vaal Hazak Carapace,5,Vaal Hazak Wing,4,Vaal Hazak Membrane,2,Elder Dragon Blood,3
+Kirin Hoop α,,6,8,0,64,70,84,-3,-2,4,-2,2,Blight Resistance,1,Free Elem/Ammo Up,1,Kirin Favor,1,Kirin Hide+,4,Kirin Mane,4,Kirin Azure Horn,3,Novacrystal,1
+Kirin Hoop β,,6,8,111,64,70,84,-3,-2,4,-2,2,Blight Resistance,1,,,Kirin Favor,1,Kirin Hide+,4,Kirin Mane,4,Kirin Azure Horn,3,Novacrystal,1
+Xeno'jiiva Spine α,,8,9,2,72,78,92,-3,2,2,2,-4,Blight Resistance,2,Special Ammo Boost,1,Xeno'jiiva Divinity,1,Xeno'jiiva Shell,4,Xeno'jiiva Wing,2,Xeno'jiiva Tail,2,Odogaron Plate,1
+Xeno'jiiva Spine β,,8,9,21,72,78,92,-3,2,2,2,-4,Blight Resistance,2,,,Xeno'jiiva Divinity,1,Xeno'jiiva Shell,4,Xeno'jiiva Wing,2,Xeno'jiiva Tail,2,Odogaron Plate,1
+Guild Cross Coil α,,8,8,1,62,68,82,0,0,0,0,0,Fortify,1,Dragon Resistance,2,Guild Guidance,1,Ace Hunter Coin,2,Flying Coin,2,Pinnacle Coin,3,High Commendation,1
+Guild Cross Coil β,,8,8,3,62,68,82,0,0,0,0,0,Fortify,1,,,Guild Guidance,1,Ace Hunter Coin,2,Flying Coin,2,Pinnacle Coin,3,High Commendation,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Commission Belt α,,8,9,1,70,76,90,2,2,2,2,2,Mushroomancer,1,Pro Transporter,1,Commission Guidance,1,Research Commission Ticket,1,Diablos Carapace,8,Great Hornfly,2,High Commendation,2
+Commission Belt β,,8,9,2,70,76,90,2,2,2,2,2,Mushroomancer,1,,,Commission Guidance,1,Research Commission Ticket,1,Diablos Carapace,8,Great Hornfly,2,High Commendation,2
+Vangis Coil α,,7,7,1,58,70,84,1,1,-3,2,-3,Latent Power,1,Handicraft,1,,,Deviljho Scale,3,Deviljho Hide,4,Deviljho Saliva,2,Girros Scale+,3
+Vangis Coil β,,7,7,31,58,70,84,1,1,-3,2,-3,Latent Power,1,,,,,Deviljho Scale,3,Deviljho Hide,4,Deviljho Saliva,2,Girros Scale+,3
+Aloy's Torso α,Full,5,6,3,46,68,84,1,1,1,1,1,Stealth,2,,,Anjanath Will,1,Nora Brave Trophy,4,Anjanath Pelt+,14,Anjanath Nosebone+,6,Anjanath Gem,1
+Ryu's Torso,Full,2,3,0,12,44,70,2,0,5,-3,2,Latent Power,1,,,,,SFV Ticket,7,Monster Bone M,6,Earth Crystal,6,Barroth Shell,5
+Sakura's Skirt α,Full,6,7,3,50,70,82,0,4,0,4,-2,Latent Power,1,,,Pink Rathian Mastery,1,SFV Ticket II,4,Hunter King Coin,4,Rathian Coin,4,Pink Rathian Scale+,6
+Butterfly Elytra,M,3,3,0,22,50,74,-1,-1,2,0,2,Defense Boost,1,,,,,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Queen Beetle Elytra,F,3,3,0,22,50,74,-1,-1,2,0,2,Defense Boost,1,,,,,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Blossom Coat,,3,2,0,18,46,70,1,1,4,1,1,Scoutfly Range Up,1,,,,,Spring Blossom Ticket,1,Earth Crystal,1,,,,
+Blossom Coat α,,5,6,11,40,62,78,1,1,4,1,1,Scoutfly Range Up,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
+Kulve Taroth's Malice α,,8,9,1,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Handicraft,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Tailshell,4,Kulve Taroth Golden Glimstone,1
+Kulve Taroth's Malice β,,8,9,31,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Handicraft,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Tailshell,4,Kulve Taroth Golden Glimstone,1
+Dante's Belt α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Latent Power,1,,,Red Orb,1,Rathalos Carapace,6,Rathalos Wing,3,Rathalos Plate,1
+Azure Starlord Tassets α,,7,7,2,56,68,82,2,2,0,0,3,Handicraft,1,,,Rathalos Mastery,1,Azure Stargem,1,Azure Rathalos Scale+,6,Azure Rathalos Carapace,5,Azure Rathalos Tail,3

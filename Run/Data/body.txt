@@ -1,156 +1,156 @@
-#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3
-Leather Mail,,1,1,0,2,38,68,2,0,0,0,0,,,,,,
-Chainmail Armor,,1,1,0,2,38,68,0,2,0,0,0,,,,,,
-Hunter's Mail,,1,1,0,6,42,72,2,2,0,0,0,Slinger Capacity,1,,,,
-Bone Mail,,1,1,0,6,42,72,2,0,2,0,2,Attack Boost,1,,,,
-Vespoid Mail,,1,1,0,8,44,74,-2,1,1,1,2,Windproof,1,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Jagras Mail,,1,1,0,8,44,74,-2,2,-1,-1,1,Intimidator,1,,,,
-Kulu Mail,,1,2,0,10,46,76,0,-3,0,1,0,Stamina Surge,1,,,,
-Alloy Mail,,2,2,0,8,40,66,-2,1,-2,-2,1,Water Resistance,1,,,,
-Pukei Mail,,2,3,0,12,44,70,0,3,-3,0,1,Item Prolonger,1,,,,
-Barroth Mail,,2,3,0,14,38,72,-3,-1,3,-1,0,Stamina Thief,1,,,,
-Jyura Mail,,2,3,0,14,46,72,-1,2,-3,0,0,Muck Resistance,1,,,,
-Kadachi Mail,,2,3,0,16,48,74,0,-3,3,0,0,Jump Master,1,,,,
-High Metal Mail,,3,3,0,18,46,70,0,-1,-2,3,0,Earplugs,1,,,,
-King Beetle Thorax,M,3,4,0,22,50,74,-1,-1,2,0,2,Quick Sheath,1,,,,
-Butterfly Thorax,F,3,4,0,22,50,74,-1,-1,2,0,2,Quick Sheath,1,,,,
-,,,,,,,,,,,,,,,,,,
-Hornetaur Mail,,3,4,0,18,46,70,-1,-1,0,0,2,Effluvial Expert,1,,,,
-Anja Mail,,3,4,0,20,48,72,3,-3,-1,-1,0,Marathon Runner,1,,,Anjanath Power,1
-Rathian Mail,,3,4,0,22,50,74,2,0,-2,0,-3,Botanist,1,,,,
-Tzitzi Mail,,3,4,0,18,46,70,0,0,-3,-2,0,Constitution,1,,,,
-Lumu Mail,,3,4,0,20,48,72,-3,2,0,1,0,Master Mounter,1,,,,
-Girros Mail,,3,4,0,20,48,72,0,-3,2,0,1,Paralysis Resistance,1,,,,
-Baan Mail,,3,4,0,24,52,76,0,2,0,-1,-2,Sleep Resistance ,1,,,,
-Ingot Mail,,4,5,0,28,52,72,-2,0,3,-1,0,Thunder Resistance,1,,,,
-Death Stench Muscle,,4,5,0,32,56,76,3,2,-2,3,-4,Fortify,1,,,,
-Brigade Suit,,4,5,0,28,52,72,1,0,2,0,2,Divine Blessing,1,,,,
-Legiana Mail,,4,5,0,30,54,74,-1,2,-3,3,0,Evade Window,1,,,Legiana Blessing,1
-Odogaron Mail,,4,5,0,30,54,74,2,2,-2,-3,0,Speed Sharpening,1,,,Odogaron Power,1
-Rathalos Mail,,4,5,0,30,54,74,3,1,-2,1,-3,Weakness Exploit,1,,,Rathalos Power,1
-Diablos Mail,,4,5,0,32,56,76,3,-2,0,-3,2,Slugger,1,,,Diablos Power,1
-Kirin Jacket,,4,5,0,34,58,78,-3,-2,4,-2,3,Divine Blessing,1,,,Kirin Blessing,1
-Leather Mail α,,5,6,0,32,54,70,2,0,0,0,0,Fire Resistance,1,,,,
-Leather Mail β,,5,6,1,32,54,70,2,0,0,0,0,,,,,,
-Chainmail Armor α,,5,6,0,32,54,70,0,2,0,0,0,Water Resistance,1,,,,
-Chainmail Armor β,,5,6,1,32,54,70,0,2,0,0,0,,,,,,
-Hunter's Mail α,,5,6,0,36,58,74,2,2,0,0,0,Slinger Capacity,2,,,,
-Hunter's Mail β,,5,6,1,36,58,74,2,2,0,0,0,Slinger Capacity,1,,,,
-Bone Mail α,,5,6,0,36,58,74,2,0,2,0,2,Attack Boost,2,,,,
-Bone Mail β,,5,6,1,36,58,74,2,0,2,0,2,Attack Boost,1,,,,
-Alloy Mail α,,5,6,0,36,58,74,-2,0,-2,-2,0,Water Resistance,2,,,,
-Alloy Mail β,,5,6,1,36,58,74,-2,0,-2,-2,0,Water Resistance,1,,,,
-King Beetle Thorax α,M,5,6,0,42,64,80,-1,-1,2,0,2,Quick Sheath,2,Botanist,1,,
-King Beetle Thorax β,M,5,6,1,42,64,80,-1,-1,2,0,2,Quick Sheath,2,,,,
-Butterfly Thorax α,F,5,6,0,42,64,80,-1,-1,2,0,2,Quick Sheath,2,Botanist,1,,
-Butterfly Thorax β,F,5,6,1,42,64,80,-1,-1,2,0,2,Quick Sheath,2,,,,
-Vespoid Mail α,,5,6,0,38,60,76,-2,1,1,1,2,Windproof,2,,,,
-Vespoid Mail β,,5,6,1,38,60,76,-2,1,1,1,2,Windproof,1,,,,
-Hornetaur Mail α,,5,6,0,38,60,76,-1,-1,0,0,2,Effluvial Expert,1,Hunger Resistance,1,,
-Hornetaur Mail β,,5,6,1,38,60,76,-1,-1,0,0,2,Effluvial Expert,1,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Jagras Mail α,,5,6,0,40,62,78,-2,2,-1,-1,1,Intimidator,2,,,,
-Jagras Mail β,,5,6,1,40,62,78,-2,2,-1,-1,1,Intimidator,1,,,,
-Kulu Mail α,,5,6,0,40,62,78,0,-3,0,1,0,Stamina Surge,1,Critical Eye,1,,
-Kulu Mail β,,5,6,1,40,62,78,0,-3,0,1,0,Stamina Surge,1,,,,
-Tzitzi Mail α,,5,6,0,40,62,78,0,0,-3,-2,0,Constitution,1,Water Attack,2,,
-Tzitzi Mail β,,5,6,11,40,62,78,0,0,-3,-2,0,Constitution,1,,,,
-Girros Mail α,,5,6,0,40,62,78,0,-3,2,0,1,Paralysis Resistance,2,,,,
-Girros Mail β,,5,6,1,40,62,78,0,-3,2,0,1,Paralysis Resistance,1,,,,
-Pukei Mail α,,5,6,0,42,64,80,0,3,-3,0,1,Item Prolonger,1,Botanist,1,,
-Pukei Mail β,,5,6,1,42,64,80,0,3,-3,0,1,Item Prolonger,1,,,,
-Barroth Mail α,,5,6,0,42,64,80,-3,-1,3,-1,0,Stamina Thief,2,,,,
-Barroth Mail β,,5,6,1,42,64,80,-3,-1,3,-1,0,Stamina Thief,1,,,,
-Anja Mail α,,5,6,0,44,66,82,3,-3,-1,-1,0,Marathon Runner,1,Special Ammo Boost,1,Anjanath Will,1
-Anja Mail β,,5,6,11,44,66,82,3,-3,-1,-1,0,Marathon Runner,1,,,Anjanath Will,1
-Jyura Mail α,,5,6,0,44,66,82,-1,2,-3,0,0,Muck Resistance,1,Water Attack,1,,
-Jyura Mail β,,5,6,1,44,66,82,-1,2,-3,0,0,Muck Resistance,1,,,,
-Kadachi Mail α,,5,6,0,44,66,82,0,-3,3,0,0,Jump Master,1,Evade Extender,1,,
-Kadachi Mail β,,5,6,2,44,66,82,0,-3,3,0,0,Jump Master,1,,,,
-Lumu Mail α,,5,6,0,44,66,82,-3,2,0,1,0,Master Mounter,1,Artillery,1,,
-Lumu Mail β,,5,6,1,44,66,82,-3,2,0,1,0,Master Mounter,1,,,,
-Rathian Mail α,,5,6,0,46,68,84,2,0,-2,0,-3,Botanist,2,Recovery Up,1,,
-Rathian Mail β,,5,6,1,46,68,84,2,0,-2,0,-3,Botanist,1,Recovery Up,1,,
-Rath Heart Mail α,,6,7,0,52,72,84,3,0,-3,0,-4,Tool Specialist,2,,,Pink Rathian Mastery,1
-Rath Heart Mail β,,6,7,11,52,72,84,3,0,-3,0,-4,Tool Specialist,1,,,Pink Rathian Mastery,1
-Baan Mail α,,6,6,0,46,66,78,0,2,0,-1,-2,Sleep Attack,1,Bleeding Resistance,1,,
-Baan Mail β,,6,6,1,46,66,78,0,2,0,-1,-2,Sleep Attack,1,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Barnos Jacket α,,5,6,0,48,70,86,1,1,0,1,-2,Heat Guard,1,Iron Skin,1,,
-Barnos Jacket β,,5,6,1,48,70,86,1,1,0,1,-2,Heat Guard,1,,,,
-Dodogama Mail α,,5,6,0,48,70,86,2,0,-3,0,2,Blast Attack,2,,,,
-Dodogama Mail β,,5,6,1,48,70,86,2,0,-3,0,2,Blast Attack,1,,,,
-Zorah Hide α,,6,6,0,44,64,76,4,-3,-1,-2,-3,Blast Attack,2,Windproof,1,Zorah Magdaros Mastery,1
-Zorah Hide β,,6,6,2,44,64,76,4,-3,-1,-2,-3,Blast Attack,2,,,Zorah Magdaros Mastery,1
-High Metal Mail α,,6,6,0,50,70,82,0,-1,-2,3,0,Earplugs,2,Ice Attack,1,,
-High Metal Mail β,,6,6,2,50,70,82,0,-1,-2,3,0,Earplugs,1,Ice Attack,1,,
-Ingot Mail α,,6,6,0,50,70,82,-2,0,3,-1,0,Thunder Resistance,2,,,,
-Ingot Mail β,,6,6,1,50,70,82,-2,0,3,-1,0,Thunder Resistance,1,,,,
-Brigade Suit α,,6,6,2,52,72,84,1,0,2,0,2,Divine Blessing,2,,,,
-Brigade Suit β,,6,6,2,52,72,84,1,0,2,0,2,Divine Blessing,1,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-Lavasioth Mail α,,6,6,0,56,76,88,3,-3,1,-2,2,Fire Attack,2,Heat Guard,1,,
-Lavasioth Mail β,,6,6,11,56,76,88,3,-3,1,-2,2,Fire Attack,2,,,,
-Legiana Mail α,,6,7,0,54,74,86,-1,2,-3,3,0,Evade Window,2,Divine Blessing,1,Legiana Favor,1
-Legiana Mail β,,6,7,1,54,74,86,-1,2,-3,3,0,Evade Window,2,,,Legiana Favor,1
-Odogaron Mail α,,6,7,0,54,74,86,2,2,-2,-3,0,Speed Sharpening,2,Bleeding Resistance,1,Odogaron Mastery,1
-Odogaron Mail β,,6,7,1,54,74,86,2,2,-2,-3,0,Speed Sharpening,2,,,Odogaron Mastery,1
-Rathalos Mail α,,6,7,0,54,74,86,3,1,-2,1,-3,Weakness Exploit,2,Fire Attack,1,Rathalos Mastery,1
-Rathalos Mail β,,6,7,1,54,74,86,3,1,-2,1,-3,Weakness Exploit,2,,,Rathalos Mastery,1
-Rath Soul Mail α,,7,7,0,56,68,82,3,2,2,-3,-4,Free Elem/Ammo Up,1,Intimidator,1,Rathalos Mastery,1
-Rath Soul Mail β,,7,7,2,56,68,82,3,2,2,-3,-4,Free Elem/Ammo Up,1,,,Rathalos Mastery,1
-Diablos Mail α,,6,7,0,54,74,86,3,-2,0,-3,2,Slugger,2,Heroics,1,Diablos Mastery,1
-Diablos Mail β,,6,7,2,54,74,86,3,-2,0,-3,2,Slugger,2,,,Diablos Mastery,1
-Diablos Nero Mail α,,7,7,1,56,68,82,2,-3,0,-4,2,Resentment,2,,,Diablos Mastery,1
-Diablos Nero Mail β,,7,7,21,56,68,82,2,-3,0,-4,2,Resentment,1,,,Diablos Mastery,1
-Uragaan Mail α,,7,7,1,60,72,86,4,-3,1,-2,-2,Partbreaker,2,,,Uragaan Protection,1
-Uragaan Mail β,,7,7,3,60,72,86,4,-3,1,-2,-2,Partbreaker,1,,,Uragaan Protection,1
-Bazel Mail α,,7,7,0,58,70,84,3,1,-4,-2,-2,Guard,2,Blast Resistance,2,Bazelguese Protection,1
-Bazel Mail β,,7,7,11,58,70,84,3,1,-4,-2,-2,Guard,2,,,Bazelguese Protection,1
-Damascus Mail α,,7,8,1,60,72,86,4,-2,0,0,0,Focus,2,Defense Boost,2,,
-Damascus Mail β,,7,8,111,60,72,86,4,-2,0,0,0,Focus,2,,,,
-Dober Mail α,,7,8,1,60,72,86,-2,0,-1,-1,4,Attack Boost,2,Mushroomancer,1,,
-Dober Mail β,,7,8,3,60,72,86,-2,0,-1,-1,4,Attack Boost,2,,,,
-Death Stench Muscle α,,7,8,0,62,74,88,3,2,-2,3,-4,Fortify,1,Free Elem/Ammo Up,1,,
-Death Stench Muscle β,,7,8,3,62,74,88,3,2,-2,3,-4,Fortify,1,,,,
-,,,,,,,,,,,,,,,,,,
-Nergigante Mail α,,8,8,1,64,70,84,1,1,-3,1,-3,Stamina Surge,2,Agitator,1,Nergigante Hunger,1
-Nergigante Mail β,,8,8,21,64,70,84,1,1,-3,1,-3,Stamina Surge,2,,,Nergigante Hunger,1
-Kaiser Mail  α,,8,8,0,64,70,84,3,-3,1,-3,1,Special Ammo Boost,2,Latent Power,1,Teostra Technique,1
-Kaiser Mail  β,,8,8,11,64,70,84,3,-3,1,-3,1,Special Ammo Boost,2,,,Teostra Technique,1
-Kushala Cista α,,8,8,0,64,70,84,0,2,-3,4,-2,Handicraft,2,Focus,1,Kushala Daora Flight,1
-Kushala Cista β,,8,8,2,64,70,84,0,2,-3,4,-2,Handicraft,2,,,Kushala Daora Flight,1
-Vaal Hazak Mail α,,8,8,1,64,70,84,-4,4,1,-1,-3,Recovery Speed,2,Dragon Attack,1,Vaal Hazak Vitality,1
-Vaal Hazak Mail β,,8,8,11,64,70,84,-4,4,1,-1,-3,Recovery Speed,2,,,Vaal Hazak Vitality,1
-Kirin Jacket α,,6,8,0,64,70,84,-3,-2,4,-2,2,Divine Blessing,2,Thunder Attack,1,Kirin Favor,1
-Kirin Jacket β,,6,8,1,64,70,84,-3,-2,4,-2,2,Divine Blessing,2,,,Kirin Favor,1
-Xeno'jiiva Hide α,,8,9,1,72,78,92,-3,2,2,2,-4,Power Prolonger,2,Blight Resistance,1,Xeno'jiiva Divinity,1
-Xeno'jiiva Hide β,,8,9,11,72,78,92,-3,2,2,2,-4,Power Prolonger,2,,,Xeno'jiiva Divinity,1
-Guild Cross Suit α,,8,8,1,62,68,82,0,0,0,0,0,Resuscitate,1,Ice Resistance,2,Guild Guidance,1
-Guild Cross Suit β,,8,8,3,62,68,82,0,0,0,0,0,Resuscitate,1,,,Guild Guidance,1
-,,,,,,,,,,,,,,,,,,
-Commission Jacket α,,8,9,0,70,76,90,2,2,2,2,2,Wide-Range,2,Cliffhanger,1,Commission Guidance,1
-Commission Jacket β,,8,9,1,70,76,90,2,2,2,2,2,Wide-Range,2,,,Commission Guidance,1
-Vangis Mail α,,7,7,2,58,70,84,1,1,-3,2,-3,Speed Eating,1,Handicraft,1,,
-Vangis Mail β,,7,7,3,58,70,84,1,1,-3,2,-3,Speed Eating,1,,,,
-Aloy's Body α,Full,5,6,11,46,68,84,1,1,1,1,1,Marathon Runner,2,,,Anjanath Will,1
-Ryu's Karate Gi,Full,2,3,0,12,44,70,2,0,5,-3,2,Health Boost,1,,,,
-Sakura's Work Uniform α,Full,6,7,11,50,70,82,0,4,0,4,-2,Stamina Surge,1,Resuscitate,1,Pink Rathian Mastery,1
-Butterfly Thorax,M,3,3,0,22,50,74,-1,-1,2,0,2,Health Boost,1,,,,
-Queen Beetle Thorax,F,3,3,0,22,50,74,-1,-1,2,0,2,Health Boost,1,,,,
-Blossom Vest,,3,2,0,18,46,70,1,1,4,1,1,Quick Sheath,1,,,,
-Blossom Vest α,,5,6,11,40,62,78,1,1,4,1,1,Quick Sheath,1,,,,
-Kulve Taroth's Ire α,,8,9,1,72,78,92,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,2,,
-Kulve Taroth's Ire β,,8,9,31,72,78,92,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,1,,
-Dante's Coat α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Critical Eye,1,,
-Azure Starlord Armor α,,7,7,2,56,68,82,2,2,0,0,3,Handicraft,1,,,Rathalos Mastery,1
+#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
+Leather Mail,,1,1,0,2,38,68,2,0,0,0,0,,,,,,,Iron Ore,1,,,,,,
+Chainmail Armor,,1,1,0,2,38,68,0,2,0,0,0,,,,,,,Iron Ore,1,,,,,,
+Hunter's Mail,,1,1,0,6,42,72,2,2,0,0,0,Slinger Capacity,1,,,,,Jagras Hide,2,Monster Bone S,2,,,,
+Bone Mail,,1,1,0,6,42,72,2,0,2,0,2,Attack Boost,1,,,,,Monster Bone S,1,Ancient Bone,1,,,,
+Vespoid Mail,,1,1,0,8,44,74,-2,1,1,1,2,Windproof,1,,,,,Vespoid Shell,1,Machalite Ore,1,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jagras Mail,,1,1,0,8,44,74,-2,2,-1,-1,1,Intimidator,1,,,,,Great Jagras Hide,2,Great Jagras Claw,1,Great Jagras Scale,2,Monster Bone S,3
+Kulu Mail,,1,2,0,10,46,76,0,-3,0,1,0,Stamina Surge,1,,,,,Kulu-Ya-Ku Hide,2,Kulu-Ya-Ku Plume,1,Kulu-Ya-Ku Beak,1,Machalite Ore,2
+Alloy Mail,,2,2,0,8,40,66,-2,1,-2,-2,1,Water Resistance,1,,,,,Machalite Ore,3,Iron Ore,6,Earth Crystal,1,,
+Pukei Mail,,2,3,0,12,44,70,0,3,-3,0,1,Item Prolonger,1,,,,,Pukei-Pukei Scale,2,Pukei-Pukei Shell,1,Iron Ore,3,,
+Barroth Mail,,2,3,0,14,38,72,-3,-1,3,-1,0,Stamina Thief,1,,,,,Barroth Shell,2,Barroth Ridge,1,Barroth Claw,1,Boulder Bone,1
+Jyura Mail,,2,3,0,14,46,72,-1,2,-3,0,0,Muck Resistance,1,,,,,Jyuratodus Shell,2,Jyuratodus Fin,1,Jyuratodus Fang,1,Aqua Sac,1
+Kadachi Mail,,2,3,0,16,48,74,0,-3,3,0,0,Jump Master,1,,,,,Tobi-Kadachi Pelt,2,Tobi-Kadachi Electrode,1,Tobi-Kadachi Membrane,2,Wingdrake Hide,2
+High Metal Mail,,3,3,0,18,46,70,0,-1,-2,3,0,Earplugs,1,,,,,Dragonite Ore,2,Machalite Ore,2,Iron Ore,2,Sharp Claw,2
+King Beetle Thorax,M,3,4,0,22,50,74,-1,-1,2,0,2,Quick Sheath,1,,,,,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Poison Sac,1
+Butterfly Thorax,F,3,4,0,22,50,74,-1,-1,2,0,2,Quick Sheath,1,,,,,Great Hornfly,1,Earth Crystal,2,Coral Crystal,2,Poison Sac,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hornetaur Mail,,3,4,0,18,46,70,-1,-1,0,0,2,Effluvial Expert,1,,,,,Hornetaur Wing,2,Hornetaur Shell,2,Dragonite Ore,2,Machalite Ore,2
+Anja Mail,,3,4,0,20,48,72,3,-3,-1,-1,0,Marathon Runner,1,,,Anjanath Power,1,Anjanath Pelt,3,Anjanath Fang,2,Anjanath Nosebone,1,Anjanath Plate,1
+Rathian Mail,,3,4,0,22,50,74,2,0,-2,0,-3,Botanist,1,,,,,Rathian Scale,2,Rathian Shell,1,Rathian Webbing,1,Ancient Bone,2
+Tzitzi Mail,,3,4,0,18,46,70,0,0,-3,-2,0,Constitution,1,,,,,Tzitzi-Ya-Ku Hide,3,Tzitzi-Ya-Ku Claw,2,Tzitzi-Ya-Ku Photophore,2,Lightcrystal,1
+Lumu Mail,,3,4,0,20,48,72,-3,2,0,1,0,Master Mounter,1,,,,,Paolumu Scale,2,Paolumu Shell,1,Paolumu Pelt,2,Coral Bone,1
+Girros Mail,,3,4,0,20,48,72,0,-3,2,0,1,Paralysis Resistance,1,,,,,Great Girros Hide,2,Great Girros Tail,1,Great Girros Fang,2,Paralysis Sac,2
+Baan Mail,,3,4,0,24,52,76,0,2,0,-1,-2,Sleep Resistance ,1,,,,,Radobaan Scale,2,Radobaan Shell,1,Radobaan Oilshell,1,Sleep Sac,1
+Ingot Mail,,4,5,0,28,52,72,-2,0,3,-1,0,Thunder Resistance,1,,,,,Dragonite Ore,2,Monster Bone+,1,Iron Ore,8,Machalite Ore,3
+Death Stench Muscle,,4,5,0,32,56,76,3,2,-2,3,-4,Fortify,1,,,,,Sinister Cloth,1,Coral Bone,2,Sturdy Bone,2,Monster Fluid,2
+Brigade Suit,,4,5,0,28,52,72,1,0,2,0,2,Divine Blessing,1,,,,,Pinnacle Coin,3,Pukei Coin,2,Rathian Coin,4,Lightcrystal,1
+Legiana Mail,,4,5,0,30,54,74,-1,2,-3,3,0,Evade Window,1,,,Legiana Blessing,1,Legiana Hide,3,Legiana Claw,2,Legiana Webbing,2,Legiana Plate,1
+Odogaron Mail,,4,5,0,30,54,74,2,2,-2,-3,0,Speed Sharpening,1,,,Odogaron Power,1,Odogaron Sinew,2,Odogaron Scale,2,Odogaron Fang,1,Hornetaur Shell,3
+Rathalos Mail,,4,5,0,30,54,74,3,1,-2,1,-3,Weakness Exploit,1,,,Rathalos Power,1,Rathalos Scale,2,Rathalos Shell,4,Rathalos Webbing,2,Rathalos Plate,1
+Diablos Mail,,4,5,0,32,56,76,3,-2,0,-3,2,Slugger,1,,,Diablos Power,1,Diablos Shell,2,Diablos Ridge,1,Twisted Horn,2,Monster Bone+,3
+Kirin Jacket,,4,5,0,34,58,78,-3,-2,4,-2,3,Divine Blessing,1,,,Kirin Blessing,1,Kirin Hide,2,Kirin Mane,2,Coral Crystal,4,Coral Bone,2
+Leather Mail α,,5,6,0,32,54,70,2,0,0,0,0,Fire Resistance,1,,,,,Carbalite Ore,2,High-quality Pelt,1,,,,
+Leather Mail β,,5,6,1,32,54,70,2,0,0,0,0,,,,,,,Carbalite Ore,2,High-quality Pelt,1,,,,
+Chainmail Armor α,,5,6,0,32,54,70,0,2,0,0,0,Water Resistance,1,,,,,Carbalite Ore,2,Dragonite Ore,2,,,,
+Chainmail Armor β,,5,6,1,32,54,70,0,2,0,0,0,,,,,,,Carbalite Ore,2,Dragonite Ore,2,,,,
+Hunter's Mail α,,5,6,0,36,58,74,2,2,0,0,0,Slinger Capacity,2,,,,,Jagras Hide+,3,Quality Bone,4,,,,
+Hunter's Mail β,,5,6,1,36,58,74,2,2,0,0,0,Slinger Capacity,1,,,,,Jagras Hide+,3,Quality Bone,4,,,,
+Bone Mail α,,5,6,0,36,58,74,2,0,2,0,2,Attack Boost,2,,,,,Quality Bone,2,Monster Bone+,2,Monster Bone L,3,,
+Bone Mail β,,5,6,1,36,58,74,2,0,2,0,2,Attack Boost,1,,,,,Quality Bone,2,Monster Bone+,2,Monster Bone L,3,,
+Alloy Mail α,,5,6,0,36,58,74,-2,0,-2,-2,0,Water Resistance,2,,,,,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal,4,Machalite Ore,5
+Alloy Mail β,,5,6,1,36,58,74,-2,0,-2,-2,0,Water Resistance,1,,,,,Carbalite Ore,2,Dragonite Ore,4,Coral Crystal,4,Machalite Ore,5
+King Beetle Thorax α,M,5,6,0,42,64,80,-1,-1,2,0,2,Quick Sheath,2,Botanist,1,,,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,Toxin Sac,2
+King Beetle Thorax β,M,5,6,1,42,64,80,-1,-1,2,0,2,Quick Sheath,2,,,,,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,Toxin Sac,2
+Butterfly Thorax α,F,5,6,0,42,64,80,-1,-1,2,0,2,Quick Sheath,2,Botanist,1,,,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,Toxin Sac,2
+Butterfly Thorax β,F,5,6,1,42,64,80,-1,-1,2,0,2,Quick Sheath,2,,,,,Great Hornfly,1,Dragonvein Crystal,2,Hornetaur Carapace,3,Toxin Sac,2
+Vespoid Mail α,,5,6,0,38,60,76,-2,1,1,1,2,Windproof,2,,,,,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
+Vespoid Mail β,,5,6,1,38,60,76,-2,1,1,1,2,Windproof,1,,,,,Vespoid Carapace,3,Vespoid Innerwing,2,Monster Keenbone,2,,
+Hornetaur Mail α,,5,6,0,38,60,76,-1,-1,0,0,2,Effluvial Expert,1,Hunger Resistance,1,,,Hornetaur Carapace,4,Hornetaur Innerwing,2,Hornetaur Head,1,Lightcrystal,1
+Hornetaur Mail β,,5,6,1,38,60,76,-1,-1,0,0,2,Effluvial Expert,1,,,,,Hornetaur Carapace,4,Hornetaur Innerwing,2,Hornetaur Head,1,Lightcrystal,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jagras Mail α,,5,6,0,40,62,78,-2,2,-1,-1,1,Intimidator,2,,,,,Great Jagras Hide+,2,Great Jagras Claw+,4,Great Jagras Scale+,4,Jagras Hide+,2
+Jagras Mail β,,5,6,1,40,62,78,-2,2,-1,-1,1,Intimidator,1,,,,,Great Jagras Hide+,2,Great Jagras Claw+,4,Great Jagras Scale+,4,Jagras Hide+,2
+Kulu Mail α,,5,6,0,40,62,78,0,-3,0,1,0,Stamina Surge,1,Critical Eye,1,,,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Plume+,2,Kulu-Ya-Ku Beak+,2,Bird Wyvern Gem,1
+Kulu Mail β,,5,6,1,40,62,78,0,-3,0,1,0,Stamina Surge,1,,,,,Kulu-Ya-Ku Hide+,4,Kulu-Ya-Ku Plume+,2,Kulu-Ya-Ku Beak+,2,Bird Wyvern Gem,1
+Tzitzi Mail α,,5,6,0,40,62,78,0,0,-3,-2,0,Constitution,1,Water Attack,2,,,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
+Tzitzi Mail β,,5,6,11,40,62,78,0,0,-3,-2,0,Constitution,1,,,,,Tzitzi-Ya-Ku Hide+,4,Tzitzi-Ya-Ku Claw+,4,Tzitzi-Ya-Ku Photophore+,3,Bird Wyvern Gem,1
+Girros Mail α,,5,6,0,40,62,78,0,-3,2,0,1,Paralysis Resistance,2,,,,,Great Girros Hide+,4,Great Girros Fang+,4,Omniplegia Sac,3,Bird Wyvern Gem,1
+Girros Mail β,,5,6,1,40,62,78,0,-3,2,0,1,Paralysis Resistance,1,,,,,Great Girros Hide+,4,Great Girros Fang+,4,Omniplegia Sac,3,Bird Wyvern Gem,1
+Pukei Mail α,,5,6,0,42,64,80,0,3,-3,0,1,Item Prolonger,1,Botanist,1,,,Pukei-Pukei Scale+,4,Pukei-Pukei Carapace,3,Carbalite Ore,3,,
+Pukei Mail β,,5,6,1,42,64,80,0,3,-3,0,1,Item Prolonger,1,,,,,Pukei-Pukei Scale+,4,Pukei-Pukei Carapace,3,Carbalite Ore,3,,
+Barroth Mail α,,5,6,0,42,64,80,-3,-1,3,-1,0,Stamina Thief,2,,,,,Barroth Carapace,4,Barroth Ridge+,2,Barroth Claw+,2,Quality Bone,5
+Barroth Mail β,,5,6,1,42,64,80,-3,-1,3,-1,0,Stamina Thief,1,,,,,Barroth Carapace,4,Barroth Ridge+,2,Barroth Claw+,2,Quality Bone,5
+Anja Mail α,,5,6,0,44,66,82,3,-3,-1,-1,0,Marathon Runner,1,Special Ammo Boost,1,Anjanath Will,1,Anjanath Pelt+,6,Anjanath Fang+,4,Anjanath Nosebone+,2,Anjanath Gem,1
+Anja Mail β,,5,6,11,44,66,82,3,-3,-1,-1,0,Marathon Runner,1,,,Anjanath Will,1,Anjanath Pelt+,6,Anjanath Fang+,4,Anjanath Nosebone+,2,Anjanath Gem,1
+Jyura Mail α,,5,6,0,44,66,82,-1,2,-3,0,0,Muck Resistance,1,Water Attack,1,,,Jyuratodus Scale+,4,Jyuratodus Fin+,3,Jyuratodus Fang+,2,Torrent Sac,2
+Jyura Mail β,,5,6,1,44,66,82,-1,2,-3,0,0,Muck Resistance,1,,,,,Jyuratodus Scale+,4,Jyuratodus Fin+,3,Jyuratodus Fang+,2,Torrent Sac,2
+Kadachi Mail α,,5,6,0,44,66,82,0,-3,3,0,0,Jump Master,1,Evade Extender,1,,,Tobi-Kadachi Pelt+,3,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,2
+Kadachi Mail β,,5,6,2,44,66,82,0,-3,3,0,0,Jump Master,1,,,,,Tobi-Kadachi Pelt+,3,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Membrane,4,Thunder Sac,2
+Lumu Mail α,,5,6,0,44,66,82,-3,2,0,1,0,Master Mounter,1,Artillery,1,,,Paolumu Scale+,2,Paolumu Carapace+,3,Paolumu Pelt+,2,Monster Keenbone,4
+Lumu Mail β,,5,6,1,44,66,82,-3,2,0,1,0,Master Mounter,1,,,,,Paolumu Scale+,2,Paolumu Carapace+,3,Paolumu Pelt+,2,Monster Keenbone,4
+Rathian Mail α,,5,6,0,46,68,84,2,0,-2,0,-3,Botanist,2,Recovery Up,1,,,Rathian Scale+,4,Rathian Carapace,2,Rathian Webbing,2,Quality Bone,6
+Rathian Mail β,,5,6,1,46,68,84,2,0,-2,0,-3,Botanist,1,Recovery Up,1,,,Rathian Scale+,4,Rathian Carapace,2,Rathian Webbing,2,Quality Bone,6
+Rath Heart Mail α,,6,7,0,52,72,84,3,0,-3,0,-4,Tool Specialist,2,,,Pink Rathian Mastery,1,Pink Rathian Carapace,4,Pink Rathian Scale+,3,Rathian Spike+,2,Novacrystal,1
+Rath Heart Mail β,,6,7,11,52,72,84,3,0,-3,0,-4,Tool Specialist,1,,,Pink Rathian Mastery,1,Pink Rathian Carapace,4,Pink Rathian Scale+,3,Rathian Spike+,2,Novacrystal,1
+Baan Mail α,,6,6,0,46,66,78,0,2,0,-1,-2,Sleep Attack,1,Bleeding Resistance,1,,,Radobaan Scale+,4,Radobaan Carapace,3,Coma Sac,2,Quality Bone,6
+Baan Mail β,,6,6,1,46,66,78,0,2,0,-1,-2,Sleep Attack,1,,,,,Radobaan Scale+,4,Radobaan Carapace,3,Coma Sac,2,Quality Bone,6
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Barnos Jacket α,,5,6,0,48,70,86,1,1,0,1,-2,Heat Guard,1,Iron Skin,1,,,Barnos Hide+,4,Barnos Talon,2,Piercing Claw,3,Dragonvein Crystal,3
+Barnos Jacket β,,5,6,1,48,70,86,1,1,0,1,-2,Heat Guard,1,,,,,Barnos Hide+,4,Barnos Talon,2,Piercing Claw,3,Dragonvein Crystal,3
+Dodogama Mail α,,5,6,0,48,70,86,2,0,-3,0,2,Blast Attack,2,,,,,Dodogama Hide+,4,Dodogama Tail,1,Dodogama Jaw,3,Firecell Stone,1
+Dodogama Mail β,,5,6,1,48,70,86,2,0,-3,0,2,Blast Attack,1,,,,,Dodogama Hide+,4,Dodogama Tail,1,Dodogama Jaw,3,Firecell Stone,1
+Zorah Hide α,,6,6,0,44,64,76,4,-3,-1,-2,-3,Blast Attack,2,Windproof,1,Zorah Magdaros Mastery,1,Zorah Magdaros Carapace,6,Zorah Magdaros Heat Scale,1,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,1
+Zorah Hide β,,6,6,2,44,64,76,4,-3,-1,-2,-3,Blast Attack,2,,,Zorah Magdaros Mastery,1,Zorah Magdaros Carapace,6,Zorah Magdaros Heat Scale,1,Zorah Magdaros Ridge,2,Zorah Magdaros Pleura,1
+High Metal Mail α,,6,6,0,50,70,82,0,-1,-2,3,0,Earplugs,2,Ice Attack,1,,,Fucium Ore,4,Carbalite Ore,3,Dragonvein Crystal,4,Barnos Talon,3
+High Metal Mail β,,6,6,2,50,70,82,0,-1,-2,3,0,Earplugs,1,Ice Attack,1,,,Fucium Ore,4,Carbalite Ore,3,Dragonvein Crystal,4,Barnos Talon,3
+Ingot Mail α,,6,6,0,50,70,82,-2,0,3,-1,0,Thunder Resistance,2,,,,,Fucium Ore,1,Monster Hardbone,2,Dragonite Ore,4,Gastodon Carapace,2
+Ingot Mail β,,6,6,1,50,70,82,-2,0,3,-1,0,Thunder Resistance,1,,,,,Fucium Ore,1,Monster Hardbone,2,Dragonite Ore,4,Gastodon Carapace,2
+Brigade Suit α,,6,6,2,52,72,84,1,0,2,0,2,Divine Blessing,2,,,,,Hunter King Coin,3,Tzitzi Coin,4,Rathalos Coin,3,Monster Hardbone,2
+Brigade Suit β,,6,6,2,52,72,84,1,0,2,0,2,Divine Blessing,1,,,,,Hunter King Coin,3,Tzitzi Coin,4,Rathalos Coin,3,Monster Hardbone,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lavasioth Mail α,,6,6,0,56,76,88,3,-3,1,-2,2,Fire Attack,2,Heat Guard,1,,,Lavasioth Carapace,4,Lavasioth Fin+,2,Lavasioth Scale+,6,Fucium Ore,5
+Lavasioth Mail β,,6,6,11,56,76,88,3,-3,1,-2,2,Fire Attack,2,,,,,Lavasioth Carapace,4,Lavasioth Fin+,2,Lavasioth Scale+,6,Fucium Ore,5
+Legiana Mail α,,6,7,0,54,74,86,-1,2,-3,3,0,Evade Window,2,Divine Blessing,1,Legiana Favor,1,Legiana Hide+,6,Legiana Claw+,3,Legiana Wing,3,Legiana Gem,1
+Legiana Mail β,,6,7,1,54,74,86,-1,2,-3,3,0,Evade Window,2,,,Legiana Favor,1,Legiana Hide+,6,Legiana Claw+,3,Legiana Wing,3,Legiana Gem,1
+Odogaron Mail α,,6,7,0,54,74,86,2,2,-2,-3,0,Speed Sharpening,2,Bleeding Resistance,1,Odogaron Mastery,1,Odogaron Sinew+,4,Odogaron Scale+,4,Odogaron Plate,1,Hornetaur Carapace,5
+Odogaron Mail β,,6,7,1,54,74,86,2,2,-2,-3,0,Speed Sharpening,2,,,Odogaron Mastery,1,Odogaron Sinew+,4,Odogaron Scale+,4,Odogaron Plate,1,Hornetaur Carapace,5
+Rathalos Mail α,,6,7,0,54,74,86,3,1,-2,1,-3,Weakness Exploit,2,Fire Attack,1,Rathalos Mastery,1,Rathalos Scale+,4,Rathalos Carapace,6,Rathalos Wing,3,Rathalos Ruby,1
+Rathalos Mail β,,6,7,1,54,74,86,3,1,-2,1,-3,Weakness Exploit,2,,,Rathalos Mastery,1,Rathalos Scale+,4,Rathalos Carapace,6,Rathalos Wing,3,Rathalos Ruby,1
+Rath Soul Mail α,,7,7,0,56,68,82,3,2,2,-3,-4,Free Elem/Ammo Up,1,Intimidator,1,Rathalos Mastery,1,Azure Rathalos Scale+,4,Azure Rathalos Carapace,6,Azure Rathalos Wing,2,Barnos Hide+,6
+Rath Soul Mail β,,7,7,2,56,68,82,3,2,2,-3,-4,Free Elem/Ammo Up,1,,,Rathalos Mastery,1,Azure Rathalos Scale+,4,Azure Rathalos Carapace,6,Azure Rathalos Wing,2,Barnos Hide+,6
+Diablos Mail α,,6,7,0,54,74,86,3,-2,0,-3,2,Slugger,2,Heroics,1,Diablos Mastery,1,Diablos Carapace,4,Diablos Ridge+,3,Majestic Horn,2,Lightcrystal,2
+Diablos Mail β,,6,7,2,54,74,86,3,-2,0,-3,2,Slugger,2,,,Diablos Mastery,1,Diablos Carapace,4,Diablos Ridge+,3,Majestic Horn,2,Lightcrystal,2
+Diablos Nero Mail α,,7,7,1,56,68,82,2,-3,0,-4,2,Resentment,2,,,Diablos Mastery,1,Black Diablos Carapace,4,Black Diablos Ridge+,3,Black Spiral Horn+,1,Blos Medulla,2
+Diablos Nero Mail β,,7,7,21,56,68,82,2,-3,0,-4,2,Resentment,1,,,Diablos Mastery,1,Black Diablos Carapace,4,Black Diablos Ridge+,3,Black Spiral Horn+,1,Blos Medulla,2
+Uragaan Mail α,,7,7,1,60,72,86,4,-3,1,-2,-2,Partbreaker,2,,,Uragaan Protection,1,Uragaan Carapace,6,Uragaan Scute,3,Uragaan Jaw,2,Uragaan Ruby,1
+Uragaan Mail β,,7,7,3,60,72,86,4,-3,1,-2,-2,Partbreaker,1,,,Uragaan Protection,1,Uragaan Carapace,6,Uragaan Scute,3,Uragaan Jaw,2,Uragaan Ruby,1
+Bazel Mail α,,7,7,0,58,70,84,3,1,-4,-2,-2,Guard,2,Blast Resistance,2,Bazelguese Protection,1,Bazelgeuse Scale+,4,Bazelgeuse Carapace,4,Bazelgeuse Fuse,1,Uragaan Scute,2
+Bazel Mail β,,7,7,11,58,70,84,3,1,-4,-2,-2,Guard,2,,,Bazelguese Protection,1,Bazelgeuse Scale+,4,Bazelgeuse Carapace,4,Bazelgeuse Fuse,1,Uragaan Scute,2
+Damascus Mail α,,7,8,1,60,72,86,4,-2,0,0,0,Focus,2,Defense Boost,2,,,Elder Dragon Blood,2,Fucium Ore,3,Uragaan Scute,3,Firecell Stone,1
+Damascus Mail β,,7,8,111,60,72,86,4,-2,0,0,0,Focus,2,,,,,Elder Dragon Blood,2,Fucium Ore,3,Uragaan Scute,3,Firecell Stone,1
+Dober Mail α,,7,8,1,60,72,86,-2,0,-1,-1,4,Attack Boost,2,Mushroomancer,1,,,Elder Dragon Bone,3,Quality Bone,3,Blos Medulla,1,Dragonbone Relic,1
+Dober Mail β,,7,8,3,60,72,86,-2,0,-1,-1,4,Attack Boost,2,,,,,Elder Dragon Bone,3,Quality Bone,3,Blos Medulla,1,Dragonbone Relic,1
+Death Stench Muscle α,,7,8,0,62,74,88,3,2,-2,3,-4,Fortify,1,Free Elem/Ammo Up,1,,,Sinister Cloth,2,Dragonbone Relic,1,Vaal Hazak Membrane,1,Monster Broth,2
+Death Stench Muscle β,,7,8,3,62,74,88,3,2,-2,3,-4,Fortify,1,,,,,Sinister Cloth,2,Dragonbone Relic,1,Vaal Hazak Membrane,1,Monster Broth,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nergigante Mail α,,8,8,1,64,70,84,1,1,-3,1,-3,Stamina Surge,2,Agitator,1,Nergigante Hunger,1,Nergigante Carapace,4,Immortal Dragonscale,4,Nergigante Talon,2,Elder Dragon Bone,3
+Nergigante Mail β,,8,8,21,64,70,84,1,1,-3,1,-3,Stamina Surge,2,,,Nergigante Hunger,1,Nergigante Carapace,4,Immortal Dragonscale,4,Nergigante Talon,2,Elder Dragon Bone,3
+Kaiser Mail  α,,8,8,0,64,70,84,3,-3,1,-3,1,Special Ammo Boost,2,Latent Power,1,Teostra Technique,1,Teostra Carapace,5,Teostra Webbing,4,Teostra Powder,4,Rathalos Plate,1
+Kaiser Mail  β,,8,8,11,64,70,84,3,-3,1,-3,1,Special Ammo Boost,2,,,Teostra Technique,1,Teostra Carapace,5,Teostra Webbing,4,Teostra Powder,4,Rathalos Plate,1
+Kushala Cista α,,8,8,0,64,70,84,0,2,-3,4,-2,Handicraft,2,Focus,1,Kushala Daora Flight,1,Daora Carapace,5,Daora Horn+,3,Daora Claw+,2,Daora Gem,1
+Kushala Cista β,,8,8,2,64,70,84,0,2,-3,4,-2,Handicraft,2,,,Kushala Daora Flight,1,Daora Carapace,5,Daora Horn+,3,Daora Claw+,2,Daora Gem,1
+Vaal Hazak Mail α,,8,8,1,64,70,84,-4,4,1,-1,-3,Recovery Speed,2,Dragon Attack,1,Vaal Hazak Vitality,1,Vaal Hazak Carapace,5,Vaal Hazak Fang+,3,Vaal Hazak Tail,2,Odogaron Plate,1
+Vaal Hazak Mail β,,8,8,11,64,70,84,-4,4,1,-1,-3,Recovery Speed,2,,,Vaal Hazak Vitality,1,Vaal Hazak Carapace,5,Vaal Hazak Fang+,3,Vaal Hazak Tail,2,Odogaron Plate,1
+Kirin Jacket α,,6,8,0,64,70,84,-3,-2,4,-2,2,Divine Blessing,2,Thunder Attack,1,Kirin Favor,1,Kirin Hide+,3,Kirin Azure Horn,2,Kirin Thundertail,1,Fucium Ore,4
+Kirin Jacket β,,6,8,1,64,70,84,-3,-2,4,-2,2,Divine Blessing,2,,,Kirin Favor,1,Kirin Hide+,3,Kirin Azure Horn,2,Kirin Thundertail,1,Fucium Ore,4
+Xeno'jiiva Hide α,,8,9,1,72,78,92,-3,2,2,2,-4,Power Prolonger,2,Blight Resistance,1,Xeno'jiiva Divinity,1,Xeno'jiiva Horn,3,Xeno'jiiva Soulscale,6,Xeno'jiiva Wing,3,Xeno'jiiva Gem,1
+Xeno'jiiva Hide β,,8,9,11,72,78,92,-3,2,2,2,-4,Power Prolonger,2,,,Xeno'jiiva Divinity,1,Xeno'jiiva Horn,3,Xeno'jiiva Soulscale,6,Xeno'jiiva Wing,3,Xeno'jiiva Gem,1
+Guild Cross Suit α,,8,8,1,62,68,82,0,0,0,0,0,Resuscitate,1,Ice Resistance,2,Guild Guidance,1,Ace Hunter Coin,2,Brute Coin,3,Hunter King Coin,2,High Commendation,1
+Guild Cross Suit β,,8,8,3,62,68,82,0,0,0,0,0,Resuscitate,1,,,Guild Guidance,1,Ace Hunter Coin,2,Brute Coin,3,Hunter King Coin,2,High Commendation,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Commission Jacket α,,8,9,0,70,76,90,2,2,2,2,2,Wide-Range,2,Cliffhanger,1,Commission Guidance,1,Research Commission Ticket,1,Odogaron Scale+,8,Great Hornfly,2,High Commendation,2
+Commission Jacket β,,8,9,1,70,76,90,2,2,2,2,2,Wide-Range,2,,,Commission Guidance,1,Research Commission Ticket,1,Odogaron Scale+,8,Great Hornfly,2,High Commendation,2
+Vangis Mail α,,7,7,2,58,70,84,1,1,-3,2,-3,Speed Eating,1,Handicraft,1,,,Deviljho Scale,3,Deviljho Hide,4,Deviljho Saliva,2,Monster Hardbone,4
+Vangis Mail β,,7,7,3,58,70,84,1,1,-3,2,-3,Speed Eating,1,,,,,Deviljho Scale,3,Deviljho Hide,4,Deviljho Saliva,2,Monster Hardbone,4
+Aloy's Body α,Full,5,6,11,46,68,84,1,1,1,1,1,Marathon Runner,2,,,Anjanath Will,1,Nora Brave Trophy,4,Anjanath Pelt+,14,Anjanath Nosebone+,6,Anjanath Gem,1
+Ryu's Karate Gi,Full,2,3,0,12,44,70,2,0,5,-3,2,Health Boost,1,,,,,SFV Ticket,7,Monster Bone M,6,Earth Crystal,6,Barroth Shell,5
+Sakura's Work Uniform α,Full,6,7,11,50,70,82,0,4,0,4,-2,Stamina Surge,1,Resuscitate,1,Pink Rathian Mastery,1,SFV Ticket II,4,Hunter King Coin,4,Rathian Coin,4,Pink Rathian Scale+,6
+Butterfly Thorax,M,3,3,0,22,50,74,-1,-1,2,0,2,Health Boost,1,,,,,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Queen Beetle Thorax,F,3,3,0,22,50,74,-1,-1,2,0,2,Health Boost,1,,,,,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
+Blossom Vest,,3,2,0,18,46,70,1,1,4,1,1,Quick Sheath,1,,,,,Spring Blossom Ticket,1,Earth Crystal,3,,,,
+Blossom Vest α,,5,6,11,40,62,78,1,1,4,1,1,Quick Sheath,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,3,,,,
+Kulve Taroth's Ire α,,8,9,1,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Tailshell,6,Xeno'jiiva Gem,1
+Kulve Taroth's Ire β,,8,9,31,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Tailshell,6,Xeno'jiiva Gem,1
+Dante's Coat α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Critical Eye,1,,,Red Orb,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Plate,1
+Azure Starlord Armor α,,7,7,2,56,68,82,2,2,0,0,3,Handicraft,1,,,Rathalos Mastery,1,Azure Stargem,1,Azure Rathalos Scale+,6,Azure Rathalos Wing,4,Rathalos Medulla,2
