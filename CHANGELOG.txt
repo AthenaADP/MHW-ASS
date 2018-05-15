@@ -1,0 +1,10 @@
+v0.4b - 15/05/18:
+- Added Ryu α Armor
+- Added more skill slots (7 -> 10)
+- Fixed DLC settings
+- Fixed skill selection
+- Fixed decoration importing
+- Fixed some language loading
+
+v0.3a - 04/05/18:
+- Initial version 

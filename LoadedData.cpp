@@ -172,12 +172,12 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 
 void GetRelevantDecorations( Query^ query )
 {
-	for each( Skill^ skill in query->skills )
+	for each( Ability^ ability in query->rel_abilities )
 	{
-		if( !Decoration::static_decoration_ability_map.ContainsKey( skill->ability ) )
+		if( !Decoration::static_decoration_ability_map.ContainsKey( ability ) )
 			continue;
 
-		for each( Decoration^ decoration in Decoration::static_decoration_ability_map[ skill->ability ] )
+		for each( Decoration^ decoration in Decoration::static_decoration_ability_map[ ability ] )
 		{
 			if( decoration->MatchesQuery( query ) )
 			{
@@ -189,12 +189,12 @@ void GetRelevantDecorations( Query^ query )
 
 void GetRelevantCharms( Query^ query )
 {
-	for each( Skill^ skill in query->skills )
+	for each( Ability^ ability in query->rel_abilities )
 	{
-		if( !Charm::static_charm_ability_map.ContainsKey( skill->ability ) )
+		if( !Charm::static_charm_ability_map.ContainsKey( ability ) )
 			continue;
 
-		for each( Charm^ charm in Charm::static_charm_ability_map[ skill->ability ] )
+		for each( Charm^ charm in Charm::static_charm_ability_map[ ability ] )
 		{
 			if( charm->MatchesQuery( query ) )
 			{
@@ -222,11 +222,6 @@ void LoadedData::GetRelevantData( Query^ query )
 	Map_t< Skill^, Skill^ >::Enumerator e = Skill::set_skill_map.GetEnumerator();
 	while( e.MoveNext() )
 	{
-		if( e.Current.Key->ability->relevant && !e.Current.Value->ability->relevant )
-		{
-			e.Current.Value->ability->relevant = true;
-			query->rel_abilities.Add( e.Current.Value->ability );
-		}
 		if( !e.Current.Key->ability->relevant && e.Current.Value->ability->relevant )
 		{
 			e.Current.Key->ability->relevant = true;

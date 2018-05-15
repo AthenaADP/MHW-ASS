@@ -34,8 +34,8 @@ Allow A&rena Armor
 #Event items from Event/Challenge quests
 Allow &Event Armor
 
-#Japanese only USJ gear
-Allow &USJ gear
+#Allow the special pre-order bonus "Fair Wind Charm"
+Allow &Fair Wind Charm
 
 #This setting will ignore low rank armor if you are in high rank
 Allow &Lower Rank Armor

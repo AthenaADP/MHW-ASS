@@ -443,14 +443,20 @@ namespace MHWASS {
 		{
 			OpenFileDialog dlg;
 			dlg.InitialDirectory = System::Environment::CurrentDirectory;
-			dlg.Filter = StaticString( MyDecorationList ) + L"mydecorations.txt";
+			dlg.Filter = StaticString( MyDecorationList ) + L"|mydecorations.txt";
 			dlg.FilterIndex = 0;
 			System::Windows::Forms::DialogResult res = dlg.ShowDialog();
 			
 			if( res == System::Windows::Forms::DialogResult::OK )
 			{
+				for each( Decoration^ deco in Decoration::static_decorations )
+				{
+					deco->num_owned = 0;
+				}
+
 				Decoration::LoadCustom( dlg.FileName );
 				RefreshList( -1 );
+				Decoration::SaveCustom();
 			}
 		}
 		

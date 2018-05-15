@@ -176,7 +176,7 @@ ref struct StringTable
 		ClearSettings,
 		AllowArena,
 		AllowEventArmor,
-		AllowUSJArmor,
+		AllowFairWind,
 		AllowLowerTierArmor,
 		SortSkillsAlphabetically,
 		Donate,
