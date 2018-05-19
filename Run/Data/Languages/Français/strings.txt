@@ -13,170 +13,171 @@
 #
 
 #The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
--
+Traduit par Lightphenix
 
 #Menu options
-&File
+&Fichier
 &Options
-&Language
-&Help
-&Load
-&Save
+&Langage
+&Aide
+&Charger
+&Sauvegarder
 &Update
 E&xit
 
 #This option resets all settings to default
-&Clear Settings
+&Réinitialiser
 
 #This refers to armor made from Arena coins
-Allow A&rena Armor
+Autoriser les armures Arène
 
 #Event items from Event/Challenge quests
-Allow &Event Armor
+Autoriser les armures Événements
 
 #Allow the special pre-order bonus "Fair Wind Charm"
-Allow &Fair Wind Charm
+Autoriser le bracelet de la Cinquième
 
 #This setting will ignore low rank armor if you are in high rank
-Allow &Lower Rank Armor
+Autoriser les armures de bas rang
 
-Sort Skills Alpha&betically
+Trier alphabétiquement
 
-&Donate
-&Skill Information
+&Donation
+&Informations talents
 
 #This option opens a browser to my Facebook page
-Check for &Updates
+Vérifier les MàJ
 
-&About
-My &Decorations
-&Import
-&Quick Search
-&Advanced Search
-&Cancel
-&Default
+&A propos
+Mes &Joyaux
+&Importer
+&Recherche rapide
+Recherche avancée
+&Annuler
+&Défaut
 
 #This string is used in the Advanced Search dialog to deselect all armors in a list.
-&None
+&Aucune
 
 #This string is used in the combobox that sorts solutions by various criteria
-Unsorted
+Non-trié
 
 #Buttons
-&Search
-Select &None
-Select &Best
-&Add
+&Recherche
+Choisir aucun
+Choisir meilleur
+&Ajouter
 &Reset
-&Remove
-&Delete All
-Move &Up
-Move &Down
-&Close
-&Find Next
+Retirer
+&Tout supprimer
+Monter
+Descendre
+&Fermer
+&Trouver prochain
 
-Quest Level
-Weapon Slots
-Gender
-Male
-Female
-No Extra Skill Filtering
-Sort/Filter Results
+Niveau quête
+Slots arme
+Genre
+Homme
+Femme
+Pas de filtre supplémentaire
+Trier/filtrer résultats
 
-Dragon Res
-Fire Res
-Ice Res
-Thunder Res
-Water Res
-Base Defence
-Max Defence
-Aug Defence
+
+Rés Dragon
+Rés Feu
+Rés Glace
+Rés Foudre
+Rés Eau
+Défense de base
+Défense maximum
+Défense augmenté
 
 #When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
-Difficulty
+Difficulté
 
-Rarity
-Slots Spare
+Rareté
+Slots
 
 #When sorting solutions, "Family" refers to which monsters the gear is made from
-Family
+Branche/monstre
 
 #Extra Skills are skills that a solution may have that the user did not search for
-Extra Skills
+Talents supplémentaire
 
-Decorations
-Use none
-Use mine
-Use all
+Joyaux
+Aucun
+Les miens
+Tous
 
-Skill
-Skills
-Skill Filters
+Talent
+Talents
+Filtres talents
 
 #Used in the Advanced Search dialog
-Select Armor
+Choisir armure
 
 Slots
-Slot Level
-(none)
+Niveau slot
+(aucun)
 
 #When a solution has spare slots. Format: "3 slots spare (1+1+2)"
-%1 slots spare
+%1 emplacement(s)
 
-Solutions found:
+Solutions trouvées:
 
 #When there are too many solutions to display all of them, %1 is the limit (default 1000)
-Showing first %1 solutions only:
+Voici les %1 premières solutions:
 
-Decoration list
-File is corrupt.
+Liste des joyaux
+Fichier corrompu.
 Version
-Find
+Trouver
 
 #Used in some error popups
 Error
 
 #For showing min (%1) and max (%2) defence, e.g. 10 to 100
-%1 to %2
+%1 à %2
 
-Defence
-Results
-Delete All Decorations
-ASS Settings
-&Max Results
-Print &Decoration Names
-Print &Material Lists
-Preview Image Default &Zoom
+Défense
+Résultas
+Supprimer tous les joyaux
+Paramètres A.S.S.
+Nombre de résultats maximum
+Afficher le nom des Joyaux
+Afficher la liste des matériaux
+Prévisualiser image
 
 #Showing min/max defence and elemental resists
-%1-%2 Def, %3 Fir, %4 Wat, %5 Ice, %6 Thn, %7 Drg
+%1-%2 Déf, %3 Feu, %4 Eau, %5 Glc, %6 Fdr, %7 Drg
 
 #This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
-%1 Jewel
+Joyau %1
 
 #Item Type refers to weapon/helm/body armor/etc.
-Item Type
+Type objet
 
 #This string is for displaying potential extra skills
 (%1 possible)
 
 #Strings for the skill description dialog
-Show
-Description
-Skills
-Skill Trees
-Available from these Armor pieces:
-Available as a set bonus from these Armor pieces:
+Montrer
+Déscription
+Talents
+Arbre des talents
+Disponible sur ces pièces d'armures :
+Disponible comme bonus de set sur :
 
 #Strings for displaying hunter rank, village quest progress etc.
 %1☆
-All
+Tous
 
 #Confirmation popup
-Are you sure?
+Vous êtes sur ?
 
 #Skill Level. %1 is the skill name, %2 is the level number
-%1 Lv%2
+%1 Nv%2
 
 #Slot formatting. Gear can have up to 3 slots, each with a level from 1-3
 %1-%2-%3

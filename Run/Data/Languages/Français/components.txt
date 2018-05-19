@@ -1,0 +1,526 @@
+﻿Pièce "As de la chasse"
+Philtre de métal
+Graine de ténacité
+Sphère d'armure II
+Os ancien
+Potion ancestrale
+Croc Anjanath
+Croc Anjanath +
+Gemme Anjanath
+Os nasal Anjanath
+Os nasal Anjanath +
+Pelage Anjanath
+Pelage Anjanath +
+Plaque Anjanath
+Écaille Anjanath
+Écaille Anjanath +
+Queue Anjanath
+Antidote
+Herbe à antidote
+Poche d'eau
+Pierre marine
+Sphère d'armure
+Sphère d'armure +
+Amulette de défense
+Potion de pierre
+Griffe de défense
+Appât Arowana
+Viande astera
+Cuirasse Rathalos azur
+Écaille Rathalos azur +
+Queue Rathalos azur
+Aile Rathalos azur
+Rubis Rathalos
+Fragment d'astre bleu
+Délicioptère
+Peau Barnos +
+Serre Barnos
+Bombe Barril
+Cuirasse Barroth
+Griffe Barroth
+Griffe Barroth +
+Pièce Barroth
+Vertèbre Barroth
+Thorax Barroth +
+Scalp Barroth
+Carapace Barroth
+Queue Barroth
+Cuirasse Bazelgeuse
+Mèche Bazelgeuse
+Gemme Bazelgeuse
+Écaille Bazelgeuse +
+Queue Bazelgeuse
+Serre Bazelgeuse
+Aile Bazelgeuse
+Écaille magnifique
+Pierre Bherna
+Jumelles
+Gemme wyverne rapace
+Amerinsecte
+Bandage
+Ticket cristal noir
+Cuirasse Diablos noire
+Thorax Diablos noire
+Corne spiralée noire +
+Noix explosive
+Noix frappe du dragon
+Medulla à épines
+Champignon bleu
+Écaille d'arowana bombe
+Bombaie
+Boomerang
+Os fossilisé
+Bombe artifice
+Os bestial
+Pièce brute
+Viande brûlée
+Écaille d'arowana explosif
+Carbalite
+Catalyseur
+Champicool
+Ecaille moisie
+Poche de coma
+Certificat du champion
+Boisson fraîche
+Os de corail
+Cristal de corail
+Cuirasse Daora
+Griffe Daora +
+Écaille Daora +
+Joyau Daora
+Corne Daora +
+Queue Daora
+Palmure Daora
+Extrait de vitalité
+Potion de vitalité
+Écaille de dragon-zombie
+Billet des Anciens Wyvériens
+Poudre démon
+Philtre du démon
+Fléau du diable
+Peau Deviljho
+Scalp Deviljho
+Serre Deviljho
+Gemme Deviljho
+Écaille Deviljho
+Salive Deviljho
+Queue Deviljho
+Grand croc Deviljho
+Cuirasse Diablos
+Croc Diablos
+Moelle Diablos
+Vertèbre Diablos
+Thorax Diablos
+Carapace Diablos
+Chevron Diablos
+Peau Dodogama +
+Machoire Dodogama
+Écaille Dodogama +
+Queue Dodogama
+Serre Dodogama
+Relique Dragon
+Quartz de wyrm
+Baie-dragon 
+Dragonite
+Capsule draconique
+Cristal de dragon ancien
+Onirite
+Viande droguée
+objet vente
+Bouse
+Capsule de bouse
+Cristal de terre
+Sang de dragon ancien
+Os de dragon ancien
+Poche électrique
+Fiole vide
+Boisson énergétique
+Champexciteur
+Téléportogène
+Boue fertile
+Écaille Teostra +
+Herbe de feu
+Pierre de lave
+Billet wyvérien
+Poche de flamme
+Noix de feu
+Capsule aveuglante
+Flashinsecte
+Ondulite
+Pièce de l'air
+Poche de glace
+Poche de givre
+Fucium
+Dessin Galjalaka
+Écaille de Gajau
+Peau Gajau
+Moustache Gajau
+Pièce Dodogama
+Cuirasse Gastodon
+Corne Gastodon
+Écaille rouge
+Écaille rouge +
+Croc Girros
+Peau Girros
+Peau Girros +
+Écaille Girros
+Écaille Girros +
+Pierre-dragon scintillante
+Écaille scintillante
+Joyau ???1
+Insecte-dieu
+Billet wyvérien en or
+Œuf d'or
+Écaille dorée
+Écaille dorée+
+Appât pour poisson d'or
+Grande moustache Gajau
+Écaille de grand arowana explosif
+Écaille de grand poisson-poudre
+Croc Grand Girros
+Croc Grand Girros +
+Peau Grand Girros
+Peau Grand Girros +
+Capuchon Grand Girros
+Capuchon Grand Girros +
+Écaille Grand Girros
+Écaille Grand Girros +
+Queue Grand Girros
+Grande écaille poisson-poudre
+Grand papillon corne
+Griffe Grand Jagras
+Griffe Grand Jagras +
+Peau Grand Jagras
+Peau Grand Jagras +
+Crinière Grand Jagras
+Écaille Grand Jagras
+Écaille Grand Jagras +
+Grande écaille de sushipoisson
+Poudre à canon
+Poudre à canon II
+Appât pour poisson-poudre
+Écaille poisson-poudre
+Poudre à canon III
+Sphère d'armure III
+Poudre de pierre
+Sphère d'armure IV
+Herbe
+Remède d'herbe
+Poudre végétale
+Pierre-dragon du héro
+Certificat du héros
+Pelage de qualité
+Miel
+Cuirasse Honetaur
+Tête Hornetaur
+Aile fine Hornetaur
+Carapace Honetaur
+Aile Hornetaur
+Pièce roi chasseur
+Écaille de dragon immortel
+Immunisateur
+Poche infernale
+Minerai de fer
+Lierre
+Peau Jagras
+Peau Jagras +
+Écaille Jagras
+Écaille Jagras +
+Cuirasse Jyuratodus
+Croc Jyuratodus
+Croc Jyuratodus +
+Nageoire Jyuratodus
+Nageoire Jyuratodus +
+Écaille Jyuratodus
+Écaille Jyuratodus +
+Carapace Jyuratodus
+Corne de Kelbi
+Cuirasse Kestodon
+Scalp Kestodon
+Carapace Kestodon
+Corne azur Kirin
+Peau Kirin
+Peau Kirin +
+Crinière Kirin
+Queue de Kirin
+Corne de foudre Kirin
+Queue de foudre Kirin
+Pièce Kulu-Ya-ku
+Bec Kulu-Ya-Ku
+Bec Kulu-Ya-Ku +
+Peau Kulu-Ya-Ku
+Peau Kulu-Ya-Ku +
+Aigrette Kulu-Ya-Ku
+Aigrette Kulu-Ya-Ku +
+Écaille Kulu-Ya-Ku
+Écaille Kulu-Ya-Ku +
+Ticket Kulu-Ya-Ku
+Gemme d'or Kulve Taroth
+Pépite d'or Kulve Taroth
+Écaille d'or Kulve Taroth
+Carapace d'or Kulve Taroth
+Corne d'or Kulve Taroth
+Queue d'or Kulve Taroth
+Grand baril
+Grande bombe baril
+Grande écaille
+Béryl
+Pépite-lave
+Cuirasse Lavasioth
+Croc Lavasioth +
+Nageoire Lavasioth +
+Écaille Lavasioth +
+Griffe Legiana
+Griffe Legiana +
+Gemme Legiana
+Peau Legiana
+Peau Legiana +
+Plaque Legiana
+Écaille Legiana
+Écaille Legiana +
+Palmure de queue Legiana
+Palmure Legiana
+Aile Legiana
+Poudre de vie
+Cristal de lumière
+Minerai loc lac
+Écaille brillante
+Machalite
+Corne majestueuse
+Mandragore
+Potion secrète
+Potion de pierre +
+Méga bombe baril
+Méga bombe artifice
+Potion de vitalité +
+Philtre du diable +
+Méga nutriments
+Méga Potion
+Philtre du diable
+Graine pouvoir
+Minegardenite
+Os de wyverne (G)
+Os de wyverne (M)
+Os de monstre +
+Os de wyverne (P)
+Bouillon de monstre
+Liquide de monstre
+Os duros
+Os acéros
+Peau de Mosswine
+Joyau ???2
+Noix aiguille
+Cuirasse Nergigante
+Gemme Nergigante
+Corne Nergigante +
+Plaque régénératrice Nergigante
+Queue Nergigante
+Serre Nergigante
+Filet
+Champinitro
+Trophée de valeur Nora
+Extrait d’arginine
+Cristal nova
+Baie-soin
+Nutriments
+Griffe Odogaron
+Griffe Odogaron +
+Croc Odogaron
+Croc Odogaron +
+Gemme Odogaron
+Plaque Odogaron
+Écaille Odogaron
+Écaille Odogaron +
+Tendon Odogaron
+Tendon Odogaron +
+Queue Odogaron
+Poche d'omniplégie
+Cuirasse Paolumu +
+Pelage Paolumu
+Pelage Paolumu +
+Écaille Paolumu
+Écaille Paolumu +
+Carapace Paolumu
+Palmure Paolumu
+Aile Paolumu
+Poche de paralysie
+Champaralysie
+Griffe perforante
+Cuirasse Rathian sakura
+Écaille Rathian sakura
+Pièce "Apogée"
+Piège à fosse
+Écaille de platine
+Écaille de platine +
+Poche de poison
+Bombe de poison
+Viande empoisonnée
+Couteau poison
+Amulette de force
+Griffe de force
+Pièce Pukei-Pukei
+Cuirasse Pukei-Pukei
+Plume Pukei-Pukei
+Poche Pukei-Pukei
+Poche Pukei-Pukei +
+Écaille Pukei-Pukei
+Écaille Pukei-Pukei +
+Carapace Pukei-Pukei
+Queue Pukei-Pukei
+Aile Pukei-Pukei
+Os de qualité
+Cuirasse Radobaan
+Moelle Radobaan
+Médulla Radobaan
+Carapace huileuse Radobaan
+Écaille Radobaan
+Écaille Radobaan +
+Carapace Radobaan
+Steak saignant
+Serre Rathalos
+Carapace Rathalos
+Pièce Rathalos
+Moelle Rathalos
+Medulla Rath
+Plaque Rathalos
+Rubie Rathalos
+Écaille Rathalos
+Écaille Rathalos +
+Cuirasse Rathalos
+Queue Rathalos
+Palmure Rathalos
+Aile Rathalos
+Carapace Rathian
+Pièce Rathian
+Plaque Rathian
+Rubis Rathian
+Écaille Rathian
+Écaille Rathian +
+Cuirasse Rathian
+Pointe Rathian
+Pointe Rathian +
+Palmure Rathian
+Ration
+Viande crue
+Orbe Rouge
+Ticket de commission de recherche
+Boule de bouse
+Ticket SFV
+Ticket SFV II
+Ticket SFV III
+Capsule sonore
+Poche hurlante
+Peau Shamos
+Peau Shamos +
+Écaille Shamos
+Écaille Shamos +
+Griffe aiguisée
+Pierre-dragon brillante
+Piège électrochoc
+Œuf d'argent
+Billet wyvérien en argent
+Étoffe sinistre
+Noix tranchante
+Herbe sommeil
+Poche de somnifère
+Petit baril
+Bombe fumigène
+Noix fumigène
+Herbe de neige
+Toile d'araignée
+Minerai solaire
+Ticket printemps
+Bestiaire - Insecte (printemps)
+Œuf d'acier
+Ticket wyverien acier
+Pierre-dragon
+Éclat de pierre-dragon
+Os solide
+Fragment Pierre-dragon
+Écaille Sushipoisson
+Coupon Chasseur de miaonstres
+Cuirasse Teostra
+Griffe Teostra +
+Gemme Teostra
+Corne Teostra +
+Crinière Teostra
+Poudre Teostra
+Queue Teostra
+Membrane Teostra
+Poche de foudre
+Foudrinsecte
+Viande paralysante
+Champi vénéneux
+Griffe Tobi-Kadachi
+Griffe Tobi-Kadachi +
+Électrode Tobi-Kadachi
+Électrode Tobi-Kadachi +
+Membrane Tobi-Kadachi
+Pelage Tobi-Kadachi
+Pelage Tobi-Kadachi +
+Écaille Tobi-Kadachi
+Écaille Tobi-Kadachi +
+Poche de torrent
+Poche de toxine
+Bombe tranquilisante
+Kit de piège
+Corne tordue
+Pièce tzitzi
+Griffe Tzitzi-Ya-Ku
+Griffe Tzitzi-Ya-Ku +
+Peau Tzitzi-Ya-Ku
+Peau Tzitzi-Ya-Ku +
+Photophore Tzitzi-Ya-Ku
+Photophore Tzitzi-Ya-Ku +
+Écaille Tzitzi-Ya-Ku
+Écaille Tzitzi-Ya-Ku +
+Crâne Inconnu
+Carapace Uragaan
+Mâchoir Uragaan
+Moelle Uragaan
+Rubis Uragaan
+Écaille Uragaan +
+Scutum Uragaan
+Cuirasse Vaal Hazak
+Croc Vaal Hazak +
+Gemme Vaal Hazak
+Membrane Vaal Hazak
+Queue Vaal Hazak
+Serre Vaal hazak
+Aile Vaal Hazak
+Quartz Val Habar
+Carapace Vespoid
+Aile fine Vespoid
+Cuirasse Vespoid
+Aile Vespoid
+Ticket
+Pelage chaud
+Os déformé
+Joyau ???3
+Pierre-dragon du guerrier
+Steak à point
+Écaille de Poissaiguiseur
+Écaille de Poissaiguiseur+
+Ticket tortilleur
+Peau drake ailé
+Peau drake ailé +
+Joyau ???4
+Masse osseuse wyvern
+Gemme wyverne
+Griffe Xeno’jiiva
+Gemme Xeno’jiiva
+Corne Xeno’jiiva
+Carapace Xeno’jiiva
+Écaille d’âme Xeno’jiiva
+Queue Xeno’jiiva
+Voile Xeno’jiiva
+Aile Xeno’jiiva
+Cuirasse Zorah Magdaros
+Gemme Zorah Magdaros
+Écaille colorifuge Zorah Magdaros
+Magma Zorah Magdaros
+Plexus Zorah Magdaros
+Vertèbre Zorah Magdaros
+(Exclu pré-commande)
+(Rang B Quêtes arène 1-7)
+(Rang B Quêtes arène 8-9)

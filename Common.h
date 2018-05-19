@@ -204,6 +204,7 @@ ref struct StringTable
 		FindNext,
 		HR,
 		WeaponSlots,
+		Gender,
 		Male,
 		Female,
 		NoExtraSkillFiltering,

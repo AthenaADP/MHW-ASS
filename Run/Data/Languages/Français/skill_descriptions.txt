@@ -1,0 +1,362 @@
+Réduit la durée du poison de 30%
+Réduit la durée du poison de 60%
+Protège du poison
+Réduit la durée de la paalysie de 30%
+Réduit la durée de la paalysie de 60%
+Protège de la paralysie
+Réduit la durée de sommeil de 30%
+Réduit la durée de sommeil de 60%
+Protège du sommeil
+Durée des étourdissements -30%
+Durée des étourdissements -60%
+Protège des étourdissements
+Réduit les entraves à la vitesse de déplacement et à l'esquive.
+Retarde et réduit les dégâts des fléaux-explosion
+Retarde et réduit grandement les dégâts des fléaux-explosion
+Protège des fléaux-explosion
+Réduit les dégâts subis en cas d'hémorragie
+Réduit grandement les dégâts subis en cas d'hémorragie
+Protège des hémorragies
+Réduit la durée des effets de Fagilité de 30%.
+Réduit la durée des effets de Fragilité de 60%.
+Protège des effets de Fragilité.
+Réduit les effets des rugissements des monstres faibles
+Réduit les effets des rugissements des monstres faibles
+Annule les effets des rugissements des monstres faibles et réduit légèrement les effets des rugissements des monstres puissants
+Annule les effets des rugissements des monstres faibles et réduit les rugissements des monstres puissants
+Annule les effets des rugissements des monstres faibles et puissants
+Réduit légèrement les effets des petites bourrasques
+Réduit les effets des petites bourrasques
+Annule les effets des petites bourrasques
+Annule les effets des petites bourrasques et réduit les effets des grandes bourrasques
+Annule les effets des petites et grandes bourrasques
+Annule les petites secousses
+Annule les petites secousses et réduit les effets des grandes secousses
+Annules les petites et grandes secousses
+Les capsules de bouses sont plus efficaces
+Annule les dégâts du miasme et réduit les dégâts de l'acide
+Annule les dégâts de chaleur.
+Attaque +3
+Attaque +6
+Attaque +9
+Attaque +12 Affinité +5%
+Attaque +15 Affinité +5%
+Attaque +18 Affinité +5%
+Attaque +21 Affinité +5%
+Défense +5
+Défense +10
+Défense +15
+Défense +20 Résistance aux éléments +3
+Défense +25 Résistance aux éléments +3
+Défense +30 Résistance aux éléments +3
+Défense +35 Résistance aux éléments +3
+Vie +15
+Vie +30
+Vie +50
+Récupération +10%
+Récupération +20%
+Récupération +30%
+Double la vitesse de récupération des dégâts temporaires
+Triple la vitesse de récupération des dégâts temporaires
+Quadruple la vitesse de récupération des dégâts temporaires
+Résistance feu +6
+Résistance feu +12
+Résistance feu +20 Défense +10
+Défense Eau +6
+Défense Eau +12
+Défense Eau +20 Défense physique +10
+Résistance glace +6
+Résistance glace +12
+Résistance glace +20 Défense +10
+Défense Foudre +6
+Défense Foudre +6
+Défense Foudre +20 Défense physique +10
+Résistance dragon +6
+Résistance dragon +12
+Résistance dragon +20 Défense +10
+Durée fléaux élémentaires -30%
+Durée fléaux élémentaires -60%
+Annule les fléaux éémentaires
+Attaque feu +30
+Attaque feu +60
+Attaque feu +100
+Attaque feu +5% Bonus : +100
+Attaque feu +10% Bonus : +100
+Attaque Eau +30
+Attaque Eau +60
+Attaque Eau +100
+Attaque Eau +5% Bonus Eau +100
+Attaque Eau +10% Bonus Eau +100
+Attaque glace +30
+Attaque glace +60
+Attaque glace +100
+Attaque glace +5% Bonus : +100
+Attaque glace +10% Bonus : +100
+Attaque Foudre +30
+Attaque Foudre +60
+Attaque Foudre +100
+Attaque Foudre +5% Bonus Foudre +100
+Attaque Foudre +10% Bonus Foudre +100
+Attaque dragon +30
+Attaque dragon +60
+Attaque dragon +100
+Attaque dragon +5% Bonus : +100
+Attaque dragon +10% Bonus : +100
+Poison +5% Bonus : +10
+Poison +10% Bonus : +10
+Poison +20% Bonus : +10
+Paralysie +5% Bonus : +10
+Paralysie +10% Bonus : +10
+Paralysie +20% Bonus : +10
+Sommeil +5% Bonus : +10
+Sommeil +10% Bonus : +10
+Sommeil +20% Bonus : +10
+Explosion +5% Bonus : +10
+Explosion +10% Bonus : +10
+Explosion +20% Bonus : +10
+Augmente la puissance des munitions et des flèches normales
+Augmente la puissance des munitions perçantes et du Perce-Dragon
+Augmente la puissance des munitions à grenaille et des tirs de guerre
+Révèle 33% des éléments cachés et augmente le capacité du chargeur pour certaines munitions.
+Révèle 66% des éléments cachés et augmente le capacité du chargeur pour de nombreuses munitions.
+Révèle 100% des éléments cachés et augmente le capacité du chargeur pour la plupart munitions.
+Affinité +3%
+Affinité +6%
+Affinité +10%
+Affinité +15%
+Affinité +20%
+Affinité +25%
+Affinité +30%
+Augmente les dégâts des coups critiques à 130%
+Augmente les dégâts des coups critiques à 135%
+Augmente les dégâts des coups critiques à 140%
+Affinité +15% lorsque vous attaquez les parties faibles d'un monstre
+Affinité +30% lorsque vous attaquez les parties faibles d'un monstre
+Affinité +50% lorsque vous attaquez les parties faibles d'un monstre
+Remplissage jauge +5% Temps de charge -5%
+Remplissage jauge +10% Temps de charge -10%
+Remplissage jauge +20% Temps de charge -20%
+Bonus de durée +10%
+Bonus de durée +20%
+Bonus de durée + 40%
+Tranchant +10
+Tranchant +20
+Tranchant +30
+Tranchant +40
+Tranchant +50
+Affinité d’attaque dégainée +30%
+Affinité d’attaque dégainée +60%
+Affinité d’attaque dégainée +100%
+Augmente les dégâts contre les parties destructibles de 10%.
+Augmente les dégâts contre les parties destructibles de 20%.
+Augmente les dégâts contre les parties destructibles de 30%.
+Etourdissement +10%
+Etourdissement +20%
+Etourdissement +30%
+Drain d'endurance +10%
+Drain d'endurance +20%
+Drain d'endurance +30%
+Permet de monter et de renverser les monstres plus facilement.
+Attaque sautée +10%
+Affinité +10% Perte d'endurance -10%.
+Affinité +20% Perte d'endurance -10%.
+Affinité +30% Perte d'endurance -30%.
+Affinité +40% Perte d'endurance -30%.
+Affinité +50% Perte d'endurance -50%.
+Attaque +4 Affinité +3%
+Attaque +8 Affinité +6%
+Attaque +12 Affinité +9%
+Attaque +16 Affinité +12%
+Attaque +20 Affinité +15%
+Attaque +5
+Attaque +10
+Attaque +20
+Attaque +5% Défense +15
+Attaque +10% Défense +20
+Attaque +15% Défense +25
+Attaque +20% Défense +30
+Attaque +30% Défense +40
+Augmente l'attaque de 10% et la défense de 15% à chaque fois.
+Attaque +5
+Attaque +10
+Attaque +15
+Attaque +20
+Attaque +25
+Améliore grandement le temps d'invincibilité durant une esquive et réduit la perte d'endurance
+Augmente la durée des mélodies et la récupération de vie.
+Capacité +1
+Accroît la puissance des munitions spéciales (fusarbalète) et de Perce-dragon de 10%
+Accroît la puissance des munitions spéciales (fusarbalète) et de Perce-dragon de 20%
+Attaque explosive +10% Recharge Feu de wyverne -15%
+Attaque explosive +20% Recharge Feu de wyverne -30%
+Attaque explosive +30% Recharge Feu de wyverne -50%
+Puissance de feu +10%
+Puissance de feu +20%
+Coût d'endurance -15%.
+Coût d'endurance -30%.
+Coût d'endurance -50%.
+Réduit les coûts d'endurance fixe de 10%
+Réduit les coûts d'endurance fixe de 20%
+Réduit les coûts d'endurance fixe de 30%
+Réduit les coûts d'endurance fixe de 40%
+Réduit les coûts d'endurance fixe de 50%
+Permet d'esquiver de grands monstres en sautant vers eux.
+Vitesse de récupération d'endurance +10%
+Vitesse de récupération d'endurance +20%
+Vitesse de récupération d'endurance +30%
+Augmente le délai jusqu'à la réduction de 30% de votre endurance maximum.
+Augmente le délai jusqu'à la réduction de 60% de votre endurance maximum.
+Empèche la réduction de l'endurance maximum.
+Augmente très légèrement la fenêtre d'invulnérabilité.
+Augmente légèrement la fenêtre d'invulnérabilité.
+Augmente la fenêtre d'invulnérabilité.
+Augmente grandement la fenêtre d'invulnérabilité.
+Augmente énormément la fenêtre d'invulnérabilité.
+Augmente légérement la distance d'equive
+Augmente la distance d'esquive
+Augmente grandement la distance d'esquive
+Diminue très légèrement l'impact des attaques.
+Diminue légèrement l'impact des attaques et réduit la perte d'endurance de 15%
+Diminue grandement l'impact des attaques et réduit la perte d'endurance de 15%
+Diminue nettement l'impact des attaques et réduit la perte d'endurance de 30%
+Diminue grandement l'impact des attaques et réduit la perte d'endurance de 50%
+Augmente légèrement la vitesse de rengainage
+Augmente modérement la vitesse de rengainage
+Augmente nettement la vitesse de rengainage
+Permet de partager 33% des effects des objets avec les alliés à proximité
+Permet de partager 33% des effects des objets avec les alliés même à grande distance
+Permet de partager 66% des effects des objets avec les alliés même à grande distance
+Permet de partager 66% des effects des objets avec les alliés même à très grande distance
+Permet de partager tous des effects des objets avec les alliés même à très grande distance
+Durée des effets d’objets +10%
+Durée des effets d’objets +25%
+Durée des effets d’objets +50%
+Octrois une chance prédéfinie de consommer une nourriture ou un breuvage gratuitement. Chance d'activation +25%
+Augmente très légèrement la vitesse d'utilisation
+Augmente modérément la vitesse d'utilisation
+Augmente très grandement la vitesse d'utilisation
+Réduit la durée d’aiguisage d’un cycle
+Réduit la durée d’aiguisage de deux cycles
+Réduit la durée d’aiguisage de trois cycles
+Puissance explosive +10%
+Puissance explosive +20%
+Puissance explosive +30%
+Permet de digérer les ahcmpignons bleus et les champignons vénéneux.
+Permet également de digérer les champinitro et les champaralysies.
+Permet également de digérer les mandragores, les fléaux du diable, et les champexciteurs.
+Augmente le temps nécessaire au ferrage du poisson et facilite ainsi les grosses prises.
+Augmente la vitesse de transport d'objet et amortit les atterrissages
+Acélère la collecte et empêche les chutes en cas d'attaque.
+Permet de récolter 1 unité de miel supplémentaire.
+Empêche les chutes lors d'un dépeçage
+Dégâts subis -15%
+Dégâts subis -30%
+Dégâts subis -50%
+Augmente l’attaque et la défense du Palico de 5%
+Augmente l’attaque et la défense du Palico de 10%
+Augmente l’attaque et la défense du Palico de 15%
+Augmente l’attaque et la défense du Palico de 20%
+Augmente l’attaque et la défense du Palico de 25%
+Herbe +1
+Herbe +1, Fuit/Noix/Graine +1
+Herbe +1, Fuit/Noix/Graine +1, Insecte +1
+Herbe +1, Fuit/Noix/Graine +1, Insecte +1, Champignon +1
+Carcasse +1
+Carcasse +1. Récolte objet bonus +1
+Carcasse +1. Récolte objet bonus +1. Gisement minier +1
+Activé : affinité +10%
+Activé : affinité +20%
+Activé : affinité +30%
+Augmente la capacité pour les projectiles de type plante ou pierre
+Augmente la capacité pour les projectiles de type plante ou pierre et certaines munitions de monstres
+Augmente la capacité pour les projectiles de type plante ou pierre et toutes les munitions de monstres
+Permet d'échapper un peu plus facilement aux monstres
+Permet d'échapper plus facilement aux monstres
+Permet d'échapper bien plus facilement aux monstres
+Évite les chutes
+Évite les chutes standars. Les trébuchements sont transformés en chutes.
+Évite les chutes et les trébuchements
+Augmente la portée de détection des navicioles
+Augmente la vitesse de déplacement lorsque vous êtes accroupi
+Annule les chutes durant les sauts.
+Les sporenlits restorent 20 points de vie
+Les sporenlits restorent 35 points de vie
+Les sporenlits restorent 60 points de vie
+Empèche l'eau de ralentir les déplacements
+Empèche l'eau de ralentir les déplacements et améliore les esquives dans l'eau
+Empèche l'eau de ralentir les déplacements et améliore nettement les esquives dans l'eau
+Réduit de 25% la consommation d'endurance lorsque vous grimpez
+Augmente les chances de succès des effets aveuglants
+Accélère la progression des recherches en Dracologie et Cryptozoologie
+Augmente les chances que le cadavre ne disparaisse pas
+Augmente nettement les chances que le cadavre ne disparaisse pas
+Le cadavre ne disparaït pas
+Réduit les chances d'être affecté par l'affliction mort-vivant
+Réduit grandement les chances d'être affecté par l'affliction mort-vivant
+Empèche les effets de l'affliction mort-vivant
+Accélère le remplissement de la jauge de 50%
+Augmente la probabilité de réapparition des sites de collectes rares
+Affiche les sites de collecte rares sur la carte
+Il est plus facile de cuisiner des steaks à point
+Délai de réutilisation -5%
+Délai de réutilisation -10%
+Délai de réutilisation -20%
+Augmente temporairement l'affinité de +30% après une glissade
+Décourage les monstres de vous attaquer si vous êtes repéré.
+Décourage grandement les monstre de vous attaquez si vous êtes repéré.
+Empèche les monstre de vous attaquer si vous êtes repéré.
+Régénère votre vie tant que vous attaquez. La restauration de vie varie selon l'arme
+Permet à la récupétaion de dépasser la zone rouge de la jauge de vie
+Prolonge la durée de l'effet de votre poison sur les monstres
+Réduit temporairement la perte d'endurance lorsque la vie est inférieur ou égale à 40%
+Augmente la limite d'endurence
+Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) infligés par des attaques critiques
+Empêche les attaques d'être déviées. Réduit aussi la distance de puissance maximum (munitions et flèches)
+Augmente l'attaque d'une arme qui s'émousse, l'attaque de mélée d'une arme à distance et ses chances d'étourdir
+Renforce les armes non élémentaires dont vous êtes équipé
+Grande chance d'obtenir plus de récompenses en cas de capture
+Permet de parer des attaques normalement imparables
+Les coups subis n'entrainent plus d'évanouissement tant que votre vie dépasse un certain seuil
+Empêche l'émoussement de l'arme lors des coups critiques.
+Annule les effets des bourrasques
+L'émoussement est réduit de moitié. Permet parfois de tirer sans utiliser de fioles ou de munitions
+Augmente les dégâts des effets d'état (paralysie, poison, sommeil, explosion) dus à des coups critiques
+Grande chance d'obtenir plus de récompenses de quête. (Sauf participation en cours)
+Charge de l'arc +1
+Ajoute à la plupart des attaques un effet d’étourdissement et augmente un peu l’attaque
+L'arme ne s'émousse pas pendant un certain temps apeès l'affûtage
+Attaque sautée +10%
+Attaque sautée +10%
+Attaque sautée +10%
+Attaque sautée +10%
+Augmente le sceau des ancien de un niveau
+Grande chance d'obtenir plus de récompenses en cas de capture
+Permet de dépeçer une fois de plus (sauf participation en cours).
+Bonus de set <<Adrénaline>>
+Bonus de set <<Bonne fortune>>
+Bonus de set <<Batto-jutsu>>
+Bonus de set <<Rage élémentaire>>
+Bonus de set <<Matraquage>>
+Bonus de set <<Maître capture>>
+Bonus de set <<Adrénaline>>
+Bonus de set <<Stamina+>>
+Bonus de set <<Poison +>>
+Bonus de set <<Attaque perfide>>
+Bonus de set <<Bonne fortune>>
+Bonus de set <<Maître archer>>
+Bonus de set <<Batto-jutsu>>
+Bonus de set <<Acier trempé>>
+Bonus de set <<Rage élémentaire>>
+Bonus de set <<Œil de l'esprit>>
+Bonus de set <<Matraquage>>
+Bonus de set <<Secret de l'acier>>
+Bonus de set <<Ultr garde>>
+Bonus de set <<Bravoure>>
+Bonus de set <<Récupération rapide>>
+Bonus de set <<Main de maître>>
+Bonus de set <<Anti-vent>>
+Bonus de set <<Super récupération>>
+Bonus de set <<Maître capture>>
+Bonus de set <<Samouraï/Franc tireur>>
+Bonus de set <<Bonne fortune>>
+Bonus de set <<Maître dépeceur>>

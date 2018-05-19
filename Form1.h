@@ -2551,6 +2551,7 @@ private:
 		rdoFemale->Text = StaticString( Female );
 		grpSkills->Text = StaticString( Skills );
 		grpSkillFilters->Text = StaticString( SkillFilters );
+		grpGender->Text = StaticString( Gender );
 		btnDecorations->Text = StaticString( MyDecorations );
 		btnSearch->Text = StaticString( QuickSearch );
 		btnAdvancedSearch->Text = StaticString( AdvancedSearch );

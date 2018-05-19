@@ -1,0 +1,156 @@
+Cotte en cuir
+Cotte de mailles
+Cotte de chasseur
+Veste d'os
+Cotte Vespoid
+
+
+Tunique Jagras
+Corset Kulu
+Cotte en alliage
+Cotte Pukei
+Cuirasse Barroth
+Cuirasse Jyura
+Veste Kadachi
+Cotte haut-métal
+Thorax Scarabée
+Thorax Papillon
+
+Cuirasse Hornetaur
+Manteau Anjanath
+Cotte Rathian
+Cotte Tzitzi
+Veste Lumu
+Cotte Girros
+Cuirasse Radobaan
+Cuirasse en lingot
+Muscle putride
+Tenue de brigade
+Veste Legiana
+Cotte Odogaron
+Cotte Rathalos
+Cuirasse Diablos
+Veste Kirin
+Veste en cuir α
+Veste en cuir β
+Cotte de mailles α
+Cotte de mailles β
+Cotte de chasseur α
+Cotte de chasseur β
+Veste d'os α
+Veste d'os β
+Cotte en alliage α
+Cotte en alliage β
+Thorax Scarabée α
+Thorax Scarabée β
+Thorax Papillon α
+Thorax Papillon β
+Cotte Vespoid α
+Cotte Vespoid β
+Cuirasse Hornetaur α
+Cuirasse Hornetaur β
+
+
+
+
+
+
+
+Tunique Jagras α
+Tunique Jagras β
+Corset Kulu α
+Corset Kulu β
+Cotte Tzitzi α
+Cotte Tzitzi β
+Cotte Girros α
+Cotte Girros β
+Cotte Pukei α
+Cotte Pukei β
+Cuirasse Barroth α
+Cuirasse Barroth β
+Manteau Anjanath α
+Manteau Anjanath β
+Cuirasse Jyura α
+Cuirasse Jyura β
+Veste Kadachi α
+Veste Kadachi β
+Veste Lumu α
+Veste Lumu β
+Cotte Rathian α
+Cotte Rathian β
+Cotte Cœur Rathian α
+Cotte Cœur Rathian β
+Cuirasse Radobaan α
+Cuirasse Radobaan β
+
+
+Veste Barnos α
+Veste Barnos β
+Cuirasse Dodogama α
+Cuirasse Dodogama β
+Cotte Zorah Magdaros α
+Peau Zorah β
+Cotte haut-métal α
+Cotte haut-métal β
+Cuirasse en lingot α
+Cuirasse en lingot β
+Tenue de brigade α
+Tenue de brigade β
+
+
+Cotte Lavasioth α
+Cotte Lavasioth β
+Veste Legiana α
+Veste Legiana β
+Cotte Odogaron α
+Cotte Odogaron β
+Cotte Rathalos α
+Cotte Rathalos β
+Cotte me Rathalos α
+Cotte me Rathalos β
+Cuirasse Diablos α
+Cuirasse Diablos β
+Cuirasse Diablos noire α
+Cuirasse Diablos noire β
+Cotte Uragaan α
+Cotte Uragaan β
+Haubert Bazelgeuse α
+Haubert Bazelgeuse β
+Cotte Damascus α
+Cotte Damascus β
+Gilet Dober α
+Gilet Dober β
+Muscle putride α
+Muscle putride β
+
+Corselet Nergigante α
+Corselet Nergigante β
+Cuissards Kaiser β
+Cuissards Kaiser β
+Cista Kushala α
+Cista Kushala β
+Cotte Vaal Hazak α
+Cotte Vaal Hazak β
+Veste Kirin α
+Veste Kirin β
+Peau Xeno'jiiva α
+Peau Xeno'jiiva β
+Veste de la Commission α
+Veste de la Commission β
+
+Veste de la Commission α
+Veste de la Commission β
+Cotte Vangis α
+Cotte Vangis β
+Aloy - Jupe α
+Ryu - Karategi (haut)
+Ryu - Karategi (haut) α
+Sakura - Uniforme α
+Thorax Papillon
+Thorax Scarabée
+Veste Printemps
+Veste Printemps α
+Colère kulve Taroth α
+Colère kulve Taroth β
+Manteau de Dante α
+Armure Paladin des étoiles α

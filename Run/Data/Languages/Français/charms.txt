@@ -1,0 +1,234 @@
+Collier antipoison I
+Collier antipoison II
+Collier antipoison III
+Collier de guerre I
+Collier de guerre II
+Collier de guerre III
+Collier de défense I
+Collier de défense II
+Collier de défense III
+Collier de fougue I
+Collier de fougue II
+Collier de fougue III
+Collier de minuit I
+Collier de minuit II
+Collier de minuit III
+Collier viride I
+Collier viride II
+Collier viride III
+Collier du vent I
+Collier du vent II
+Collier du vent III
+Collier de péridot I
+Collier de péridot II
+Collier de péridot III
+Collier d'émeraude I
+Collier d'émeraude II
+Collier d'émeraude III
+Collier de rubis I
+Collier de rubis II
+Collier de rubis III
+Collier d'opale I
+Collier d'opale II
+Collier d'opale III
+Collier oeil de chat I
+Collier oeil de chat II
+Collier oeil de chat III
+Collier de feu I
+Collier de feu II
+Collier de feu III
+Collier de cobalt I
+Collier de cobalt II
+Collier de cobalt III
+Collier de topaze I
+Collier de topaze II
+Collier de topaze III
+Collier de cinabre I
+Collier de cinabre II
+Collier de cinabre III
+Collier d'akinésie I
+Collier d'akinésie II
+Collier d'akinésie III
+Collier lotus bleu I
+Collier lotus bleu II
+Collier lotus bleu III
+Collier de malachite I
+Collier de malachite II
+Collier de malachite III
+Collier de faiblesse I
+Collier de faiblesse II
+Collier de faiblesse III
+Collier fulminant I
+Collier fulminant II
+Collier fulminant III
+Collier d'austérité I
+Collier d'austérité II
+Collier d'austérité III
+Collier du preux I
+Collier du preux II
+Collier du preux III
+Collier de l'amitié I
+Collier de l'amitié II
+Collier de l'amitié III
+Collier ésotérique I
+Collier ésotérique II
+Collier ésotérique III
+Collier du glouton I
+Collier du glouton II
+Collier du glouton III
+Collier sacré I
+Collier sacré II
+Collier sacré III
+Collier Palico I
+Collier Palico II
+Collier Palico III
+Collier d'amazonite I
+Collier d'amazonite II
+Collier d'amazonite III
+Collier minéral I
+Collier minéral II
+Collier minéral III
+Collier de Lugus I
+Collier de Lugus II
+Collier de Lugus III
+Collier de la nuit I
+Collier de la nuit II
+Collier de la nuit III
+Collier de fumée I
+Collier de fumée II
+Collier de fumée III
+Collier de sirène I
+Collier de sirène II
+Collier de sirène III
+Collier de la mante I
+Collier de la mante II
+Collier de la mante III
+Collier de malepeur I
+Collier de malepeur II
+Collier de malepeur III
+Collier de métal I
+Collier de métal II
+Collier du parasite
+Collier de prémonition
+Collier d'immortalité
+Collier du mélomane
+Collier de plomb
+Collier de sang I
+Collier de sang II
+Collier de sang III
+Collier de jade I
+Collier de jade II
+Collier de jade III
+Collier de glace I
+Collier de glace II
+Collier de glace III
+Collier du druide I
+Collier du druide II
+Collier du druide III
+Collier d'hiver I
+Collier d'hiver II
+Collier d'hiver III
+Collier spirituel I
+Collier spirituel II
+Collier spirituel III
+Collier angélique I
+Collier angélique II
+Collier angélique III
+Collier du sensei I
+Collier du sensei II
+Collier du sensei III
+Collier de verre I
+Collier de verre II
+Collier de verre III
+Talisman du pyrope I
+Talisman du pyrope II
+Talisman du pyrope III
+Talisman draconique I
+Talisman draconique II
+Talisman draconique III
+Talisman du dragon I
+Talisman du dragon II
+Talisman du dragon III
+Talisman du chaos I
+Talisman du chaos II
+Talisman du chaos III
+Talisman du battosai I
+Talisman du battosai II
+Talisman du tireur I
+Talisman du tireur II
+Talisman d'énergie I
+Talisman d'énergie II
+Talisman de santé I
+Talisman de santé II
+Talisman de santé III
+Talisman d'afflux I
+Talisman d'afflux II
+Talisman ninjutsu I
+Talisman ninjutsu II
+Talisman infernal I
+Talisman infernal II
+Talisman infernal III
+Talisman champignon I
+Talisman champignon II
+Talisman de l'éveil I
+Talisman de l'éveil II
+Talisman du forgeron I
+Talisman du forgeron II
+Talisman du forgeron III
+Bracelet du fervent
+Bracelet du scélérat
+Bracelet du ranger
+Bracelet du margoulin
+Bracelet du rapineur
+Talisma de fer I
+Talisma de fer II
+Talisma de fer III
+Talisman de banshee I
+Talisman de banshee II
+Talisman de banshee III
+Talisman de terre I
+Talisman de terre II
+Talisman de cruauté I
+Talisman de cruauté II
+Talisman de clarté I
+Talisman de clarté II
+Talisman du briseur I
+Talisman du briseur II
+Talisman du fureur I
+Talisman du fureur II
+Talisman du courage I
+Talisman du courage II
+Talisman du ranger I
+Talisman du ranger II
+Talisman du ranger III
+Talisman de puissance I
+Talisman de puissance II
+Talisman du courage I
+Talisman du courage II
+Talisman du triomphe I
+Talisman du triomphe II
+Talisman du fervent I
+Talisman du fervent II
+Talisman d'acier I
+Talisman d'acier II
+Talisman impie I
+Talisman impie II
+Talisman impie III
+Talisman du tireur
+Bracelet de pureté
+Bracelet d'agilité
+Bracelet du savant
+Talisman de furie
+Talisman de pouvoir I
+Talisman de pouvoir II
+Talisman de douleur
+Talisman du massacre
+Talisman du cancer
+Talisman du scorpion
+Talisman du verseau
+Talisman du taureau
+Bracelet du géomancien
+Bracelet du typhon
+Bracelet du dragon
+Bracelet de protection
+Bracelet de la Cinquième
