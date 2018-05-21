@@ -1,0 +1,362 @@
+﻿Verringert die Dauer von Vergiftungen um 30%.
+Verringert die Dauer von Vergiftungen um 60%.
+Verhindert Vergiftung.
+Reduziert die Dauer von Lähmung um 30%.
+Reduziert die Dauer von Lähmung um 60%.
+Verhindert Lähmung.
+Reduziert die Dauer von Schlaf um 30%.
+Reduziert die Dauer von Schlaf um 60%.
+Verhindert Schlaf.
+Verringert die Dauer von Betäubungen um 30%.
+Verringert die Dauer von Betäubungen um 60%.
+Verhindert Betäubung.
+Reduziert die Einschränkungen von Bewegungsgeschwindigkeit und Ausdauer.
+Verzögert die Explosionspest und reduziert den Explosionsschaden.
+Verzögert stark die Explosionspest und reduziert den Explosionsschaden stark.
+Verhindert Explosionspest.
+Verringert den Schaden bei einer Blutung.
+Verringert stark den Schaden, während du unter einer Blutung leidest.
+Verhindert Blutungen.
+Verringert die Dauer von Verringerte Verteidigung um 30%.
+Reduziert die Dauer von Verringerte Verteidigung um 60%.
+Verhindert Verringerte Verteidigung.
+Verringert die Wirkung von schwachem Monstergebrüll leicht.
+Reduziert die Wirkung von schwachem Monstergebrüll.
+Negiert schwaches Monstergebrüll.
+Negiert schwaches Monstergebrüll und reduziert die Wirkung von starkem Monstergebrüll.
+Negiert schwaches und starkes Monstergebrüll.
+Reduziert geringfügig die Wirkung von leichtem Winddruck.
+Reduziert die Wirkung von leichtem Winddruck.
+Negiert leichten Winddruck.
+Negiert leichten Winddruck und reduziert die Wirkung von starkem Winddruck.
+Negiert leichten und starken Winddruck.
+Negiert leichte Erderschütterungen.
+Negiert leichte Erderschütterungen und reduziert die Wirkung von schweren Erderschütterungen.
+Negiert leichte und starke Erderschütterungen.
+Macht die Dungkapseln der Schleuder effektiver - Monster reagieren stärker auf sie.
+Negiert den Schaden durch Miasma und reduziert den Schaden durch Säure.
+Negiert Hitzeschaden.
+Angriff +3
+Angriff +6
+Angriff +9
+Angriff +12 Affinität +5%
+Angriff +15 Affinität +5%
+Angriff +18 Affinität +5%
+Angriff +21 Affinität +5%
+Verteidigung +5
+Verteidigung +10
+Verteidigung +15
+Verteidigung +20 Alle Elementwiderstände +3
+Verteidigung +25 Alle Elementwiderstände +3
+Verteidigung +30 Alle Elementwiderstände +3
+Verteidigung +35 Alle Elementwiderstände +3
+Gesundheit +15
+Gesundheit +30
+Gesundheit +50
+Erholung +10%
+Erholung +20%
+Erholung +30%
+Verdoppelt die Geschwindigkeit, mit der du erholbaren Schaden heilst.
+Verdreifacht die Geschwindigkeit, mit der du erholbaren Schaden heilst.
+Vervierfacht die Geschwindigkeit, mit der du erholbaren Schaden heilst.
+Feuerwiderstand +6
+Feuerwiderstand +12
+Feuerwiderstand +20 Verteidigung +10
+Wasserwiderstand +6
+Wasserwiderstand +12
+Wasserwiderstand +20 Verteidigung +10
+Eiswiderstand +6
+Eiswiderstand +12
+Eiswiderstand +20 Verteidigung +10
+Donnerwiderstand +6
+Donnerwiderstand +12
+Donnerwiderstand +20 Verteidigung +10
+Drachenwiderstand +6
+Drachenwiderstand +12
+Drachenwiderstand +20 Verteidigung +10
+Reduziert die Dauer von allen elementbasierten Pestarten um 30%.
+Reduziert die Dauer von allen elementbasierten Pestarten um 60%.
+Negiert die Wirkung von allen elementbasierten Pestarten.
+Feuerangriff +30
+Feuerangriff +60
+Feuerangriff +100
+Feuerangriff +100 Zusatzbonus +5%
+Feuerangriff +100 Zusatzbonus +10%
+Wasserangriff +30
+Wasserangriff +60
+Wasserangriff +100
+Wasserangriff +100 Zusatzbonus +5%
+Wasserangriff +100 Zusatzbonus +10%
+Eisangriff +30
+Eisangriff +60
+Eisangriff +100
+Eisangriff +100 Zusatzbonus +5%
+Eisangriff +100 Zusatzbonus +10%
+Donnerangriff +30
+Donnerangriff +60
+Donnerangriff +100
+Donnerangriff +100 Zusatzbonus +5%
+Donnerangriff +100 Zusatzbonus +10%
+Drachenangriff +30
+Drachenangriff +60
+Drachenangriff +100
+Drachenangriff +100 Zusatzbonus +5%
+Drachenangriff +100 Zusatzbonus +10%
+Gift-Ansammlung +10 Zusatzbonus +5%
+Gift-Ansammlung +10 Zusatzbonus +10%
+Gift-Ansammlung +10 Zusatzbonus +20%
+Lähmung-Ansammlung +10 Zusatzbonus +5%
+Lähmung-Ansammlung +10 Zusatzbonus +10%
+Lähmung-Ansammlung +10 Zusatzbonus +20%
+Schlaf-Ansammlung +10 Zusatzbonus +5%
+Schlaf-Ansammlung +10 Zusatzbonus +10%
+Schlaf-Ansammlung +10 Zusatzbonus +20%
+Explosion-Ansammlung +10 Zusatzbonus +5%
+Explosion-Ansammlung +10 Zusatzbonus +10%
+Explosion-Ansammlung +10 Zusatzbonus +20%
+Erhöht die Kraft von Standardmunition und Standardpfeilen.
+Erhöht die Kraft von Perforiermunition und Drachentöter.
+Erhöht die Kraft von Schrotmunition und Kraftschuss-Pfeilen.
+Fördert ein Drittel des verborgenen Elements und steigert die Magazingröße von ein wenig Munition.
+Fördert zwei Drittel des verborgenen Elements und steigert die Magazingröße von einiger Munition.
+Fördert 100% des verborgenen Elements und steigert die Magazingröße der meisten Munition.
+Affinität +3%
+Affinität +6%
+Affinität +10%
+Affinität +15%
+Affinität +20%
+Affinität +25%
+Affinität +30%
+Erhöht den Schaden kritischer Treffer auf 130%.
+Erhöht den Schaden kritischer Treffer auf 135%.
+Erhöht den Schaden kritischer Treffer auf 140%.
+Erhöht die Affinität für Angriffe auf Schwachpunkte um 15%.
+Erhöht die Affinität für Angriffe auf Schwachpunkte um 30%.
+Erhöht die Affinität für Angriffe auf Schwachpunkte um 50%.
+Erhöht das Balkenfülltempo um 5% und reduziert die Aufladezeiten um 5%.
+Erhöht das Balkenfülltempo um 10% und reduziert die Aufladezeiten um 10%.
+Erhöht das Balkenfülltempo um 20% und reduziert die Aufladezeiten um 20%.
+Bonusdauer +10%
+Bonusdauer +20%
+Bonusdauer +40%
+Waffenschärfe +10
+Waffenschärfe +20
+Waffenschärfe +30
+Waffenschärfe +40
+Waffenschärfe +50
+Zug-Angriff-Affinität +30%
+Zug-Angriff-Affinität +60%
+Zug-Angriff-Affinität +100%
+Teileschaden +10%
+Teileschaden +20%
+Teileschaden +30%
+Betäubung-Kraft +10%
+Betäubung-Kraft +20%
+Betäubung-Kraft +30%
+Ermüdung-Kraft +10%
+Ermüdung-Kraft +20%
+Ermüdung-Kraft +30%
+Erleichtert den Aufstieg auf Monster sowie das Niederschlagen von Monstern, auf denen du bist.
+Sprungangriffskraft +10%
+Erhöht die Affinität um 10% und reduziert die Ausdauerabnahme um 10%, wenn aktiviert.
+Erhöht die Affinität um 20% und reduziert die Ausdauerabnahme um 10%, wenn aktiviert.
+Erhöht die Affinität um 30% und reduziert die Ausdauerabnahme um 30%, wenn aktiviert.
+Erhöht die Affinität um 40% und reduziert die Ausdauerabnahme um 30%, wenn aktiviert.
+Erhöht die Affinität um 50% und reduziert die Ausdauerabnahme um 50%, wenn aktiviert.
+Erhöht die Affinität um 3% und verbessert den Angriff um 4 Punkte, wenn aktiviert.
+Erhöht die Affinität um 6% und verbessert den Angriff um 8 Punkte, wenn aktiviert.
+Erhöht die Affinität um 9% und verbessert den Angriff um 12 Punkte, wenn aktiviert.
+Erhöht die Affinität um 12% und verbessert den Angriff um 16 Punkte, wenn aktiviert.
+Erhöht die Affinität um 15% und verbessert den Angriff um 20 Punkte, wenn aktiviert.
+Verbessert den Angriff um 5 Punkte, wenn aktiviert.
+Verbessert den Angriff um 10 Punkte, wenn aktiviert.
+Verbessert den Angriff um 20 Punkte, wenn aktiviert.
+Erhöht die Angriffsstärke um 5% und verbessert die Verteidigung um 15 Punkte, wenn aktiviert.
+Erhöht die Angriffsstärke um 10% und verbessert die Verteidigung um 20 Punkte, wenn aktiviert.
+Erhöht die Angriffsstärke um 15% und verbessert die Verteidigung um 25 Punkte, wenn aktiviert.
+Erhöht die Angriffsstärke um 20% und verbessert die Verteidigung um 30 Punkte, wenn aktiviert.
+Erhöht die Angriffsstärke um 30% und verbessert die Verteidigung um 40 Punkte, wenn aktiviert.
+Erhöht bei jeder Benutzung den Angriff um 10% und die Verteidigung um 15%.
+Verbessert den Angriff um 5 Punkte, wenn aktiviert.
+Verbessert den Angriff um 10 Punkte, wenn aktiviert.
+Verbessert den Angriff um 15 Punkte, wenn aktiviert.
+Verbessert den Angriff um 20 Punkte, wenn aktiviert.
+Verbessert den Angriff um 25 Punkte, wenn aktiviert.
+Verlängerte Unverwundbarkeit beim Ausweichen und verringerte Ausdauerabnahme, wenn aktiviert.
+Verlängert den Melodie-Effekt und verbessert die Gesundheitserholung.
+Ladekapazität +1
+Erhöht die Kraft der Spezialmunition von Bogengewehren sowie vom Drachentöter um 10%.
+Erhöht die Kraft der Spezialmunition von Bogengewehren sowie vom Drachentöter um 20%.
+Erhöht die Kraft jeder der Angriffe um 10% und reduziert die Wyvernfeuer-Abklingzeit um 15%.
+Erhöht die Kraft jeder der Angriffe um 20% und reduziert die Wyvernfeuer-Abklingzeit um 30%.
+Erhöht die Kraft jeder der Angriffe um 30% und reduziert die Wyvernfeuer-Abklingzeit um 50%.
+Feuerkraft +10%
+Feuerkraft +20%
+Reduziert den dauerhaften Ausdauerverbrauch um 15%.
+Reduziert den dauerhaften Ausdauerverbrauch um 30%.
+Reduziert den dauerhaften Ausdauerverbrauch um 50%.
+Verringert den pauschalen Ausdauerverbrauch um 10%.
+Verringert den pauschalen Ausdauerverbrauch um 20%.
+Verringert den pauschalen Ausdauerverbrauch um 30%.
+Verringert den pauschalen Ausdauerverbrauch um 40%.
+Verringert den pauschalen Ausdauerverbrauch um 50%.
+Ermöglicht dir den Schicksalssprung.
+Ausdauer-Erholungstempo +10%
+Ausdauer-Erholungstempo +20%
+Ausdauer-Erholungstempo +30%
+Verlängert die Zeit, bevor deine maximale Ausdauer abnimmt, um 30%.
+Verlängert die Zeit, bevor deine maximale Ausdauer abnimmt, um 60%.
+Verhindert, dass deine maximale Ausdauer abnimmt.
+Erhöht den Unverwundbarkeitszeitraum in sehr geringem Maße.
+Erhöht den Unverwundbarkeitszeitraum in geringem Maße.
+Erhöht den Unverwundbarkeitszeitraum.
+Erhöht den Unverwundbarkeitszeitraum in hohem Maße.
+Erhöht den Unverwundbarkeitszeitraum in sehr hohem Maße.
+Erhöht die Ausweichdistanz in geringem Maße.
+Erhöht die Ausweichdistanz.
+Erhöht die Ausweichdistanz in großem Maße.
+Verringert die Wirkung von Angriffen in sehr geringem Maße.
+Verringert die Wirkung von Angriffen in geringem Maße und reduziert den Ausdauerverbrauch um 15%.
+Verringert die Wirkung von Angriffen in hohem Maße und reduziert den Ausdauerverbrauch um 15%.
+Verringert die Wirkung von Angriffen in hohem Maße und reduziert den Ausdauerverbrauch um 30%.
+Verringert die Wirkung von Angriffen in sehr hohem Maße und reduziert den Ausdauerverbrauch um 50%.
+Erhöht das Tempo des Wegsteckens der Waffe in geringem Maße.
+Erhöht das Tempo des Wegsteckens der Waffe spürbar.
+Erhöht das Tempo des Wegsteckens der Waffe in hohem Maße.
+Objekte beeinflussen Verbündete in der Nähe mit einem Drittel ihrer Stärke.
+Objekte beeinflussen Verbündete in einem weiten Radius mit einem Drittel ihrer Stärke.
+Objekte beeinflussen Verbündete in einem weiten Radius mit zwei Dritteln ihrer Stärke.
+Objekte beeinflussen Verbündete in einem sehr weiten Radius mit zwei Dritteln ihrer Stärke.
+Objekte beeinflussen Verbündete in einem sehr weiten Radius mit ihrer vollen Stärke.
+Objekteffektdauer +10%
+Objekteffektdauer +25%
+Objekteffektdauer +50%
+Nahrungsmittel können mit einer Wahrscheinlichkeit von 25% kostenlos verzehrt werden.
+Beschleunigt den Konsum von Objekten leicht.
+Beschleunigt den Konsum von Objekten spürbar.
+Beschleunigt den Konsum von Objekten in hohem Maße.
+Entfernt einen Zyklus vom Schärfungsvorgang.
+Entfernt zwei Zyklen vom Schärfungsvorgang.
+Entfernt drei Zyklen vom Schärfungsvorgang.
+Sprengkraft +10%
+Sprengkraft +20%
+Sprengkraft +30%
+Erlaubt zusätzlich die Verdauung von Blaupilzen und Giftpilzen.
+Erlaubt zusätzlich die Verdauung von Nitropilzen und Lähmpilzen.
+Erlaubt zusätzlich die Verdauung von Mandragoras, Teufelspest und Reizpilzen.
+Vergrößert das Zeitfenster beim Einholen von Fischen; vereinfacht so das Fangen großer Fische.
+Erhöht die Bewegungsgeschwindigkeit beim Transportieren und reduziert die Pause beim Landen.
+Beschleunigt das Sammeln und verhindert, beim Sammeln zurückgestoßen zu werden.
+Eine Extraeinheit Honig pro Sammelvorgang.
+Verhindert, dass du beim Zerlegen zurückgeworfen wirst.
+Verringert den erlittenen Schaden um 15%, wenn aktiviert.
+Verringert den erlittenen Schaden um 30%, wenn aktiviert.
+Verringert den erlittenen Schaden um 50%, wenn aktiviert.
+Erhöht die Angriffskraft und die Verteidigung deines Palicos um 5%.
+Erhöht die Angriffskraft und die Verteidigung deines Palicos um 10%.
+Erhöht die Angriffskraft und die Verteidigung deines Palicos um 15%.
+Erhöht die Angriffskraft und die Verteidigung deines Palicos um 20%.
+Erhöht die Angriffskraft und die Verteidigung deines Palicos um 25%.
+Pro Sammelvorgang ein extra Kräuter-Objekt.
+Pro Sammelvorgang ein extra Kräuter-, Frucht-, Nuss- oder Samen-Objekt.
+Pro Sammelvorgang ein extra Kräuter-, Frucht-, Nuss-, Samen- oder Insekten-Objekt.
+Pro Sammelvorgang ein extra Kräuter-, Frucht-, Nuss-, Samen-, Insekten- oder Pilz-Objekt.
+Lässt dich einmal häufiger an Knochenhaufen sammeln als normal.
+Lässt dich einmal häufiger an Knochenhaufen und speziellen Objekt-Sammelplätzen sammeln.
+Lässt dich einmal häufiger an Knochenhaufen, Sammelplätzen und Förderplätzen sammeln als normal.
+Erhöht die Affinität um 10%, wenn der Ausdauerbalken voll ist.
+Erhöht die Affinität um 20%, wenn der Ausdauerbalken voll ist.
+Erhöht die Affinität um 30%, wenn der Ausdauerbalken voll ist.
+Erhöht die Ladekapazität für Schleudermunition, die vom Boden oder von Pflanzen gesammelt wird.
+Erhöht zudem die Ladekapazität für manche Schleudermunition, die von Monstern fallengelassen wird.
+Erhöht zudem die Ladekapazität für jede Schleudermunition, die von Monstern fallengelassen wird.
+Monster verlieren dich etwas einfacher aus den Augen.
+Monster verlieren dich spürbar einfacher aus den Augen.
+Monster verlieren dich viel einfacher aus den Augen.
+Verhindert, dass du zurückgeworfen wirst.
+Verhindert Standardrückwürfe. Stolpern wird stattdessen zu einem Rückwurf verringert.
+Verhindert sowohl, dass du zurückgeworfen wirst als auch, dass du stolperst.
+Erweitert die Erkennungsreichweite der Spähkäfer.
+Erhöht deine Bewegungsgeschwindigkeit in der Hocke.
+Verhindert, dass du im Sprung zurückgeworfen wirst.
+Sporenbäusche heilen 20 Gesundheit.
+Sporenbäusche heilen 35 Gesundheit.
+Sporenbäusche heilen 60 Gesundheit.
+Verhindert, dass Wasser Bewegungen verlangsamt.
+Verhindert, dass Wasser Bewegungen verlangsamt. Verbessert zudem das Ausweichen im Wasser.
+Verhindert, dass Wasser Bewegungen verlangsamt. Verbessert zudem das Ausweichen im Wasser stark.
+Reduziert den Ausdauerverbrauch beim Klettern um 25%.
+Erhöht die Erfolgswahrscheinlichkeit von Blitzeffekten.
+Beschleunigt den Fortschritt von Forschungsstufen und besonderen Untersuchungen.
+Steigert die Wahrscheinlichkeit, dass ein Kadaver zurückbleibt.
+Steigert stark die Wahrscheinlichkeit, dass ein Kadaver zurückbleibt.
+Garantiert, dass immer ein Kadaver zurückbleibt.
+Reduziert die Miasma-Ansammlung.
+Reduziert die Miasma-Ansammlung signifikant.
+Verhindert die Miasma-Ansammlung.
+Erhöht das Fülltempo des Spähkäferbalkens um 50%.
+Erhöht die Wahrscheinlichkeit, dass seltene Sammelpunkte neu erscheinen.
+Markiert seltene Orte auf der Gebietskarte.
+Erleichtert es, Gebratene Steaks zuzubereiten.
+Reduziert die Wartezeit, bis Spezialwerkzeuge erneut benutzt werden können, um 5%.
+Reduziert die Wartezeit, bis Spezialwerkzeuge erneut benutzt werden können, um 10%.
+Reduziert die Wartezeit, bis Spezialwerkzeuge erneut benutzt werden können, um 20%.
+Erhöht für eine kurze Zeit die Affinität um 30% nach einem Schlittern.
+Entmutigt Monster dich anzugreifen, selbst wenn sie dich gesehen haben.
+Entmutigt Monster sehr dich anzugreifen, selbst wenn sie dich gesehen haben.
+Verhindert, dass dich Monster angreifen, selbst wenn sie dich gesehen haben.
+Regeneriert Gesundheit, solange du kontinuierlich ein Monster angreifst. Erholung hängt von der Waffe ab.
+Ermöglicht es, durch Regenerierung mehr als den roten Abschnitt des Gesundheitsbalkens wiederherzustellen.
+Verlängert die Dauer des Effekts deines Gifts auf Monster.
+Reduziert die Ausdauerabnahme vorübergehend, wenn die Gesundheit bei 40% oder weniger liegt.
+Erhöht die maximale Ausdauer.
+Erhöht den Elementschaden (Feuer, Wasser, Donner, Eis, Drache) durch kritische Treffer.
+Verhindert das Abprallen von Angriffen. Verkürzt die Distanz, bevor Munition und Pfeile maximale Kraft erreichen.
+Erhöht Angriff bei Schärfeverlust. Verstärkt Nahkampfangriffe von Distanzwaffen und die Chance, Ziele zu betäuben.
+Verstärkt ausgerüstete nichtelementbasierte Waffen.
+Erhöhte Chance auf zusätzliche Questbelohnungen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
+Ermöglicht die Abwehr von normalerweise nicht zu blockenden Angriffen.
+Verhindert, dass du ohnmächtig wirst, solange du eine bestimmte Menge Gesundheit hast (einmalig).
+Verhindert, dass deine Waffe durch das Erzielen von kritischen Treffern an Schärfe verliert.
+Negiert jeden Winddruck.
+Halbiert Schärfeverlust. Ermöglicht gelegentlich Schüsse ohne Munitions- oder Beschichtungsverbrauch.
+Erhöht den Schaden von anormalen Statuseffekten (Lähmung, Gift, Schlaf, Explosion) durch kritische Treffer.
+Erhöhte Chance auf zusätzliche Questbelohnungen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
+Erhöht die maximale Aufladestufe des Bogens um eins.
+Erweitert Zug-Angriffe um einen Betäubungseffekt und erhöht die Angriffskraft leicht.
+Die Waffenschärfe sinkt für eine bestimmte Zeit nach dem Schärfen nicht.
+Ermöglicht dir die Nutzung von Giftbeschichtungen.
+Ermöglicht dir die Nutzung von Lähmbeschichtungen.
+Ermöglicht dir die Nutzung von Schlafbeschichtungen.
+Ermöglicht dir die Nutzung von Sprengbeschichtungen.
+Verbessert das Ältestensiegel um eine Stufe.
+Erhöhte Chance auf zusätzliche Questbelohnungen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
+Ermöglicht dir, einen Kadaver einmal zusätzlich zu zerlegen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
+Setbonus verleiht <<Adrenalin>>.
+Setbonus verleiht <<Glück>>.
+Setbonus verleiht <<Bestrafender Zug>>.
+Setbonus verleiht <<Kritisches Element>>.
+Setbonus verleiht <<Prügler>>.
+Setbonus verleiht <<Fangmeister>>.
+Setbonus verleiht <<Adrenalin>>.
+Setbonus verleiht <<Ausdauerlimit hoch>>.
+Setbonus verleiht <<Giftdauer hoch>>.
+Setbonus verleiht <<Kritischer Status>>.
+Setbonus verleiht <<Glück>>.
+Setbonus verleiht <<Sehnenkraft>>.
+Setbonus verleiht <<Bestrafender Zug>>.
+Setbonus verleiht <<Schutzpolitur>>.
+Setbonus verleiht <<Kritisches Element>>.
+Setbonus verleiht <<Inneres Auge/Ballistik>>.
+Setbonus verleiht <<Prügler>>.
+Setbonus verleiht <<Nicht-Element-Boost>>.
+Setbonus verleiht <<Blocken hoch>>.
+Setbonus verleiht <<Stehvermögen>>.
+Setbonus verleiht <<Schnelle Erholung>>.
+Setbonus verleiht <<Meisterschliff>>.
+Setbonus verleiht <<Negiert Winddruck>>.
+Setbonus verleiht <<Super-Erholung>>.
+Setbonus verleiht <<Fangmeister>>.
+Setbonus verleiht <<Scharfschwert/Extraschuss>>.
+Setbonus verleiht <<Glückserhöher>>.
+Setbonus verleiht <<Zerlegemeister>>.

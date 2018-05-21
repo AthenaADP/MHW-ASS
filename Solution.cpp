@@ -496,7 +496,7 @@ unsigned long long Solution::GetHash()
 	}
 
 	if( charm )
-		hash += charm->index;
+		hash += charm->index + 1;
 
 	return hash;
 }

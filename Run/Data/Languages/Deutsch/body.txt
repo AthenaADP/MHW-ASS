@@ -1,0 +1,156 @@
+﻿Leder-Panzerung
+Ketten-Weste
+Jäger-Panzerung
+Knochen-Panzerung
+Vespoid-Panzerung
+
+
+Jagras-Panzerung
+Kulu-Panzerung
+Legierungs-Panzerung
+Pukei-Panzerung
+Barroth-Panzerung
+Jyura-Panzerung
+Kadachi-Panzerung
+Hochmetall-Panzerung
+Königskäfer-Thorax
+Schmetterling-Thorax
+
+Hornetaur-Panzerung
+Anjanath-Panzerung
+Rathian-Panzerung
+Tzitzi-Panzerung
+Paolumu-Panzerung
+Girros-Panzerung
+Baan-Panzerung
+Guss-Panzerung
+Todesgestank-Muskel
+Brigade-Anzug
+Legiana-Panzerung
+Odogaron-Panzerung
+Rathalos-Panzerung
+Diablos-Panzerung
+Kirin-Jacke
+Leder-Panzerung α
+Leder-Panzerung β
+Ketten-Rüstung α
+Ketten-Rüstung β
+Jäger-Panzerung α
+Jäger-Panzerung β
+Knochen-Panzerung α
+Knochen-Panzerung β
+Legierungs-Panzerung α
+Legierungs-Panzerung β
+Königskäfer-Thorax α
+Königskäfer-Thorax β
+Schmetterling-Thorax α
+Schmetterling-Thorax β
+Vespoid-Panzerung α
+Vespoid-Panzerung β
+Hornetaur-Panzerung α
+Hornetaur-Panzerung β
+
+
+
+
+
+
+
+Jagras-Panzerung α
+Jagras-Panzerung β
+Kulu-Panzerung α
+Kulu-Panzerung β
+Tzitzi-Panzerung α
+Tzitzi-Panzerung β
+Girros-Panzerung α
+Girros-Panzerung β
+Pukei-Panzerung α
+Pukei-Panzerung β
+Barroth-Panzerung α
+Barroth-Panzerung β
+Anjanath-Panzerung α
+Anjanath-Panzerung β
+Jyura-Panzerung α
+Jyura-Panzerung β
+Kadachi-Panzerung α
+Kadachi-Panzerung β
+Paolumu-Panzerung α
+Paolumu-Panzerung β
+Rathian-Panzerung α
+Rathian-Panzerung β
+Rathianherz-Panzerung α
+Rathianherz-Panzerung β
+Baan-Panzerung α
+Baan-Panzerung β
+
+
+Barnos-Jacke α
+Barnos-Jacke β
+Dodogama-Panzerung α
+Dodogama-Panzerung β
+Zorah-Lederhaut α
+Zorah-Lederhaut β
+Hochmetall-Panzerung α
+Hochmetall-Panzerung β
+Guss-Panzerung α
+Guss-Panzerung β
+Brigade-Anzug α
+Brigade-Anzug β
+
+
+Lavasioth-Panzerung α
+Lavasioth-Panzerung β
+Legiana-Panzerung α
+Legiana-Panzerung β
+Odogaron-Panzerung α
+Odogaron-Panzerung β
+Rathalos-Panzerung α
+Rathalos-Panzerung β
+Rathalosseelen-Panzerung α
+Rathalosseelen-Panzerung β
+Diablos-Panzerung α
+Diablos-Panzerung β
+Diablos-Nero-Panzerung α
+Diablos-Nero-Panzerung β
+Uragaan-Panzerung α
+Uragaan-Panzerung β
+Bazel-Panzerung α
+Bazel-Panzerung β
+Damaskus-Panzerung α
+Damaskus-Panzerung β
+Dober-Panzerung α
+Dober-Panzerung β
+Todesgestank-Muskel α
+Todesgestank-Muskel β
+
+Nergigante-Panzerung α
+Nergigante-Panzerung β
+Kaiser-Panzerung α
+Kaiser-Panzerung β
+Kushala-Zista α
+Kushala-Zista β
+Vaal-Hazak-Panzerung α
+Vaal-Hazak-Panzerung β
+Kirin-Jacke α
+Kirin-Jacke β
+Xeno'jiiva-Lederhaut α
+Xeno'jiiva-Lederhaut β
+Gildenkreuz-Anzug α
+Gildenkreuz-Anzug β
+
+Kommissionsjacke α
+Kommissionsjacke β
+Vangis-Panzerung α
+Vangis-Panzerung β
+Aloy-Körper α
+Ryu-Körper
+Ryu-Körper α
+Sakura-Körper α
+Schmetterling-Thorax
+Königinnenkäfer-Thorax
+Blüten-Weste
+Blüten-Weste α
+Kulve Taroths Ärger α
+Kulve Taroths Ärger β
+Dantes Mantel α
+AzursternGebieterRüstung α

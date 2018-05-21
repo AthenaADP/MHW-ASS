@@ -1,0 +1,186 @@
+﻿#  MHW ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+Übersetzt von Luxanji
+
+#Menu options
+&Datei
+&Optionen
+&Sprache
+&Hilfe
+&Laden
+&Speichern
+&Update
+Schließen
+
+#This option resets all settings to default
+&Einstellungen zurücksetzen
+
+#This refers to armor made from Arena coins
+Erlaube Arena-Rüstung
+
+#Event items from Event/Challenge quests
+Erlaube Event-Rüstung
+
+#Allow the special pre-order bonus "Fair Wind Charm"
+Erlaube Talisman der Fünften
+
+#This setting will ignore low rank armor if you are in high rank
+Erlaube niedrigrangige Rüstung
+
+Sortiere Skills alphabetisch
+
+&Spenden
+&Skill-Informationen
+
+#This option opens a browser to my Facebook page
+Auf Updates überprüfen
+
+&Über
+Meine Dekos
+&Importieren
+&Schnellsuche
+&Erweiterte Suche
+&Abbrechen
+&Standard
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&Keine
+
+#This string is used in the combobox that sorts solutions by various criteria
+Keine
+
+#Buttons
+&Suchen
+Keine auswählen
+Beste auswählen
+&Hinzufügen
+&Zurücksetzen
+&Entfernen
+&Alle löschen
+Rauf
+Runter
+&Schließen
+&Nächste finden
+
+Queststufe
+Waffenslots
+Geschlecht
+Männlich
+Weiblich
+Keine extra Skill Filterung
+Ergebnisse sortieren/filtern
+
+
+Drachen Res
+Feuer Res
+Eis Res
+Donner Res
+Wasser Res
+Basis Verteidigung
+Max Verteidigung
+Aug Verteidigung
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Schwierigkeit
+
+Seltenheit
+Weitere Slots
+
+#When sorting solutions, "Family" refers to which monsters the gear is made from
+Familie
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Extra Skills
+
+Dekorationen
+Keine verw.
+Eigene verw.
+Alle verw.
+
+Skill
+Skills
+Skill Filter
+
+#Used in the Advanced Search dialog
+Rüstung wählen
+
+Slots
+Slot-Stufe
+(keine)
+
+#When a solution has spare slots. Format: "3 slots spare (1+1+2)"
+%1 freie(r) Slot(s)
+
+Gefundene Ergebnisse:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Nur die ersten %1 Ergebnisse zeigen:
+
+Dekorations-Liste
+Fehlerhafte Datei.
+Version
+Suche
+
+#Used in some error popups
+Fehler
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 bis %2
+
+Verteidigung
+Ergebnisse
+Alle Dekorationen löschen
+ASS Einstellungen
+&Max Ergebnisse
+Zeige Dekorations-Namen
+Zeige Materialien-Liste
+Preview Image Default &Zoom
+
+#Showing min/max defence and elemental resists
+%1-%2 Vert., %3 Feu, %4 Was, %5 Eis, %6 Don, %7 Dra
+
+#This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
+%1 Juwel
+
+#Item Type refers to weapon/helm/body armor/etc.
+Item Typ
+
+#This string is for displaying potential extra skills
+(%1 weitere/r)
+
+#Strings for the skill description dialog
+Zeige
+Beschreibung
+Skills
+Skill-Bäume
+Durch folgende Rüstungsteile erhältlich:
+Als Set-Bonus durch folgende Rüstungsteile erhältlich:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+Alle
+
+#Confirmation popup
+Sind Sie sicher?
+
+#Skill Level. %1 is the skill name, %2 is the level number
+%1 St.%2
+
+#Slot formatting. Gear can have up to 3 slots, each with a level from 1-3
+%1-%2-%3
+
+#Showing a number of decorations. First value is the number, second is the name. E.g. 3x Thunder Jewel
+%1x %2

@@ -1,0 +1,158 @@
+﻿Giftwiderstand
+Lähmungswiderstand
+Schlafwiderstand
+Betäubungswiderst.
+Mist-Widerstand
+Explosionswiderstand
+Blutungswiderstand
+Eisenhaut
+Ohrstöpsel
+Windsicher
+Erschütterungswidst.
+Dungmeister
+Miasmaexperte
+Hitzeschutz
+Angriffsboost
+Verteidigungsboost
+Gesundheitsboost
+Erholung hoch
+Erholungsgeschwindigk.
+Feuerwiderstand
+Wasserwiderstand
+Eiswiderstand
+Donnerwiderstand
+Drachenwiderstand
+Pestwiderstand
+Feuerangriff
+Wasserangriff
+Eisangriff
+Donnerangriff
+Drachenangriff
+Giftangriff
+Lähmungsangriff
+Schlafangriff
+Explosionsangriff
+Standardboost
+Perforierboost
+Schrot/Kraftschuss
+Superwaffe
+Kritischer Blick
+Kritischer Boost
+Schwächevorteil
+Fokus
+Kraftverlängerung
+Handwerk
+Kritisches Ziehen
+Teilezerstörer
+Lähmer
+Ausdauerdieb
+Rittmeister
+Luftherrschaft
+Latente Kraft
+Aufhetzer
+Höchstleistung
+Heldentat
+Kräftigen
+Groll
+Wiederbelebung
+Horn-Maestro
+Kapazitätsboost
+Spezialmunitionboost
+Artillerie
+Schwere Artillerie
+Marathon-Läufer
+Konstitution
+Schicksalssprung
+Ausdauererholung
+Hungerwiderstand
+Unverwundbarkeit
+Ausweichdistanz
+Blocken
+SchnellesWegstecken
+Wirkbereich
+Objektverlängerung
+Freie Mahlzeit
+Schnellessen
+Schnelles Schärfen
+Bombardier
+Mykologie
+Meisterfischer
+Profikurier
+Meistersammler
+Honigjäger
+Zerleger-Profi
+Göttlicher Segen
+Palico-Versammlung
+Botaniker
+Geologe
+Höchstmacht
+Schleuderkapazität
+Tarnung
+Unbeeindruckt
+Spähkäfer-Reichweite
+Schnellrobben
+Sprungmeister
+SporenbauschExperte
+Gewässerexperte
+Kletterer
+Überraschungsangriff
+Gelehrter
+Entomologe
+Miasma-Widerstand
+Spürhund
+Wildbeuterglück
+Detektor
+Grillspießmeister
+Werkzeugspezialist
+Affinitätsschlittern
+Einschüchtern
+Schnelle Erholung
+Super-Erholung
+Giftdauer hoch
+Adrenalin
+Ausdauerlimit hoch
+Kritisches Element
+Inneres Auge/Ballistik
+Prügler
+Nicht-Element-Boost
+Fangmeister
+Blocken hoch
+Stehvermögen
+Meisterschliff
+Negiert Winddruck
+Scharfschwert/Extraschuss
+Kritischer Status
+Glück
+Sehnenkraft
+Bestrafender Zug
+Schutzpolitur
+Giftbeschichtung
+Lähmungsbeschicht.
+Schlafbeschichtung
+Explosionsbeschicht.
+Ältestensiegel-Boost
+Glückserhöher
+Zerlegemeister
+Anjanath-Macht
+Legiana-Segen
+Odogaron-Macht
+Rathalos-Macht
+Diablos-Kraft
+Kirin-Segen
+Anjanath-Wille
+RosaRathianMeisterung
+ZorahMagdarosMeisterung
+Legiana-Gefallen
+Odogaron-Meisterung
+Rathalos-Meisterung
+Diablos-Meisterung
+Uragaan-Schutz
+Bazelguese-Schutz
+Nergigante-Hunger
+Teostra-Technik
+Kushala-Daora-Flug
+Vaal-Hazak-Lebenskraft
+Kirin-Gefallen
+Xeno'jiiva-Göttlichkeit
+Gildenführung
+Kommissionsführung

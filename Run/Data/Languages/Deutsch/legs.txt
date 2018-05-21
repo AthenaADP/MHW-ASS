@@ -1,0 +1,156 @@
+﻿Leder-Hose
+Ketten-Hose
+Jäger-Beinschienen
+Knochen-Beinschienen
+Vespoid-Beinschienen
+
+Gajau-Stiefel
+Jagras-Beinschienen
+Kulu-Beinschienen
+Legierungs-Beinschienen
+Pukei-Beinschienen
+Barroth-Beinschienen
+Jyura-Beinschienen
+Kadachi-Beinschienen
+Hochmetall-Beinschienen
+Königskäfer-Crura
+Schmetterling-Crura
+
+Hornetaur-Beinschienen
+Anjanath-Beinschienen
+Rathian-Beinschienen
+Tzitzi-Beinschienen
+Paolumu-Beinschienen
+Girros-Beinschienen
+Baan-Beinschienen
+Guss-Beinschienen
+Todesgestank-Ferse
+Brigade-Stiefel
+Legiana-Beinschienen
+Odogaron-Beinschienen
+Rathalos-Beinschienen
+Diablos-Beinschienen
+Kirin-Beinschutz
+Leder-Hose α
+Leder-Hose β
+Ketten-Hose α
+Ketten-Hose β
+Jäger-Beinschienen α
+Jäger-Beinschienen β
+Knochen-Beinschienen α
+Knochen-Beinschienen β
+Legierungs-Beinschienen α
+Legierungs-Beinschienen β
+Königskäfer-Crura α
+Königskäfer-Crura β
+Schmetterling-Crura α
+Schmetterling-Crura β
+Vespoid-Beinschienen α
+Vespoid-Beinschienen β
+Hornetaur-Beinschienen α
+Hornetaur-Beinschienen β
+
+
+
+Gajau-Stiefel α
+Gajau-Stiefel β
+
+
+Jagras-Beinschienen α
+Jagras-Beinschienen β
+Kulu-Beinschienen α
+Kulu-Beinschienen β
+Tzitzi-Beinschienen α
+Tzitzi-Beinschienen β
+Girros-Beinschienen α
+Girros-Beinschienen β
+Pukei-Beinschienen α
+Pukei-Beinschienen β
+Barroth-Beinschienen α
+Barroth-Beinschienen β
+Anjanath-Beinschienen α
+Anjanath-Beinschienen β
+Jyura-Beinschienen α
+Jyura-Beinschienen β
+Kadachi-Beinschienen α
+Kadachi-Beinschienen β
+Paolumu-Beinschienen α
+Paolumu-Beinschienen β
+Rathian-Beinschienen α
+Rathian-Beinschienen β
+RathianherzBeinschienen α
+RathianherzBeinschienen β
+Baan-Beinschienen α
+Baan-Beinschienen β
+
+
+
+
+Dodogama-Beinschienen α
+Dodogama-Beinschienen β
+Zorah-Sporen α
+Zorah-Sporen β
+HochmetallBeinschienen α
+HochmetallBeinschienen β
+Guss-Beinschienen α
+Guss-Beinschienen β
+Brigade-Stiefel α
+Brigade-Stiefel β
+
+
+Lavasioth-Beinschienen α
+Lavasioth-Beinschienen β
+Legiana-Beinschienen α
+Legiana-Beinschienen β
+Odogaron-Beinschienen α
+Odogaron-Beinschienen β
+Rathalos-Beinschienen α
+Rathalos-Beinschienen β
+RathalosselnBeinschinen α
+RathalosselnBeinschinen β
+Diablos-Beinschienen α
+Diablos-Beinschienen β
+DiablosNeroBeinschienen α
+DiablosNeroBeinschienen β
+Uragaan-Beinschienen α
+Uragaan-Beinschienen β
+Bazel-Beinschienen α
+Bazel-Beinschienen β
+Damaskus-Beinschienen α
+Damaskus-Beinschienen β
+Dober-Beinschienen α
+Dober-Beinschienen β
+Todesgestank-Ferse α
+Todesgestank-Ferse β
+
+NergiganteBeinschienen α
+NergiganteBeinschienen β
+Kaiser-Beinschienen α
+Kaiser-Beinschienen β
+Kushala-Crus α
+Kushala-Crus β
+VaalHazak-Beinschienen α
+VaalHazak-Beinschienen β
+Kirin-Beinschutz α
+Kirin-Beinschutz β
+Xeno'jiiva-Sporen α
+Xeno'jiiva-Sporen β
+Gildenkreuz-Stiefel α
+Gildenkreuz-Stiefel β
+
+Kommissionshose α
+Kommissionshose β
+Vangis-Beinschienen α
+Vangis-Beinschienen β
+Aloy-Beine α
+Ryu-Beine
+Ryu-Beine α
+Sakura-Beine α
+Schmetterling-Crura
+Königinnenkäfer-Crura
+Blüten-Stiefel
+Blüten-Stiefel α
+Kulve Taroths Zorn α
+Kulve Taroths Zorn β
+Dantes Lederstiefel α
+AzursternGebiterBeinschtz α

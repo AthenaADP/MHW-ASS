@@ -1,0 +1,162 @@
+﻿Leder-Kopfschutz
+Ketten-Kopfschutz
+Jäger-Kopfschutz
+Knochen-Helm
+Vespoid-Helm
+
+
+Jagras-Helm
+Kulu-Kopfschutz
+Legierungs-Helm
+Pukei-Kopfschutz
+Barroth-Helm
+Jyura-Helm
+Kadachi-Helm
+Hochmetall-Helm
+Königskäfer-Vertex
+Schmetterling-Vertex
+Shamos-Brille
+Hornetaur-Helm
+Anjanath-Helm
+Rathian-Helm
+Tzitzi-Kopfschutz
+Paolumu-Hut
+Girros-Maske
+Baan-Helm
+Guss-Helm
+Todesgestank-Hirn
+Brigade-Lobos
+Legiana-Helm
+Odogaron-Helm
+Rathalos-Helm
+Diablos-Helm
+Kirin-Horn
+Leder-Kopfschutz α
+Leder-Kopfschutz β
+Ketten-Kopfschutz α
+Ketten-Kopfschutz β
+Jäger-Kopfschutz α
+Jäger-Kopfschutz β
+Knochen-Helm α
+Knochen-Helm β
+Legierungs-Helm α
+Legierungs-Helm β
+Königskäfer-Vertex α
+Königskäfer-Vertex β
+Schmetterling-Vertex α
+Schmetterling-Vertex β
+Vespoid-Helm α
+Vespoid-Helm β
+Hornetaur-Helm α
+Hornetaur-Helm β
+Mosswine-Maske α
+
+
+
+
+Shamos-Brille α
+Shamos-Brille β
+Jagras-Helm α
+Jagras-Helm β
+Kulu-Kopfschutz α
+Kulu-Kopfschutz β
+Tzitzi-Kopfschutz α
+Tzitzi-Kopfschutz β
+Girros-Maske α
+Girros-Maske β
+Pukei-Kopfschutz α
+Pukei-Kopfschutz β
+Barroth-Helm α
+Barroth-Helm β
+Anjanath-Helm α
+Anjanath-Helm β
+Jyura-Helm α
+Jyura-Helm β
+Kadachi-Helm α
+Kadachi-Helm β
+Paolumu-Hut α
+Paolumu-Hut β
+Rathian-Helm α
+Rathian-Helm β
+Rathianherz-Helm α
+Rathianherz-Helm β
+Baan-Helm α
+Baan-Helm β
+Gastodon-Horn α
+Gastodon-Horn β
+
+
+Dodogama-Helm α
+Dodogama-Helm β
+Zorah-Kopfschutz α
+Zorah-Kopfschutz β
+Hochmetall-Helm α
+Hochmetall-Helm β
+Guss-Helm α
+Guss-Helm β
+Brigade-Lobos α
+Brigade-Lobos β
+Falscher Felyne α
+Strategiker-Brille α
+Lavasioth-Helm α
+Lavasioth-Helm β
+Legiana-Helm α
+Legiana-Helm β
+Odogaron-Helm α
+Odogaron-Helm β
+Rathalos-Helm α
+Rathalos-Helm β
+Rathalosseelen-Helm α
+Rathalosseelen-Helm β
+Diablos-Helm α
+Diablos-Helm β
+Diablos-Nero-Helm α
+Diablos-Nero-Helm β
+Uragaan-Helm α
+Uragaan-Helm β
+Bazel-Helm α
+Bazel-Helm β
+Damaskus-Helm α
+Damaskus-Helm β
+Dober-Helm α
+Dober-Helm β
+Todesgestank-Hirn α
+Todesgestank-Hirn β
+Totenschädel α
+Nergigante-Helm α
+Nergigante-Helm β
+Kaiserkrone α
+Kaiserkrone β
+Kushala-Glanz α
+Kushala-Glanz β
+Vaal-Hazak-Helm α
+Vaal-Hazak-Helm β
+Kirin-Horn α
+Kirin-Horn β
+Xeno'jiiva-Kopfschutz α
+Xeno'jiiva-Kopfschutz β
+Gildenkreuz-Reif α
+Gildenkreuz-Reif β
+DrKönigAugenklappe α
+Kommissionsringkragen α
+Kommissionsringkragen β
+Vangis-Helm α
+Vangis-Helm β
+Aloy-Kopf α
+Ryu-Kopf
+Ryu-Kopf α
+Sakura-Kopf α
+Schmetterling-Vertex
+Königinnenkäfer-Vertex
+Blüten-Kopfschutz
+Blüten-Kopfschutz α
+Kulve Taroths Wut α
+Kulve Taroths Wut β
+Dantes Haar α
+Azurstern-Gebieter-Krone α
+Dichte Augenklappe α
+Schatten-Sonnenbrille α
+Kulu-Ya-Ku-Kopf α
+Wackelwurm-Kopf
+Drachensiegel-Ohrringe α
+Pulverisierungs-Feder

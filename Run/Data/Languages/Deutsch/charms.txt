@@ -1,0 +1,234 @@
+﻿Gift-Talisman I
+Gift-Talisman II
+Gift-Talisman III
+Angriff-Talisman I
+Angriff-Talisman II
+Angriff-Talisman III
+Verteidigung-Talisman I
+Verteidigung-Talisman II
+Verteidigung-Talisman III
+Lähm-Talisman I
+Lähm-Talisman II
+Lähm-Talisman III
+Schlaf-Talisman I
+Schlaf-Talisman II
+Schlaf-Talisman III
+Betäubung-Talisman I
+Betäubung-Talisman II
+Betäubung-Talisman III
+Windsicher-Talisman I
+Windsicher-Talisman II
+Windsicher-Talisman III
+Gesundheit-Talisman I
+Gesundheit-Talisman II
+Gesundheit-Talisman III
+Erholung-Talisman I
+Erholung-Talisman II
+Erholung-Talisman III
+Feuer-Talisman I
+Feuer-Talisman II
+Feuer-Talisman III
+Wasser-Talisman I
+Wasser-Talisman II
+Wasser-Talisman III
+Donner-Talisman I
+Donner-Talisman II
+Donner-Talisman III
+Geloder-Talisman I
+Geloder-Talisman II
+Geloder-Talisman III
+Flut-Talisman I
+Flut-Talisman II
+Flut-Talisman III
+Gewitter-Talisman I
+Gewitter-Talisman II
+Gewitter-Talisman III
+Giftbiss-Talisman I
+Giftbiss-Talisman II
+Giftbiss-Talisman III
+Immobilität-Talisman I
+Immobilität-Talisman II
+Immobilität-Talisman III
+Beruhigung-Talisman I
+Beruhigung-Talisman II
+Beruhigung-Talisman III
+KO-Talisman I
+KO-Talisman II
+KO-Talisman III
+Entkräften-Talisman I
+Entkräften-Talisman II
+Entkräften-Talisman III
+Artillerie-Talisman I
+Artillerie-Talisman II
+Artillerie-Talisman III
+Hungerfrei-Talisman I
+Hungerfrei-Talisman II
+Hungerfrei-Talisman III
+Eisenplatte-Talisman I
+Eisenplatte-Talisman II
+Eisenplatte-Talisman III
+Freundschaft-Talisman I
+Freundschaft-Talisman II
+Freundschaft-Talisman III
+Verlängerung-Talisman I
+Verlängerung-Talisman II
+Verlängerung-Talisman III
+Vielfraß-Talisman I
+Vielfraß-Talisman II
+Vielfraß-Talisman III
+Segen-Talisman I
+Segen-Talisman II
+Segen-Talisman III
+Versammlung-Talisman I
+Versammlung-Talisman II
+Versammlung-Talisman III
+Botanik-Talisman I
+Botanik-Talisman II
+Botanik-Talisman III
+Geologie-Talisman I
+Geologie-Talisman II
+Geologie-Talisman III
+Schleuder-Talisman I
+Schleuder-Talisman II
+Schleuder-Talisman III
+Tarnung-Talisman I
+Tarnung-Talisman II
+Tarnung-Talisman III
+Rauch-Talisman I
+Rauch-Talisman II
+Rauch-Talisman III
+Sumpfläufer-Talisman I
+Sumpfläufer-Talisman II
+Sumpfläufer-Talisman III
+Insekten-Talisman I
+Insekten-Talisman II
+Insekten-Talisman III
+Einschüchtern-Talisman I
+Einschüchtern-Talisman II
+Einschüchtern-Talisman III
+Geschütz-Talisman I
+Geschütz-Talisman II
+KleinHungerTalisman
+Spürhund-Talisman
+Kräftigung-Talisman
+Darbietung-Talisman
+Kapazität-Talisman
+Blutung-Talisman I
+Blutung-Talisman II
+Blutung-Talisman III
+SchnellheilungTalisman I
+SchnellheilungTalisman II
+SchnellheilungTalisman III
+Eis-Talisman I
+Eis-Talisman II
+Eis-Talisman III
+Pest-Talisman I
+Pest-Talisman II
+Pest-Talisman III
+Frost-Talisman I
+Frost-Talisman II
+Frost-Talisman III
+Meister-Talisman I
+Meister-Talisman II
+Meister-Talisman III
+Ausweich-Talisman I
+Ausweich-Talisman II
+Ausweich-Talisman III
+Wegstecken-Talisman I
+Wegstecken-Talisman II
+Wegstecken-Talisman III
+Wetzstein-Talisman I
+Wetzstein-Talisman II
+Wetzstein-Talisman III
+Explosion-Talisman I
+Explosion-Talisman II
+Explosion-Talisman III
+Drachen-Talisman I
+Drachen-Talisman II
+Drachen-Talisman III
+Wyrmgeißel-Talisman I
+Wyrmgeißel-Talisman II
+Wyrmgeißel-Talisman III
+Zerstörung-Talisman I
+Zerstörung-Talisman II
+Zerstörung-Talisman III
+Ziehen-Talisman I
+Ziehen-Talisman II
+SpezialschussTalismn I
+SpezialschussTalismn II
+Marathon-Talisman I
+Marathon-Talisman II
+Fitness-Talisman I
+Fitness-Talisman II
+Fitness-Talisman III
+Energie-Talisman I
+Energie-Talisman II
+Luftsprung-Talisman I
+Luftsprung-Talisman II
+Bombardier-Talisman I
+Bombardier-Talisman II
+Bombardier-Talisman III
+Pilz-Talisman I
+Pilz-Talisman II
+Erwachen-Talisman I
+Erwachen-Talisman II
+Handwerk-Talisman I
+Handwerk-Talisman II
+Handwerk-Talisman III
+Schlamm-Talisman
+Kunstschuss-Talisman
+Jägerleben-Talisman
+Vermittler-Talisman
+Sammler-Talisman
+Block-Talisman I
+Block-Talisman II
+Block-Talisman III
+Ohrstöpsel-Talisman I
+Ohrstöpsel-Talisman II
+Ohrstöpsel-Talisman III
+Beben-Talisman I
+Beben-Talisman II
+Vorteil-Talisman I
+Vorteil-Talisman II
+Fokus-Talisman I
+Fokus-Talisman II
+Brecher-Talisman I
+Brecher-Talisman II
+Zorn-Talisman I
+Zorn-Talisman II
+Schneid-Talisman I
+Schneid-Talisman II
+Wartung-Talisman I
+Wartung-Talisman II
+Wartung-Talisman III
+Kraft-Talisman I
+Kraft-Talisman II
+Hetzer-Talisman I
+Hetzer-Talisman II
+Unversehrt-Talisman I
+Unversehrt-Talisman II
+Macht-Talisman I
+Macht-Talisman II
+Treffer-Talisman I
+Treffer-Talisman II
+Miasma-Talisman I
+Miasma-Talisman II
+Miasma-Talisman III
+StandardboostTalismn
+Klarer-Kopf-Talisman
+Reiter-Talisman
+Vermesser-Talisman
+Kritischer-Talisman I
+Kräftigung-Talisman I
+Kräftigung-Talisman II
+Durchdring-Talisman
+Zerstreu-Talisman
+Giftschicht-Talisman
+Lähmschicht-Talisman
+SchlafschichtTalisman
+ExplosionsschchtTalmn
+Geomantik-Talisman
+Sturmwind-Talisman
+LindwurmtöterTalismn
+Bollwerk-Talisman
+Talisman der Fünften

@@ -2502,6 +2502,8 @@ private:
 
 		updating_language = true;
 
+		SuspendUpdate::Suspend( this );
+
 		StringTable::LoadLanguage( static_cast< ToolStripMenuItem^ >( sender )->ToString() );
 
 		for each( ComboBox^ box in SkillFilters )
@@ -2585,11 +2587,20 @@ private:
 
 		if( construction_complete )
 		{
-			//CharmDatabase::SaveCustom();
+			try
+			{
+				Decoration::SaveCustom();
+			}
+			catch( Exception^ e )
+			{
+				Assert( e, "Failed to save decorations: " + e->ToString() );
+			}
 		}
 		
 		updating_language = false;
 		UpdateResultString();
+
+		SuspendUpdate::Resume( this );
 	}
 
 	System::Void aboutToolStripMenuItem_Click( System::Object^ sender, System::EventArgs^ e )

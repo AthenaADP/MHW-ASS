@@ -1,0 +1,156 @@
+﻿Leder-Gürtel
+Ketten-Gürtel
+Jäger-Hüftring
+Knochen-Hüftring
+Vespoid-Hüftring
+
+
+Jagras-Hüftring
+Kulu-Hüftring
+Legierungs-Hüftring
+Pukei-Hüftring
+Barroth-Hüftring
+Jyura-Hüftring
+Kadachi-Hüftring
+Hochmetall-Hüftring
+Königskäfer-Elytren
+Schmetterling-Elytra
+
+Hornetaur-Hüftring
+Anjanath-Hüftring
+Rathian-Hüftring
+Tzitzi-Hüftring
+Paolumu-Hüftring
+Girros-Hüftring
+Baan-Hüftring
+Guss-Hüftring
+Todesgestank-Gedärm
+Brigade-Hüftring
+Legiana-Hüftring
+Odogaron-Hüftring
+Rathalos-Hüftring
+Diablos-Hüftring
+Kirin-Reifen
+Leder-Gürtel α
+Leder-Gürtel β
+Ketten-Gürtel α
+Ketten-Gürtel β
+Jäger-Hüftring α
+Jäger-Hüftring β
+Knochen-Hüftring α
+Knochen-Hüftring β
+Legierungs-Hüftring α
+Legierungs-Hüftring β
+Königskäfer-Elytren α
+Königskäfer-Elytren β
+Schmetterling-Elytra α
+Schmetterling-Elytra β
+Vespoid-Hüftring α
+Vespoid-Hüftring β
+Hornetaur-Hüftring α
+Hornetaur-Hüftring β
+
+
+
+
+
+
+
+Jagras-Hüftring α
+Jagras-Hüftring β
+Kulu-Hüftring α
+Kulu-Hüftring β
+Tzitzi-Hüftring α
+Tzitzi-Hüftring β
+Girros-Hüftring α
+Girros-Hüftring β
+Pukei-Hüftring α
+Pukei-Hüftring β
+Barroth-Hüftring α
+Barroth-Hüftring β
+Anjanath-Hüftring α
+Anjanath-Hüftring β
+Jyura-Hüftring α
+Jyura-Hüftring β
+Kadachi-Hüftring α
+Kadachi-Hüftring β
+Paolumu-Hüftring α
+Paolumu-Hüftring β
+Rathian-Hüftring α
+Rathian-Hüftring β
+Rathianherz-Hüftring α
+Rathianherz-Hüftring β
+Baan-Hüftring α
+Baan-Hüftring β
+
+
+
+
+Dodogama-Hüftring α
+Dodogama-Hüftring β
+Zorah-Stachel α
+Zorah-Stachel β
+Hochmetall-Hüftring α
+Hochmetall-Hüftring β
+Guss-Hüftring α
+Guss-Hüftring β
+Brigade-Hüftring α
+Brigade-Hüftring β
+
+
+Lavasioth-Hüftring α
+Lavasioth-Hüftring β
+Legiana-Hüftring α
+Legiana-Hüftring β
+Odogaron-Hüftring α
+Odogaron-Hüftring β
+Rathalos-Hüftring α
+Rathalos-Hüftring β
+RathalosseelenHüftring α
+RathalosseelenHüftring β
+Diablos-Hüftring α
+Diablos-Hüftring β
+Diablos-Nero-Hüftring α
+Diablos-Nero-Hüftring β
+Uragaan-Hüftring α
+Uragaan-Hüftring β
+Bazel-Hüftring α
+Bazel-Hüftring β
+Damaskus-Hüftring α
+Damaskus-Hüftring β
+Dober-Hüftring α
+Dober-Hüftring β
+Todesgestank-Gedärm α
+Todesgestank-Gedärm β
+
+Nergigante-Hüftring α
+Nergigante-Hüftring β
+Kaiser-Hüftring α
+Kaiser-Hüftring β
+Kushala-Kokon α
+Kushala-Kokon β
+Vaal-Hazak-Hüftring α
+Vaal-Hazak-Hüftring β
+Kirin-Reifen α
+Kirin-Reifen β
+Xeno'jiiva-Stachel α
+Xeno'jiiva-Stachel β
+Gildenkreuz-Hüftring α
+Gildenkreuz-Hüftring β
+
+Kommissionsgürtel α
+Kommissionsgürtel β
+Vangis-Hüftring α
+Vangis-Hüftring β
+Aloy-Hüfte α
+Ryu-Hüfte
+Ryu-Hüfte α
+Sakura-Hüfte α
+Schmetterling-Elytra
+Königinnenkäfer-Elytra
+Blüten-Hüftschutz
+Blüten-Hüftschutz α
+Kulve Taroths Groll α
+Kulve Taroths Groll β
+Dantes Gürtel α
+Azurstern-Gebieter-Schutz α

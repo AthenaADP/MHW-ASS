@@ -1,0 +1,156 @@
+﻿Leder-Handschuhe
+Ketten-Handschuhe
+Jäger-Armschienen
+Knochen-Armschienen
+Vespoid-Armschienen
+Kestodon-Armschutz
+
+Jagras-Armschienen
+Kulu-Armschienen
+Legierungs-Armschienen
+Pukei-Armschienen
+Barroth-Armschienen
+Jyura-Armschienen
+Kadachi-Armschienen
+Hochmetall-Armschienen
+Königskäfer-Brachia
+Schmetterling-Brachia
+
+Hornetaur-Armschienen
+Anjanath-Armschienen
+Rathian-Armschienen
+Tzitzi-Armschienen
+Paolumu-Armschienen
+Girros-Armschienen
+Baan-Armschienen
+Guss-Armschienen
+Todesgestank-Klauen
+Brigade-Armschienen
+Legiana-Armschienen
+Odogaron-Armschienen
+Rathalos-Armschienen
+Diablos-Armschienen
+Kirin-Armstulpen
+Leder-Handschuhe α
+Leder-Handschuhe β
+Ketten-Handschuhe α
+Ketten-Handschuhe β
+Jäger-Armschienen α
+Jäger-Armschienen β
+Knochen-Armschienen α
+Knochen-Armschienen β
+Legierungs-Armschienen α
+Legierungs-Armschienen β
+Königskäfer-Brachia α
+Königskäfer-Brachia β
+Schmetterling-Brachia α
+Schmetterling-Brachia β
+Vespoid-Armschienen α
+Vespoid-Armschienen β
+Hornetaur-Armschienen α
+Hornetaur-Armschienen β
+
+Kestodon-Armschutz α
+Kestodon-Armschutz β
+
+
+
+
+Jagras-Armschienen α
+Jagras-Armschienen β
+Kulu-Armschienen α
+Kulu-Armschienen β
+Tzitzi-Armschienen α
+Tzitzi-Armschienen β
+Girros-Armschienen α
+Girros-Armschienen β
+Pukei-Armschienen α
+Pukei-Armschienen β
+Barroth-Armschienen α
+Barroth-Armschienen β
+Anjanath-Armschienen α
+Anjanath-Armschienen β
+Jyura-Armschienen α
+Jyura-Armschienen β
+Kadachi-Armschienen α
+Kadachi-Armschienen β
+Paolumu-Armschienen α
+Paolumu-Armschienen β
+Rathian-Armschienen α
+Rathian-Armschienen β
+RathianherzArmschienen α
+RathianherzArmschienen β
+Baan-Armschienen α
+Baan-Armschienen β
+
+
+
+
+Dodogama-Armschienen α
+Dodogama-Armschienen β
+Zorah-Klauen α
+Zorah-Klauen β
+HochmetallArmschienen α
+HochmetallArmschienen β
+Guss-Armschienen α
+Guss-Armschienen β
+Brigade-Armschienen α
+Brigade-Armschienen β
+
+
+Lavasioth-Armschienen α
+Lavasioth-Armschienen β
+Legiana-Armschienen α
+Legiana-Armschienen β
+Odogaron-Armschienen α
+Odogaron-Armschienen β
+Rathalos-Armschienen α
+Rathalos-Armschienen β
+RathalosseelnArmschinen α
+RathalosseelnArmschinen β
+Diablos-Armschienen α
+Diablos-Armschienen β
+Diablos-Nero-Armschienen α
+Diablos-Nero-Armschienen β
+Uragaan-Armschienen α
+Uragaan-Armschienen β
+Bazel-Armschienen α
+Bazel-Armschienen β
+Damaskus-Armschienen α
+Damaskus-Armschienen β
+Dober-Armschienen α
+Dober-Armschienen β
+Todesgestank-Klauen α
+Todesgestank-Klauen β
+
+Nergigante-Armschienen α
+Nergigante-Armschienen β
+Kaiser-Armschienen α
+Kaiser-Armschienen β
+Kushala-Klauen α
+Kushala-Klauen β
+Vaal-Hazak-Armschienen α
+Vaal-Hazak-Armschienen β
+Kirin-Armstulpen α
+Kirin-Armstulpen β
+Xeno'jiiva-Klauen α
+Xeno'jiiva-Klauen β
+Gildenkreuz-Armschienen α
+Gildenkreuz-Armschienen β
+
+Kommissionsarmschienen α
+Kommissionsarmschienen β
+Vangis-Armschienen α
+Vangis-Armschienen β
+Aloy-Arme α
+Ryu-Arme
+Ryu-Arme α
+Sakura-Arme α
+Schmetterling-Brachia
+Königinnenkäfer-Brachia
+Blüten-Manschetten
+Blüten-Manschetten α
+Kulve Taroths Rage α
+Kulve Taroths Rage β
+Dantes Handschuhe α
+AzursternGebitrHandschuhe α
