@@ -54,6 +54,8 @@ ref struct Solution
 	int fire_res, ice_res, water_res, thunder_res, dragon_res;
 	unsigned defence, max_defence, aug_defence, rarity, difficulty, total_slots_spare;
 	array< unsigned >^ slots_spare, ^family_score;
+
+	unsigned long long GetHash();
 	
 	bool MatchesQuery( Query^ query );
 	void CalculateData( const unsigned hr );

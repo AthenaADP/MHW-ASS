@@ -100,6 +100,8 @@ namespace MHWASS
 		SkillHelp^ help_window;
 		PreviewImage^ preview_pane;
 
+		Generic::Dictionary< unsigned long long, unsigned > solution_hashes;
+
 		List_t< Solution^ > final_solutions, all_solutions;
 		List_t< ComboBox^ > Skills;
 		List_t< ComboBox^ > SkillFilters;
@@ -118,7 +120,6 @@ namespace MHWASS
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuAbout;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuLanguage;
 	private: System::Windows::Forms::GroupBox^  grpGender;
-
 	private: System::Windows::Forms::RadioButton^  rdoFemale;
 	private: System::Windows::Forms::RadioButton^  rdoMale;
 	private: System::Windows::Forms::Button^  btnAdvancedSearch;
@@ -126,20 +127,17 @@ namespace MHWASS
 	private: System::Windows::Forms::NumericUpDown^  nudWeaponSlots1;
 	private: System::Windows::Forms::NumericUpDown^  nudWeaponSlots2;
 	private: System::Windows::Forms::NumericUpDown^  nudWeaponSlots3;
-
 	private: System::Windows::Forms::GroupBox^  groupBox1;
 	private: System::Windows::Forms::Label^  lblHR;
 	private: System::Windows::Forms::Label^  lblSlots;
 	private: System::Windows::Forms::Button^  btnCancel;
 	private: System::Windows::Forms::GroupBox^  grpSkills;
-
 	private: System::Windows::Forms::Button^  btnSearch;
 	private: System::Windows::Forms::ProgressBar^  progressBar1;
 	private: System::Windows::Forms::RichTextBox^  txtSolutions;
 	private: System::Windows::Forms::GroupBox^  groupBox4;
 	private: System::Windows::Forms::GroupBox^  grpResults;
 	private: System::Windows::Forms::GroupBox^  grpSkillFilters;
-
 	private: System::Windows::Forms::GroupBox^  grpSortFilter;
 	private: System::Windows::Forms::ComboBox^  cmbSort;
 	private: System::Windows::Forms::ContextMenuStrip^  cmsSolutions;
@@ -161,9 +159,7 @@ namespace MHWASS
 	private: System::Windows::Forms::ToolStripTextBox^  mnuNumResults;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuAllowLowerTierArmor;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuSkillHelp;
-
 	private: System::Windows::Forms::ToolStripSeparator^  toolStripSeparator2;
-
 	private: System::Windows::Forms::ComboBox^  cmbFilterByExtraSkill;
 	private: System::Windows::Forms::ContextMenuStrip^  cmsSkills;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuClearSkill;
@@ -1697,6 +1693,7 @@ private:
 			txtSolutions->Text = StartString( SolutionsFound ) + L"0";
 			final_solutions.Clear();
 			all_solutions.Clear();
+			solution_hashes.Clear();
 			workers.Clear();
 			worker_data.Clear();
 			last_result = nullptr;
@@ -1707,8 +1704,7 @@ private:
 				QueueTask( query, charm );
 			}
 
-			if( query->rel_charms.Count == 0 )
-				QueueTask( query, nullptr );
+			QueueTask( query, nullptr );
 
 			for each( array< Armor^ >^ set in Armor::static_full_sets )
 			{
@@ -2087,7 +2083,12 @@ private:
 				return;
 			}
 
-			all_solutions.Add( sol );
+			const auto hash = sol->GetHash();
+			if( !solution_hashes.ContainsKey( hash ) )
+			{
+				solution_hashes.Add( hash, 0 );
+				all_solutions.Add( sol );
+			}
 		}
 		charm_map_mutex->ReleaseMutex();
 	}
@@ -2376,12 +2377,10 @@ private:
 						solutions->Add( good );
 				}
 			}
-			else
-			{
-				Solution^ good = backgroundWorker1_Search( worker, e, qc2->query, nullptr, qc2->armors );
-				if( good )
-					solutions->Add( good );
-			}
+			
+			Solution^ good = backgroundWorker1_Search( worker, e, qc2->query, nullptr, qc2->armors );
+			if( good )
+				solutions->Add( good );
 
 			worker->ReportProgress( 100 );
 			e->Result = solutions;

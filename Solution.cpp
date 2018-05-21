@@ -277,7 +277,9 @@ bool Solution::MatchesQuery( Query^ query )
 	}
 	
 	if( charm )
+	{
 		ReduceCharm();
+	}
 
 	CalculateExtraSkills( query );
 	CalculateFamilyScore();
@@ -482,4 +484,19 @@ int CalculateBonusExtraSkillPoints( Ability^ ability, const unsigned slot_level,
 		spare_slots--;
 	}
 	return total;
+}
+
+unsigned long long Solution::GetHash()
+{
+	unsigned long long hash = 0;
+	for( unsigned i = 0; i < (unsigned)Armor::ArmorType::NumArmorTypes; ++i )
+	{
+		if( armors[ i ] )
+			hash += static_cast< unsigned long long >( armors[ i ]->index + 1 ) << ( i * 8 + 8 );
+	}
+
+	if( charm )
+		hash += charm->index;
+
+	return hash;
 }
