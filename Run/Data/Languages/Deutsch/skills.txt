@@ -147,7 +147,7 @@ Odogaron-Meisterung
 Rathalos-Meisterung
 Diablos-Meisterung
 Uragaan-Schutz
-Bazelguese-Schutz
+Bazelgeuse-Schutz
 Nergigante-Hunger
 Teostra-Technik
 Kushala-Daora-Flug

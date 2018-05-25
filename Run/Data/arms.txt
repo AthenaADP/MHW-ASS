@@ -115,8 +115,8 @@ Diablos Nero Braces α,,7,7,0,56,68,82,2,-3,0,-4,2,Focus,1,Marathon Runner,1,Dia
 Diablos Nero Braces β,,7,7,21,56,68,82,2,-3,0,-4,2,Focus,1,,,Diablos Mastery,1,Black Diablos Ridge+,4,Black Diablos Carapace,6,Carbalite Ore,5,Gastodon Carapace,5
 Uragaan Vambraces α,,7,7,1,60,72,86,4,-3,1,-2,-2,Guard,1,Defense Boost,1,Uragaan Protection,1,Uragaan Carapace,4,Uragaan Scale+,4,Uragaan Marrow,1,Lava Nugget,4
 Uragaan Vambraces β,,7,7,2,60,72,86,4,-3,1,-2,-2,Guard,1,,,Uragaan Protection,1,Uragaan Carapace,4,Uragaan Scale+,4,Uragaan Marrow,1,Lava Nugget,4
-Bazel Vambraces α,,7,7,0,58,70,84,3,1,-4,-2,-2,Critical Draw,2,Earplugs,1,Bazelguese Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Bazelgeuse Tail,2,Firecell Stone,1
-Bazel Vambraces β,,7,7,3,58,70,84,3,1,-4,-2,-2,Critical Draw,2,,,Bazelguese Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Bazelgeuse Tail,2,Firecell Stone,1
+Bazel Vambraces α,,7,7,0,58,70,84,3,1,-4,-2,-2,Critical Draw,2,Earplugs,1,Bazelgeuse Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Bazelgeuse Tail,2,Firecell Stone,1
+Bazel Vambraces β,,7,7,3,58,70,84,3,1,-4,-2,-2,Critical Draw,2,,,Bazelgeuse Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Bazelgeuse Tail,2,Firecell Stone,1
 Damascus Vambraces α,,7,8,0,60,72,86,4,-2,0,0,0,Handicraft,1,Speed Sharpening,1,,,Elder Dragon Blood,2,Fucium Ore,3,Black Diablos Ridge+,5,Novacrystal,1
 Damascus Vambraces β,,7,8,1,60,72,86,4,-2,0,0,0,Handicraft,1,,,,,Elder Dragon Blood,2,Fucium Ore,3,Black Diablos Ridge+,5,Novacrystal,1
 Dober Vambraces α,,7,8,0,60,72,86,-2,0,-1,-1,4,Stamina Surge,2,Mushroomancer,1,,,Elder Dragon Bone,3,Quality Bone,3,Uragaan Marrow,1,Brutal Bone,3

@@ -18,7 +18,7 @@ Rathalos Mastery,4,Mind's Eye/Ballistics
 Diablos Mastery,2,Bludgeoner
 Diablos Mastery,4,Non-elemental Boost
 Uragaan Protection,3,Guard Up
-Bazelguese Protection,3,Guts
+Bazelgeuse Protection,3,Guts
 Nergigante Hunger,3,Hasten Recovery
 Teostra Technique,3,Master's Touch
 Kushala Daora Flight,3,Nullify Wind Pressure

@@ -115,8 +115,8 @@ Diablos Nero Greaves α,,7,7,1,56,68,82,2,-3,0,-4,2,Normal Shots,1,Heroics,1,Dia
 Diablos Nero Greaves β,,7,7,2,56,68,82,2,-3,0,-4,2,Normal Shots,1,,,Diablos Mastery,1,Black Diablos Ridge+,6,Black Diablos Carapace,4,Black Spiral Horn+,1,Wyvern Gem,1
 Uragaan Greaves α,,7,7,1,60,72,86,4,-3,1,-2,-2,Guard,2,,,Uragaan Protection,1,Uragaan Carapace,4,Uragaan Scale+,4,Uragaan Scute,2,Gastodon Carapace,5
 Uragaan Greaves β,,7,7,3,60,72,86,4,-3,1,-2,-2,Guard,1,,,Uragaan Protection,1,Uragaan Carapace,4,Uragaan Scale+,4,Uragaan Scute,2,Gastodon Carapace,5
-Bazel Greaves α,,7,7,1,58,70,84,3,1,-4,-2,-2,Bombardier,2,Critical Draw,1,Bazelguese Protection,1,Bazelgeuse Scale+,4,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Dodogama Hide+,4
-Bazel Greaves β,,7,7,3,58,70,84,3,1,-4,-2,-2,Bombardier,2,,,Bazelguese Protection,1,Bazelgeuse Scale+,4,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Dodogama Hide+,4
+Bazel Greaves α,,7,7,1,58,70,84,3,1,-4,-2,-2,Bombardier,2,Critical Draw,1,Bazelgeuse Protection,1,Bazelgeuse Scale+,4,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Dodogama Hide+,4
+Bazel Greaves β,,7,7,3,58,70,84,3,1,-4,-2,-2,Bombardier,2,,,Bazelgeuse Protection,1,Bazelgeuse Scale+,4,Bazelgeuse Carapace,4,Bazelgeuse Talon,2,Dodogama Hide+,4
 Damascus Greaves α,,7,8,1,60,72,86,4,-2,0,0,0,Defense Boost,2,Iron Skin,1,,,Elder Dragon Blood,2,Fucium Ore,3,Lavasioth Carapace,5,Novacrystal,1
 Damascus Greaves β,,7,8,3,60,72,86,4,-2,0,0,0,Defense Boost,2,,,,,Elder Dragon Blood,2,Fucium Ore,3,Lavasioth Carapace,5,Novacrystal,1
 Dober Greaves α,,7,8,0,60,72,86,-2,0,-1,-1,4,Attack Boost,2,Stamina Surge,1,,,Elder Dragon Bone,3,Quality Bone,3,Radobaan Medulla,1,Dragonbone Relic,1

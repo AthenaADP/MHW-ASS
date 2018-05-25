@@ -115,8 +115,8 @@ Diablos Nero Coil α,,7,7,0,56,68,82,2,-3,0,-4,2,Resentment,1,Partbreaker,1,Diab
 Diablos Nero Coil β,,7,7,2,56,68,82,2,-3,0,-4,2,Resentment,1,,,Diablos Mastery,1,Black Diablos Carapace,4,Black Diablos Ridge+,3,Diablos Tailcase,2,Gastodon Horn,3
 Uragaan Coil α,,7,7,11,60,72,86,4,-3,1,-2,-2,Partbreaker,1,Thunder Resistance,1,Uragaan Protection,1,Uragaan Scale+,4,Uragaan Carapace,2,Fucium Ore,5,Monster Hardbone,5
 Uragaan Coil β,,7,7,21,60,72,86,4,-3,1,-2,-2,Partbreaker,1,,,Uragaan Protection,1,Uragaan Scale+,4,Uragaan Carapace,2,Fucium Ore,5,Monster Hardbone,5
-Bazel Coil α,,7,7,1,58,70,84,3,1,-4,-2,-2,Earplugs,2,Jump Master,1,Bazelguese Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Scale+,4,Bazelgeuse Fuse,2,Uragaan Marrow,1
-Bazel Coil β,,7,7,3,58,70,84,3,1,-4,-2,-2,Earplugs,2,,,Bazelguese Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Scale+,4,Bazelgeuse Fuse,2,Uragaan Marrow,1
+Bazel Coil α,,7,7,1,58,70,84,3,1,-4,-2,-2,Earplugs,2,Jump Master,1,Bazelgeuse Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Scale+,4,Bazelgeuse Fuse,2,Uragaan Marrow,1
+Bazel Coil β,,7,7,3,58,70,84,3,1,-4,-2,-2,Earplugs,2,,,Bazelgeuse Protection,1,Bazelgeuse Carapace,4,Bazelgeuse Scale+,4,Bazelgeuse Fuse,2,Uragaan Marrow,1
 Damascus Coil α,,7,8,1,60,72,86,4,-2,0,0,0,Focus,1,Iron Skin,2,,,Elder Dragon Blood,2,Fucium Ore,3,Dodogama Jaw,3,Firecell Stone,1
 Damascus Coil β,,7,8,111,60,72,86,4,-2,0,0,0,Focus,1,,,,,Elder Dragon Blood,2,Fucium Ore,3,Dodogama Jaw,3,Firecell Stone,1
 Dober Coil α,,7,8,2,60,72,86,-2,0,-1,-1,4,Dragon Resistance,2,Attack Boost,1,,,Elder Dragon Bone,3,Quality Bone,3,Rathalos Medulla,1,Brutal Bone,3
