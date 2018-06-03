@@ -143,6 +143,8 @@ Commission Vambraces α,,8,9,1,70,76,90,2,2,2,2,2,Blindsider,1,Carving Pro,1,Com
 Commission Vambraces β,,8,9,2,70,76,90,2,2,2,2,2,Blindsider,1,,,Commission Guidance,1,Research Commission Ticket,1,Legiana Scale+,8,Sinister Cloth,2,High Commendation,2
 Vangis Vambraces α,,7,7,0,58,70,84,1,1,-3,2,-3,Latent Power,2,Partbreaker,1,,,Deviljho Hide,4,Deviljho Tallfang,2,Deviljho Tail,2,Dragonbone Relic,1
 Vangis Vambraces β,,7,7,2,58,70,84,1,1,-3,2,-3,Latent Power,2,,,,,Deviljho Hide,4,Deviljho Tallfang,2,Deviljho Tail,2,Dragonbone Relic,1
+Empress Vambraces α,,8,8,3,70,76,90,3,1,1,-3,-2,Wide-Range,2,Blast Attack,2,Lunastra Favor,1,Lunastra Carapace,4,Lunastra Horn,1,Lunastra Tail,2,Firecell Stone,1
+Empress Vambraces β,,8,8,32,70,76,90,3,1,1,-3,-2,Wide-Range,2,,,Lunastra Favor,1,Lunastra Carapace,4,Lunastra Horn,1,Lunastra Tail,2,Firecell Stone,1
 Aloy's Arms α,Full,5,6,1,46,68,84,1,1,1,1,1,Weakness Exploit,1,Scenthound,1,Anjanath Will,1,Nora Brave Trophy,4,Anjanath Pelt+,14,Anjanath Nosebone+,6,Anjanath Gem,1
 Ryu's Arms,Full,2,3,0,12,44,70,2,0,5,-3,2,Latent Power,1,,,,,SFV Ticket,7,Monster Bone M,6,Earth Crystal,6,Barroth Shell,5
 Ryu's Arms α,Full,7,8,2,60,72,86,2,0,5,-3,2,Agitator,1,,,Rathalos Mastery,1,SFV Ticket III,4,Hunter King Coin,5,Immortal Dragonscale,6,Rathalos Plate,1

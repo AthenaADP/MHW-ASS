@@ -360,3 +360,5 @@ Bonus de set <<Maître capture>>
 Bonus de set <<Samouraï/Franc tireur>>
 Bonus de set <<Bonne fortune>>
 Bonus de set <<Maître dépeceur>>
+Set bonus grants <<Stamina Cap Up>>
+Set bonus grants <<Mind's Eye/Ballistics>>

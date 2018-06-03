@@ -27,3 +27,5 @@ Kirin Favor,3,Capture Master
 Xeno'jiiva Divinity,3,Razor Sharp/Spare Shot
 Guild Guidance,4,Great Luck
 Commission Guidance,4,Carving Master
+Lunastra Favor,2,Stamina Cap Up
+Lunastra Favor,4,Mind's Eye/Ballistics

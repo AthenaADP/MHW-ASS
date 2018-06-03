@@ -142,6 +142,8 @@ Kommissionsarmschienen α
 Kommissionsarmschienen β
 Vangis-Armschienen α
 Vangis-Armschienen β
+Empress Vambraces α
+Empress Vambraces β
 Aloy-Arme α
 Ryu-Arme
 Ryu-Arme α

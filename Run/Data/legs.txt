@@ -143,6 +143,8 @@ Commission Pants α,,8,9,0,70,76,90,2,2,2,2,2,Stealth,2,Affinity Sliding,1,Commi
 Commission Pants β,,8,9,2,70,76,90,2,2,2,2,2,Stealth,2,,,Commission Guidance,1,Research Commission Ticket,1,Immortal Dragonscale,5,Sinister Cloth,2,High Commendation,2
 Vangis Greaves α,,7,7,0,58,70,84,1,1,-3,2,-3,Speed Eating,2,Partbreaker,1,,,Deviljho Scale,3,Deviljho Hide,4,Deviljho Talon,2,Girros Hide+,4
 Vangis Greaves β,,7,7,11,58,70,84,1,1,-3,2,-3,Speed Eating,2,,,,,Deviljho Scale,3,Deviljho Hide,4,Deviljho Talon,2,Girros Hide+,4
+Empress Greaves α,,8,8,21,70,76,90,3,1,1,-3,-2,Health Boost,2,Wide-Range,2,Lunastra Favor,1,Teostra Carapace,4,Lunastra Wing,3,Lunastra Tail,1,Elder Dragon Blood,3
+Empress Greaves β,,8,8,22,70,76,90,3,1,1,-3,-2,Health Boost,2,Wide-Range,2,Lunastra Favor,1,Teostra Carapace,4,Lunastra Wing,3,Lunastra Tail,1,Elder Dragon Blood,3
 Aloy's Leggings α,Full,5,6,2,46,68,84,1,1,1,1,1,Slinger Capacity,2,,,Anjanath Will,1,Nora Brave Trophy,4,Anjanath Pelt+,14,Anjanath Nosebone+,6,Anjanath Gem,1
 Ryu's Legs,Full,2,3,0,12,44,70,2,0,5,-3,2,Defense Boost,1,,,,,SFV Ticket,7,Monster Bone M,6,Earth Crystal,6,Barroth Shell,5
 Ryu's Legs α,Full,7,8,11,60,72,86,2,0,5,-3,2,Defense Boost,1,Constitution,1,Rathalos Mastery,1,SFV Ticket III,4,Hunter King Coin,5,Immortal Dragonscale,6,Rathalos Plate,1

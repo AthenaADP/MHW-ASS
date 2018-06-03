@@ -142,6 +142,8 @@ Commission Belt α
 Commission Belt β
 Vangis Coil α
 Vangis Coil β
+Empress Coil α
+Empress Coil β
 Aloy's Torso α
 Ryu's Torso
 Ryu's Torso α

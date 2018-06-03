@@ -360,3 +360,5 @@ Setbonus verleiht <<Fangmeister>>.
 Setbonus verleiht <<Scharfschwert/Extraschuss>>.
 Setbonus verleiht <<Glückserhöher>>.
 Setbonus verleiht <<Zerlegemeister>>.
+Set bonus grants <<Stamina Cap Up>>
+Set bonus grants <<Mind's Eye/Ballistics>>

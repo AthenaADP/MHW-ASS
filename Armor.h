@@ -13,7 +13,7 @@ ref struct Armor : public AdvancedSearchOptions
 	unsigned total_slots, highest_slot_level, total_slot_level;
 	int ice_res, water_res, fire_res, thunder_res, dragon_res;
 	Gender gender;
-	bool no_relevant_skills, arena, full_set, dlc_disabled;
+	bool no_relevant_skills, arena, full_set, dlc_disabled, has_nonelemental_boost, has_free_element;
 	array< unsigned >^ slots;
 	
 	List_t< AbilityPair^ > abilities;

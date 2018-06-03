@@ -235,6 +235,8 @@ void Skill::Load( String^ filename )
 	SpecificAbility::thunder_res = Ability::FindAbility( L"Thunder Resistance" );
 	SpecificAbility::ice_res = Ability::FindAbility( L"Ice Resistance" );
 	SpecificAbility::dragon_res = Ability::FindAbility( L"Dragon Resistance" );
+	SpecificAbility::free_element = Ability::FindAbility( L"Free Elem/Ammo Up" );
+	SpecificAbility::nonelemental_boost = Ability::FindAbility( L"Non-elemental Boost" );
 }
 
 Skill^ Skill::FindSkill( System::String^ name )

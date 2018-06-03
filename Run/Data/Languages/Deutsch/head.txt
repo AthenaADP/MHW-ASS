@@ -142,6 +142,8 @@ Kommissionsringkragen α
 Kommissionsringkragen β
 Vangis-Helm α
 Vangis-Helm β
+Empress Crown α
+Empress Crown β
 Aloy-Kopf α
 Ryu-Kopf
 Ryu-Kopf α

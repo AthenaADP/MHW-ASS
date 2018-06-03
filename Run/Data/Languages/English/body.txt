@@ -142,6 +142,8 @@ Commission Jacket α
 Commission Jacket β
 Vangis Mail α
 Vangis Mail β
+Empress Mail α
+Empress Mail β
 Aloy's Body α
 Ryu's Karate Gi
 Ryu's Karate Gi α

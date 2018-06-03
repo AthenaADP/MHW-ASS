@@ -35,6 +35,8 @@ ref struct SpecificAbility
 	static Ability^ ice_res;
 	static Ability^ dragon_res;
 	static Ability^ defence;
+	static Ability^ nonelemental_boost;
+	static Ability^ free_element;
 };
 
 int CompareAbilitiesByName( Ability^ a1, Ability^ a2 );

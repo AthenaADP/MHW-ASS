@@ -284,6 +284,13 @@ Aile Legiana
 Poudre de vie
 Cristal de lumière
 Minerai loc lac
+Lunastra Carapace
+Lunastra Gem
+Lunastra Horn
+Lunastra Mane
+Lunastra Scale+
+Lunastra Tail
+Lunastra Wing
 Écaille brillante
 Machalite
 Corne majestueuse

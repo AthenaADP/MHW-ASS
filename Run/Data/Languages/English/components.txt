@@ -284,6 +284,13 @@ Legiana Wing
 Lifepowder
 Lightcrystal
 Loc Lac Ore
+Lunastra Carapace
+Lunastra Gem
+Lunastra Horn
+Lunastra Mane
+Lunastra Scale+
+Lunastra Tail
+Lunastra Wing
 Lustrous Scale
 Machalite Ore
 Majestic Horn

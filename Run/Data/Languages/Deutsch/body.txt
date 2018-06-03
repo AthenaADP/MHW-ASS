@@ -142,6 +142,8 @@ Kommissionsjacke α
 Kommissionsjacke β
 Vangis-Panzerung α
 Vangis-Panzerung β
+Empress Mail α
+Empress Mail β
 Aloy-Körper α
 Ryu-Körper
 Ryu-Körper α

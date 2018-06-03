@@ -360,3 +360,5 @@ Set bonus grants <<Capture Master>>.
 Set bonus grants <<Razor Sharp/Spare Shot>>.
 Set bonus grants <<Great Luck>>.
 Set bonus grants <<Carving Master>>.
+Set bonus grants <<Stamina Cap Up>>
+Set bonus grants <<Mind's Eye/Ballistics>>

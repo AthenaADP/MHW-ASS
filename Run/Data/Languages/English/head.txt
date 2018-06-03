@@ -142,6 +142,8 @@ Commission Gorget α
 Commission Gorget β
 Vangis Helm α
 Vangis Helm β
+Empress Crown α
+Empress Crown β
 Aloy's Head α
 Ryu's Head
 Ryu's Head α
