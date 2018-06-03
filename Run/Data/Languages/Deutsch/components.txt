@@ -284,13 +284,13 @@ Legiana-Flügel
 Lebenspulver
 Lichtkristall
 Loc-Lac-Erz
-Lunastra Carapace
-Lunastra Gem
-Lunastra Horn
-Lunastra Mane
-Lunastra Scale+
-Lunastra Tail
-Lunastra Wing
+Lunastra-Rückenpanzer
+Lunastra-Edelstein
+Lunastra-Horn
+Lunastra-Mähne
+Lunastra-Schuppe+
+Lunastra-Schwanz
+Lunastra-Flügel
 Glänzende Schuppe
 Machalit-Erz
 Erhabenes Horn
