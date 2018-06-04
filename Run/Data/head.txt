@@ -144,7 +144,7 @@ Commission Gorget β,,8,9,2,70,76,90,2,2,2,2,2,Tool Specialist,1,,,Commission Gu
 Vangis Helm α,,7,7,1,58,70,84,1,1,-3,2,-3,Partbreaker,1,Handicraft,1,,,Deviljho Hide,5,Deviljho Scalp,2,Deviljho Talon,2,Deviljho Gem,1
 Vangis Helm β,,7,7,31,58,70,84,1,1,-3,2,-3,Partbreaker,1,,,,,Deviljho Hide,5,Deviljho Scalp,2,Deviljho Talon,2,Deviljho Gem,1
 Empress Crown α,,8,8,31,70,76,90,3,1,1,-3,-2,Evade Extender,2,Tool Specialist,1,Lunastra Favor,1,Lunastra Scale+,4,Lunastra Carapace,4,Lunastra Wing,2,Elder Dragon Bone,4
-Empress Crown β,,8,8,33,70,76,90,3,1,1,-3,-2,Evade Extender,2,,,Lunastra Favor,1,Lunastra Scale+,4,Lunastra Carapace,4,Lunastra Wing,2,Elder Dragon Bone,4
+Empress Crown β,,8,8,32,70,76,90,3,1,1,-3,-2,Evade Extender,2,,,Lunastra Favor,1,Lunastra Scale+,4,Lunastra Carapace,4,Lunastra Wing,2,Elder Dragon Bone,4
 Aloy's Head α,Full,5,6,3,46,68,84,1,1,1,1,1,Affinity Sliding,1,,,Anjanath Will,1,Nora Brave Trophy,4,Anjanath Pelt+,14,Anjanath Nosebone+,6,Anjanath Gem,1
 Ryu's Head,Full,2,3,0,12,44,70,2,0,5,-3,2,Attack Boost,1,,,,,SFV Ticket,7,Monster Bone M,6,Earth Crystal,6,Barroth Shell,5
 Ryu's Head α,Full,7,8,11,60,72,86,2,0,5,-3,2,Attack Boost,1,Constitution,1,Rathalos Mastery,1,SFV Ticket III,4,Hunter King Coin,5,Immortal Dragonscale,6,Rathalos Plate,1
