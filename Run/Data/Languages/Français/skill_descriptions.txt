@@ -325,10 +325,10 @@ Grande chance d'obtenir plus de récompenses de quête. (Sauf participation en c
 Charge de l'arc +1
 Ajoute à la plupart des attaques un effet d’étourdissement et augmente un peu l’attaque
 L'arme ne s'émousse pas pendant un certain temps apeès l'affûtage
-Attaque sautée +10%
-Attaque sautée +10%
-Attaque sautée +10%
-Attaque sautée +10%
+Permet d'utiliser des fiole de poison.
+Permet d'utiliser des fiole de paralysie.
+Permet d'utiliser des fiole de sommeil.
+Permet d'utiliser des fiole explosives.
 Augmente le sceau des ancien de un niveau
 Grande chance d'obtenir plus de récompenses en cas de capture
 Permet de dépeçer une fois de plus (sauf participation en cours).
