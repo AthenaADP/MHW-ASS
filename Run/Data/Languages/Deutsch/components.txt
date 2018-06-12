@@ -1,4 +1,4 @@
-﻿Jägerass-Münze
+﻿Kirin TicketJägerass-Münze
 Diamantpille
 Diamantsamen
 Rüstkugel III
@@ -245,6 +245,7 @@ Kirin-Mähne
 Kirin-Schwanz
 Kirin-Donnerhorn
 Kirin-Donnerschwanz
+Kirin-Ticket
 Kulu-Münze
 Kulu-Ya-Ku-Schnabel
 Kulu-Ya-Ku-Schnabel+

@@ -163,3 +163,4 @@ Kulu-Ya-Ku Head α,,5,6,31,46,68,84,2,0,2,3,2,Pro Transporter,1,,,,,Kulu-Ya-Ku T
 Wiggler Head,,5,6,11,46,68,84,0,4,0,0,4,Wide-Range,2,,,,,Wiggler Ticket,3,Shamos Hide+,4,Gajau Scale,4,Coral Bone,3
 Dragonseal Earrings α,Arena,7,8,0,60,72,86,0,0,0,0,0,Elderseal Boost,1,,,,,(B-Rank Arena Quests 8-9),0,,,,,,
 Pulverizing Feather,Arena,4,7,0,32,56,76,0,0,0,0,0,Bombardier,3,,,,,(B-Rank Arena Quests 1-7),0,,,,,,
+Kirin Helm γ,,8,8,2,72,78,92,-3,-2,4,-2,2,Blight Resistance,1,Thunder Attack,3,Kirin Favor,1,Kirin Ticket,1,Kirin Hide+,3,Kirin Azure Horn,1,Kirin Thundertail,2

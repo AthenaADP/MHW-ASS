@@ -245,6 +245,7 @@ Crinière Kirin
 Queue de Kirin
 Corne de foudre Kirin
 Queue de foudre Kirin
+Ticket Kirin
 Pièce Kulu-Ya-ku
 Bec Kulu-Ya-Ku
 Bec Kulu-Ya-Ku +

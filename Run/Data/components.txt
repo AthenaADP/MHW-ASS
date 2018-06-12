@@ -245,6 +245,7 @@ Kirin Mane
 Kirin Tail
 Kirin Thunderhorn
 Kirin Thundertail
+Kirin Ticket
 Kulu Coin
 Kulu-Ya-Ku Beak
 Kulu-Ya-Ku Beak+

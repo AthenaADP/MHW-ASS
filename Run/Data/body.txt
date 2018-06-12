@@ -157,3 +157,4 @@ Kulve Taroth's Ire α,,8,9,1,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Bo
 Kulve Taroth's Ire β,,8,9,31,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Tailshell,6,Xeno'jiiva Gem,1
 Dante's Coat α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Critical Eye,1,,,Red Orb,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Plate,1
 Azure Starlord Armor α,,7,7,2,56,68,82,2,2,0,0,3,Handicraft,1,,,Rathalos Mastery,1,Azure Stargem,1,Azure Rathalos Scale+,6,Azure Rathalos Wing,4,Rathalos Medulla,2
+Kirin Mail γ,,8,8,11,72,78,92,-3,-2,4,-2,2,Free Elem/Ammo Up,2,,,Kirin Favor,1,Kirin Ticket,1,Kirin Hide+,4,Kirin Azure Horn,3,Elder Dragon Blood,3
