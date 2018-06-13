@@ -13,4 +13,4 @@ Shadow Shades α
 Kulu-Ya-Ku Head α
 Wiggler Head
 Empress Crown α,Empress Crown β,Empress Mail α,Empress Mail β,Empress Vambraces α,Empress Vambraces β,Empress Coil α,Empress Coil β,Empress Greaves α,Empress Greaves β
-Kirin Helm γ,Kirin Mail γ,Kirin Vambraces γ,Kirin Coil γ,Kirin Greaves γ
+Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards γ

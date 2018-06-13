@@ -157,4 +157,4 @@ Kulve Taroth's Rage α,,8,9,1,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Power Pr
 Kulve Taroth's Rage β,,8,9,31,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Power Prolonger,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Spiralhorn,6,Kulve Taroth Golden Glimstone,1
 Dante's Gloves α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Special Ammo Boost,1,,,Red Orb,1,Anjanath Pelt+,6,Anjanath Fang+,4,Anjanath Plate,1
 Azure Starlord Gauntlets α,,7,7,3,56,68,82,2,2,0,0,3,Recovery Up,2,,,Rathalos Mastery,1,Azure Stargem,1,Dodogama Scale+,5,Dodogama Hide+,6,Dodogama Talon,4
-Kirin Vambraces γ,,8,8,22,72,78,92,-3,-2,4,-2,2,Blight Resistance,1,Free Elem/Ammo Up,1,Kirin Favor,1,Kirin Ticket,1,Kirin Hide+,3,Kirin Thundertail,3,Novacrystal,1
+Kirin Longarms γ,,8,8,22,72,78,92,-3,-2,4,-2,2,Blight Resistance,1,Free Elem/Ammo Up,1,Kirin Favor,1,Kirin Ticket,1,Kirin Hide+,3,Kirin Thundertail,3,Novacrystal,1
