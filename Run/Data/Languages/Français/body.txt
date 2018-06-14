@@ -135,8 +135,8 @@ Veste Kirin α
 Veste Kirin β
 Peau Xeno'jiiva α
 Peau Xeno'jiiva β
-Veste de la Commission α
-Veste de la Commission β
+Tenue Croix de Guilde α
+Tenue Croix de Guilde β
 
 Veste de la Commission α
 Veste de la Commission β
