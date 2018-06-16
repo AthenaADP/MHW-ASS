@@ -137,7 +137,7 @@ Kirin Hoop β,,6,8,111,64,70,84,-3,-2,4,-2,2,Blight Resistance,1,,,Kirin Favor,1
 Xeno'jiiva Spine α,,8,9,2,72,78,92,-3,2,2,2,-4,Blight Resistance,2,Special Ammo Boost,1,Xeno'jiiva Divinity,1,Xeno'jiiva Shell,4,Xeno'jiiva Wing,2,Xeno'jiiva Tail,2,Odogaron Plate,1
 Xeno'jiiva Spine β,,8,9,21,72,78,92,-3,2,2,2,-4,Blight Resistance,2,,,Xeno'jiiva Divinity,1,Xeno'jiiva Shell,4,Xeno'jiiva Wing,2,Xeno'jiiva Tail,2,Odogaron Plate,1
 Guild Cross Coil α,,8,8,1,62,68,82,0,0,0,0,0,Fortify,1,Dragon Resistance,2,Guild Guidance,1,Ace Hunter Coin,2,Flying Coin,2,Pinnacle Coin,3,High Commendation,1
-Guild Cross Coil β,,8,8,3,62,68,82,0,0,0,0,0,Fortify,1,,,Guild Guidance,1,Ace Hunter Coin,2,Flying Coin,2,Pinnacle Coin,3,High Commendation,1
+Guild Cross Coil β,,8,8,111,62,68,82,0,0,0,0,0,Fortify,1,,,Guild Guidance,1,Ace Hunter Coin,2,Flying Coin,2,Pinnacle Coin,3,High Commendation,1
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 Commission Belt α,,8,9,1,70,76,90,2,2,2,2,2,Mushroomancer,1,Pro Transporter,1,Commission Guidance,1,Research Commission Ticket,1,Diablos Carapace,8,Great Hornfly,2,High Commendation,2
 Commission Belt β,,8,9,2,70,76,90,2,2,2,2,2,Mushroomancer,1,,,Commission Guidance,1,Research Commission Ticket,1,Diablos Carapace,8,Great Hornfly,2,High Commendation,2
