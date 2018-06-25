@@ -495,6 +495,7 @@ Vaal Hazak Gem,10
 Vaal Hazak Membrane
 Vaal Hazak Tail
 Vaal Hazak Talon
+Vaal Hazak Ticket
 Vaal Hazak Wing
 Val Habar Quartz
 Vespoid Carapace

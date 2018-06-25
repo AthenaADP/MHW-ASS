@@ -157,3 +157,4 @@ Kulve Taroths Ärger β
 Dantes Mantel α
 AzursternGebieterRüstung α
 Kirin-Jacke γ
+Vaal-Hazak-Panzerung γ

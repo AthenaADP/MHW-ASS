@@ -130,7 +130,7 @@ Couronne Kaiser β
 Regard Kushala α
 Regard Kushala β
 Heaume Vaal Hazak α
-Heaume Vaal Hazaβ
+Heaume Vaal Hazak β
 Corne Kirin α
 Corne Kirin β
 Voile Xeno'jiiva α
@@ -157,6 +157,7 @@ Furie Kulve Taroth β
 Coiffure de Dante α
 Couronne Paladin des étoiles α
 Corne Kirin γ
+Heaume Vaal Hazak γ
 Cache-oeil interdit α
 Lunettes teintées α
 Tête Kulu-Ya-Ku α

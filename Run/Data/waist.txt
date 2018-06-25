@@ -158,3 +158,4 @@ Kulve Taroth's Malice β,,8,9,31,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Handi
 Dante's Belt α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Latent Power,1,,,Red Orb,1,Rathalos Carapace,6,Rathalos Wing,3,Rathalos Plate,1
 Azure Starlord Tassets α,,7,7,2,56,68,82,2,2,0,0,3,Handicraft,1,,,Rathalos Mastery,1,Azure Stargem,1,Azure Rathalos Scale+,6,Azure Rathalos Carapace,5,Azure Rathalos Tail,3
 Kirin Hoop γ,,8,8,11,72,78,92,-3,-2,4,-2,2,Marathon Runner,2,,,Kirin Favor,1,Kirin Ticket,1,Kirin Hide+,3,Kirin Azure Horn,1,Elder Dragon Bone,3
+Vaal Hazak Coil γ		8	8	211	72	78	92	-4	4	1	-1	3	Recovery Speed	2	Dragon Attack	1	Vaal Hazak Vitality	1	Vaal Hazak Ticket	1	Vaal Hazak Carapace	5	Vaal Hazak Wing	4	Vaal Hazak Membrane	3

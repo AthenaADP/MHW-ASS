@@ -494,7 +494,8 @@ Croc Vaal Hazak +
 Gemme Vaal Hazak
 Membrane Vaal Hazak
 Queue Vaal Hazak
-Serre Vaal hazak
+Serre Vaal Hazak
+Ticket Vaal Hazak
 Aile Vaal Hazak
 Quartz Val Habar
 Carapace Vespoid
