@@ -14,3 +14,4 @@ Kulu-Ya-Ku Head α
 Wiggler Head
 Empress Crown α,Empress Crown β,Empress Mail α,Empress Mail β,Empress Vambraces α,Empress Vambraces β,Empress Coil α,Empress Coil β,Empress Greaves α,Empress Greaves β
 Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards γ
+Vaal Hazak Helm γ,Vaal Hazak Mail γ,Vaal Hazak Braces γ,Vaal Hazak Coil γ,Vaal Hazak Greaves γ
