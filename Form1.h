@@ -2825,6 +2825,7 @@ private:
 		for each( ComboBox^ cb in Skills )
 		{
 			cb->SelectedIndex = -1;
+			cmbSkill_SelectedIndexChanged( cb, nullptr );
 		}
 		for each( ComboBox^ cb in SkillFilters )
 		{
