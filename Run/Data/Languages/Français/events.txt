@@ -15,3 +15,5 @@ Tête de tortilleur α
 Armure Lunastra
 Armure Kirin γ
 Armure Vaal Hazak γ
+Armure Plongée/Plongée α
+Armure Papillon α+β/Scarabée α+β

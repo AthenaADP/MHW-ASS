@@ -158,3 +158,9 @@ Dantes Handschuhe α
 AzursternGebitrHandschuhe α
 Kirin-Armstulpen γ
 Vaal-Hazak-Armschienen γ
+Taucherhandschuhe
+Taucherhandschuhe α
+Schmetterling-Brachia α
+Schmetterling-Brachia β
+Königinnenkäfer-Brachia α
+Königinnenkäfer-Brachia β

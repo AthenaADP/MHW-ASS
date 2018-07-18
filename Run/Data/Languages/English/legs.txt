@@ -158,3 +158,9 @@ Dante's Leather Boots α
 Azure Starlord Guards α
 Kirin Leg Guards γ
 Vaal Hazak Greaves γ
+Diver's Boots
+Diver's Boots α
+Butterfly Crura α
+Butterfly Crura β
+Queen Beetle Crura α
+Queen Beetle Crura β

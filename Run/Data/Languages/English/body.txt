@@ -158,3 +158,9 @@ Dante's Coat α
 Azure Starlord Armor α
 Kirin Jacket γ
 Vaal Hazak Mail γ
+Diver's Suit
+Diver's Suit α
+Butterfly Thorax α
+Butterfly Thorax β
+Queen Beetle Thorax α
+Queen Beetle Thorax β

@@ -158,6 +158,12 @@ Coiffure de Dante α
 Couronne Paladin des étoiles α
 Corne Kirin γ
 Heaume Vaal Hazak γ
+Masque de plongée
+Masque de plongée α
+Vertex Papillon α
+Vertex Papillon β
+Vertex Scarabée α
+Vertex Scarabée β
 Cache-oeil interdit α
 Lunettes teintées α
 Tête Kulu-Ya-Ku α

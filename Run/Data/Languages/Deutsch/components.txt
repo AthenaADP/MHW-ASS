@@ -445,6 +445,8 @@ Stromstein
 Stromsteinscherbe
 Fester Knochen
 Sullied Streamstone
+Sommerinsektenlexikon
+Sommerdämmerung-Ticket
 Sushifisch-Schuppe
 Schnurrtrupp-Gutschein
 Teostra-Rückenpanzer

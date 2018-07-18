@@ -158,6 +158,12 @@ Dantes Haar α
 Azurstern-Gebieter-Krone α
 Kirin-Horn γ
 Vaal-Hazak-Helm γ
+Tauchermaske
+Tauchermaske α
+Schmetterling-Vertex α
+Schmetterling-Vertex β
+Königinnenkäfer-Vertex α
+Königinnenkäfer-Vertex β
 Dichte Augenklappe α
 Schatten-Sonnenbrille α
 Kulu-Ya-Ku-Kopf α

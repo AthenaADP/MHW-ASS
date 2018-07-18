@@ -158,3 +158,9 @@ Ceinture Dante α
 Tassette Paladin des étoiles α
 Ceinture Kirin γ
 Jupe Vaal Hazak γ
+Ceinture de plongée
+Ceinture de plongée α
+Elytre Papillon α
+Elytre Papillon β
+Élytre Scarabée α
+Élytre Scarabée β

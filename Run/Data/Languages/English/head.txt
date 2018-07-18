@@ -158,6 +158,12 @@ Dante's Hair α
 Azure Starlord Crown α
 Kirin Horn γ
 Vaal Hazak Helm γ
+Diver's Mask
+Diver's Mask α
+Butterfly Vertex α
+Butterfly Vertex β
+Queen Beetle Vertex α
+Queen Beetle Vertex β
 Sealed Eyepatch α
 Shadow Shades α
 Kulu-Ya-Ku Head α

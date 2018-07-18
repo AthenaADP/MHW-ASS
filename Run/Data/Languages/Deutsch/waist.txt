@@ -158,3 +158,9 @@ Dantes Gürtel α
 Azurstern-Gebieter-Schutz α
 Kirin-Reifen γ
 Vaal-Hazak-Hüftring γ
+Tauchergürtel
+Tauchergürtel α
+Schmetterling-Elytra α
+Schmetterling-Elytra β
+Königinnenkäfer-Elytra α
+Königinnenkäfer-Elytra β

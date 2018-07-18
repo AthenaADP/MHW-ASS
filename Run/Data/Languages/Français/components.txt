@@ -445,6 +445,8 @@ Pierre-dragon
 Éclat de pierre-dragon
 Os solide
 Fragment Pierre-dragon
+Ticket Été
+Bestiaire - Insectes (été)
 Écaille Sushipoisson
 Coupon Chasseur de miaonstres
 Cuirasse Teostra

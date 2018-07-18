@@ -158,3 +158,9 @@ Dantes Lederstiefel α
 AzursternGebiterBeinschtz α
 Kirin-Beinschutz γ
 VaalHazak-Beinschienen γ
+Taucherstiefel
+Taucherstiefel α
+Schmetterling-Crura α
+Schmetterling-Crura β
+Königinnenkäfer-Crura α
+Königinnenkäfer-Crura β
