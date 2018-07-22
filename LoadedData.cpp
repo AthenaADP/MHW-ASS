@@ -74,6 +74,7 @@ void LoadedData::LoadDataFiles()
 	Armor::LoadDLC( L"Data/events.txt" );
 	Decoration::Load( L"Data/decorations.txt" );
 	Charm::Load( L"Data/charms.txt" );
+	ExtraSkillFilters::Load( L"Data/filters.txt" );
 }
 
 void AddToList( List_t< Charm^ >^ list, Charm^ item, List_t< Ability^ >^ rel_abilities, List_t< Charm^ >^ inf_charms, const bool adv )

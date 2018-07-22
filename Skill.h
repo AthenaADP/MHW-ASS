@@ -45,7 +45,7 @@ ref struct Skill
 {
 	System::String^ name;
 	unsigned order, static_index, level;
-	bool best, impossible;
+	bool best, impossible, extra;
 	Ability^ ability;
 
 	System::String^ description;
@@ -72,3 +72,27 @@ ref struct AbilityPair
 };
 
 void FindRelatedSkills( List_t< System::Windows::Forms::ComboBox^ >% skills, List_t< System::Windows::Forms::ComboBox^ >% skill_filters, List_t< Map_t< unsigned, unsigned >^ >% index_maps );
+
+ref struct ExtraSkill
+{
+	Skill^ skill;
+	bool want;
+
+	ExtraSkill( Skill^ skill, const bool want ) : skill( skill ), want( want ) {}
+};
+
+ref struct FilterRules
+{
+	Ability^ ability;
+	List_t< Ability^ > required, unrequired;
+
+	bool IsRelevant();
+};
+
+ref struct ExtraSkillFilters
+{
+	static Map_t< Ability^, FilterRules^ > filter_rules;
+	static List_t< FilterRules^ > extra_filters;
+
+	static void Load( System::String^ filename );
+};

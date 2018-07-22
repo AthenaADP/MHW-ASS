@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "LoadedData.h"
 #include "About.h"
 #include "Advanced.h"
@@ -76,6 +76,11 @@ namespace MHWASS
 	{
 		return s1->name->CompareTo( s2->name );
 	}
+
+	int CompareExtraSkills( ExtraSkill^ s1, ExtraSkill^ s2 )
+	{
+		return ( s1->skill->ability != s2->skill->ability || s1->want == s2->want ) ? s1->skill->name->CompareTo( s2->skill->name ) : s2->want - s1->want;
+	}
 #pragma endregion
 
 	public ref class Form1 : public System::Windows::Forms::Form
@@ -83,7 +88,7 @@ namespace MHWASS
 		typedef System::Windows::Forms::DialogResult DialogResult_t;
 		const static DialogResult_t OK = DialogResult_t::OK;
 		int MAX_LIMIT;
-		const static int NumSkills = 10;
+		int NumSkills = 10;
 		const static int MaxSolutions = 100000;
 		static Threading::Mutex^ progress_mutex = gcnew Threading::Mutex;
 		static Threading::Mutex^ results_mutex = gcnew Threading::Mutex;
@@ -110,7 +115,7 @@ namespace MHWASS
 		List_t< Charm^ > charm_box_charms;
 		List_t< int > result_offsets;
 		List_t< Ability^ > last_selected_ability;
-		List_t< Skill^ > solutions_extra_skills;
+		List_t< ExtraSkill^ > solutions_extra_skills;
 		int language, adv_x, adv_y;
 #pragma region Members
 	private: System::Windows::Forms::MenuStrip^  menuStrip1;
@@ -167,13 +172,14 @@ namespace MHWASS
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuPrintMaterials;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuZoom;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuAllowFairWind;
+	private: System::Windows::Forms::Label^  lblAddSkills;
 
 #pragma endregion
 
 			 List_t< BackgroundWorker^ >  workers;
 			 List_t< Object^ > worker_data;
 			 unsigned finished_workers, total_progress, worker_start_index, num_updates;
-	
+
 			 void ClearFilters()
 			 {
 				 for each( ComboBox^ box in SkillFilters )
@@ -200,7 +206,9 @@ namespace MHWASS
 
 			 void ResetSkill( ComboBox^ box, IndexMap^ map, Skill^ skill )
 			 {
-				 if( skill == nullptr ) return;
+				 if( skill == nullptr )
+					 return;
+
 				 IndexMap::Enumerator iter = map->GetEnumerator();
 				 while( iter.MoveNext() )
 				 {
@@ -245,7 +253,7 @@ namespace MHWASS
 
 			 void InitSkills()
 			 {
-				 for( unsigned i = 0; i < NumSkills; ++i )
+				 for( int i = 0; i < NumSkills; ++i )
 				 {
 					 InitSkills( Skills[ i ], IndexMaps[ i ], SkillFilters[ i ]->SelectedIndex, gcnew List_t< Ability^ >() );
 				 }
@@ -365,19 +373,24 @@ namespace MHWASS
 					 box->SelectedIndex = -1;
 			 }
 
+			 void InitializeComboBoxes( const int i )
+			 {
+				 SkillFilters.Add( GetNewComboBox( grpSkillFilters->Width - 13, i, true ) );
+				 grpSkillFilters->Controls->Add( SkillFilters[ i ] );
+
+				 Skills.Add( GetNewComboBox( grpSkills->Width - 13, i, false ) );
+				 grpSkills->Controls->Add( Skills[ i ] );
+
+				 IndexMaps.Add( gcnew IndexMap );
+
+				 last_selected_ability.Add( nullptr );
+			 }
+
 			 void InitializeComboBoxes()
 			 {
-				 for( unsigned i = 0; i < NumSkills; ++i )
+				 for( int i = 0; i < NumSkills; ++i )
 				 {
-					 SkillFilters.Add( GetNewComboBox( grpSkillFilters->Width - 13, i, true ) );
-					 grpSkillFilters->Controls->Add( SkillFilters[ i ] );
-
-					 Skills.Add( GetNewComboBox( grpSkills->Width - 13, i, false ) );
-					 grpSkills->Controls->Add( Skills[ i ] );
-
-					 IndexMaps.Add( gcnew IndexMap );
-
-					 last_selected_ability.Add( nullptr );
+					 InitializeComboBoxes( i );
 				 }
 				 cmbSort->SelectedIndex = 0;
 				 cmbDecorationSelect->SelectedIndex = 2;
@@ -426,6 +439,8 @@ namespace MHWASS
 			adv_y = 587;
 
 			preview_pane = nullptr;
+
+			this->Size = Drawing::Size( Width, NumSkills * 27 + 307 );
 
 			data = gcnew LoadedData();
 			data->LoadDataFiles();
@@ -693,6 +708,14 @@ namespace MHWASS
 				{
 					adv_y = Convert::ToInt32( line->Substring( 10 ) );
 				}
+				else if( line->StartsWith( L"NUMCOMBOBOXES=" ) )
+				{
+					const int num = Convert::ToInt32( line->Substring( 14 ) );
+					for( int i = NumSkills; i < num; ++i )
+					{
+						lblAddSkills_Click( lblAddSkills, nullptr );
+					}
+				}
 				else if( line->StartsWith( L"NUMSKILLS=" ) )
 				{
 					for each( ComboBox^ box in SkillFilters )
@@ -709,7 +732,10 @@ namespace MHWASS
 						if( i < NumSkills && filter->StartsWith( L"FILTER=" ) && index->StartsWith( L"INDEX=" ) )
 						{
 							const int filter_index = Convert::ToInt32( filter->Substring( 7 ) );
-							SkillFilters[ i ]->SelectedIndex = filter_index;
+							if( filter_index < 0 )
+								SkillFilters[ i ]->SelectedIndex = 0;
+							else
+								SkillFilters[ i ]->SelectedIndex = filter_index;
 
 							if( SkillFilters[ i ]->SelectedIndex == 2 ) //related
 							{
@@ -758,7 +784,7 @@ namespace MHWASS
 			last_result = nullptr;
 			fin.Close();
 
-			UpdateCharmComboBox( 1 );
+			UpdateResultString();
 			UpdateExtraSkillCombo( false );
 			
 			can_save = true;
@@ -789,6 +815,7 @@ namespace MHWASS
 			fout.WriteLine( L"VERSION=1" );
 			fout.WriteLine( L"LANGUAGE=" + mnuLanguage->DropDownItems[ language ]->ToString() );
 			fout.WriteLine( L"RESULTLIMIT=" + MAX_LIMIT );
+			fout.WriteLine( L"NUMCOMBOBOXES=" + NumSkills );
 			fout.WriteLine( L"GENDER=" + gcnew String( rdoMale->Checked ? L"Male" : L"Female" ) );
 			fout.WriteLine( L"ALLOWARENA=" + mnuAllowArena->Checked );
 			fout.WriteLine( L"ALLOWLOWTIER=" + mnuAllowLowerTierArmor->Checked );
@@ -905,9 +932,9 @@ namespace MHWASS
 			this->nudWeaponSlots2 = ( gcnew System::Windows::Forms::NumericUpDown() );
 			this->nudWeaponSlots3 = ( gcnew System::Windows::Forms::NumericUpDown() );
 			this->lblSlots = ( gcnew System::Windows::Forms::Label() );
-			this->nudHR = ( gcnew MHWASS::NumericUpDownHR() );
 			this->lblHR = ( gcnew System::Windows::Forms::Label() );
 			this->grpSkills = ( gcnew System::Windows::Forms::GroupBox() );
+			this->lblAddSkills = ( gcnew System::Windows::Forms::Label() );
 			this->btnSearch = ( gcnew System::Windows::Forms::Button() );
 			this->progressBar1 = ( gcnew System::Windows::Forms::ProgressBar() );
 			this->txtSolutions = ( gcnew System::Windows::Forms::RichTextBox() );
@@ -954,11 +981,12 @@ namespace MHWASS
 			this->cmsCharms = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
 			this->cmsSkills = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
 			this->mnuClearSkill = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->nudHR = ( gcnew MHWASS::NumericUpDownHR() );
 			this->groupBox1->SuspendLayout();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->BeginInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->BeginInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->BeginInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->BeginInit();
+			this->grpSkills->SuspendLayout();
 			this->groupBox4->SuspendLayout();
 			this->grpResults->SuspendLayout();
 			this->menuStrip1->SuspendLayout();
@@ -966,6 +994,7 @@ namespace MHWASS
 			this->grpSortFilter->SuspendLayout();
 			this->grpDecorations->SuspendLayout();
 			this->cmsSkills->SuspendLayout();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->BeginInit();
 			this->SuspendLayout();
 			// 
 			// groupBox1
@@ -1024,20 +1053,6 @@ namespace MHWASS
 			this->lblSlots->TabIndex = 4;
 			this->lblSlots->Text = L"Weapon Slots";
 			// 
-			// nudHR
-			// 
-			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
-			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
-			this->nudHR->Location = System::Drawing::Point( 122, 20 );
-			this->nudHR->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
-			this->nudHR->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
-			this->nudHR->Name = L"nudHR";
-			this->nudHR->Size = System::Drawing::Size( 46, 20 );
-			this->nudHR->TabIndex = 1;
-			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->nudHR->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
-			this->nudHR->ValueChanged += gcnew System::EventHandler( this, &Form1::nudHR_ValueChanged );
-			// 
 			// lblHR
 			// 
 			this->lblHR->AutoSize = true;
@@ -1051,12 +1066,26 @@ namespace MHWASS
 			// 
 			this->grpSkills->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
 				| System::Windows::Forms::AnchorStyles::Left ) );
+			this->grpSkills->Controls->Add( this->lblAddSkills );
 			this->grpSkills->Location = System::Drawing::Point( 12, 169 );
 			this->grpSkills->Name = L"grpSkills";
-			this->grpSkills->Size = System::Drawing::Size( 194, 290 );
+			this->grpSkills->Size = System::Drawing::Size( 194, 210 );
 			this->grpSkills->TabIndex = 0;
 			this->grpSkills->TabStop = false;
 			this->grpSkills->Text = L"Skills";
+			// 
+			// lblAddSkills
+			// 
+			this->lblAddSkills->AutoSize = true;
+			this->lblAddSkills->Font = ( gcnew System::Drawing::Font( L"Microsoft Sans Serif", 8.25F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>( 0 ) ) );
+			this->lblAddSkills->ForeColor = System::Drawing::SystemColors::HotTrack;
+			this->lblAddSkills->Location = System::Drawing::Point( 34, 0 );
+			this->lblAddSkills->Name = L"lblAddSkills";
+			this->lblAddSkills->Size = System::Drawing::Size( 20, 13 );
+			this->lblAddSkills->TabIndex = 0;
+			this->lblAddSkills->Text = L"＋";
+			this->lblAddSkills->Click += gcnew System::EventHandler( this, &Form1::lblAddSkills_Click );
 			// 
 			// btnSearch
 			// 
@@ -1087,7 +1116,7 @@ namespace MHWASS
 			this->txtSolutions->Location = System::Drawing::Point( 6, 16 );
 			this->txtSolutions->Name = L"txtSolutions";
 			this->txtSolutions->ReadOnly = true;
-			this->txtSolutions->Size = System::Drawing::Size( 332, 435 );
+			this->txtSolutions->Size = System::Drawing::Size( 332, 400 );
 			this->txtSolutions->TabIndex = 0;
 			this->txtSolutions->Text = L"";
 			this->txtSolutions->WordWrap = false;
@@ -1106,7 +1135,7 @@ namespace MHWASS
 			this->groupBox4->Controls->Add( this->btnCancel );
 			this->groupBox4->Controls->Add( this->btnSearch );
 			this->groupBox4->Controls->Add( this->progressBar1 );
-			this->groupBox4->Location = System::Drawing::Point( 12, 465 );
+			this->groupBox4->Location = System::Drawing::Point( 12, 385 );
 			this->groupBox4->Name = L"groupBox4";
 			this->groupBox4->Size = System::Drawing::Size( 353, 63 );
 			this->groupBox4->TabIndex = 5;
@@ -1140,7 +1169,7 @@ namespace MHWASS
 			this->grpResults->Controls->Add( this->txtSolutions );
 			this->grpResults->Location = System::Drawing::Point( 373, 27 );
 			this->grpResults->Name = L"grpResults";
-			this->grpResults->Size = System::Drawing::Size( 344, 502 );
+			this->grpResults->Size = System::Drawing::Size( 344, 422 );
 			this->grpResults->TabIndex = 7;
 			this->grpResults->TabStop = false;
 			this->grpResults->Text = L"Results";
@@ -1161,7 +1190,7 @@ namespace MHWASS
 				| System::Windows::Forms::AnchorStyles::Left ) );
 			this->grpSkillFilters->Location = System::Drawing::Point( 212, 169 );
 			this->grpSkillFilters->Name = L"grpSkillFilters";
-			this->grpSkillFilters->Size = System::Drawing::Size( 153, 290 );
+			this->grpSkillFilters->Size = System::Drawing::Size( 153, 210 );
 			this->grpSkillFilters->TabIndex = 1;
 			this->grpSkillFilters->TabStop = false;
 			this->grpSkillFilters->Text = L"Skill Filters";
@@ -1495,11 +1524,25 @@ namespace MHWASS
 			this->mnuClearSkill->Size = System::Drawing::Size( 101, 22 );
 			this->mnuClearSkill->Text = L"&Clear";
 			// 
+			// nudHR
+			// 
+			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
+			this->nudHR->Location = System::Drawing::Point( 122, 20 );
+			this->nudHR->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
+			this->nudHR->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
+			this->nudHR->Name = L"nudHR";
+			this->nudHR->Size = System::Drawing::Size( 46, 20 );
+			this->nudHR->TabIndex = 1;
+			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->nudHR->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
+			this->nudHR->ValueChanged += gcnew System::EventHandler( this, &Form1::nudHR_ValueChanged );
+			// 
 			// Form1
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF( 6, 13 );
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size( 729, 537 );
+			this->ClientSize = System::Drawing::Size( 729, 457 );
 			this->Controls->Add( this->grpSkills );
 			this->Controls->Add( this->grpSkillFilters );
 			this->Controls->Add( this->grpSortFilter );
@@ -1517,7 +1560,8 @@ namespace MHWASS
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->EndInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->EndInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->EndInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->EndInit();
+			this->grpSkills->ResumeLayout( false );
+			this->grpSkills->PerformLayout();
 			this->groupBox4->ResumeLayout( false );
 			this->grpResults->ResumeLayout( false );
 			this->menuStrip1->ResumeLayout( false );
@@ -1527,6 +1571,7 @@ namespace MHWASS
 			this->grpSortFilter->ResumeLayout( false );
 			this->grpDecorations->ResumeLayout( false );
 			this->cmsSkills->ResumeLayout( false );
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->EndInit();
 			this->ResumeLayout( false );
 			this->PerformLayout();
 
@@ -1566,7 +1611,7 @@ private:
 	{
 		List_t< Skill^ > skills;
 
-		for( unsigned i = 0; i < NumSkills; ++i )
+		for( int i = 0; i < NumSkills; ++i )
 			if( Skills[ i ]->SelectedIndex >= 0 )
 			{
 				IndexMap^ imap = IndexMaps[ i ];
@@ -1774,7 +1819,7 @@ private:
 		List_t< Ability^ > old_skills;
 		int index = -1;
 		Skill^ selected_skill = nullptr;
-		for( unsigned i = 0; i < NumSkills; ++i )
+		for( int i = 0; i < NumSkills; ++i )
 		{
 			if( sender == skill_filters[ i ] )
 				index = i;
@@ -2108,7 +2153,12 @@ private:
 		Skill^ prev_selected = nullptr;
 		if( preserve_selected_index && cmbFilterByExtraSkill->SelectedIndex > 0 && cmbFilterByExtraSkill->SelectedIndex - 1 < solutions_extra_skills.Count )
 		{
-			prev_selected = solutions_extra_skills[ cmbFilterByExtraSkill->SelectedIndex - 1 ];
+			prev_selected = solutions_extra_skills[ cmbFilterByExtraSkill->SelectedIndex - 1 ]->skill;
+		}
+
+		for each( Skill^ skill in Skill::static_skills )
+		{
+			skill->extra = false;
 		}
 
 		cmbFilterByExtraSkill->BeginUpdate();
@@ -2121,24 +2171,43 @@ private:
 		{
 			for each( Skill^ sk in sol->extra_skills )
 			{
-				if( !sk->ability->set_ability &&
-					!Utility::Contains( %solutions_extra_skills, sk ) )
-					solutions_extra_skills.Add( sk );
+				if( !sk->ability->set_ability && !sk->extra )
+				{
+					if( ExtraSkillFilters::filter_rules.ContainsKey( sk->ability ) && !ExtraSkillFilters::filter_rules[ sk->ability ]->IsRelevant() )
+						continue;
+					
+					solutions_extra_skills.Add( gcnew ExtraSkill( sk, true ) );
+					sk->extra = true;
+				}
 			}
 		}
 
-		solutions_extra_skills.Sort( gcnew Comparison< Skill^ >( CompareSkillsByName ) );
-
-		for each( Skill^ sk in solutions_extra_skills )
+		for each( FilterRules^ filter in ExtraSkillFilters::extra_filters )
 		{
-			cmbFilterByExtraSkill->Items->Add( sk->name );
+			if( filter->IsRelevant() )
+			{
+				Skill^ lowest_skill = filter->ability->GetWorstGoodSkill();
+				solutions_extra_skills.Add( gcnew ExtraSkill( lowest_skill, false ) );
+				lowest_skill->extra = true;
+			}
+		}
+
+		solutions_extra_skills.Sort( gcnew Comparison< ExtraSkill^ >( CompareExtraSkills ) );
+
+		for( int i = 0; i < solutions_extra_skills.Count; ++i )
+		{
+			ExtraSkill^ sk = solutions_extra_skills[ i ];
+			if( sk->want )
+				cmbFilterByExtraSkill->Items->Add( sk->skill->name );
+			else
+				cmbFilterByExtraSkill->Items->Add( FormatString1( ExcludeSkill , sk->skill->ability->name ) );
 		}
 
 		if( prev_selected )
 		{
 			for( int i = 0; i < solutions_extra_skills.Count; ++i )
 			{
-				if( solutions_extra_skills[ i ] == prev_selected )
+				if( solutions_extra_skills[ i ]->skill == prev_selected )
 				{
 					cmbFilterByExtraSkill->SelectedIndex = i + 1;
 					break;
@@ -2146,66 +2215,10 @@ private:
 			}
 		}
 		else cmbFilterByExtraSkill->SelectedIndex = 0;
+
 		cmbFilterByExtraSkill->EndUpdate();
 
 		updating_extra_skills = false;
-	}
-
-	System::Void UpdateCharmComboBox()
-	{
-		UpdateCharmComboBox( -1 );
-	}
-
-	System::Void UpdateCharmComboBox( const int new_index )
-	{
-		/*Charm^ selected_charm = cmbCharms->SelectedIndex > 1 ? charm_box_charms[ cmbCharms->SelectedIndex - 2 ] : nullptr;
-		const int old_index = cmbCharms->SelectedIndex;
-		charm_box_charms.Clear();
-		List_t< String^ > to_order;
-		Map_t< String^, Charm^ > charm_map;
-		for each( Solution^ s in all_solutions )
-		{
-			if( s->charm )
-			{
-				String^ name = s->charm->name;
-				if( !charm_map.ContainsKey( name ) )
-				{
-					to_order.Add( name );
-					charm_map.Add( name, s->charm );
-				}
-			}
-		}
-		to_order.Sort();
-		cmbCharms->BeginUpdate();
-		cmbCharms->Items->Clear();
-		cmbCharms->Items->Add( BasicString( FilterByNone ) );
-		cmbCharms->Items->Add( StaticString( All ) );
-		for each( String^% str in to_order )
-		{
-			charm_box_charms.Add( charm_map[ str ] );
-			cmbCharms->Items->Add( str );
-		}
-		if( new_index == -1 )
-		{
-			if( old_index == -1 )
-				cmbCharms->SelectedIndex = 1;
-			else if( old_index < 2 )
-				cmbCharms->SelectedIndex = old_index;
-			else
-			{
-				for( int i = 2; i < cmbCharms->Items->Count; ++i )
-				{
-					if( cmbCharms->Items[ i ]->ToString() == selected_charm->name )
-					{
-						cmbCharms->SelectedIndex = i;
-						break;
-					}
-				}
-			}
-		}
-		else cmbCharms->SelectedIndex = new_index;
-		cmbCharms->EndUpdate();*/
-		UpdateResultString();
 	}
 
 	System::Void backgroundWorker1_RunWorkerCompleted( Object^ /*sender*/, RunWorkerCompletedEventArgs^ e )
@@ -2242,7 +2255,7 @@ private:
 				progressBar1->Value = 100;
 				UpdateExtraSkillCombo( false );
 				SaveConfig();
-				UpdateCharmComboBox( 1 );
+				UpdateResultString();
 			}
 			else txtSolutions->Text = StartString( SolutionsFound ) + Convert::ToString( all_solutions.Count );
 			progress_mutex->ReleaseMutex();
@@ -2581,8 +2594,10 @@ private:
 			cmbSkillFilter_SelectedIndexChanged( SkillFilters[ i ], Skills, SkillFilters, IndexMaps );
 			Skills[ i ]->EndUpdate();
 		}
+
+		lblAddSkills->Location = Point( TextRenderer::MeasureText( grpSkills->Text, grpSkills->Font ).Width + 2, lblAddSkills->Location.Y );
 		
-		UpdateCharmComboBox();
+		UpdateResultString();
 		UpdateExtraSkillCombo( true );
 
 		if( construction_complete )
@@ -2791,10 +2806,11 @@ private:
 		}
 		else
 		{
-			Skill^ selected_extra_skill = solutions_extra_skills[ cmbFilterByExtraSkill->SelectedIndex - 1 ];
+			ExtraSkill^ selected = solutions_extra_skills[ cmbFilterByExtraSkill->SelectedIndex - 1 ];
 			for each( Solution^ s in all_solutions )
 			{
-				if( Utility::Contains( %s->extra_skills, selected_extra_skill ) )
+				if( selected->want && Utility::Contains( %s->extra_skills, selected->skill ) ||
+					!selected->want && !Utility::Contains( %s->extra_skills, selected->skill->ability ) )
 					final_solutions.Add( s );
 			}
 		}
@@ -2909,6 +2925,20 @@ private:
 	
 		PreviewImage::zoom = (int)(Int32)item->Tag;
 		SaveConfig();
+	}
+
+	System::Void lblAddSkills_Click( System::Object^  sender, System::EventArgs^  e )
+	{
+		InitializeComboBoxes( NumSkills );
+		ComboBox^ filter = SkillFilters[ NumSkills++ ];
+
+		for each( SkillTag^ tag in SkillTag::tags )
+		{
+			filter->Items->Add( tag->name );
+		}
+		filter->SelectedIndex = 0;
+
+		this->Size = Drawing::Size( Width, NumSkills * 27 + 307 );
 	}
 
 	System::Void exitToolStripMenuItem_Click( System::Object^ sender, System::EventArgs^ e )

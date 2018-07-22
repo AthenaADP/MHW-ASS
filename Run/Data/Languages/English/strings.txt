@@ -183,3 +183,6 @@ Are you sure?
 
 #Showing a number of decorations. First value is the number, second is the name. E.g. 3x Thunder Jewel
 %1x %2
+
+#For a filter that excludes a skill
+No %1

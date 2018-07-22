@@ -1,0 +1,36 @@
+# This file defines custom skill filters. These will appear in the "Extra Skill Filtering" combobox and will filter results.
+#
+# Lines beginning with a # symbol are comments and are ignored, as are empty lines/whitespace.
+# You can disable any filter here by putting a # symbol at the start of the line.
+#
+# Normally, the app will automatically add filters so you can see only results that contain specific extra skills.
+# This file allows you to customize when these appear for certain skills, and it also lets you create filters to exclude certain skills.
+#
+# Each filter is a single line, of comma-separated tokens. All skill names must be in English.
+# Tokens consist of exactly one + or - symbol, followed by the name of a skill.
+# The first token is the name of the skill to filter. If the first token begins with a - symbol, it will exclude that skill.
+# Other tokens are rules for when to display the filter. 
+# A + means the filter will only appear if that skill is present.
+# A - means the filter will only appear if that skill is not present.
+#
+# Some examples:
+#
+# Add an extra filter to exclude Stamina Cap Up, if you searched for Maximum Might:
+# -Stamina Cap Up,+Maximum Might
+#
+# Only show a filter for Critical Boost if you searched for Critical Eye:
+# +Critical Boost,+Critical Eye
+#
+# Only show a filter for Free Elem/Ammo Up if you did not search for Non-elemental Boost:
+# +Free Elem/Ammo Up,-Non-elemental Boost
+#
+# You can have multiple rules for a filter, as demonstrated by this silly example:
+#
+# -Guard,+Guard Up,+Critical Boost,-Recovery Up,-Biologist
+#
+# 
+# There are a couple of rules set by default, but you can disable them by adding a # in front if you want.
+# You are also welcome to create your own, if you like.
+#
+-Free Elem/Ammo Up,+Non-elemental Boost
++Free Elem/Ammo Up,-Non-elemental Boost

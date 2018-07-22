@@ -266,6 +266,7 @@ ref struct StringTable
 		SkillLevel,
 		SlotString,
 		NumDecorations,
+		ExcludeSkill,
 		NumStrings
 	};
 };

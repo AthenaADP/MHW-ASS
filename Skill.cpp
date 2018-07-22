@@ -416,3 +416,95 @@ int CompareAbilitiesByName( Ability^ a1, Ability^ a2 )
 {
 	return System::String::Compare( a1->name, a2->name );
 }
+
+void ShowWarningPopup( String^ text )
+{
+	using namespace System::Windows::Forms;
+	MessageBox::Show( text, L"Error loading filters.txt", MessageBoxButtons::OK, MessageBoxIcon::Warning );
+}
+
+bool FilterRules::IsRelevant()
+{
+	if( ability->relevant )
+		return false;
+
+	for each( Ability^ a in required )
+	{
+		if( !a->relevant )
+			return false;
+	}
+	for each( Ability^ a in unrequired )
+	{
+		if( a->relevant )
+			return false;
+	}
+	return true;
+}
+
+void ExtraSkillFilters::Load( System::String^ filename )
+{
+	IO::StreamReader fin( filename );
+	while( !fin.EndOfStream )
+	{
+		String^ line = fin.ReadLine();
+		if( !line || line == L"" || line[ 0 ] == L'#' )
+			continue;
+		
+		List_t< String^ > split;
+		Utility::SplitString( %split, line, L',' );
+		if( split.Count < 2 )
+		{
+			ShowWarningPopup( L"Line too short" );
+			continue;
+		}
+
+		List_t< Ability^ > abilities;
+		List_t< bool > plus;
+
+		for( int i = 0; i < split.Count; ++i )
+		{
+			bool is_plus = false;
+			if( split[ i ]->StartsWith( L"-" ) )
+			{
+				is_plus = false;
+			}
+			else if( split[ i ]->StartsWith( L"+" ) )
+			{
+				is_plus = true;
+			}
+			else
+			{
+				ShowWarningPopup( L"Token doesn't start with a + or - symbol" );
+				continue;
+			}
+
+			Ability^ ability = Ability::FindAbility( split[ i ]->Substring( 1 ) );
+			if( !ability )
+			{
+				ShowWarningPopup( L"Unknown skill" );
+				continue;
+			}
+			abilities.Add( ability );
+			plus.Add( is_plus );
+		}
+
+		if( abilities.Count > 1 )
+		{
+			FilterRules^ filter = gcnew FilterRules();
+			filter->ability = abilities[ 0 ];
+
+			for( int i = 1; i < abilities.Count; ++i )
+			{
+				if( plus[ i ] )
+					filter->required.Add( abilities[ i ] );
+				else
+					filter->unrequired.Add( abilities[ i ] );
+			}
+
+			if( plus[ 0 ] )
+				filter_rules.Add( filter->ability, filter );
+			else
+				extra_filters.Add( filter );
+		}
+	}
+}
