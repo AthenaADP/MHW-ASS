@@ -1,0 +1,98 @@
+﻿Gioiello resistenza veleno 1
+Gioiello geologo 1
+Gioiello artiglieria pesante 1
+Gioiello resistenza fame 1
+Gioiello pasto gratuito 1
+Gioiello angelo custode 1
+Gioiello gregario 1
+Gioiello botanico 1
+Gioiello furtivo 1
+Gioiello minaccia aerea 2
+Gioiello esperto di spore 1
+Gioiello esperto acquatico 1
+Gioiello entomologo 1
+Gioiello resistenza effluvio 1
+Gioiello segugio 1
+Gioiello intimidazione 1
+Gioiello manutenzione 1
+Gioiello rianimazione 1
+Gioiello resistenza paralisi 1
+Gioiello rafforzamento 1
+Gioiello resistenza acqua 1
+Gioiello resistenza sanguinamento 1
+Gioiello resistenza drago 1
+Gioiello resistenza fuoco 1
+Gioiello resistenza ghiaccio 1
+Gioiello pelle di ferro 1
+Gioiello resistenza tuono 1
+Gioiello resistenza sonno 1
+Gioiello resisitenza scoppio 1
+Gioiello pasto veloce 1
+Gioiello atleta 2
+Gioiello attacco fuoco 1
+Gioiello schivata 2
+Gioiello schivata estesa 2
+Gioiello rinfodero veloce 1
+Gioiello ampia area 1
+Gioiello estensione oggetti 1
+Gioiello bonus cura 1
+Gioiello affilatura veloce 1
+Gioiello resistenza stordimento 1
+Gioiello bombardiere 1
+Gioiello guarigione 1
+Gioiello affinità scivolata 2
+Gioiello difesa 1
+Gioiello capienza fionda 1
+Gioiello antisismico 2
+Gioiello antisussulto 3
+Gioiello paravento 2
+Gioiello udito 3
+Gioiello salute 1
+Gioiello resistenza malus 1
+Gioiello maestro del corno 1
+Gioiello battitore 2
+Gioiello attacco acqua 1
+Gioiello attacco ghiaccio 1
+Gioiello attacco tuono 1
+Gioiello attacco drago 1
+Gioiello attacco veleno 1
+Gioiello applica veleno 3
+Gioiello occhio critico 1
+Gioiello punto debole 2
+Gioiello spaccamostri 2
+Gioiello non elementale 2
+Gioiello ruba resistenza 1
+Gioiello applica paralisi 3
+Gioiello strato protettivo 2
+Gioiello guardia perfetta 2
+Gioiello sigillo anziano 3
+Gioiello munizioni speciali 1
+Gioiello estensione di potenza 2
+Gioiello bonus normali 3
+Gioiello risentimento 2
+Gioiello eroismo 2
+Gioiello attacco paralisi 1
+Gioiello attacco sonno 1
+Gioiello blocco 1
+Gioiello super resistenza 2
+Gioiello attacco scoppio 1
+Gioiello applica sonno 3
+Gioiello applica scoppio 3
+Gioiello forza latente 2
+Gioiello istigatore 2
+Gioiello attacco 1
+Gioiello forma perfetta 2
+Gioiello bonus capacità 2
+Gioiello massima potenza 2
+Gioiello maratoneta 2
+Gioiello bonus critico 2
+Gioiello artigliere 1
+Gioiello fungomante 1
+Gioiello rilascio 3
+Gioiello bonus ventaglio 3
+Gioiello concentrazione 2
+Gioiello artigiano 3
+Gioiello carica potenziata 2
+Gioiello preveggenza 2
+Gioiello critico rapido 2
+Gioiello bonus perforanti 3

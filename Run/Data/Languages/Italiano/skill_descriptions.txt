@@ -1,0 +1,364 @@
+﻿Durata veleno -30%.
+Durata veleno -60%.
+Previene il veleno.
+Durata paralisi -30%.
+Durata paralisi -60%.
+Previene la paralisi.
+Durata sonno -30%.
+Durata sonno -60%.
+Previene il sonno.
+Durata stordimento -30%.
+Durata stordimento -60%.
+Previene lo stordimento.
+Riduce i limiti della velocità di movimento ed evasione.
+Ritarda di poco il malus da scoppio e riduce di poco i danni da scoppio.
+Ritarda il malus da scoppio e riduce i danni da scoppio.
+Previene lo scoppio.
+Riduce i danni durante il sanguinamento.
+Riduce notevolmente i danni durante il sanguinamento.
+Previene il sanguinamento.
+Durata difesa ridotta -30%.
+Durata difesa ridotta -60%.
+Previene difesa ridotta.
+Riduce minimamente gli effetti dei ruggiti deboli di mostro.
+Riduce leggermente gli effetti dei ruggiti deboli di mostro.
+Annulla gli effetti dei ruggiti deboli di mostro.
+Annulla gli effetti dei ruggiti deboli di mostro e riduce gli effetti di quelli potenti.
+Annulla tutti i ruggiti.
+Riduce leggermente gli effetti della pressione del vento lieve.
+Riduce sensibilmente gli effetti della pressione del vento lieve.
+Annulla la pressione del vento lieve.
+Annulla la pressione del vento lieve. Riduce quella intensa.
+Annulla la pressione di tutti i tipi di vento.
+Annulla i sussulti lievi.
+Annulla i sussulti lievi. Riduce quelli intensi.
+Annulla tutti i sussulti.
+Rende il letame più efficace nell'allontanare i mostri.
+Annulla danni dall'effluvio e riduce i danni da acidi.
+Annulla i danni da calore.
+ATT Fisico +3.
+ATT Fisico +6.
+ATT Fisico +9.
+ATT Fisico +12 Affinità +5%.
+ATT Fisico +15 Affinità +5%.
+ATT Fisico +18 Affinità +5%.
+ATT Fisico +21 Affinità +5%.
+DIF Fisica +5.
+DIF Fisica +10.
+DIF Fisica +15.
+DIF Fisica +20 DIF Elementale (tutte) +3.
+DIF Fisica +25 DIF Elementale (tutte) +3.
+DIF Fisica +30 DIF Elementale (tutte) +3.
+DIF Fisica +35 DIF Elementale (tutte) +3.
+Salute +15.
+Salute +30.
+Salute +50.
+Recupero +10%.
+Recupero +20%.
+Recupero +30%.
+Velocità di recupero x2.
+Velocità di recupero x3.
+Velocità di recupero x4.
+DIF Fuoco +6.
+DIF Fuoco +12.
+DIF Fuoco +20 DIF Fisica +10.
+DIF Acqua +6.
+DIF Acqua +12.
+DIF Acqua +20 DIF Fisica +10
+DIF Ghiaccio +6
+DIF Ghiaccio +12
+DIF Ghiaccio +20 DIF Fisica +10.
+DIF Tuono +6.
+DIF Tuono +12.
+DIF Tuono +20 DIF Fisica +10.
+DIF Drago +6.
+DIF Drago +12.
+DIF Drago +20 DIF Fisica +10.
+Durata malus (tutti) -30%.
+Durata malus (tutti) -60%.
+Annulla tutti i malus.
+ATT Fuoco +30.
+ATT Fuoco +60.
+ATT Fuoco +100.
+ATT Fuoco +5% Bonus: +100.
+ATT Fuoco +10% Bonus: +100.
+ATT Acqua +30.
+ATT Acqua +60.
+ATT Acqua +100.
+ATT Acqua +5% Bonus: +100.
+ATT Acqua +10% Bonus: +100.
+ATT Ghiaccio +30.
+ATT Ghiaccio +60.
+ATT Ghiaccio +100.
+ATT Ghiaccio +5% Bonus: +100.
+ATT Ghiaccio +10% Bonus: +100.
+ATT Tuono +30.
+ATT Tuono +60.
+ATT Tuono +100.
+ATT Tuono +5% Bonus: +100.
+ATT Tuono +10% Bonus: +100.
+ATT Drago +30.
+ATT Drago +60.
+ATT Drago +100.
+ATT Drago +5% Bonus: +100.
+ATT Drago +10% Bonus: +100.
+Accumulo veleno +5% Bonus: +10.
+Accumulo veleno +10% Bonus: +10.
+Accumulo veleno +20% Bonus: +10.
+Accumulo paralisi +5% Bonus: +10.
+Accumulo paralisi +10% Bonus: +10.
+Accumulo paralisi +20% Bonus: +10.
+Accumulo sonno +5% Bonus: +10.
+Accumulo sonno +10% Bonus: +10.
+Accumulo sonno +20% Bonus: +10.
+Accumulo scoppio +5% Bonus: +10.
+Accumulo scoppio +10% Bonus: +10.
+Accumulo scoppio +20% Bonus: +10.
+Aumenta la potenza dei proiettili normali e frecce normali.
+Aumenta la potenza dei proiettili perforanti e del perfora draghi.
+Aumenta i danni dei proiettili ventaglio e del tiro speciale.
+Elemento nascosto 33% e aumenta la capienza di alcuni tipi di munizioni.
+Elemento nascosto 66% e aumenta la capienza di molti tipi di munizioni.
+Elemento nascosto 100% e aumenta la capienza di quasi tutti i tipi di munizioni.
+Affinità +3%.
+Affinità +6%.
+Affinità +10%.
+Affinità +15%.
+Affinità +20%.
+Affinità +25%.
+Affinità +30%.
+Aumenta i danni dei colpi critici del 30%.
+Aumenta i danni dei colpi critici del 35%.
+Aumenta i danni dei colpi critici del 40%.
+Incrementa l'affinità del 15% quando si colpisce un punto debole del mostro.
+Incrementa l'affinità del 30% quando si colpisce un punto debole del mostro.
+Incrementa l'affinità del 50% quando si colpisce un punto debole del mostro.
+Accumulo barra 5% e riduzione carica -5%.
+Accumulo barra 10% e riduzione carica -10%.
+Accumulo barra 20% e riduzione carica -20%.
+Durata bonus +10%.
+Durata bonus +20%.
+Durata bonus +30%.
+Acutezza +10.
+Acutezza +20.
+Acutezza +30.
+Acutezza +40.
+Acutezza +50.
+Affinità sfodero +30%.
+Affinità sfodero +60%.
+Affinità sfodero +100%.
+Danni parte +10%.
+Danni parte +20%.
+Danni parte +30%.
+Potenza affaticamento +10%.
+Potenza affaticamento +20%.
+Potenza affaticamento +30%.
+Potenza stordimento +10%.
+Potenza stordimento +20%.
+Potenza stordimento +30%.
+Montare i mostri è più facile.
+Potenza attacco in salto +10%.
+Mentre attiva, affinità 10% e consumo resistenza -10%.
+Mentre attiva, affinità 20% e consumo resistenza -10%.
+Mentre attiva, affinità 30% e consumo resistenza -30%.
+Mentre attiva, affinità 40% e consumo resistenza -30%.
+Mentre attiva, affinità 50% e consumo resistenza -50%.
+Mentre attiva, ATT Fisico +4 e affinità +3%.
+Mentre attiva, ATT Fisico +8 e affinità +6%.
+Mentre attiva, ATT Fisico +12 e affinità +9%.
+Mentre attiva, ATT Fisico +16 e affinità +12%.
+Mentre attiva, ATT Fisico +20 e affinità +15%.
+Mentre attiva, ATT Fisico +5.
+Mentre attiva, ATT Fisico +10.
+Mentre attiva, ATT Fisico +20.
+Mentre attiva, ATT Fisico +5% e DIF Fisica +15.
+Mentre attiva, ATT Fisico +10% e DIF Fisica +20.
+Mentre attiva, ATT Fisico +15% e DIF Fisica +25.
+Mentre attiva, ATT Fisico +20% e DIF Fisica +30.
+Mentre attiva, ATT Fisico +30% e DIF Fisica +40.
+Incrementa l'attacco del 10% e la difesa del 15% con ogni utilizzo.
+Mentre attiva, ATT Fisico +5.
+Mentre attiva, ATT Fisico +10.
+Mentre attiva, ATT Fisico +15.
+Mentre attiva, ATT Fisico +20.
+Mentre attiva, ATT Fisico +25.
+Mentre attiva, migliora notevolmente la durata dell'invulnerabilità in schivata e riduce il consumo resistenza.
+Estende l'effetto della melodia e migliora il recupero salute.
+Capacità munizioni +1.
+Potenza munizioni speciali e perfora draghi +10%.
+Potenza munizioni speciali e perfora draghi +20%.
+Attacchi esplosivi +10% e recupero fuoco wyvern -15%.
+Attacchi esplosivi +20% e recupero fuoco wyvern -30%.
+Attacchi esplosivi +30% e recupero fuoco wyvern -50%.
+Potenza baliste e cannoni +10%.
+Potenza baliste e cannoni +20%.
+Riduce consumo costante resistenza del 15%.
+Riduce consumo costante resistenza del 30%.
+Riduce consumo costante resistenza del 50%.
+Riduce consumo fisso resistenza del 10%.
+Riduce consumo fisso resistenza del 20%.
+Riduce consumo fisso resistenza del 30%.
+Riduce consumo fisso resistenza del 40%.
+Riduce consumo fisso resistenza del 50%.
+Abilità il tuffo in salto da qualunque direzione.
+Velocità recupero resistenza +10%.
+Velocità recupero resistenza +20%.
+Velocità recupero resistenza +30%.
+Ritardo riduzione resistenza +30%.
+Ritardo riduzione resistenza +60%.
+Previene la riduzione di resistenza.
+Incrementa minimamente il periodo di invulnerabilità della schivata.
+Incrementa leggermente il periodo di invulnerabilità della schivata.
+Incrementa sensibilmente il periodo di invulnerabilità della schivata.
+Incrementa notevolmente il periodo di invulnerabilità della schivata.
+Incrementa enormemente il periodo di invulnerabilità della schivata.
+Incrementa leggermente il raggio della schivata.
+Incrementa sensibilmente il raggio della schivata.
+Incrementa notevolmente il raggio della schivata.
+Riduce minimamente il rinculo della parata.
+Riduce leggermente il rinculo della parata e consumo resistenza -15%.
+Riduce sensibilmente il rinculo della parata e consumo resistenza -15%.
+Riduce notevolmente il rinculo della parata e consumo resistenza -30%.
+Riduce enormemente il rinculo della parata e consumo resistenza -50%.
+Aumenta minimamente la velocità di rinfodero.
+Aumenta sensibilmente la velocità di rinfodero.
+Aumenta notevolmente la velocità di rinfodero.
+Gli effetti degli oggetti influiscono i compagni con il 33% di efficacia.
+Gli effetti degli oggetti influiscono i compagni con il 33% di efficacia. Area più ampia.
+Gli effetti degli oggetti influiscono i compagni con il 66% di efficacia. Area più ampia.
+Gli effetti degli oggetti influiscono i compagni con il 66% di efficacia. Area molto più ampia.
+Gli effetti degli oggetti influiscono i compagni con il 100% di efficacia. Area molto più ampia.
+Durata effetto oggetti +10%.
+Durata effetto oggetti +25%.
+Durata effetto oggetti +50%.
+Si attiva il 25% delle volte.
+Aumenta leggermente la velocità di consumo oggetti.
+Aumenta sensibilmente la velocità di consumo oggetti.
+Aumenta notevolmente la velocità di consumo oggetti.
+Rimuove un ciclo della cote.
+Rimuove due cicli della cote.
+Rimuove tre cicli della cote.
+Potenza attacchi esplosivi +10%.
+Potenza attacchi esplosivi +20%.
+Potenza attacchi esplosivi +30%.
+Consente di digerire funghi blu e funghi velenosi.
+Consente anche di digerire funghi nitro e funghi paralizzanti.
+Consente anche di digerire mandragore, funghi del diavolo e fughi stimolanti.
+Aumenta il tempo per addescare i pesci e rende i pesci grossi più facili da catturare.
+Aumenta la velocità di movimento mentre si trasporta un oggetto e riduce l'inciampamento negli atterraggi.
+Velocizza e previene inciampi durante la raccolta.
+Un ulteriore Miele per raccolta.
+Previene inciampi mentre si scaglia.
+Mentre attiva, riduce i danni del 15%.
+Mentre attiva, riduce i danni del 30%.
+Mentre attiva, riduce i danni del 50%.
+Aumenta l'attacco e difesa del compagno del 5%.
+Aumenta l'attacco e difesa del compagno del 10%.
+Aumenta l'attacco e difesa del compagno del 15%.
+Aumenta l'attacco e difesa del compagno del 20%.
+Aumenta l'attacco e difesa del compagno del 25%.
+Erbe consumabili raccolte +1.
+Erbe consumabili, frutti, noci, semi raccolti +1.
+Erbe consumabili, frutti, noci, semi, insetti raccolti +1.
+Erbe consumabili, frutti, noci, semi, insetti, funchi raccolti +1.
+Estrazione da resti di ossa +1.
+Estrazione da resti di ossa e punti di raccolta speciali +1.
+Estrazione da resi di ossa, punti di raccolta e depositi minerari +1.
+Mentre attiva, affinità +10%.
+Mentre attiva, affinità +20%.
+Mentre attiva, affinità +30%.
+Incrementa leggermente la capacità della fionda.
+Incrementa sensibilimente la capacità della fionda.
+Incrementa notevolmente la capacità della fionda.
+Incrementa leggermente la probabilità che i mostri ti perdano di vista.
+Incrementa sensibilmente la probabilità che i mostri ti perdano di vista.
+Incrementa notevolmente la probabilità che i mostri ti perdano di vista.
+Previene inciampi causati da alcuni attacchi.
+Prevents inciampi causati da molti attacchi.
+Previene qualunque inciampo.
+Aumenta la portata delle lucciole.
+Aumenta la velocità di movimento mentre ci si abbassa.
+Previene inciampi mentre si è in volo.
+Sporerbe recuperano 20 punti salute.
+Sporerbe recuperano 35 punti salute.
+Sporerbe recuperano 60 punti salute.
+Previene rallentamento dei movimenti in acqua.
+Previene rallentamento dei movimenti in acqua e aumenta la schivata.
+Previene rallentamento dei movimenti in acqua e aumenta notevolmente la schivata.
+Riduce il consumo di resistenza in arrampicata del 25%.
+Aumenta l'efficacia degli oggetti stordenti.
+Velocizza la progressione dei livelli di ricerca e ricerche speciali.
+Aumenta la probabilità di non disintegrare mostri delicati.
+Aumenta notevolmente la probabilità di non disintegrare mostri delicati.
+Mostri delicati non verranno mai disintegrati.
+Riduce l'accumulo di effluvio.
+Riduce notevolmente l'accumulo di effluvio.
+Previene l'accumulo di effluvio.
+Aumenta il riempimento delle barre del 50%.
+Aumenta la probabilità di punti raccolta rari di ricomparire.
+Segna siti rari sulla mappa.
+Rende le bistecche ben cotte più facili da cucinare.
+Riduce il tempo per il riutilizzo del 5%.
+Riduce il tempo per il riutilizzo del 10%.
+Riduce il tempo per il riutilizzo del 20%.
+Aumenta l'affinità del 30% per un preve periodo dopo aver scivolato.
+Scoraggia i mostri ad attaccare anche dopo averti visto.
+Scoraggia notevolmente i mostri ad attaccare anche dopo averti visto.
+Impedisce ai mostri di attaccare anche dopo averti visto.
+Rigenera salute dopo continui attacchi. L'effetto varia in base all'arma.
+Permette al recupero salute di eccedere la barra rossa.
+Amplia la durata del veleno sui mostri.
+Riduce temporaneamente il consumo di resistenza quando la salute è al 40% o meno.
+Aumenta il limite massimo della resistenza.
+Aumenta tutti i danni elementali ad ogni colpo critico.
+Nega il rimbalzo della lama. Inoltre accorcia la distanza in cui proiettili e frecce raggiungono la massima potenza.
+Aumenta l'attacco man mano che peggiora l'acutezza, potenzia il corpo a corpo delle armi a distanza e la probabilità di stordire.
+Potenzia le armi senza elemento equipaggiate.
+Alta probabilità di maggiori premi per la cattura. (Nessun effetto all'entrata di una missione in corso).
+Permette di parare attacchi imbloccabili.
+Sopra il 66% di vita, permette di sopravvivere ad un colpo fatale. (Uso singolo per missione).
+Previene la perdita di acutezza durante i colpi critici.
+Nega tutte le pressioni di vento.
+Dimezza la perdita di acutezza. Per archi e balestre, i colpi hanno una probabilità di non consumarsi.
+Aumenta l'efficacia degli stati alterati durante i colpi critici.
+Buona probabilità di maggiori premi a fine missione. (Nessun effetto all'entrata di una missione in corso).
+Aumenta il livello di carica dell'arco di uno.
+Aggiunge un effetto di stordimento agli attacchi ad estrazione e aumenta lievemente l'attacco.
+L'acutezza dell'arma non diminuisce per 1 minuto dopo aver affilato.
+Permette di usare le boccette veleno.
+Permette di usare le boccette paralisi.
+Permette di usare le boccette sonno.
+Permette di usare le boccette scoppio.
+Aumenta il livello sigillo anziano di uno.
+Ottima probabilità di maggiori premi a fine missione. (Nessun effetto all'entrata di una missione in corso).
+Permette di scagliare una volta in più. (Nessun effetto all'entrata di una missione in corso).
+Bonus set attiva <<Adrenaline>>.
+Bonus set attiva <<Good Luck>>.
+Bonus set attiva <<Punishing Draw>>.
+Bonus set attiva <<Critical Element>>.
+Bonus set attiva <<Bludgeoner>>.
+Bonus set attiva <<Capture Master>>.
+Bonus set attiva <<Adrenaline>>.
+Bonus set attiva <<Stamina Cap Up>>.
+Bonus set attiva <<Poison Duration Up>>.
+Bonus set attiva <<Critical Status>>.
+Bonus set attiva <<Good Luck>>.
+Bonus set attiva <<Bow Charge Plus>>.
+Bonus set attiva <<Punishing Draw>>.
+Bonus set attiva <<Protective Polish>>.
+Bonus set attiva <<Critical Element>>.
+Bonus set attiva <<Mind's Eye/Ballistics>>.
+Bonus set attiva <<Bludgeoner>>.
+Bonus set attiva <<Non-elemental Boost>>.
+Bonus set attiva <<Guard Up>>.
+Bonus set attiva <<Guts>>.
+Bonus set attiva <<Hasten Recovery>>.
+Bonus set attiva <<Master's Touch>>.
+Bonus set attiva <<Nullify Wind Pressure>>.
+Bonus set attiva <<Super Recovery>>.
+Bonus set attiva <<Capture Master>>.
+Bonus set attiva <<Razor Sharp/Spare Shot>>.
+Bonus set attiva <<Great Luck>>.
+Bonus set attiva <<Carving Master>>.
+Bonus set attiva <<Stamina Cap Up>>
+Bonus set attiva <<Mind's Eye/Ballistics>>

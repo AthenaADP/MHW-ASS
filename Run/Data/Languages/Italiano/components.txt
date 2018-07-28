@@ -1,0 +1,537 @@
+﻿Moneta Grancaccia
+Pillola della difesa
+Seme della difesa
+Advanced Armor Sphere
+Osso Antico
+Pillola Antica
+Anjanath: zanna
+Anjanath: zanna+
+Anjanath: gemma
+Anjanath: osso nasale
+Anjanath: osso nasale+
+Anjanath: pelle
+Anjanath: pelle+
+Anjanath: piastra 
+Anjanath: scaglia
+Anjanath: scaglia+
+Anjanath: coda
+Antidoto
+Erba antidoto
+Sacca acquatica
+Minerale aqualux
+Sfera-armatura I
+Sfera-armatura II
+Talismano della difesa
+Siero armatura
+Artiglio della difesa
+Esca arowana
+Carne di Astera
+Rathalos azzurro: carapace
+Rathalos azzurro: scaglia+
+Rathalos azzurro: coda
+Rathalos azzurro: ala
+Azure Star Shard
+Azure Stargem
+Insetto dolcetto
+Barnos: pelle+
+Barnos: sperone
+Bomba-botte
+Barroth: carapace
+Barroth: artiglio
+Barroth: artiglio+
+Moneta Barroth
+Barroth: cresta
+Barroth: cresta+
+Barroth: scalpo
+Barroth: corazza
+Barroth: coda
+Bazelgeuse: carapace
+Bazelgeuse: spoletta
+Bazelgeuse: gemma
+Bazelgeuse: scaglia+
+Bazelgeuse: coda
+Bazelgeuse: sperone
+Bazelgeuse: ala
+Beautiful Scale
+Bhernastone
+Binoculars
+Gemma wyvern rapace
+Bitterbug
+Tessuto nero
+Buono cristallo nero
+Diablos nera: carapace
+Diablos nera: cresta+
+Corno a spirale nero+
+Blastnut
+Blazenut
+Bulbo spinoso
+Fungo blu
+Scaglia arowana scoppio
+Bomberry
+Boomerang
+Osso roccioso
+Bounce Bomb
+Osso brutale
+Moneta brutale
+Burnt Meat
+Burst Arowana Scale
+Minerale carbalite
+Catalizzatore
+Chillshroom
+Chipped Scale
+Sacca comatosa
+Encomio
+Cool Drink
+Osso corallino
+Cristallo corallino
+Daora: carapace
+Daora: artiglio+
+Daora: scaglia+
+Daora: gemma
+Daora: corno+
+Daora: coda
+Daora: membrana
+Dash Extract
+Dash Juice
+Scaglia putrefatta
+Stampa wyvern premium
+Polvere demoniaca
+Demondrug
+Devil's Blight
+Deviljho: pelle
+Deviljho: scalpo
+Deviljho: sperone
+Deviljho: gemma
+Deviljho: scaglia
+Deviljho: saliva
+Deviljho: coda
+Deviljho: zanna
+Diablos: carapace
+Diablos: zanna
+Diablos: midollo
+Diablos: cresta
+Diablos: cresta+
+Diablos: corazza
+Diablos: caudale
+Dodogama: pelle+
+Dodogama: mandibola
+Dodogama: scaglia+
+Dodogama: coda
+Dodogama: sperone
+Reliquia osso di drago
+Dragoncore Ore
+Dragonfell Berry
+Minerale dragonite
+Dragonstrike nut
+Cristallo venadrago
+Dreamcore Ore
+Drugged Meat
+Dundormarin
+Dung
+Dung Pod
+Cristallo terra
+Sangue di drago anziano
+Osso di drago anziano
+Sacca elettrica
+Empty Phial
+Energy Drink
+Exciteshroom
+Farcaster
+Fango fertile
+Teostra: scaglia+
+Fire Herb
+Minerale lavico
+Stampa antico wyverniano
+Sacca fiammeggiante
+Flamenut
+Flash Pod
+Flashbug
+Flowfern
+Moneta volante
+Sacca siderale
+Sacca congelante
+Minerale fucium
+Scarabocchio Gajalaka
+Gajau: scaglia
+Gajau: pelle
+Gajau: baffo
+Moneta Gama
+Gastodon: carapace
+Gastodon: corno
+Gilded: scaglia
+Gilded: scaglia+
+Girros: zanna
+Girros: pelle
+Girros: pelle+
+Girros: scaglia
+Girros: scaglia+
+Gleaming Streamstone
+Glimmering Scale
+Glowing Feystone
+Insetto divino
+Stampa wyvern oro
+Golden Egg
+Golden Scale
+Golden Scale+
+Goldenfish Bait
+Gajau: gran baffo
+Scaglia gran arowana scoppio
+Scaglia gran arowana bomba
+Gran Girros: zanna
+Gran Girros: zanna+
+Gran Girros: pelle
+Gran Girros: pelle+
+Gran Girros: cappuccio
+Gran Girros: cappuccio+
+Gran Girros: scaglia
+Gran Girros: scaglia+
+Gran Girros: coda
+Great Gunpowderfish Scale
+Mosca-corno
+Gran Jagras: artiglio
+Gran Jagras: artiglio+
+Gran Jagras: pelle
+Gran Jagras: pelle+
+Gran Jagras: criniera
+Gran Jagras: scaglia
+Gran Jagras: scaglia+
+Great Sushifish Scale
+Gunpowder
+Gunpowder Level 2
+Gunpowderfish Bait
+Gunpowderfish Scale
+Gunpowser Level 3
+Hard Armor Sphere
+Hardshell Powder
+Heavy Armor Sphere
+Herb
+Herbal Medicine
+Herbal Powder
+Hero's Streamstone
+Alto encomio
+Pelle lussuosa
+Honey
+Hornetaur: carapace
+Hornetaur: testa
+Hornetaur: ala interna
+Hornetaur: corazza
+Hornetaur: ala
+Moneta re dei cacciatori
+Scaglia immortale
+Immunizer
+Sacca infernale
+Minerale ferro
+Ivy
+Jagras: pelle
+Jagras: pelle+
+Jagras: scaglia
+Jagras: scaglia+
+Jyuratodus: carapace
+Jyuratodus: zanna
+Jyuratodus: zanna+
+Jyuratodus: pinna
+Jyuratodus: pinna+
+Jyuratodus: scaglia
+Jyuratodus: scaglia+
+Jyuratodus: corazza
+Kelbi: corno
+Kestodon: carapace
+Kestodon: scalpo
+Kestodon: corazza
+Kirin: corno azzurro
+Kirin: pelle
+Kirin: pelle+
+Kirin: criniera
+Kirin: coda
+Kirin: cornotuono
+Kirin: codatuono
+Stampa Kirin
+Moneta Kulu
+Kulu-Ya-Ku: becco
+Kulu-Ya-Ku: becco+
+Kulu-Ya-Ku: pelle
+Kulu-Ya-Ku: pelle+
+Kulu-Ya-Ku: piuma
+Kulu-Ya-Ku: piuma+
+Kulu-Ya-Ku: scaglia
+Kulu-Ya-Ku: scaglia+
+Stampa Kulu-Ya-Ku
+Kulve Taroth: gemma dorata
+Kulve Taroth: pepita dorata
+Kulve Taroth: scaglia dorata
+Kulve Taroth: corazza dorata
+Kulve Taroth: corno dorato
+Kulve Taroth: coda dorata
+Large Barrel
+Large Barrel Bomb
+Large Scale
+Latchberry
+Roccia lavica
+Lavasioth: carapace
+Lavasioth: zanna+
+Lavasioth: pinna+
+Lavasioth: scaglia+
+Legiana: artiglio
+Legiana: artiglio+
+Legiana: gemma
+Legiana: pelle
+Legiana: pelle+
+Legiana: piastra
+Legiana: scaglia
+Legiana: scaglia+
+Legiana: membrana caudale
+Legiana: membrana
+Legiana: ala
+Lifepowder
+Cristallo luce
+Loc Lac Ore
+Lunastra: carapace
+Lunastra: gemma
+Lunastra: corno
+Lunastra: criniera
+Lunastra: scaglia+
+Lunastra: coda
+Lunastra: ala
+Lustrous Scale
+Minerale machalite
+Corno maestoso
+Mandragora
+Max Potion
+Mega Armorskin
+Mega Barrel Bomb
+Mega Bounce Bomb
+Mega Dash Juice
+Mega Demondrug
+Mega Nutrients
+Mega Potion
+Might Pill
+Might Seed
+Minegardenite
+Osso di mostro grande
+Osso di mostro medio
+Osso di mostro piccolo
+Osso di mostro+
+Brodo di mostro
+Fluido di mostro
+Osso di mostro granitico
+Osso di mostro affilato
+Mosswine: pelle
+Mysterious Feystone
+Needleberry
+Nergigante: carapace
+Nergigante: gemma
+Nergigante: corno+
+Nergigante: piastra rigenerata
+Nergigante: coda
+Nergigante: sperone
+Net
+Nitroshroom
+Trofeo Audace Nora
+Estratto corroborante
+Novacristallo
+Nulberry
+Nutrients
+Odogaron: artiglio
+Odogaron: artiglio+
+Odogaron: zanna
+Odogaron: zanna+
+Odogaron: gemma
+Odogaron: piastra
+Odogaron: scaglia
+Odogaron: scaglia+
+Odogaron: tendine
+Odogaron: tendine+
+Odogaron: coda
+Sacca inabilitante
+Paolumu: carapace+
+Paolumu: pelle
+Paolumu: pelle+
+Paolumu: scaglia
+Paolumu: scaglia+
+Paolumu: corazza
+Paolumu: membrana
+Paolumu: ala
+Sacca paralizzzante
+Parashroom
+Artiglio perforante
+Rathian rosa: carapace
+Rathian rosa: scaglia+
+Moneta apogeo
+Pitfall Trap
+Platinum Scale
+Platinum Scale+
+Sacca velenosa
+Poison Smoke Bomb
+Poisoned Meat
+Potion
+Powercharm
+Powertalon
+Moneta Pukei
+Pukei-Pukei: carapace
+Pukei-Pukei: penna
+Pukei-Pukei: sacca
+Pukei-Pukei: sacca+
+Pukei-Pukei: scaglia
+Pukei-Pukei: scaglia+
+Pukei-Pukei: corazza
+Pukei-Pukei: coda
+Pukei-Pukei: ala
+Osso di qualità
+Radobaan: carapace
+Radobaan: bulbo
+Radobaan: midollo
+Radobaan: corazza oleosa
+Radobaan: scaglia
+Radobaan: scaglia+
+Radobaan: corazza
+Rare Steak
+Rath: sperone
+Rathalos: carapace
+Moneta Rathalos
+Rathalos: bulbo
+Rathalos: midollo
+Rathalos: piastra
+Rathalos: rubino
+Rathalos: scaglia
+Rathalos: scaglia+
+Rathalos: corazza
+Rathalos: coda
+Rathalos: membrana
+Rathalos: ala
+Rathian: carapace
+Moneta Rathian
+Rathian: piastra
+Rathian: rubino
+Rathian: scaglia
+Rathian: scaglia+
+Rathian: corazza
+Rathian: punta
+Rathian: punta+
+Rathian: membrana
+Ration
+Raw Meat
+Red Orb
+Buono commissione di ricerca
+Rolled-up Dung
+Stampa SFV I
+Stampa SFV II
+Stampa SFV III
+Baccello urlante
+Sacca urlante
+Shamos: pelle
+Shamos: pelle+
+Shamos: scaglia
+Shamos: scaglia+
+Artiglio affilato
+Shining Streamstone
+Shock Trap
+Silver Egg
+Stampa wyvern argento
+Tessuto malevolo
+Slashberry
+Sleep Herb
+Sacca soporifera
+Small Barrel
+Smoke Bomb
+Smokenut
+Snow Herb
+Spider Web
+Spiritcore Ore
+Buono fiori di primavera
+Spring Insect Field Guide
+Steel Egg
+Stampa wyvern acciaio
+Streamstone
+Streamstone Shard
+Osso resistente
+Sullied Streamstone
+Summer Insect Guide
+Ticket del tramonto d'estate
+Scaglia pesce sushi
+Tailraider Voucher
+Teostra: carapace
+Teostra: artiglio+
+Teostra: gemma
+Teostra: corno+
+Teostra: criniera
+Teostra: polvere
+Teostra: coda
+Teostra: membrana
+Sacca tonante
+Insetto elettrico
+Tinged Meat
+Toadstool
+Tobi-Kadachi: artiglio
+Tobi-Kadachi: artiglio+
+Tobi-Kadachi: elettrodo
+Tobi-Kadachi: elettrodo+
+Tobi-Kadachi Membrane
+Tobi-Kadachi: pelle
+Tobi-Kadachi: pelle+
+Tobi-Kadachi: scaglia
+Tobi-Kadachi: scaglia+
+Sacca torrente
+Sacca tossica
+Tranq Bomb
+Trap Tool
+Corno contorto
+Moneta Tzitzi
+Tzitzi-Ya-Ku: artiglio
+Tzitzi-Ya-Ku: artiglio+
+Tzitzi-Ya-Ku: pelle
+Tzitzi-Ya-Ku: pelle+
+Tzitzi-Ya-Ku: fotoforo
+Tzitzi-Ya-Ku: fotoforo+
+Tzitzi-Ya-Ku: scaglia
+Tzitzi-Ya-Ku: scaglia+
+Teschio ignoto
+Uragaan: carapace
+Uragaan: mandibola
+Uragaan: midollo
+Uragaan: rubino
+Uragaan: scaglia+
+Uragaan: placca
+Vaal Hazak: carapace
+Vaal Hazak: zanna+
+Vaal Hazak: gemma
+Vaal Hazak: membrana
+Vaal Hazak: coda
+Vaal Hazak: sperone
+Buono Vaal Hazak
+Vaal Hazak: ala
+Val Habar Quartz
+Vespoid: carapace
+Vespoid: ala interna
+Vespoid: corazza
+Vespoid: ala
+Buono pasto
+Pelle calda
+Osso deforme
+Warped Feystone
+Warrior's Streamstone
+Well-done Steak
+Whetfish Fin
+Whetfish Fin+
+Buono tremoglia
+Pterowyvern: pelle
+Pterowyvern: pelle+
+Worn Feystone
+Massa ossea wyvern
+Gemma Wyvern
+Xeno'jiiva: artiglio
+Xeno'jiiva: gemma
+Xeno'jiiva: corno
+Xeno'jiiva: corazza
+Xeno'jiiva: scaglia anima
+Xeno'jiiva: coda
+Xeno'jiiva: velo
+Xeno'jiiva: ala
+Zorah Magdaros: carapace
+Zorah Magdaros: gemma
+Zorah Magdaros: scaglia rovente
+Zorah Magdaros: magma
+Zorah Magdaros: pleura
+Zorah Magdaros: cresta
+(Esclusiva Pre-ordine)
+(Quest Arena Grado B 1-7)
+(Quest Arena Grado B 8-9)

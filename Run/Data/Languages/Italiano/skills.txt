@@ -1,0 +1,159 @@
+﻿Resistenza veleno
+Resistenza paralisi
+Resistenza sonno
+Resistenza stordimento
+Resistenza melma
+Resistenza scoppio
+Resistenza sanguinamento
+Pelle di ferro
+Protezione udito
+Paravento
+Antisismico
+Letamastro
+Esperto di effluvi
+Anticalore
+Bonus attacco
+Bonus difesa
+Bonus salute
+Bonus cura
+Guarigione
+Resistenza fuoco
+Resistenza acqua
+Resistenza ghiaccio
+Resistenza tuono
+Resistenza drago
+Resistenza malus
+Attacco fuoco
+Attacco acqua
+Attacco ghiaccio
+Attacco tuono
+Attacco drago
+Attacco veleno
+Attacco paralisi
+Attacco sonno
+Attacco scoppio
+Bonus normali
+Bonus perforanti
+Bonus ventaglio/tiro potente
+Rivela/Munizioni+
+Occhio critico
+Bonus critico
+Punto debole
+Concentrazione
+Estensione di potenza
+Artigiano
+Critico rapido
+Spaccamostri
+Battitore
+Ruba resistenza
+Cavaliere provetto
+Minaccia aerea
+Forza latente
+Istigatore
+Forma perfetta
+Eroismo
+Rafforzamento
+Risentimento
+Rianimazione
+Maestro del corno
+Bonus capacità
+Bonus munizioni speciali
+Artiglieria
+Artiglieria pesante
+Maratoneta
+Atleta
+Salto nel buio
+Super resistenza
+Resistenza fame
+Schivata
+Schivata estesa
+Blocco
+Rinfodero veloce
+Ampia area
+Estensione oggetti
+Pasto gratuito
+Pasto veloce
+Affilatura veloce
+Bombardiere
+Fungomante
+Mastro pescatore
+Super portatore
+Mastro raccoglitore
+Goloso di miele
+Esperto di ricavo
+Angelo custode
+Gregario
+Botanico
+Geologo
+Massima potenza
+Capacità fionda
+Furtivo
+Antisussulto
+Amplia insetti
+Velocità strisciante
+Maestro saltatore
+Esperto di spore
+Esperto acquatico
+Scalatore
+Attacco a sorpresa
+Erudito
+Entomologo
+Resistenza effluvio
+Segugio
+Fortuna del foraggiere
+Rilevatore
+Mastro grigliatore
+Manutenzione
+Affinità scivolata
+Intimidatore
+Furia guaritrice
+Super guarigione
+Aumenta veleno
+Adrenalina
+Aumenta resistenza
+Critico elementale
+Preveggenza/Balistica
+Devastatore
+Bonus non elementale
+Maestro di cattura
+Guardia perfetta
+Tenacia
+Tocco del maestro
+Annulla pressione vento
+Acutezza/Risparmia munizioni
+Stato critico
+Buona fortuna
+Carica d'arco potenziata
+Sfoderata punitrice
+Strato protettivo
+Applica veleno
+Applica paralisi
+Applica sonno
+Applica scoppio
+Bonus sigillo anziano
+Gran fortuna
+Maestro del ricavo
+Forza dell'Anjanath
+Benedizione del Legiana
+Forza dell'Odogaron
+Forza del Rathalos
+Forza del Diablos
+Benedizione del Kirin
+Volontà dell'Anjanath
+Esperto Rathian rosa
+Esperto Zorah Magdaros
+Benevolenza del Legiana
+Esperto Odogaron
+Esperto Rathalos
+Esperto Diablos
+Protezione dell'Uragaan
+Protezione del Bazelgeuse
+Fame del Nergigante
+Tecnica del Teostra
+Volo del Kushala Daora
+Vitalità del Vaal Hazak
+Benevolenza del Kirin
+Spirito dello Xeno'jiiva
+Assistenza della Gilda
+Assistenza della Commissione
+Auspicio della Lunastra

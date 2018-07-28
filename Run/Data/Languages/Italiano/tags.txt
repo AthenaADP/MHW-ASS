@@ -1,0 +1,9 @@
+Tutto
+Misto
+Inerente
+Spadaccino
+Artigliere
+Offensivo
+Difensivo
+Resistenza
+Raccolta
