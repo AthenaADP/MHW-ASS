@@ -332,6 +332,7 @@ Ermöglicht dir die Nutzung von Sprengbeschichtungen.
 Verbessert das Ältestensiegel um eine Stufe.
 Erhöhte Chance auf zusätzliche Questbelohnungen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
 Ermöglicht dir, einen Kadaver einmal zusätzlich zu zerlegen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
+Erhöht den Element-Schaden durch gesprungene Angriffe.
 Setbonus verleiht <<Adrenalin>>.
 Setbonus verleiht <<Glück>>.
 Setbonus verleiht <<Bestrafender Zug>>.
@@ -360,5 +361,7 @@ Setbonus verleiht <<Fangmeister>>.
 Setbonus verleiht <<Scharfschwert/Extraschuss>>.
 Setbonus verleiht <<Glückserhöher>>.
 Setbonus verleiht <<Zerlegemeister>>.
-Setbonus verleiht <<Ausdauerlimit hoch>>
-Setbonus verleiht <<Inneres Auge/Ballistik>>
+Setbonus verleiht <<Ausdauerlimit hoch>>.
+Setbonus verleiht <<Inneres Auge/Ballistik>>.
+Setbonus verleiht <<Element-Luftherrschaft>>.
+Setbonus verleiht <<Meisterschliff>>.

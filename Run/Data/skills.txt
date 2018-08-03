@@ -134,3 +134,4 @@ Blast Functionality,1,Bow/Gunner
 Elderseal Boost,1
 Great Luck,1,Gathering
 Carving Master,1,Gathering
+Elemental Airborne,1,Offensive

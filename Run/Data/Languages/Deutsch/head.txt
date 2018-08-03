@@ -144,6 +144,7 @@ Vangis-Helm α
 Vangis-Helm β
 Kaiserin-Krone α
 Kaiserin-Krone β
+Drachenreiter-Armet α
 Aloy-Kopf α
 Ryu-Kopf
 Ryu-Kopf α

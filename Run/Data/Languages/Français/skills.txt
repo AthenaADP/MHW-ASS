@@ -133,6 +133,7 @@ Maître bombardier
 Sceau des anciens +
 Bonne fortune
 Maître dépeceur
+Châtiment des cieux
 Pouvoir de l'Anjanath
 Bénédiction du Legiana
 Pouvoir de l'Odogaron
@@ -157,3 +158,4 @@ Divinité du Xeno'jiiva
 Guidance de la Guilde
 Guidancede la Commission
 Grâce de la Lunastra
+Âme du chevalier dragon

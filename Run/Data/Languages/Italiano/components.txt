@@ -2,6 +2,7 @@
 Pillola della difesa
 Seme della difesa
 Advanced Armor Sphere
+Frammento di eterite
 Osso Antico
 Pillola Antica
 Anjanath: zanna
@@ -53,6 +54,11 @@ Bazelgeuse: coda
 Bazelgeuse: sperone
 Bazelgeuse: ala
 Beautiful Scale
+Behemoth: criniera
+Behemoth: osso
+Behemoth: corno enorme
+Behemoth: artigli affilati
+Behemoth: coda
 Bhernastone
 Binoculars
 Gemma wyvern rapace

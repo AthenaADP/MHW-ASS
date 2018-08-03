@@ -332,33 +332,36 @@ Permette di usare le boccette scoppio.
 Aumenta il livello sigillo anziano di uno.
 Ottima probabilità di maggiori premi a fine missione. (Nessun effetto all'entrata di una missione in corso).
 Permette di scagliare una volta in più. (Nessun effetto all'entrata di una missione in corso).
-Bonus set attiva <<Adrenaline>>.
-Bonus set attiva <<Good Luck>>.
-Bonus set attiva <<Punishing Draw>>.
-Bonus set attiva <<Critical Element>>.
-Bonus set attiva <<Bludgeoner>>.
-Bonus set attiva <<Capture Master>>.
-Bonus set attiva <<Adrenaline>>.
-Bonus set attiva <<Stamina Cap Up>>.
-Bonus set attiva <<Poison Duration Up>>.
-Bonus set attiva <<Critical Status>>.
-Bonus set attiva <<Good Luck>>.
-Bonus set attiva <<Bow Charge Plus>>.
-Bonus set attiva <<Punishing Draw>>.
-Bonus set attiva <<Protective Polish>>.
-Bonus set attiva <<Critical Element>>.
-Bonus set attiva <<Mind's Eye/Ballistics>>.
-Bonus set attiva <<Bludgeoner>>.
-Bonus set attiva <<Non-elemental Boost>>.
-Bonus set attiva <<Guard Up>>.
-Bonus set attiva <<Guts>>.
-Bonus set attiva <<Hasten Recovery>>.
-Bonus set attiva <<Master's Touch>>.
-Bonus set attiva <<Nullify Wind Pressure>>.
-Bonus set attiva <<Super Recovery>>.
-Bonus set attiva <<Capture Master>>.
-Bonus set attiva <<Razor Sharp/Spare Shot>>.
-Bonus set attiva <<Great Luck>>.
-Bonus set attiva <<Carving Master>>.
-Bonus set attiva <<Stamina Cap Up>>
-Bonus set attiva <<Mind's Eye/Ballistics>>
+Incrementa i danni elementali inflitti dagli attacchi in salto.
+Bonus set attiva <<Adrenalina>>.
+Bonus set attiva <<Buona fortuna>>.
+Bonus set attiva <<Sfoderata punitrice>>.
+Bonus set attiva <<Critico elementale>>.
+Bonus set attiva <<Devastatore>>.
+Bonus set attiva <<Maestro di cattura>>.
+Bonus set attiva <<Adrenalina>>.
+Bonus set attiva <<Aumenta resistenza>>.
+Bonus set attiva <<Aumenta veleno>>.
+Bonus set attiva <<Stato critico>>.
+Bonus set attiva <<Buona fortuna>>.
+Bonus set attiva <<Carica d'arco potenziata>>.
+Bonus set attiva <<Sfoderata punitrice>>.
+Bonus set attiva <<Strato protettivo>>.
+Bonus set attiva <<Critico elementale>>.
+Bonus set attiva <<Preveggenza/Balistica>>.
+Bonus set attiva <<Devastatore>>.
+Bonus set attiva <<Bonus non elementale>>.
+Bonus set attiva <<Guardia perfetta>>.
+Bonus set attiva <<Tenacia>>.
+Bonus set attiva <<Furia guaritrice>>.
+Bonus set attiva <<Tocco del maestro>>.
+Bonus set attiva <<Annulla pressione vento>>.
+Bonus set attiva <<Super guarigione>>.
+Bonus set attiva <<Maestro di cattura>>.
+Bonus set attiva <<Acutezza/Risparmia munizioni>>.
+Bonus set attiva <<Gran fortuna>>.
+Bonus set attiva <<Maestro del ricavo>>.
+Bonus set attiva <<Aumenta resistenza>>.
+Bonus set attiva <<Preveggenza/Balistica>>.
+Bonus set attiva <<Minaccia aerea elementale>>.
+Bonus set attiva <<Tocco del maestro>>.

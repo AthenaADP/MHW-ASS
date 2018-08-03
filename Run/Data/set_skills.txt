@@ -29,3 +29,5 @@ Guild Guidance,4,Great Luck
 Commission Guidance,4,Carving Master
 Lunastra Favor,2,Stamina Cap Up
 Lunastra Favor,4,Mind's Eye/Ballistics
+Soul of the Dragoon,2,Elemental Airborne
+Soul of the Dragoon,4,Master's Touch

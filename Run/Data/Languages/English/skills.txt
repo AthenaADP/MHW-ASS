@@ -133,6 +133,7 @@ Blast Functionality
 Elderseal Boost
 Great Luck
 Carving Master
+Elemental Airborne
 Anjanath Power
 Legiana Blessing
 Odogaron Power
@@ -157,3 +158,4 @@ Xeno'jiiva Divinity
 Guild Guidance
 Commission Guidance
 Lunastra Favor
+Soul of the Dragoon

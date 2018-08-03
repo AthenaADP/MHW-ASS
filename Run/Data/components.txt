@@ -2,6 +2,7 @@ Ace Hunter Coin
 Adamant Pill
 Adamant Seed
 Advanced Armor Sphere
+Aetheryte Shard
 Ancient Bone
 Ancient Potion
 Anjanath Fang
@@ -53,6 +54,11 @@ Bazelgeuse Tail
 Bazelgeuse Talon
 Bazelgeuse Wing
 Beautiful Scale
+Behemoth Bone
+Behemoth Great Horn
+Behemoth Mane
+Behemoth Shearclaw
+Behemoth Tail
 Bhernastone
 Binoculars
 Bird Wyvern Gem

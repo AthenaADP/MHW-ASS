@@ -332,6 +332,7 @@ Let you use Blast coating.
 Boosts Elderseal one level.
 High chance of increased game rewards. (No effect when joining mid-quest.)
 Lets you carve one additional time. (No effect when joining mid-quest.)
+Elemental damage increased for jumping attacks.
 Set bonus grants <<Adrenaline>>.
 Set bonus grants <<Good Luck>>.
 Set bonus grants <<Punishing Draw>>.
@@ -360,5 +361,7 @@ Set bonus grants <<Capture Master>>.
 Set bonus grants <<Razor Sharp/Spare Shot>>.
 Set bonus grants <<Great Luck>>.
 Set bonus grants <<Carving Master>>.
-Set bonus grants <<Stamina Cap Up>>
-Set bonus grants <<Mind's Eye/Ballistics>>
+Set bonus grants <<Stamina Cap Up>>.
+Set bonus grants <<Mind's Eye/Ballistics>>.
+Set bonus grants <<Elemental Airborne>>.
+Set bonus grants <<Master's Touch>>.

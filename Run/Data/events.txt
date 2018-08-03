@@ -17,3 +17,4 @@ Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards �
 Vaal Hazak Helm γ,Vaal Hazak Mail γ,Vaal Hazak Braces γ,Vaal Hazak Coil γ,Vaal Hazak Greaves γ
 Diver's Mask,Diver's Mask α,Diver's Suit,Diver's Suit α,Diver's Braces,Diver's Braces α,Diver's Belt,Diver's Belt α,Diver's Boots,Diver's Boots α
 Butterfly Vertex α,Butterfly Vertex β,Queen Beetle Vertex α,Queen Beetle Vertex β,Butterfly Thorax α,Butterfly Thorax β,Queen Beetle Thorax α,Queen Beetle Thorax β,Butterfly Brachia α,Butterfly Brachia β,Queen Beetle Brachia α,Queen Beetle Brachia β,Butterfly Elytra α,Butterfly Elytra β,Queen Beetle Elytra α,Queen Beetle Elytra β,Butterfly Crura α,Butterfly Crura β,Queen Beetle Crura α,Queen Beetle Crura β
+Drachen Armet α,Drachen Mail α,Drachen Vambraces α,Drachen Coil α,Drachen Greaves α

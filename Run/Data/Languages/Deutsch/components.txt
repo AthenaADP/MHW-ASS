@@ -2,6 +2,7 @@
 Diamantpille
 Diamantsamen
 Rüstkugel III
+Ätheryten-Splitter
 Alter Knochen
 Uralter Trank
 Anjanath-Reißzahn
@@ -53,6 +54,11 @@ Bazelgeuse-Schwanz
 Bazelgeuse-Kralle
 Bazelgeuse-Flügel
 Hübsche Schuppe
+Behemoth-Knochen
+Behemoth-Großhorn
+Behemoth-Mähne
+Behemoth-Scherklaue
+Behemoth-Schwanz
 Bhernastein
 Fernglas
 Vogelwyvern-Edelstein

@@ -2,6 +2,7 @@
 Philtre de métal
 Graine de ténacité
 Sphère d'armure II
+Éclat d'éthérite
 Os ancien
 Potion ancestrale
 Croc Anjanath
@@ -53,6 +54,11 @@ Queue Bazelgeuse
 Serre Bazelgeuse
 Aile Bazelgeuse
 Écaille magnifique
+Crinière Béhémoth
+Os Béhemoth
+Grande corne Béhémoth
+Griffe Béhémoth
+Queue Béhémoth
 Pierre Bherna
 Jumelles
 Gemme wyverne rapace

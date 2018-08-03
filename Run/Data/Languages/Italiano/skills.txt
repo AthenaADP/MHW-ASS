@@ -133,6 +133,7 @@ Applica scoppio
 Bonus sigillo anziano
 Gran fortuna
 Maestro del ricavo
+Minaccia aerea elementale
 Forza dell'Anjanath
 Benedizione del Legiana
 Forza dell'Odogaron
@@ -157,3 +158,4 @@ Spirito dello Xeno'jiiva
 Assistenza della Gilda
 Assistenza della Commissione
 Auspicio della Lunastra
+Anima di Dragoon

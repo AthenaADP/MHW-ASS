@@ -133,6 +133,7 @@ Explosionsbeschicht.
 Ältestensiegel-Boost
 Glückserhöher
 Zerlegemeister
+Element-Luftherrschaft
 Anjanath-Macht
 Legiana-Segen
 Odogaron-Macht
@@ -157,3 +158,4 @@ Xeno'jiiva-Göttlichkeit
 Gildenführung
 Kommissionsführung
 Lunastra-Vorteil
+Dragoon-Kristall
