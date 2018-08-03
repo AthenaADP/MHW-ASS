@@ -203,6 +203,8 @@ namespace MHWASS
 				Ability::SkillMap_t::Enumerator e = ability->skills.GetEnumerator();
 				while( e.MoveNext() )
 				{
+					Generic::List< SubSkill^ > subskills2;
+
 					const int sel_start = txtDescription->TextLength;
 					const int name_start = txtDescription->TextLength;
 					txtDescription->AppendText( e.Current.Value->name );
@@ -229,7 +231,7 @@ namespace MHWASS
 						ss->char_start = subskill_start;
 						ss->char_end = subskill_end - 2;
 						
-						subskills.Add( ss );
+						subskills2.Add( ss );
 
 						desc = desc->Substring( 0, subskill_start ) + skill_name + desc->Substring( subskill_end + 2 );
 						subskill_start = desc->IndexOf( L"<<" );
@@ -250,7 +252,7 @@ namespace MHWASS
 					txtDescription->SelectionLength = name_end - name_start;
 					txtDescription->SelectionColor = Drawing::Color::Blue;
 
-					for each( SubSkill^ ss in subskills )
+					for each( SubSkill^ ss in subskills2 )
 					{
 						ss->char_end += desc_start;
 						ss->char_start += desc_start;
@@ -259,6 +261,7 @@ namespace MHWASS
 						txtDescription->SelectionLength = ss->char_end - ss->char_start;
 						txtDescription->SelectionColor = Drawing::Color::Blue;
 					}
+					subskills.AddRange( %subskills2 );
 				}
 			}
 
