@@ -748,7 +748,12 @@ namespace MHWASS
 					}
 
 					for each( ComboBox^ box in SkillFilters )
-						cmbSkillFilter_SelectedIndexChanged( box, nullptr );
+					{
+						if( box->SelectedIndex == -1 )
+							box->SelectedIndex = 0;
+						else
+							cmbSkillFilter_SelectedIndexChanged( box, nullptr );
+					}
 				}
 				else if( line->StartsWith( L"NUMSEARCHED=" ) )
 				{
