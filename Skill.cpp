@@ -389,6 +389,9 @@ void FindRelatedSkills( List_t< System::Windows::Forms::ComboBox^ >% skills, Lis
 		relation_count[ a->static_index ] = 100; //lots because selected skills are related by definition
 		selected_abilities.Add( a );
 	}
+
+	if( selected_abilities.Count == 0 )
+		return;
 	
 	for each( List_t< Armor^ >^ la in Armor::static_armors )
 	{

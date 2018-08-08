@@ -173,6 +173,7 @@ namespace MHWASS
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuZoom;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuAllowFairWind;
 	private: System::Windows::Forms::Label^  lblAddSkills;
+	private: System::Windows::Forms::Label^  lblRemoveSkills;
 
 #pragma endregion
 
@@ -373,7 +374,7 @@ namespace MHWASS
 					 box->SelectedIndex = -1;
 			 }
 
-			 void InitializeComboBoxes( const int i )
+			 void InitializeComboBox( const int i )
 			 {
 				 SkillFilters.Add( GetNewComboBox( grpSkillFilters->Width - 13, i, true ) );
 				 grpSkillFilters->Controls->Add( SkillFilters[ i ] );
@@ -390,7 +391,7 @@ namespace MHWASS
 			 {
 				 for( int i = 0; i < NumSkills; ++i )
 				 {
-					 InitializeComboBoxes( i );
+					 InitializeComboBox( i );
 				 }
 				 cmbSort->SelectedIndex = 0;
 				 cmbDecorationSelect->SelectedIndex = 2;
@@ -937,6 +938,7 @@ namespace MHWASS
 			this->nudWeaponSlots2 = ( gcnew System::Windows::Forms::NumericUpDown() );
 			this->nudWeaponSlots3 = ( gcnew System::Windows::Forms::NumericUpDown() );
 			this->lblSlots = ( gcnew System::Windows::Forms::Label() );
+			this->nudHR = ( gcnew MHWASS::NumericUpDownHR() );
 			this->lblHR = ( gcnew System::Windows::Forms::Label() );
 			this->grpSkills = ( gcnew System::Windows::Forms::GroupBox() );
 			this->lblAddSkills = ( gcnew System::Windows::Forms::Label() );
@@ -986,11 +988,12 @@ namespace MHWASS
 			this->cmsCharms = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
 			this->cmsSkills = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
 			this->mnuClearSkill = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
-			this->nudHR = ( gcnew MHWASS::NumericUpDownHR() );
+			this->lblRemoveSkills = ( gcnew System::Windows::Forms::Label() );
 			this->groupBox1->SuspendLayout();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->BeginInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->BeginInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->BeginInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->BeginInit();
 			this->grpSkills->SuspendLayout();
 			this->groupBox4->SuspendLayout();
 			this->grpResults->SuspendLayout();
@@ -999,7 +1002,6 @@ namespace MHWASS
 			this->grpSortFilter->SuspendLayout();
 			this->grpDecorations->SuspendLayout();
 			this->cmsSkills->SuspendLayout();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->BeginInit();
 			this->SuspendLayout();
 			// 
 			// groupBox1
@@ -1058,6 +1060,20 @@ namespace MHWASS
 			this->lblSlots->TabIndex = 4;
 			this->lblSlots->Text = L"Weapon Slots";
 			// 
+			// nudHR
+			// 
+			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
+			this->nudHR->Location = System::Drawing::Point( 122, 20 );
+			this->nudHR->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
+			this->nudHR->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
+			this->nudHR->Name = L"nudHR";
+			this->nudHR->Size = System::Drawing::Size( 46, 20 );
+			this->nudHR->TabIndex = 1;
+			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->nudHR->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
+			this->nudHR->ValueChanged += gcnew System::EventHandler( this, &Form1::nudHR_ValueChanged );
+			// 
 			// lblHR
 			// 
 			this->lblHR->AutoSize = true;
@@ -1071,6 +1087,7 @@ namespace MHWASS
 			// 
 			this->grpSkills->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom )
 				| System::Windows::Forms::AnchorStyles::Left ) );
+			this->grpSkills->Controls->Add( this->lblRemoveSkills );
 			this->grpSkills->Controls->Add( this->lblAddSkills );
 			this->grpSkills->Location = System::Drawing::Point( 12, 169 );
 			this->grpSkills->Name = L"grpSkills";
@@ -1529,19 +1546,18 @@ namespace MHWASS
 			this->mnuClearSkill->Size = System::Drawing::Size( 101, 22 );
 			this->mnuClearSkill->Text = L"&Clear";
 			// 
-			// nudHR
+			// lblRemoveSkills
 			// 
-			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
-			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
-			this->nudHR->Location = System::Drawing::Point( 122, 20 );
-			this->nudHR->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
-			this->nudHR->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
-			this->nudHR->Name = L"nudHR";
-			this->nudHR->Size = System::Drawing::Size( 46, 20 );
-			this->nudHR->TabIndex = 1;
-			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->nudHR->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
-			this->nudHR->ValueChanged += gcnew System::EventHandler( this, &Form1::nudHR_ValueChanged );
+			this->lblRemoveSkills->AutoSize = true;
+			this->lblRemoveSkills->Font = ( gcnew System::Drawing::Font( L"Microsoft Sans Serif", 8.25F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>( 0 ) ) );
+			this->lblRemoveSkills->ForeColor = System::Drawing::SystemColors::HotTrack;
+			this->lblRemoveSkills->Location = System::Drawing::Point( 49, 0 );
+			this->lblRemoveSkills->Name = L"lblRemoveSkills";
+			this->lblRemoveSkills->Size = System::Drawing::Size( 20, 13 );
+			this->lblRemoveSkills->TabIndex = 1;
+			this->lblRemoveSkills->Text = L"－";
+			this->lblRemoveSkills->Click += gcnew System::EventHandler( this, &Form1::lblRemoveSkills_Click );
 			// 
 			// Form1
 			// 
@@ -1565,6 +1581,7 @@ namespace MHWASS
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->EndInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->EndInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->EndInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->EndInit();
 			this->grpSkills->ResumeLayout( false );
 			this->grpSkills->PerformLayout();
 			this->groupBox4->ResumeLayout( false );
@@ -1576,7 +1593,6 @@ namespace MHWASS
 			this->grpSortFilter->ResumeLayout( false );
 			this->grpDecorations->ResumeLayout( false );
 			this->cmsSkills->ResumeLayout( false );
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->EndInit();
 			this->ResumeLayout( false );
 			this->PerformLayout();
 
@@ -2842,15 +2858,24 @@ private:
 
 	System::Void mnuClearSettings_Click( System::Object^ sender, System::EventArgs^ e )
 	{
+		lock_skills = true;
+
 		cmbSort->SelectedIndex = 0;
 		for each( ComboBox^ cb in Skills )
 		{
 			cb->SelectedIndex = -1;
-			cmbSkill_SelectedIndexChanged( cb, nullptr );
 		}
+
 		for each( ComboBox^ cb in SkillFilters )
 		{
 			cb->SelectedIndex = 0;
+		}
+
+		lock_skills = false;
+
+		for each( ComboBox^ cb in Skills )
+		{
+			cmbSkill_SelectedIndexChanged( cb, nullptr );
 		}
 	}
 
@@ -2934,7 +2959,7 @@ private:
 
 	System::Void lblAddSkills_Click( System::Object^  sender, System::EventArgs^  e )
 	{
-		InitializeComboBoxes( NumSkills );
+		InitializeComboBox( NumSkills );
 		ComboBox^ filter = SkillFilters[ NumSkills++ ];
 
 		for each( SkillTag^ tag in SkillTag::tags )
@@ -2944,6 +2969,37 @@ private:
 		filter->SelectedIndex = 0;
 
 		this->Size = Drawing::Size( Width, NumSkills * 27 + 307 );
+
+		SaveConfig();
+	}
+
+	System::Void lblRemoveSkills_Click( System::Object^  sender, System::EventArgs^  e )
+	{
+		if( NumSkills <= 4 )
+			return;
+
+		ComboBox^ skill = Skills[ NumSkills - 1 ];
+		skill->SelectedIndex = -1;
+		cmbSkill_SelectedIndexChanged( skill, nullptr );
+
+		--NumSkills;
+
+		ComboBox^ filter = SkillFilters[ NumSkills ];
+		grpSkillFilters->Controls->Remove( filter );
+		SkillFilters.RemoveAt( NumSkills );
+		delete filter;
+
+		grpSkills->Controls->Remove( skill );
+		Skills.RemoveAt( NumSkills );
+		delete skill;
+
+		IndexMaps.RemoveAt( NumSkills );
+
+		last_selected_ability.RemoveAt( NumSkills );
+
+		this->Size = Drawing::Size( Width, NumSkills * 27 + 307 );
+
+		SaveConfig();
 	}
 
 	System::Void exitToolStripMenuItem_Click( System::Object^ sender, System::EventArgs^ e )

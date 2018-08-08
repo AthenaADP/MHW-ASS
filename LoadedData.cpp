@@ -152,12 +152,13 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 		}
 	}
 
-	unsigned max_num_slots = 0, max_slot_level = 0, max_total_slot_levels = 0;
+	unsigned max_num_slots = 0, max_slot_level = 0, max_total_slot_levels = 0, max_slot_product = 0;
 	for each( Armor^ armor in rel_armor )
 	{
 		max_num_slots = Math::Max( max_num_slots, armor->total_slots );
 		max_slot_level = Math::Max( max_slot_level, armor->highest_slot_level );
 		max_total_slot_levels = Math::Max( max_total_slot_levels, armor->total_slot_level );
+		max_slot_product = Math::Max( max_slot_product, armor->slot_product );
 	}
 
 	for( int i = 0; i < inf_armor->Count; ++i )
@@ -166,6 +167,7 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 		if( a->no_relevant_skills &&
 			a->total_slots < max_num_slots &&
 			a->highest_slot_level < max_slot_level &&
+			a->slot_product < max_slot_product &&
 			a->total_slot_level < max_total_slot_levels )
 			inf_armor->RemoveAt( i-- );
 	}
@@ -241,7 +243,6 @@ void LoadedData::GetRelevantData( Query^ query )
 	//get relevant armors
 	for( int i = 0; i < int( Armor::ArmorType::NumArmorTypes ); ++i )
 	{
-		unsigned max_slots = 0;
 		GetRelevantArmors( query, query->rel_armor[ i ], Armor::static_armors[ i ], query->inf_armor[ i ] );
 		
 		query->rel_armor[ i ]->TrimExcess();

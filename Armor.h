@@ -10,7 +10,7 @@ ref struct Armor : public AdvancedSearchOptions
 	enum class ArmorType { HEAD = 0, BODY, ARMS, WAIST, LEGS, NumArmorTypes };
 	System::String^ name;
 	unsigned hr, defence, max_defence, aug_defence, rarity, difficulty, index, family, male_image, female_image;
-	unsigned total_slots, highest_slot_level, total_slot_level;
+	unsigned total_slots, highest_slot_level, total_slot_level, slot_product;
 	int ice_res, water_res, fire_res, thunder_res, dragon_res;
 	Gender gender;
 	bool no_relevant_skills, arena, full_set, dlc_disabled, has_nonelemental_boost, has_free_element;
