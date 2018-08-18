@@ -159,6 +159,7 @@ Dantes Mantel α
 AzursternGebieterRüstung α
 Kirin-Jacke γ
 Vaal-Hazak-Panzerung γ
+Kaiser-Panzerung γ
 Taucheranzug
 Taucheranzug α
 Schmetterling-Thorax α

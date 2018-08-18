@@ -125,8 +125,8 @@ Death Stench Muscle β
 
 Nergigante Mail α
 Nergigante Mail β
-Kaiser Mail  α
-Kaiser Mail  β
+Kaiser Mail α
+Kaiser Mail β
 Kushala Cista α
 Kushala Cista β
 Vaal Hazak Mail α
@@ -159,6 +159,7 @@ Dante's Coat α
 Azure Starlord Armor α
 Kirin Jacket γ
 Vaal Hazak Mail γ
+Kaiser Mail γ
 Diver's Suit
 Diver's Suit α
 Butterfly Thorax α

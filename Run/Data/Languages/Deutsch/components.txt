@@ -462,6 +462,7 @@ Teostra-Horn+
 Teostra-Mähne
 Teostra-Pulver
 Teostra-Schwanz
+Teostra-Ticket
 Teostra-Gewebe
 Donnerbeutel
 Donnerkäfer

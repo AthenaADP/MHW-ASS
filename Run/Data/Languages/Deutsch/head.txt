@@ -159,6 +159,7 @@ Dantes Haar α
 Azurstern-Gebieter-Krone α
 Kirin-Horn γ
 Vaal-Hazak-Helm γ
+Kaiserkrone γ
 Tauchermaske
 Tauchermaske α
 Schmetterling-Vertex α

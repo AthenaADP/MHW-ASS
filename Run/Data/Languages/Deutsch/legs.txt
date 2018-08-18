@@ -159,6 +159,7 @@ Dantes Lederstiefel α
 AzursternGebiterBeinschtz α
 Kirin-Beinschutz γ
 VaalHazak-Beinschienen γ
+Kaiser-Beinschienen γ
 Taucherstiefel
 Taucherstiefel α
 Schmetterling-Crura α

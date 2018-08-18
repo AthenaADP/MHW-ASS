@@ -462,6 +462,7 @@ Corne Teostra +
 Crinière Teostra
 Poudre Teostra
 Queue Teostra
+Ticket Teostra
 Membrane Teostra
 Poche de foudre
 Foudrinsecte

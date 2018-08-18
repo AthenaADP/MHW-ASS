@@ -462,6 +462,7 @@ Teostra: corno+
 Teostra: criniera
 Teostra: polvere
 Teostra: coda
+Stampa Teostra
 Teostra: membrana
 Sacca tonante
 Insetto elettrico

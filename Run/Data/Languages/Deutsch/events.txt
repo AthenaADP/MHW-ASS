@@ -18,3 +18,4 @@ Vaal-Hazak γ Rüstung
 Taucher/Taucher α Rüstung
 Schmetterling α,β /Königinnenkäfer α,β Rüstung
 Drachenreiter α Rüstung
+Kaiser γ Rüstung

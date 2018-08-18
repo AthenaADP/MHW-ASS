@@ -1,20 +1,21 @@
-Vangis Helm α,Vangis Mail α,Vangis Vambraces α,Vangis Coil α,Vangis Greaves α, Vangis Helm β,Vangis Mail β,Vangis Vambraces β,Vangis Coil β,Vangis Greaves β
-Aloy's Head α,Aloy's Body α,Aloy's Arms α,Aloy's Torso α,Aloy's Leggings α
-Ryu's Head,Ryu's Karate Gi,Ryu's Arms,Ryu's Torso,Ryu's Legs
-Ryu's Head α,Ryu's Karate Gi α,Ryu's Arms α,Ryu's Torso α,Ryu's Legs α
-Sakura's Head α,Sakura's Work Uniform α,Sakura's Arms α,Sakura's Skirt α,Sakura's Legs α
-Butterfly Vertex,Butterfly Thorax,Butterfly Brachia,Butterfly Elytra,Butterfly Crura, Queen Beetle Vertex,Queen Beetle Thorax,Queen Beetle Brachia,Queen Beetle Elytra,Queen Beetle Crura
-Blossom Headgear,Blossom Vest,Blossom Cuffs,Blossom Coat,Blossom Boots, Blossom Headgear α,Blossom Vest α,Blossom Cuffs α,Blossom Coat α,Blossom Boots α
-Kulve Taroth's Fury α,Kulve Taroth's Ire α,Kulve Taroth's Rage α,Kulve Taroth's Malice α,Kulve Taroth's Wrath α, Kulve Taroth's Fury β,Kulve Taroth's Ire β,Kulve Taroth's Rage β,Kulve Taroth's Malice β,Kulve Taroth's Wrath β
-Dante's Hair α,Dante's Coat α,Dante's Gloves α,Dante's Belt α,Dante's Leather Boots α
-Azure Starlord Crown α,Azure Starlord Armor α,Azure Starlord Gauntlets α,Azure Starlord Tassets α,Azure Starlord Guards α
-Sealed Eyepatch α
-Shadow Shades α
-Kulu-Ya-Ku Head α
-Wiggler Head
-Empress Crown α,Empress Crown β,Empress Mail α,Empress Mail β,Empress Vambraces α,Empress Vambraces β,Empress Coil α,Empress Coil β,Empress Greaves α,Empress Greaves β
-Kirin Horn γ,Kirin Jacket γ,Kirin Longarms γ,Kirin Hoop γ,Kirin Leg Guards γ
-Vaal Hazak Helm γ,Vaal Hazak Mail γ,Vaal Hazak Braces γ,Vaal Hazak Coil γ,Vaal Hazak Greaves γ
-Diver's Mask,Diver's Mask α,Diver's Suit,Diver's Suit α,Diver's Braces,Diver's Braces α,Diver's Belt,Diver's Belt α,Diver's Boots,Diver's Boots α
-Butterfly Vertex α,Butterfly Vertex β,Queen Beetle Vertex α,Queen Beetle Vertex β,Butterfly Thorax α,Butterfly Thorax β,Queen Beetle Thorax α,Queen Beetle Thorax β,Butterfly Brachia α,Butterfly Brachia β,Queen Beetle Brachia α,Queen Beetle Brachia β,Butterfly Elytra α,Butterfly Elytra β,Queen Beetle Elytra α,Queen Beetle Elytra β,Butterfly Crura α,Butterfly Crura β,Queen Beetle Crura α,Queen Beetle Crura β
-Drachen Armet α,Drachen Mail α,Drachen Vambraces α,Drachen Coil α,Drachen Greaves α
+Deviljho Hide,Deviljho Scalp,Deviljho Talon,Deviljho Gem,Deviljho Scale,Deviljho Saliva,Deviljho Tail,Deviljho Tallfang
+Nora Brave Trophy
+SFV Ticket
+SFV Ticket III
+SFV Ticket II
+Spring Insect Field Guide
+Spring Blossom Ticket
+Kulve Taroth Golden Glimstone,Kulve Taroth Golden Nugget,Kulve Taroth Golden Scale,Kulve Taroth Golden Shell,Kulve Taroth Golden Spiralhorn,Kulve Taroth Golden Tailshell
+Red Orb
+Azure Stargem
+Black Bandage
+Black Crystal Ticket
+Kulu-Ya-Ku Ticket
+Wiggler Ticket
+Lunastra Carapace,Lunastra Gem,Lunastra Horn,Lunastra Mane,Lunastra Scale+,Lunastra Tail,Lunastra Wing
+Kirin Ticket
+Vaal Hazak Ticket
+Summer Twilight Ticket
+Summer Insect Guide
+Aetheryte Shard,Behemoth Bone,Behemoth Great Horn,Behemoth Mane,Behemoth Shearclaw,Behemoth Tail
+Teostra Ticket

@@ -462,6 +462,7 @@ Teostra Horn+
 Teostra Mane
 Teostra Powder
 Teostra Tail
+Teostra Ticket
 Teostra Webbing
 Thunder Sac
 Thunderbug

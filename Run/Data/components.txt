@@ -1,4 +1,4 @@
-Ace Hunter Coin
+Ace Hunter Coin,Arena
 Adamant Pill
 Adamant Seed
 Advanced Armor Sphere
@@ -40,7 +40,7 @@ Barrel Bomb
 Barroth Carapace
 Barroth Claw
 Barroth Claw+
-Barroth Coin
+Barroth Coin,Arena
 Barroth Ridge
 Barroth Ridge+
 Barroth Scalp
@@ -78,7 +78,7 @@ Boomerang
 Boulder Bone
 Bounce Bomb
 Brutal Bone
-Brute Coin
+Brute Coin,Arena
 Burnt Meat
 Burst Arowana Scale
 Carbalite Ore
@@ -153,7 +153,7 @@ Flamenut
 Flash Pod
 Flashbug
 Flowfern
-Flying Coin
+Flying Coin,Arena
 Freezer Sac
 Frost Sac
 Fucium Ore
@@ -161,7 +161,7 @@ Gajalaka Sketch
 Gajau Scale
 Gajau Skin
 Gajau Whisker
-Gama Coin
+Gama Coin,Arena
 Gastodon Carapace
 Gastodon Horn
 Gilded Scale
@@ -222,7 +222,7 @@ Hornetaur Head
 Hornetaur Innerwing
 Hornetaur Shell
 Hornetaur Wing
-Hunter King Coin
+Hunter King Coin,Arena
 Immortal Dragonscale
 Immunizer
 Inferno Sac
@@ -251,8 +251,8 @@ Kirin Mane
 Kirin Tail
 Kirin Thunderhorn
 Kirin Thundertail
-Kirin Ticket
-Kulu Coin
+Kirin Ticket,10
+Kulu Coin,Arena
 Kulu-Ya-Ku Beak
 Kulu-Ya-Ku Beak+
 Kulu-Ya-Ku Hide
@@ -362,7 +362,7 @@ Parashroom
 Piercing Claw
 Pink Rathian Carapace
 Pink Rathian Scale+
-Pinnacle Coin
+Pinnacle Coin,Arena
 Pitfall Trap
 Platinum Scale
 Platinum Scale+
@@ -372,7 +372,7 @@ Poisoned Meat
 Potion
 Powercharm
 Powertalon
-Pukei Coin
+Pukei Coin,Arena
 Pukei-Pukei Carapace
 Pukei-Pukei Quill
 Pukei-Pukei Sac
@@ -393,7 +393,7 @@ Radobaan Shell
 Rare Steak
 Rath Wingtalon
 Rathalos Carapace
-Rathalos Coin
+Rathalos Coin,Arena
 Rathalos Marrow
 Rathalos Medulla
 Rathalos Plate,1
@@ -405,7 +405,7 @@ Rathalos Tail
 Rathalos Webbing
 Rathalos Wing
 Rathian Carapace
-Rathian Coin
+Rathian Coin,Arena
 Rathian Plate,1
 Rathian Ruby,10
 Rathian Scale
@@ -462,6 +462,7 @@ Teostra Horn+
 Teostra Mane
 Teostra Powder
 Teostra Tail
+Teostra Ticket,10
 Teostra Webbing
 Thunder Sac
 Thunderbug
@@ -481,7 +482,7 @@ Toxin Sac
 Tranq Bomb
 Trap Tool
 Twisted Horn
-Tzitzi Coin
+Tzitzi Coin,Arena
 Tzitzi-Ya-Ku Claw
 Tzitzi-Ya-Ku Claw+
 Tzitzi-Ya-Ku Hide
@@ -503,7 +504,7 @@ Vaal Hazak Gem,10
 Vaal Hazak Membrane
 Vaal Hazak Tail
 Vaal Hazak Talon
-Vaal Hazak Ticket
+Vaal Hazak Ticket,10
 Vaal Hazak Wing
 Val Habar Quartz
 Vespoid Carapace
