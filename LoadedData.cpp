@@ -72,6 +72,7 @@ void LoadedData::LoadDataFiles()
 	Armor::Load( L"Data/waist.txt", Armor::ArmorType::WAIST );
 	Armor::Load( L"Data/legs.txt",  Armor::ArmorType::LEGS );
 	Armor::LoadDLC( L"Data/events.txt" );
+	
 	Decoration::Load( L"Data/decorations.txt" );
 	Charm::Load( L"Data/charms.txt" );
 	ExtraSkillFilters::Load( L"Data/filters.txt" );
