@@ -1,0 +1,189 @@
+﻿#  MHW ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+-
+
+#Menu options
+파일(&F)
+옵션(&O)
+언어(&L)
+도움말(&H)
+불러오기(&L)
+저장하기(&S)
+업데이트(&U)
+종료(&X)
+
+#This option resets all settings to default
+설정 초기화(&C)
+
+#This refers to armor made from Arena coins
+격투대회 장비 허용(&A)
+
+#Event items from Event/Challenge quests
+이벤트 장비 허용(&E)
+
+#Allow the special pre-order bonus "Fair Wind Charm"
+순풍의 호석 허용(&F)
+
+
+#This setting will ignore low rank armor if you are in high rank
+하위 장비 허용(&L)
+
+스킬이름순으로 정렬(&A)
+
+기부(&D)
+스킬 정보(&S)
+
+#This option opens a browser to my Facebook page
+업데이트 확인(&U)
+
+About(&A)
+내 장식주(&D)
+불러오기(&I)
+빠른 검색(&Q)
+고급 검색(&A)
+취소(&C)
+초기값(&D)
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+없음(&N)
+
+#This string is used in the combobox that sorts solutions by various criteria
+필터 없음
+
+#Buttons
+검색(&S)
+선택 해제(&N)
+좋은것만 선택(&B)
+새로 추가(&A)
+리셋(&R)
+제거(&R)
+전체 삭제(&A)
+위로 이동(&U)
+아래로 이동(&D)
+닫기(&C)
+다음 찾기(&F)
+
+퀘스트 레벨
+무기 슬롯수
+성별
+남성
+여성
+부가스킬 필터없음
+결과 정렬/필터
+
+용 내성
+불 내성
+얼음 내성
+번개 내성
+물 내성
+기본 방어력
+최대 방어력
+Aug 방어력
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+난이도
+
+레어도
+여분 슬롯수
+
+
+#When sorting solutions, "Family" refers to which monsters the gear is made from
+같은 계열 세트 우선
+
+#Extra Skills are skills that a solution may have that the user did not search for
+부가 스킬
+
+장식주 선택
+사용안함
+내 장식주
+모든 장식주
+
+스킬
+스킬
+스킬 필터
+
+#Used in the Advanced Search dialog
+방어구 선택
+
+슬롯수
+슬롯 레벨
+(없음)
+
+#When a solution has spare slots. Format: "3 slots spare (1+1+2)"
+%1 개의 여분 슬롯
+
+검색 결과:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+상위에 있는 %1 개의 결과만 나타냄:
+
+장식주 목록
+File is corrupt.
+버전
+Find
+
+#Used in some error popups
+에러
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 to %2
+
+방어력
+결과
+모든 장식주 삭제
+ASS Settings
+최대 결과 갯수(&M)
+장식주 이름으로 보이기(&D)
+소재 목록 보이기(&M)
+미리보는 이미지 기본보기(&D)와 확대보기(&Z)
+
+#Showing min/max defence and elemental resists
+방어력 %1-%2, 불 내성 %3, 물 내성 %4, 얼음 내성%5, 번개 내성 %6, 용 내성 %7
+
+#This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
+%1
+#Item Type refers to weapon/helm/body armor/etc.
+아이템 타입
+
+#This string is for displaying potential extra skills
+(%1 가능)
+
+#Strings for the skill description dialog
+보기
+설명
+발동 스킬
+스킬 계통
+해당 스킬이 있는 방어구:
+해당 시리즈 스킬이 있는 방어구:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+모두
+
+#Confirmation popup
+확실합니까?
+
+#Skill Level. %1 is the skill name, %2 is the level number
+%1 Lv%2
+
+#Slot formatting. Gear can have up to 3 slots, each with a level from 1-3
+%1-%2-%3
+
+#Showing a number of decorations. First value is the number, second is the name. E.g. 3x Thunder Jewel
+%1x %2
+
+#For a filter that excludes a skill
+No %1
