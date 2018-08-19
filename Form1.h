@@ -2617,6 +2617,7 @@ private:
 		}
 
 		lblAddSkills->Location = Point( TextRenderer::MeasureText( grpSkills->Text, grpSkills->Font ).Width + 2, lblAddSkills->Location.Y );
+		lblRemoveSkills->Location = Point( lblAddSkills->Location.X + lblAddSkills->Width - 5, lblRemoveSkills->Location.Y );
 		
 		UpdateResultString();
 		UpdateExtraSkillCombo( true );
