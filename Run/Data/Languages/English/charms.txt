@@ -154,8 +154,8 @@ Demolition Charm II
 Demolition Charm III
 Draw Charm I
 Draw Charm II
-Trickshot Charm I
-Trickshot Charm II
+Special Shot Charm I
+Special Shot Charm II
 Marathon Charm I
 Marathon Charm II
 Fitness Charm I
