@@ -155,8 +155,8 @@ Demolition Charm II,Blast Attack,2,,,8,Bazelgeuse Gem,1,Bazelgeuse Talon,2,Carba
 Demolition Charm III,Blast Attack,3,,,8,Teostra Gem,1,Xeno'jiiva Shell,3,Firecell Stone,1,Dreamcore Ore,1
 Draw Charm I,Critical Draw,1,,,6,Diablos Marrow,1,Diablos Fang,3,Earth Crystal,3,Spiritcore Ore,1
 Draw Charm II,Critical Draw,2,,,8,Teostra Gem,1,Teostra Horn+,2,Fucium Ore,1,Dreamcore Ore,1
-Trickshot Charm I,Special Ammo Boost,1,,,6,Anjanath Plate,1,Anjanath Fang,2,Warped Bone,3,Spiritcore Ore,1
-Trickshot Charm II,Special Ammo Boost,2,,,8,Bazelgeuse Gem,1,Xeno'jiiva Wing,2,Novacrystal,1,Dreamcore Ore,1
+Special Shot Charm I,Special Ammo Boost,1,,,6,Anjanath Plate,1,Anjanath Fang,2,Warped Bone,3,Spiritcore Ore,1
+Special Shot Charm II,Special Ammo Boost,2,,,8,Bazelgeuse Gem,1,Xeno'jiiva Wing,2,Novacrystal,1,Dreamcore Ore,1
 Marathon Charm I,Marathon Runner,1,,,6,Barroth Scalp,2,Barroth Claw+,2,Dragonvein Crystal,3,Spiritcore Ore,1
 Marathon Charm II,Marathon Runner,2,,,9,Xeno'jiiva Gem,1,Xeno'jiiva Veil,2,Fucium Ore,1,Dreamcore Ore,1
 Fitness Charm I,Constitution,1,,,6,Tobi-Kadachi Electrode+,2,Tobi-Kadachi Claw+,2,Dragonvein Crystal,3,Spiritcore Ore,1
