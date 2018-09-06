@@ -13,168 +13,168 @@
 #
 
 #The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
--
+翻訳: moneto
 
 #Menu options
-파일(&F)
-옵션(&O)
-언어(&L)
-도움말(&H)
-불러오기(&L)
-저장하기(&S)
-업데이트(&U)
-종료(&X)
+ファイル(&F)
+設定(&O)
+言語(&L)
+ヘルプ(&H)
+開く(&L)
+保存(&S)
+アップデート(&U)
+終了(&X)
 
 #This option resets all settings to default
-설정 초기화(&C)
+初期設定に戻す(&C)
 
 #This refers to armor made from Arena coins
-격투대회 장비 허용(&A)
+コイン製(闘技大会)装備を表示(&A)
 
 #Event items from Event/Challenge quests
-이벤트 장비 허용(&E)
+イベント・チャレンジ装備を表示(&E)
 
 #Allow the special pre-order bonus "Fair Wind Charm"
-순풍의 호석 허용(&F)
+追い風の護石を表示(&F)
 
 
 #This setting will ignore low rank armor if you are in high rank
-하위 장비 허용(&L)
+下位装備を表示(&L)
 
-스킬이름순으로 정렬(&A)
+スキル名順で並び替える(&A)
 
-기부(&D)
-스킬 정보(&S)
+寄付(&D)
+スキル情報(&S)
 
 #This option opens a browser to my Facebook page
-업데이트 확인(&U)
+更新プログラムを確認(&U)
 
-About(&A)
-내 장식주(&D)
-불러오기(&I)
-빠른 검색(&Q)
-고급 검색(&A)
-취소(&C)
-초기값(&D)
+バージョン情報(&A)
+所有設定(&D)
+読み込む(&I)
+クイック検索(&Q)
+詳細検索(&A)
+キャンセル(&C)
+初期値(&D)
 
 #This string is used in the Advanced Search dialog to deselect all armors in a list.
-없음(&N)
+全解除(&N)
 
 #This string is used in the combobox that sorts solutions by various criteria
-필터 없음
+フィルターなし
 
 #Buttons
-검색(&S)
-선택 해제(&N)
-좋은것만 선택(&B)
-새로 추가(&A)
-리셋(&R)
-제거(&R)
-전체 삭제(&A)
-위로 이동(&U)
-아래로 이동(&D)
-닫기(&C)
-다음 찾기(&F)
+検索(&S)
+選択解除(&N)
+いいのだけを選択(&B)
+追加する(&A)
+リセット(&R)
+削除(&R)
+全部削除(&A)
+上に移動(&U)
+下に移動(&D)
+閉じる(&C)
+次を検索(&F)
 
-퀘스트 레벨
-무기 슬롯수
-성별
-남성
-여성
-부가스킬 필터없음
-결과 정렬/필터
+クエストレベル
+武器スロットの数
+性別
+男性
+女性
+おまけスキルのフィルター無し
+結果並べ替え・フィルター
 
-용 내성
-불 내성
-얼음 내성
-번개 내성
-물 내성
-기본 방어력
-최대 방어력
-Aug 방어력
+龍耐性
+火耐性
+氷耐性
+雷耐性
+水耐性
+初期防御力
+最大防御力
+カスタム防御力
 
 #When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
-난이도
+難易度
 
-레어도
-여분 슬롯수
+レア度
+余るスロットの数
 
 
 #When sorting solutions, "Family" refers to which monsters the gear is made from
-같은 계열 세트 우선
+同じセットを優先
 
 #Extra Skills are skills that a solution may have that the user did not search for
-부가 스킬
+おまけスキル
 
-장식주 선택
-사용안함
-내 장식주
-모든 장식주
+装飾品選択
+使用しない
+所有中の装飾品
+全装飾品
 
-스킬
-스킬
-스킬 필터
+スキル
+スキル
+スキルフィルター
 
 #Used in the Advanced Search dialog
-방어구 선택
+防具選択
 
-슬롯수
-슬롯 레벨
-(없음)
+スロット数
+スロットレベル
+(無し)
 
 #When a solution has spare slots. Format: "3 slots spare (1+1+2)"
-%1 개의 여분 슬롯
+%1 個の余りスロット
 
-검색 결과:
+検索結果:
 
 #When there are too many solutions to display all of them, %1 is the limit (default 1000)
-상위에 있는 %1 개의 결과만 나타냄:
+結果の中から最初の %1 個だけを表示します:
 
-장식주 목록
-File is corrupt.
-버전
-Find
+装飾品リスト
+ファイルが破損しています。
+バージョン
+検索
 
 #Used in some error popups
-에러
+エラー
 
 #For showing min (%1) and max (%2) defence, e.g. 10 to 100
-%1 to %2
+%1 から %2
 
-방어력
-결과
-모든 장식주 삭제
-ASS Settings
-최대 결과 갯수(&M)
-장식주 이름으로 보이기(&D)
-소재 목록 보이기(&M)
-미리보는 이미지 기본보기(&D)와 확대보기(&Z)
+防御力
+結果 (CTRL+マウスホイールで文字サイズ調整可能)
+装飾品を全て削除する
+ASS 設定
+最大結果数(&M)
+装飾品名で表示(&D)
+必要な素材を表示(&M)
+プレビューのズーム(&Z)
 
 #Showing min/max defence and elemental resists
-방어력 %1-%2, 불 내성 %3, 물 내성 %4, 얼음 내성%5, 번개 내성 %6, 용 내성 %7
+防御力 %1-%2, 火耐性 %3, 水耐性 %4, 氷耐性 %5, 雷耐性 %6, 龍耐性 %7
 
 #This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
-%1
+%1の珠
 #Item Type refers to weapon/helm/body armor/etc.
-아이템 타입
+装備種類
 
 #This string is for displaying potential extra skills
-(%1 가능)
+(%1 可能)
 
 #Strings for the skill description dialog
-보기
-설명
-발동 스킬
-스킬 계통
-해당 스킬이 있는 방어구:
-해당 시리즈 스킬이 있는 방어구:
+表示する
+説明
+発動スキル
+スキル系統
+このスキルがついている防具:
+このスキルがシリーズスキルとしてついている防具:
 
 #Strings for displaying hunter rank, village quest progress etc.
 %1☆
-모두
+全て
 
 #Confirmation popup
-확실합니까?
+本当に全部削除しますか?
 
 #Skill Level. %1 is the skill name, %2 is the level number
 %1 Lv%2
@@ -186,4 +186,4 @@ ASS Settings
 %1x %2
 
 #For a filter that excludes a skill
-No %1
+%1 除外
