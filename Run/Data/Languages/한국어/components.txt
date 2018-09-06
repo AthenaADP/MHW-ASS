@@ -59,7 +59,7 @@
 마수의 갈기
 마수의 열조
 마수의 꼬리
-Bhernastone
+Bhernastone 베르네스톤 교역아이템
 쌍안경
 조룡옥
 씁쓸충
@@ -144,7 +144,7 @@ Dundormarin 돈도르마린 교역아이템
 두근두근버섯
 귀환옥
 비옥한 진흙
-화룡의 비늘+(레우스말고 또)
+옥염의 용비늘
 화염초
 옥염석
 고대용인의 증서
@@ -173,7 +173,7 @@ Gilded Scale+ 교역아이템
 기르오스의 비늘+
 대용맥석
 Glimmering Scale 교역아이템
-Glowing Feystone 미획인 장식주
+빛나는 구슬
 불사충
 금용인증서
 황금알
@@ -416,10 +416,9 @@ Platinum Scale+ 교역아이템
 자화룡의 익막
 휴대 식량
 생고기
-
 레드 오브
 조사단 티켓
-Rolled-up Dung
+Rolled-up Dung 쇠똥구리가 굴린 몬스터의 대변
 SFV 티켓
 SFV 티켓 II
 SFV 티켓 III
@@ -430,7 +429,7 @@ SFV 티켓 III
 샤무오스의 비늘
 샤무오스의 비늘+
 뾰족한 발톱
-Shining Streamstone
+빛나는 용맥석
 마비함정
 은알
 은용인증서
@@ -451,7 +450,7 @@ Shining Streamstone
 용맥석
 용맥석의 조각
 단단한 뼈
-Sullied Streamstone
+더러운 용맥석
 곤충도감 [여름]
 납량 티켓
 회어 비늘
@@ -515,7 +514,7 @@ Val Habar Quartz 교역 아이템
 식사권
 따뜻한 모피
 찌그러진 광골
-Warped Feystone 미확인 장식주
+풍화된 구슬
 용자의 용맥석
 잘 익은 고기
 예리어 지느러미
@@ -523,7 +522,7 @@ Warped Feystone 미확인 장식주
 흔들흔들 티켓
 익룡의 가죽
 익룡의 가죽+
-Worn Feystone 미확인 장식주
+낡은 구슬
 용골 덩어리
 용옥
 명등룡의 유조

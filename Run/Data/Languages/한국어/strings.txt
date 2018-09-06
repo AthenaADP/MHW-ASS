@@ -118,8 +118,8 @@ Aug 방어력
 #Used in the Advanced Search dialog
 방어구 선택
 
-슬롯수
-슬롯 레벨
+슬롯 갯수
+슬롯 크기
 (없음)
 
 #When a solution has spare slots. Format: "3 slots spare (1+1+2)"
