@@ -160,6 +160,7 @@ Azurstern-Gebieter-Krone α
 Kirin-Horn γ
 Vaal-Hazak-Helm γ
 Kaiserkrone γ
+Kushala-Glanz γ
 Tauchermaske
 Tauchermaske α
 Schmetterling-Vertex α

@@ -2129,7 +2129,16 @@ private:
 		sb2.Append( last_result = sb.ToString() );
 		
 		results_mutex->WaitOne();
+		{
+			//this is ensure that entire text box is the correct font (if you change language)
+			SuspendDrawing( txtSolutions );
 			txtSolutions->Text = sb2.ToString();
+			txtSolutions->SelectionStart = 0;
+			txtSolutions->SelectionLength = txtSolutions->Text->Length;
+			txtSolutions->SelectionFont = gcnew Drawing::Font( L"Microsoft Sans Serif", txtSolutions->Font->Size );
+			txtSolutions->SelectionLength = 0;
+			ResumeDrawing( txtSolutions );
+		}
 		results_mutex->ReleaseMutex();
 	}
 

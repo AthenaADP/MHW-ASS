@@ -268,6 +268,7 @@ Kulve Taroth: scaglia dorata
 Kulve Taroth: corazza dorata
 Kulve Taroth: corno dorato
 Kulve Taroth: coda dorata
+Stampa Kushala Daora
 Large Barrel
 Large Barrel Bomb
 Large Scale

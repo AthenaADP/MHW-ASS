@@ -160,6 +160,7 @@ Azure Starlord Gauntlets α
 Kirin Longarms γ
 Vaal Hazak Braces γ
 Kaiser Vambraces γ
+Kushala Grip γ
 Diver's Braces
 Diver's Braces α
 Butterfly Brachia α

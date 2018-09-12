@@ -160,6 +160,7 @@ Azurstern-Gebieter-Schutz α
 Kirin-Reifen γ
 Vaal-Hazak-Hüftring γ
 Kaiser-Hüftring γ
+Kushala-Kokon γ
 Tauchergürtel
 Tauchergürtel α
 Schmetterling-Elytra α
