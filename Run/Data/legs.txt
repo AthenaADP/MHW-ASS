@@ -99,7 +99,7 @@ Brigade Boots α,,6,6,1,52,72,84,1,0,2,0,2,Scholar,1,Geologist,1,,,Hunter King C
 Brigade Boots β,,6,6,3,52,72,84,1,0,2,0,2,Scholar,1,,,,,Hunter King Coin,3,Gama Coin,3,Rathalos Coin,3,Monster Hardbone,2
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lavasioth Greaves α,,6,6,0,56,76,88,3,-3,1,-2,2,Spread/Power Shots,1,Fire Attack,1,,,Lavasioth Carapace,6,Lavasioth Fang+,2,Lavasioth Fin+,4,Firecell Stone,1
+Lavasioth Greaves α,,6,6,1,56,76,88,3,-3,1,-2,2,Spread/Power Shots,1,Fire Attack,1,,,Lavasioth Carapace,6,Lavasioth Fang+,2,Lavasioth Fin+,4,Firecell Stone,1
 Lavasioth Greaves β,,6,6,2,56,76,88,3,-3,1,-2,2,Spread/Power Shots,1,,,,,Lavasioth Carapace,6,Lavasioth Fang+,2,Lavasioth Fin+,4,Firecell Stone,1
 Legiana Greaves α,,6,7,0,54,74,86,-1,2,-3,3,0,Ice Resistance,2,Critical Draw,1,Legiana Favor,1,Legiana Scale+,4,Legiana Hide+,2,Legiana Wing,2,Tzitzi-Ya-Ku Hide+,2
 Legiana Greaves β,,6,7,3,54,74,86,-1,2,-3,3,0,Ice Resistance,2,,,Legiana Favor,1,Legiana Scale+,4,Legiana Hide+,2,Legiana Wing,2,Tzitzi-Ya-Ku Hide+,2
