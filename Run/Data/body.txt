@@ -1,6 +1,6 @@
 #Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
 Leather Mail,,1,1,0,2,38,68,2,0,0,0,0,,,,,,,Iron Ore,1,,,,,,
-Chainmail Armor,,1,1,0,2,38,68,0,2,0,0,0,,,,,,,Iron Ore,1,,,,,,
+Chainmail Vest,,1,1,0,2,38,68,0,2,0,0,0,,,,,,,Iron Ore,1,,,,,,
 Hunter's Mail,,1,1,0,6,42,72,2,2,0,0,0,Slinger Capacity,1,,,,,Jagras Hide,2,Monster Bone S,2,,,,
 Bone Mail,,1,1,0,6,42,72,2,0,2,0,2,Attack Boost,1,,,,,Monster Bone S,1,Ancient Bone,1,,,,
 Vespoid Mail,,1,1,0,8,44,74,-2,1,1,1,2,Windproof,1,,,,,Vespoid Shell,1,Machalite Ore,1,,,,
