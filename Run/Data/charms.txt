@@ -1,4 +1,4 @@
-#Name,Skill1,Points1,Skill2,Points2,Acquire,Material1,Points1,Materi2,Points2,Material3,Points3,Material4,Points4
+#Name,Skill1,Points1,Skill2,Points2,Acquire,Material1,Points1,Material2,Points2,Material3,Points3,Material4,Points4
 Poison Charm I,Poison Resistance,1,,,4,Pukei-Pukei Sac,1,Pukei-Pukei Tail,2,Earth Crystal,4,Aquacore Ore,1
 Poison Charm II,Poison Resistance,2,,,6,Pukei-Pukei Sac+,2,Pukei-Pukei Wing,2,Dragonvein Crystal,3,Spiritcore Ore,1
 Poison Charm III,Poison Resistance,3,,,6,Rathalos Ruby,1,Rathalos Wing,2,Firecell Stone,1,Dreamcore Ore,1
