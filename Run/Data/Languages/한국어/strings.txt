@@ -37,9 +37,12 @@
 #Allow the special pre-order bonus "Fair Wind Charm"
 순풍의 호석 허용(&F)
 
-
 #This setting will ignore low rank armor if you are in high rank
 하위 장비 허용(&L)
+
+#Toggling all Event (DLC) armor
+Enable All
+Disable All
 
 스킬이름순으로 정렬(&A)
 

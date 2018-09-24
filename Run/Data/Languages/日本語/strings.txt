@@ -37,9 +37,12 @@
 #Allow the special pre-order bonus "Fair Wind Charm"
 追い風の護石を表示(&F)
 
-
 #This setting will ignore low rank armor if you are in high rank
 下位装備を表示(&L)
+
+#Toggling all Event (DLC) armor
+Enable All
+Disable All
 
 スキル名順で並び替える(&A)
 

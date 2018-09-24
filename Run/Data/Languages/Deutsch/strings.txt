@@ -40,6 +40,10 @@ Erlaube Talisman der Fünften
 #This setting will ignore low rank armor if you are in high rank
 Erlaube niedrigrangige Rüstung
 
+#Toggling all Event (DLC) armor
+Enable All
+Disable All
+
 Sortiere Skills alphabetisch
 
 &Spenden

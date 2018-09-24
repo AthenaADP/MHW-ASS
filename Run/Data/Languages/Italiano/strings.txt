@@ -40,6 +40,10 @@ Includi Amuleto Vento Propizio
 #This setting will ignore low rank armor if you are in high rank
 &Includi Armature Low Rank
 
+#Toggling all Event (DLC) armor
+Enable All
+Disable All
+
 &Ordina Abilità Alfabeticamente 
 
 &Donazioni

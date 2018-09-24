@@ -104,6 +104,7 @@ namespace MHWASS
 		typedef Generic::Dictionary< unsigned, unsigned > IndexMap;
 		SkillHelp^ help_window;
 		PreviewImage^ preview_pane;
+		ToolStripMenuItem^ mnuToggleAllDLC;
 
 		Generic::Dictionary< unsigned long long, unsigned > solution_hashes;
 
@@ -469,12 +470,18 @@ namespace MHWASS
 
 		void CreateDLCMenus()
 		{
+			mnuToggleAllDLC = gcnew ToolStripMenuItem( L"Disable All" );
+			mnuToggleAllDLC->Click += gcnew EventHandler( this, &Form1::ToggleAllDLC_Click );
+			mnuAllowEventArmor->DropDownItems->Add( mnuToggleAllDLC );
+
+			mnuAllowEventArmor->DropDownItems->Add( L"-" );
+
 			for each( ArmorDLC^ dlc in Armor::static_dlc )
 			{
 				ToolStripMenuItem^ item = gcnew ToolStripMenuItem( dlc->name );
 				item->Tag = dlc;
 				item->Click += gcnew EventHandler( this, &Form1::DLC_Click );
-				item->Checked = !dlc->name->StartsWith( L"Azure Starlord" );
+				item->Checked = true;
 				item->CheckOnClick = true;
 				mnuAllowEventArmor->DropDownItems->Add( item );
 			}
@@ -643,10 +650,10 @@ namespace MHWASS
 				else if( line->StartsWith( L"ALLOWEVENTARMOR=" ) )
 				{
 					String^ checked = line->Substring( 16 );
-					const int limit = Math::Min( checked->Length, mnuAllowEventArmor->DropDownItems->Count );
+					const int limit = Math::Min( checked->Length, mnuAllowEventArmor->DropDownItems->Count - 2 );
 					for( int i = 0; i < limit; ++i )
 					{
-						ToolStripMenuItem^ item = safe_cast< ToolStripMenuItem^ >( mnuAllowEventArmor->DropDownItems[ i ] );
+						ToolStripMenuItem^ item = safe_cast< ToolStripMenuItem^ >( mnuAllowEventArmor->DropDownItems[ i + 2 ] );
 						if( checked[ i ] == L'1' )
 							item->Checked = true;
 						else if( checked[ i ] == L'0' )
@@ -654,6 +661,11 @@ namespace MHWASS
 						
 						DLC_Click( item, nullptr );
 					}
+
+					if( HaveAllDLCEnabled() )
+						mnuToggleAllDLC->Text = StaticString( DisableAll );
+					else
+						mnuToggleAllDLC->Text = StaticString( EnableAll );
 				}
 				else if( line->StartsWith( L"SHOWDECONAMES=" ) )
 				{
@@ -805,9 +817,11 @@ namespace MHWASS
 		String^ GetEventString()
 		{
 			String^ res = L"";
-			for each( ToolStripMenuItem^ item in mnuAllowEventArmor->DropDownItems )
+			for( int i = 2; i < mnuAllowEventArmor->DropDownItems->Count; ++i )
 			{
-				res += item->Checked ? L"1" : L"0";
+				ToolStripMenuItem^ item = safe_cast<ToolStripMenuItem^ >( mnuAllowEventArmor->DropDownItems[ i ] );
+				if( item->Tag )
+					res += item->Checked ? L"1" : L"0";
 			}
 			return res;
 		}
@@ -2513,16 +2527,67 @@ private:
 		cb->EndUpdate();
 	}
 
+	bool HaveAllDLCEnabled()
+	{
+		for( int i = 2; i < mnuAllowEventArmor->DropDownItems->Count; ++i )
+		{
+			ToolStripMenuItem^ item = safe_cast<ToolStripMenuItem^>( mnuAllowEventArmor->DropDownItems[ i ] );
+			if( !item->Checked )
+				return false;
+		}
+		return true;
+	}
+
+	void SetAllDLC( const bool enabled )
+	{
+		for( int i = 2; i < mnuAllowEventArmor->DropDownItems->Count; ++i )
+		{
+			ToolStripMenuItem^ item = safe_cast<ToolStripMenuItem^>( mnuAllowEventArmor->DropDownItems[ i ] );
+			item->Checked = enabled;
+			DLC_Click( item, nullptr );
+		}
+	}
+
+	System::Void ToggleAllDLC_Click( System::Object^ sender, System::EventArgs^ e )
+	{
+		can_save = false;
+
+		if( HaveAllDLCEnabled() )
+		{
+			mnuToggleAllDLC->Text = StaticString( EnableAll );
+			SetAllDLC( false );
+		}
+		else
+		{
+			mnuToggleAllDLC->Text = StaticString( DisableAll );
+			SetAllDLC( true );
+		}
+
+		can_save = true;
+		SaveConfig();
+	}
+
 	System::Void DLC_Click( System::Object^ sender, System::EventArgs^ e )
 	{
 		ToolStripMenuItem^ item = safe_cast< ToolStripMenuItem^ >( sender );
+		if( !item->Tag )
+			return;
+
 		ArmorDLC^ dlc = safe_cast< ArmorDLC^ >( item->Tag );
 		for each( Armor^ armor in dlc->armors )
 		{
 			armor->dlc_disabled = !item->Checked;
 		}
 
-		SaveConfig();
+		if( can_save )
+		{
+			if( HaveAllDLCEnabled() )
+				mnuToggleAllDLC->Text = StaticString( DisableAll );
+			else
+				mnuToggleAllDLC->Text = StaticString( EnableAll );
+
+			SaveConfig();
+		}
 	}
 
 	System::Void LanguageSelect_Click( System::Object^ sender, System::EventArgs^ e )
@@ -2559,7 +2624,7 @@ private:
 
 		for( int i = 0; i < Armor::static_dlc.Count; ++i )
 		{
-			mnuAllowEventArmor->DropDownItems[ i ]->Text = Armor::static_dlc[ i ]->name;
+			mnuAllowEventArmor->DropDownItems[ i + 2 ]->Text = Armor::static_dlc[ i ]->name;
 		}
 
 #define UpdateMenu( X ) mnu##X->Text = StaticString( X )

@@ -178,6 +178,8 @@ ref struct StringTable
 		AllowEventArmor,
 		AllowFairWind,
 		AllowLowerTierArmor,
+		EnableAll,
+		DisableAll,
 		SortSkillsAlphabetically,
 		Donate,
 		SkillHelp,
