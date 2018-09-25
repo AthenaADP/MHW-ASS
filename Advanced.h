@@ -662,6 +662,21 @@ namespace MHWASS {
 
 	private:
 
+		System::Void CheckAlpha( List_t< Charm^ >% inf, List_t< Charm^ >% rel ) {}
+
+		System::Void CheckAlpha( List_t< Armor^ >% inf, List_t< Armor^ >% rel )
+		{
+			for( int i = 0; i < rel.Count; ++i )
+			{
+				Armor^ alpha = rel[ i ]->alpha_version;
+				if( alpha && !alpha->no_relevant_skills && !Utility::Contains( %rel, alpha ) )
+				{
+					rel.Insert( i, alpha );
+					++i;
+				}
+			}
+		}
+
 		template< class T >
 		System::Void RecalculateDefaults( ListView^ lv )
 		{
@@ -671,6 +686,9 @@ namespace MHWASS {
 				T^ item = safe_cast< T^ >( lv->Items[ i ]->Tag );
 				AddToList( %rel, item, %query->rel_abilities, %inf, true );
 			}
+			if( query->always_search_alpha )
+				CheckAlpha( inf, rel );
+
 			//check for anything to enable
 			for each( T^ item in rel )
 			{

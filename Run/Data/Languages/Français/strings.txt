@@ -40,6 +40,9 @@ Autoriser le bracelet de la Cinquième
 #This setting will ignore low rank armor if you are in high rank
 Autoriser les armures de bas rang
 
+#Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
+Always Search Alpha Armor
+
 #Toggling all Event (DLC) armor
 Enable All
 Disable All

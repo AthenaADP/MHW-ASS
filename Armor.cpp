@@ -126,6 +126,14 @@ void Armor::Load( String^ filename, ArmorType armor_type )
 		Armor^ armor = gcnew Armor();
 		
 		armor->name = split[ Format::Name ];
+
+		if( armor->name->EndsWith( L"¦Â" ) )
+		{
+			Assert( armors->Count > 0, L"First armor shouldn't be beta" );
+			armor->alpha_version = armors[ armors->Count - 1 ];
+			armor->alpha_version->has_beta = true;
+			Assert( armor->alpha_version->name->Length == armor->name->Length && armor->alpha_version->name->Substring( 0, armor->alpha_version->name->Length - 1 ) == armor->name->Substring( 0, armor->name->Length - 1 ), L"Armor names don't match" );
+		}
 		
 		armor->gender = split[ Format::Gender ] == L"M" ? Gender::MALE : split[ Format::Gender ] == L"F" ? Gender::FEMALE : Gender::BOTH_GENDERS;
 		armor->full_set = split[ Format::Gender ] == L"Full";
@@ -134,6 +142,7 @@ void Armor::Load( String^ filename, ArmorType armor_type )
 		armor->dlc_disabled = false;
 		armor->has_free_element = false;
 		armor->has_nonelemental_boost = false;
+		armor->has_beta = false;
 
 		armor->slots = gcnew array< unsigned >( 4 );
 		String^ slots = split[ Format::Slots ];

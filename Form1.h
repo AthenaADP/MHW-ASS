@@ -173,6 +173,7 @@ namespace MHWASS
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuPrintMaterials;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuZoom;
 	private: System::Windows::Forms::ToolStripMenuItem^  mnuAllowFairWind;
+	private: System::Windows::Forms::ToolStripMenuItem^  mnuAlwaysSearchAlpha;
 	private: System::Windows::Forms::Label^  lblAddSkills;
 	private: System::Windows::Forms::Label^  lblRemoveSkills;
 
@@ -955,6 +956,7 @@ namespace MHWASS
 			this->nudHR = ( gcnew MHWASS::NumericUpDownHR() );
 			this->lblHR = ( gcnew System::Windows::Forms::Label() );
 			this->grpSkills = ( gcnew System::Windows::Forms::GroupBox() );
+			this->lblRemoveSkills = ( gcnew System::Windows::Forms::Label() );
 			this->lblAddSkills = ( gcnew System::Windows::Forms::Label() );
 			this->btnSearch = ( gcnew System::Windows::Forms::Button() );
 			this->progressBar1 = ( gcnew System::Windows::Forms::ProgressBar() );
@@ -978,6 +980,7 @@ namespace MHWASS
 			this->mnuAllowArena = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
 			this->mnuAllowLowerTierArmor = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
 			this->mnuAllowFairWind = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
+			this->mnuAlwaysSearchAlpha = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
 			this->toolStripSeparator2 = ( gcnew System::Windows::Forms::ToolStripSeparator() );
 			this->mnuMaxResults = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
 			this->mnuNumResults = ( gcnew System::Windows::Forms::ToolStripTextBox() );
@@ -1002,7 +1005,6 @@ namespace MHWASS
 			this->cmsCharms = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
 			this->cmsSkills = ( gcnew System::Windows::Forms::ContextMenuStrip( this->components ) );
 			this->mnuClearSkill = ( gcnew System::Windows::Forms::ToolStripMenuItem() );
-			this->lblRemoveSkills = ( gcnew System::Windows::Forms::Label() );
 			this->groupBox1->SuspendLayout();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->BeginInit();
 			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->BeginInit();
@@ -1109,6 +1111,19 @@ namespace MHWASS
 			this->grpSkills->TabIndex = 0;
 			this->grpSkills->TabStop = false;
 			this->grpSkills->Text = L"Skills";
+			// 
+			// lblRemoveSkills
+			// 
+			this->lblRemoveSkills->AutoSize = true;
+			this->lblRemoveSkills->Font = ( gcnew System::Drawing::Font( L"Microsoft Sans Serif", 8.25F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>( 0 ) ) );
+			this->lblRemoveSkills->ForeColor = System::Drawing::SystemColors::HotTrack;
+			this->lblRemoveSkills->Location = System::Drawing::Point( 49, 0 );
+			this->lblRemoveSkills->Name = L"lblRemoveSkills";
+			this->lblRemoveSkills->Size = System::Drawing::Size( 20, 13 );
+			this->lblRemoveSkills->TabIndex = 1;
+			this->lblRemoveSkills->Text = L"－";
+			this->lblRemoveSkills->Click += gcnew System::EventHandler( this, &Form1::lblRemoveSkills_Click );
 			// 
 			// lblAddSkills
 			// 
@@ -1278,11 +1293,12 @@ namespace MHWASS
 			// 
 			// mnuOptions
 			// 
-			this->mnuOptions->DropDownItems->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 12 )
+			this->mnuOptions->DropDownItems->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 13 )
 			{
 				this->mnuClearSettings,
 					this->toolStripSeparator1, this->mnuAllowEventArmor, this->mnuAllowArena, this->mnuAllowLowerTierArmor, this->mnuAllowFairWind,
-					this->toolStripSeparator2, this->mnuMaxResults, this->mnuZoom, this->mnuPrintDecoNames, this->mnuPrintMaterials, this->mnuSortSkillsAlphabetically
+					this->mnuAlwaysSearchAlpha, this->toolStripSeparator2, this->mnuMaxResults, this->mnuZoom, this->mnuPrintDecoNames, this->mnuPrintMaterials,
+					this->mnuSortSkillsAlphabetically
 			} );
 			this->mnuOptions->Name = L"mnuOptions";
 			this->mnuOptions->Size = System::Drawing::Size( 61, 20 );
@@ -1291,19 +1307,19 @@ namespace MHWASS
 			// mnuClearSettings
 			// 
 			this->mnuClearSettings->Name = L"mnuClearSettings";
-			this->mnuClearSettings->Size = System::Drawing::Size( 202, 22 );
+			this->mnuClearSettings->Size = System::Drawing::Size( 220, 22 );
 			this->mnuClearSettings->Text = L"&Clear Settings";
 			this->mnuClearSettings->Click += gcnew System::EventHandler( this, &Form1::mnuClearSettings_Click );
 			// 
 			// toolStripSeparator1
 			// 
 			this->toolStripSeparator1->Name = L"toolStripSeparator1";
-			this->toolStripSeparator1->Size = System::Drawing::Size( 199, 6 );
+			this->toolStripSeparator1->Size = System::Drawing::Size( 217, 6 );
 			// 
 			// mnuAllowEventArmor
 			// 
 			this->mnuAllowEventArmor->Name = L"mnuAllowEventArmor";
-			this->mnuAllowEventArmor->Size = System::Drawing::Size( 202, 22 );
+			this->mnuAllowEventArmor->Size = System::Drawing::Size( 220, 22 );
 			this->mnuAllowEventArmor->Text = L"Allow Event Armor";
 			// 
 			// mnuAllowArena
@@ -1312,7 +1328,7 @@ namespace MHWASS
 			this->mnuAllowArena->CheckOnClick = true;
 			this->mnuAllowArena->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuAllowArena->Name = L"mnuAllowArena";
-			this->mnuAllowArena->Size = System::Drawing::Size( 202, 22 );
+			this->mnuAllowArena->Size = System::Drawing::Size( 220, 22 );
 			this->mnuAllowArena->Text = L"Allow &Arena Armor";
 			this->mnuAllowArena->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
@@ -1322,7 +1338,7 @@ namespace MHWASS
 			this->mnuAllowLowerTierArmor->CheckOnClick = true;
 			this->mnuAllowLowerTierArmor->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuAllowLowerTierArmor->Name = L"mnuAllowLowerTierArmor";
-			this->mnuAllowLowerTierArmor->Size = System::Drawing::Size( 202, 22 );
+			this->mnuAllowLowerTierArmor->Size = System::Drawing::Size( 220, 22 );
 			this->mnuAllowLowerTierArmor->Text = L"Allow &Lower Tier Armor";
 			this->mnuAllowLowerTierArmor->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
@@ -1332,19 +1348,28 @@ namespace MHWASS
 			this->mnuAllowFairWind->CheckOnClick = true;
 			this->mnuAllowFairWind->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuAllowFairWind->Name = L"mnuAllowFairWind";
-			this->mnuAllowFairWind->Size = System::Drawing::Size( 202, 22 );
+			this->mnuAllowFairWind->Size = System::Drawing::Size( 220, 22 );
 			this->mnuAllowFairWind->Text = L"Allow Fair &Wind Charm";
+			this->mnuAllowFairWind->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
+			// 
+			// mnuAlwaysSearchAlpha
+			// 
+			this->mnuAlwaysSearchAlpha->CheckOnClick = true;
+			this->mnuAlwaysSearchAlpha->Name = L"mnuAlwaysSearchAlpha";
+			this->mnuAlwaysSearchAlpha->Size = System::Drawing::Size( 220, 22 );
+			this->mnuAlwaysSearchAlpha->Text = L"Always Search Alpha Armor";
+			this->mnuAlwaysSearchAlpha->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
 			// toolStripSeparator2
 			// 
 			this->toolStripSeparator2->Name = L"toolStripSeparator2";
-			this->toolStripSeparator2->Size = System::Drawing::Size( 199, 6 );
+			this->toolStripSeparator2->Size = System::Drawing::Size( 217, 6 );
 			// 
 			// mnuMaxResults
 			// 
 			this->mnuMaxResults->DropDownItems->AddRange( gcnew cli::array< System::Windows::Forms::ToolStripItem^  >( 1 ) { this->mnuNumResults } );
 			this->mnuMaxResults->Name = L"mnuMaxResults";
-			this->mnuMaxResults->Size = System::Drawing::Size( 202, 22 );
+			this->mnuMaxResults->Size = System::Drawing::Size( 220, 22 );
 			this->mnuMaxResults->Text = L"&Max Results";
 			// 
 			// mnuNumResults
@@ -1357,7 +1382,7 @@ namespace MHWASS
 			// 
 			this->mnuZoom->Enabled = false;
 			this->mnuZoom->Name = L"mnuZoom";
-			this->mnuZoom->Size = System::Drawing::Size( 202, 22 );
+			this->mnuZoom->Size = System::Drawing::Size( 220, 22 );
 			this->mnuZoom->Text = L"Preview Image &Zoom";
 			// 
 			// mnuPrintDecoNames
@@ -1366,7 +1391,7 @@ namespace MHWASS
 			this->mnuPrintDecoNames->CheckOnClick = true;
 			this->mnuPrintDecoNames->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuPrintDecoNames->Name = L"mnuPrintDecoNames";
-			this->mnuPrintDecoNames->Size = System::Drawing::Size( 202, 22 );
+			this->mnuPrintDecoNames->Size = System::Drawing::Size( 220, 22 );
 			this->mnuPrintDecoNames->Text = L"Print &Decoration Names";
 			this->mnuPrintDecoNames->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
@@ -1374,7 +1399,7 @@ namespace MHWASS
 			// 
 			this->mnuPrintMaterials->CheckOnClick = true;
 			this->mnuPrintMaterials->Name = L"mnuPrintMaterials";
-			this->mnuPrintMaterials->Size = System::Drawing::Size( 202, 22 );
+			this->mnuPrintMaterials->Size = System::Drawing::Size( 220, 22 );
 			this->mnuPrintMaterials->Text = L"Print &Materials";
 			this->mnuPrintMaterials->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
@@ -1384,7 +1409,7 @@ namespace MHWASS
 			this->mnuSortSkillsAlphabetically->CheckOnClick = true;
 			this->mnuSortSkillsAlphabetically->CheckState = System::Windows::Forms::CheckState::Checked;
 			this->mnuSortSkillsAlphabetically->Name = L"mnuSortSkillsAlphabetically";
-			this->mnuSortSkillsAlphabetically->Size = System::Drawing::Size( 202, 22 );
+			this->mnuSortSkillsAlphabetically->Size = System::Drawing::Size( 220, 22 );
 			this->mnuSortSkillsAlphabetically->Text = L"Sort Skills &Alphabetically";
 			this->mnuSortSkillsAlphabetically->Click += gcnew System::EventHandler( this, &Form1::OptionsChanged );
 			// 
@@ -1560,19 +1585,6 @@ namespace MHWASS
 			this->mnuClearSkill->Size = System::Drawing::Size( 101, 22 );
 			this->mnuClearSkill->Text = L"&Clear";
 			// 
-			// lblRemoveSkills
-			// 
-			this->lblRemoveSkills->AutoSize = true;
-			this->lblRemoveSkills->Font = ( gcnew System::Drawing::Font( L"Microsoft Sans Serif", 8.25F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
-				static_cast<System::Byte>( 0 ) ) );
-			this->lblRemoveSkills->ForeColor = System::Drawing::SystemColors::HotTrack;
-			this->lblRemoveSkills->Location = System::Drawing::Point( 49, 0 );
-			this->lblRemoveSkills->Name = L"lblRemoveSkills";
-			this->lblRemoveSkills->Size = System::Drawing::Size( 20, 13 );
-			this->lblRemoveSkills->TabIndex = 1;
-			this->lblRemoveSkills->Text = L"－";
-			this->lblRemoveSkills->Click += gcnew System::EventHandler( this, &Form1::lblRemoveSkills_Click );
-			// 
 			// Form1
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF( 6, 13 );
@@ -1634,6 +1646,7 @@ private:
 		query->include_arena = mnuAllowArena->Checked;
 		query->allow_lower_tier = mnuAllowLowerTierArmor->Checked;
 		query->allow_fair_wind = mnuAllowFairWind->Checked;
+		query->always_search_alpha = mnuAlwaysSearchAlpha->Checked;
 		query->no_decos = cmbDecorationSelect->SelectedIndex == 0;
 		query->my_decos = cmbDecorationSelect->SelectedIndex == 1;
 		
@@ -2638,6 +2651,7 @@ private:
 		UpdateMenu( ClearSettings );
 		UpdateMenu( AllowEventArmor );
 		UpdateMenu( AllowLowerTierArmor );
+		UpdateMenu( AlwaysSearchAlpha );
 		UpdateMenu( AllowFairWind );
 		UpdateMenu( Donate );
 		UpdateMenu( AllowArena );

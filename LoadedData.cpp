@@ -153,6 +153,19 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 		}
 	}
 
+	if( query->always_search_alpha )
+	{
+		for( int i = 0; i < rel_armor->Count; ++i )
+		{
+			Armor^ alpha = rel_armor[ i ]->alpha_version;
+			if( alpha && !alpha->no_relevant_skills && !Utility::Contains( rel_armor, alpha ) )
+			{
+				rel_armor->Insert( i, alpha );
+				++i;
+			}
+		}
+	}
+
 	unsigned max_num_slots = 0, max_slot_level = 0, max_total_slot_levels = 0, max_slot_product = 0;
 	for each( Armor^ armor in rel_armor )
 	{

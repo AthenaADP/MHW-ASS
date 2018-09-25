@@ -17,7 +17,7 @@ ref struct Query : public System::Object
 	List_t< Skill^ > skills;
 	Gender gender;
 	unsigned hr;
-	bool include_arena, allow_lower_tier, allow_fair_wind, no_decos, my_decos;
+	bool include_arena, allow_lower_tier, allow_fair_wind, no_decos, my_decos, always_search_alpha;
 
 	array< unsigned >^ weapon_slots;
 	List_t< List_t< Armor^ >^ > rel_armor, inf_armor;

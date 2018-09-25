@@ -40,6 +40,9 @@
 #This setting will ignore low rank armor if you are in high rank
 하위 장비 허용(&L)
 
+#Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
+Always Search Alpha Armor
+
 #Toggling all Event (DLC) armor
 Enable All
 Disable All
