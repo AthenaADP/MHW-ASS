@@ -153,6 +153,8 @@ Butterfly Thorax
 Queen Beetle Thorax
 Blossom Vest
 Blossom Vest α
+Harvest Tronco
+Harvest Tronco α
 Kulve Taroth's Ire α
 Kulve Taroth's Ire β
 Dante's Coat α

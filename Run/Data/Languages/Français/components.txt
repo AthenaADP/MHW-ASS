@@ -27,6 +27,7 @@ Potion de pierre
 Griffe de défense
 Appât Arowana
 Viande astera
+Autumn Harvest Ticket
 Cuirasse Rathalos azur
 Écaille Rathalos azur +
 Queue Rathalos azur
@@ -143,6 +144,7 @@ Fiole vide
 Boisson énergétique
 Champexciteur
 Téléportogène
+Faux Ticket
 Boue fertile
 Écaille Teostra +
 Herbe de feu

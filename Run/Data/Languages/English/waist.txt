@@ -153,6 +153,8 @@ Butterfly Elytra
 Queen Beetle Elytra
 Blossom Coat
 Blossom Coat α
+Harvest Hoja
+Harvest Hoja α
 Kulve Taroth's Malice α
 Kulve Taroth's Malice β
 Dante's Belt α

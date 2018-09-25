@@ -153,6 +153,8 @@ Butterfly Vertex
 Queen Beetle Vertex
 Blossom Headgear
 Blossom Headgear α
+Harvest Flor
+Harvest Flor α
 Kulve Taroth's Fury α
 Kulve Taroth's Fury β
 Dante's Hair α

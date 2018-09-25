@@ -154,6 +154,8 @@ Butterfly Vertex,M,3,3,0,22,50,74,-1,-1,2,0,2,Stun Resistance,1,,,,,Spring Insec
 Queen Beetle Vertex,F,3,3,0,22,50,74,-1,-1,2,0,2,Stun Resistance,1,,,,,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Shell,1,Monster Fluid,1
 Blossom Headgear,,3,2,0,18,46,70,1,1,4,1,1,Honey Hunter,1,,,,,Spring Blossom Ticket,1,Earth Crystal,1,,,,
 Blossom Headgear α,,5,6,11,40,62,78,1,1,4,1,1,Honey Hunter,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
+Harvest Flor,,3,4,0,26,54,78,4,1,1,1,1,Focus,1,,,,,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
+Harvest Flor α,,6,6,12,52,72,84,4,1,1,1,1,Focus,1,,,,,Autumn Harvest Ticket,1,Monster Hardbone,2,Monster Keenbone,1,,
 Kulve Taroth's Fury α,,8,9,1,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Agitator,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Spiralhorn,6,Nergigante Gem,1
 Kulve Taroth's Fury β,,8,9,21,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Agitator,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Spiralhorn,6,Nergigante Gem,1
 Dante's Hair α,,8,8,1,64,70,84,3,-3,3,-3,3,Weakness Exploit,1,Critical Eye,1,,,Red Orb,1,Rathalos Scale+,5,Odogaron Scale+,5,Anjanath Scale+,5

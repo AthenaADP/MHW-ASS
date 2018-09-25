@@ -154,6 +154,8 @@ Butterfly Thorax,M,3,3,0,22,50,74,-1,-1,2,0,2,Health Boost,1,,,,,Spring Insect F
 Queen Beetle Thorax,F,3,3,0,22,50,74,-1,-1,2,0,2,Health Boost,1,,,,,Spring Insect Field Guide,1,Great Hornfly,1,Vespoid Wing,1,Monster Fluid,1
 Blossom Vest,,3,2,0,18,46,70,1,1,4,1,1,Quick Sheath,1,,,,,Spring Blossom Ticket,1,Earth Crystal,3,,,,
 Blossom Vest α,,5,6,11,40,62,78,1,1,4,1,1,Quick Sheath,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,3,,,,
+Harvest Tronco,,3,4,0,26,54,78,4,1,1,1,1,Tremor Resistance,1,,,,,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
+Harvest Tronco α,,6,6,12,52,72,84,4,1,1,1,1,Tremor Resistance,1,,,,,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
 Kulve Taroth's Ire α,,8,9,1,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Tailshell,6,Xeno'jiiva Gem,1
 Kulve Taroth's Ire β,,8,9,31,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Tailshell,6,Xeno'jiiva Gem,1
 Dante's Coat α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Critical Eye,1,,,Red Orb,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Plate,1

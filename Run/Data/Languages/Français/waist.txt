@@ -153,6 +153,8 @@ Elytre Papillon
 Élytre Scarabée
 Jupette Printemps
 Jupette Printemps α
+Harvest Hoja
+Harvest Hoja α
 Courroux Kulve Taroth α
 Courroux Kulve Taroth β
 Ceinture Dante α

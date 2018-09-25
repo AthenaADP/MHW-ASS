@@ -20,3 +20,4 @@ Armatura farfalla α+β/scarabeo α+β
 Armatura Drachen α
 Armatura Teostra γ
 Armatura Kushala γ
+Armatura harvest/harvest α

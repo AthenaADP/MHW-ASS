@@ -27,6 +27,7 @@ Panzerhaut
 Panzerkralle
 Arowana-Köder
 Astera-Jerky
+Autumn Harvest Ticket
 Azurner-Rathalos-Rückenpanzer
 Azurner-Rathalos-Schuppe+
 Azurner-Rathalos-Schwanz
@@ -143,6 +144,7 @@ Leere Phiole
 Energy-Drink
 Reizpilz
 Teleporter
+Faux Ticket
 Fruchtbarer Schlamm
 Feuerdrachen-Schuppe+
 Feuerkraut

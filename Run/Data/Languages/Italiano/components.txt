@@ -27,6 +27,7 @@ Siero armatura
 Artiglio della difesa
 Esca arowana
 Carne di Astera
+Autumn Harvest Ticket
 Rathalos azzurro: carapace
 Rathalos azzurro: scaglia+
 Rathalos azzurro: coda
@@ -143,6 +144,7 @@ Empty Phial
 Energy Drink
 Exciteshroom
 Farcaster
+Faux Ticket
 Fango fertile
 Teostra: scaglia+
 Fire Herb

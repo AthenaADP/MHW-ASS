@@ -153,6 +153,8 @@ Torace di farfalla
 Torace dello scarabeo
 Pettorina floreale
 Pettorina floreale α
+Harvest Tronco
+Harvest Tronco α
 Rabbia di Kulve Taroth α
 Rabbia di Kulve Taroth β
 Cappotto di Dante α

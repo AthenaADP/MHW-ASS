@@ -20,3 +20,4 @@ Schmetterling α,β /Königinnenkäfer α,β Rüstung
 Drachenreiter α Rüstung
 Kaiser γ Rüstung
 Kushala γ Rüstung
+Harvest/Harvest α Rüstung

@@ -153,6 +153,8 @@ Vertex Papillon
 Vertex Scarabée
 Coiffe Printemps
 Coiffe Printemps α
+Harvest Flor
+Harvest Flor α
 Furie Kulve Taroth α
 Furie Kulve Taroth β
 Coiffure de Dante α

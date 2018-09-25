@@ -27,6 +27,7 @@ Armorskin
 Armortalon
 Arowana Bait
 Astera Jerky
+Autumn Harvest Ticket
 Azure Rathalos Carapace
 Azure Rathalos Scale+
 Azure Rathalos Tail
@@ -143,6 +144,7 @@ Empty Phial
 Energy Drink
 Exciteshroom
 Farcaster
+Faux Ticket
 Fertile Mud
 Fire Dragon Scale+
 Fire Herb

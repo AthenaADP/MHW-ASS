@@ -153,6 +153,8 @@ Thorax Papillon
 Thorax Scarabée
 Veste Printemps
 Veste Printemps α
+Harvest Tronco
+Harvest Tronco α
 Colère kulve Taroth α
 Colère kulve Taroth β
 Manteau de Dante α
