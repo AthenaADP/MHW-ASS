@@ -159,7 +159,6 @@ public:
 
 ref struct StringTable
 {
-	static bool english;
 	static array< System::String^ >^ text;
 	static void LoadLanguage( System::String^ lang );
 	enum class StringIndex
@@ -270,6 +269,7 @@ ref struct StringTable
 		SlotString,
 		NumDecorations,
 		ExcludeSkill,
+		Completed,
 		NumStrings
 	};
 };

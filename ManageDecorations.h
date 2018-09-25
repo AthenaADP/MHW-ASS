@@ -66,6 +66,10 @@ namespace MHWASS {
 			{
 				cb->Items->Add( tag->name );
 			}
+
+			if( cb->Items->Count > 2 ) //replace "Related" with "Complete"
+				cb->Items[ 2 ] = StaticString( Completed );
+
 			cb->SelectedIndex = 0;
 			cb->EndUpdate();
 		}
@@ -269,6 +273,9 @@ namespace MHWASS {
 			deco->num_owned--;
 			Decoration::SaveCustom();
 
+			if( cmbSkillFilters->SelectedIndex == 2 )
+				cmbSkillFilters->SelectedIndex = 0;
+
 			if( deco->num_owned > 0 )
 			{
 				updating_decorations = true;
@@ -298,6 +305,8 @@ namespace MHWASS {
 					updating_decorations = true;
 					RefreshList( i );
 					updating_decorations = false;
+					if( ab->decoration->num_owned >= ab->max_level )
+						cmbSkillFilters->SelectedIndex = 2;
 					return;
 				}
 			}
@@ -311,6 +320,8 @@ namespace MHWASS {
 					updating_decorations = true;
 					lstDecorations->SelectedIndex = i;
 					updating_decorations = false;
+					if( ab->decoration->num_owned >= ab->max_level )
+						cmbSkillFilters->SelectedIndex = 2;
 					return;
 				}
 			}
@@ -328,19 +339,28 @@ namespace MHWASS {
 			skill->BeginUpdate();
 			skill->Items->Clear();
 			skill->Items->Add( StaticString( NoneBrackets ) );
-			if( filter->SelectedIndex == 0 )
+			
+			if( filter->SelectedIndex == 0 ) //All
 			{
 				for each( Ability^ ab in the_list )
 				{
-					if( ab != banned && ab->decoration )
+					if( ab != banned && ab->decoration && ab->decoration->num_owned < ab->max_level )
 						skill->Items->Add( ab->name );
 				}
 			}
-			else if( filter->SelectedIndex == 1 )
+			else if( filter->SelectedIndex == 1 ) //Misc
 			{
 				for each( Ability^ ab in the_list )
 				{
-					if( ab->tags.Count == 0 && ab != banned && ab->decoration )
+					if( ab->tags.Count == 0 && ab != banned && ab->decoration && ab->decoration->num_owned < ab->max_level )
+						skill->Items->Add( ab->name );
+				}
+			}
+			else if( filter->SelectedIndex == 2 ) //Complete
+			{
+				for each( Ability^ ab in the_list )
+				{
+					if( ab != banned && ab->decoration && ab->decoration->num_owned >= ab->max_level )
 						skill->Items->Add( ab->name );
 				}
 			}
@@ -349,7 +369,7 @@ namespace MHWASS {
 				String^ tag = (String^)filter->SelectedItem;
 				for each( Ability^ ab in the_list )
 				{
-					if( ab == banned || !ab->decoration )
+					if( ab == banned || !ab->decoration || ab->decoration->num_owned >= ab->max_level )
 						continue;
 					for each( SkillTag^ st in ab->tags )
 					{
@@ -378,6 +398,8 @@ namespace MHWASS {
 		System::Void cmbSkillFilters_SelectedIndexChanged(System::Object^  sender, System::EventArgs^  e)
 		{
 			UpdateFilter( cmbSkills, cmbSkillFilters, nullptr );
+
+			btnAdd->Enabled = cmbSkills->SelectedIndex > 0 && cmbSkillFilters->SelectedIndex != 2;
 		}
 
 		System::Void cmbSkills_SelectedIndexChanged(System::Object^  sender, System::EventArgs^  e)
@@ -387,7 +409,7 @@ namespace MHWASS {
 			//else
 			//	UpdateFilter( cmbSkills2, cmbSkillFilters2, Ability::FindAbility( (String^)cmbSkills1->SelectedItem ) );
 
-			btnAdd->Enabled = cmbSkills->SelectedIndex > 0;
+			btnAdd->Enabled = cmbSkills->SelectedIndex > 0 && cmbSkillFilters->SelectedIndex != 2;
 		}
 
 		System::Void SwitchToAbility( ComboBox^ cb, Ability^ ab )
@@ -415,11 +437,17 @@ namespace MHWASS {
 				return;
 
 			cmbSkills->BeginUpdate();
-			cmbSkillFilters->SelectedIndex = 0;
 			cmbSkills->SelectedIndex = 0;
+
 			if( lstDecorations->SelectedIndex < owned_decorations.Count )
 			{
-				SwitchToAbility( cmbSkills, owned_decorations[ lstDecorations->SelectedIndex ]->abilities[0]->ability );
+				Ability^ ability = owned_decorations[ lstDecorations->SelectedIndex ]->abilities[ 0 ]->ability;
+				cmbSkillFilters->SelectedIndex = ability->decoration->num_owned < ability->max_level ? 0 : 2;
+				SwitchToAbility( cmbSkills, ability );
+			}
+			else
+			{
+				cmbSkillFilters->SelectedIndex = 0;
 			}
 			cmbSkills->EndUpdate();
 		}

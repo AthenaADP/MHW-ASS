@@ -290,8 +290,6 @@ void Material::LoadLanguage( String^ filename )
 
 void StringTable::LoadLanguage( String^ lang )
 {
-	english = lang == "English";
-
 	String^ dir = L"Data/Languages/" + lang + L"/";
 	//load strings
 	{

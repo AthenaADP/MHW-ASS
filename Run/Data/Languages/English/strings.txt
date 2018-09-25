@@ -193,3 +193,6 @@ Are you sure?
 
 #For a filter that excludes a skill
 No %1
+
+#Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
+Completed
