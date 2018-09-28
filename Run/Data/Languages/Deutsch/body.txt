@@ -153,8 +153,8 @@ Schmetterling-Thorax
 Königinnenkäfer-Thorax
 Blüten-Weste
 Blüten-Weste α
-Harvest Tronco
-Harvest Tronco α
+Ernte-Tronco
+Ernte-Tronco α
 Kulve Taroths Ärger α
 Kulve Taroths Ärger β
 Dantes Mantel α

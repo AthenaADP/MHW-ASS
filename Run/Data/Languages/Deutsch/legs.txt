@@ -153,8 +153,8 @@ Schmetterling-Crura
 Königinnenkäfer-Crura
 Blüten-Stiefel
 Blüten-Stiefel α
-Harvest Raiz
-Harvest Raiz α
+Ernte-Raiz
+Ernte-Raiz α
 Kulve Taroths Zorn α
 Kulve Taroths Zorn β
 Dantes Lederstiefel α

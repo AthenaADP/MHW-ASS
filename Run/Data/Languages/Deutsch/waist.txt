@@ -153,8 +153,8 @@ Schmetterling-Elytra
 Königinnenkäfer-Elytra
 Blüten-Hüftschutz
 Blüten-Hüftschutz α
-Harvest Hoja
-Harvest Hoja α
+Ernte-Hoja
+Ernte-Hoja α
 Kulve Taroths Groll α
 Kulve Taroths Groll β
 Dantes Gürtel α

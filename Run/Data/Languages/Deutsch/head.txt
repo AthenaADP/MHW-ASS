@@ -153,8 +153,8 @@ Schmetterling-Vertex
 Königinnenkäfer-Vertex
 Blüten-Kopfschutz
 Blüten-Kopfschutz α
-Harvest Flor
-Harvest Flor α
+Ernte-Flor
+Ernte-Flor α
 Kulve Taroths Wut α
 Kulve Taroths Wut β
 Dantes Haar α
