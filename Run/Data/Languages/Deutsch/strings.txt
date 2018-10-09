@@ -41,11 +41,11 @@ Erlaube Talisman der Fünften
 Erlaube niedrigrangige Rüstung
 
 #Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
-Always Search Alpha Armor
+Immer Alpha-Rüstung suchen
 
 #Toggling all Event (DLC) armor
-Enable All
-Disable All
+Aktiviere alle
+Deaktiviere alle
 
 Sortiere Skills alphabetisch
 
@@ -196,4 +196,4 @@ Sind Sie sicher?
 Kein/e %1
 
 #Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
-Completed
+Maximiert
