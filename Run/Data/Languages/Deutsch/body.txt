@@ -163,6 +163,8 @@ Kirin-Jacke γ
 Vaal-Hazak-Panzerung γ
 Kaiser-Panzerung γ
 Kushala-Zista γ
+Kaiserin-Panzerung γ
+Zorah-Lederhaut γ
 Taucheranzug
 Taucheranzug α
 Schmetterling-Thorax α

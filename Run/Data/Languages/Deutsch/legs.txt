@@ -163,6 +163,8 @@ Kirin-Beinschutz γ
 VaalHazak-Beinschienen γ
 Kaiser-Beinschienen γ
 Kushala-Crus γ
+Kaiserin-Beinschienen γ
+Zorah-Sporen γ
 Taucherstiefel
 Taucherstiefel α
 Schmetterling-Crura α

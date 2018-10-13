@@ -163,6 +163,8 @@ Kirin-Horn γ
 Vaal-Hazak-Helm γ
 Kaiserkrone γ
 Kushala-Glanz γ
+Kaiserin-Krone γ
+Zorah-Kopfschutz γ
 Tauchermaske
 Tauchermaske α
 Schmetterling-Vertex α

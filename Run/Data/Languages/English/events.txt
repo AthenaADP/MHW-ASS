@@ -12,7 +12,7 @@ Sealed Eyepatch α
 Shadow Shades α
 Kulu-Ya-Ku Head α
 Wiggler Head
-Lunastra Armor
+Lunastra α+β Armor
 Kirin γ Armor
 Vaal Hazak γ Armor
 Diver's/Diver's α Armor
@@ -21,3 +21,4 @@ Drachen α Armor
 Teostra γ Armor
 Kushala Daora γ Armor
 Harvest/Harvest α Armor
+Lunastra γ Armor

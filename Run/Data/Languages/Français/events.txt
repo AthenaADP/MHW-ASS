@@ -12,7 +12,7 @@ Cache oeil interdit α
 Lunettes teintées α
 Tête Kulu-Ya-Ku α
 Tête de tortilleur α
-Armure Lunastra
+Armure Lunastra α+β
 Armure Kirin γ
 Armure Vaal Hazak γ
 Armure Plongée/Plongée α
@@ -20,4 +20,5 @@ Armure Papillon α+β/Scarabée α+β
 Armure Drachen α
 Armure Teostra γ
 Armure Kushala γ
-Armure Harvest/Harvest α
+Armure de récolte/récolte α
+Armure Lunastra γ

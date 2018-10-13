@@ -299,6 +299,7 @@ Lunastra-Horn
 Lunastra-Mähne
 Lunastra-Schuppe+
 Lunastra-Schwanz
+Lunastra-Ticket
 Lunastra-Flügel
 Glänzende Schuppe
 Machalit-Erz
@@ -541,6 +542,7 @@ Zorah-Magdaros-Hitzeschuppe
 Zorah-Magdaros-Magma
 Zorah-Magdaros-Pleura
 Zorah-Magdaros-Kamm
+Zorah-Magdaros-Ticket
 (Vorbesteller Exclusiv)
 (B-Rang Arena Quests 1-7)
 (B-Rang Arena Quests 8-9)

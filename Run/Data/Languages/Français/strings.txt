@@ -41,11 +41,11 @@ Autoriser le bracelet de la Cinquième
 Autoriser les armures de bas rang
 
 #Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
-Always Search Alpha Armor
+Toujours chercher armure AlphaAlways Search Alpha Armor
 
 #Toggling all Event (DLC) armor
-Enable All
-Disable All
+Activer toutes
+Désactiver toutes
 
 Trier alphabétiquement
 
@@ -196,4 +196,4 @@ Vous êtes sur ?
 Sans %1
 
 #Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
-Completed
+Complet

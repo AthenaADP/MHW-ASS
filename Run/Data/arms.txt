@@ -164,6 +164,8 @@ Kirin Longarms γ,,8,8,22,72,78,92,-3,-2,4,-2,2,Blight Resistance,1,Free Elem/Am
 Vaal Hazak Braces γ,,8,8,32,72,78,92,-4,4,1,-1,-3,Dragon Attack,3,,,Vaal Hazak Vitality,1,Vaal Hazak Ticket,1,Vaal Hazak Fang+,3,Deceased Scale,6,Vaal Hazak Gem,1
 Kaiser Vambraces γ,,8,8,3,72,78,92,3,-3,1,-3,1,Critical Eye,3,,,Teostra Technique,1,Teostra Ticket,1,Fire Dragon Scale+,4,Teostra Carapace,4,Teostra Mane,3
 Kushala Grip γ,,8,8,111,72,78,92,0,2,-3,4,-2,Focus,2,,,Kushala Daora Flight,1,Kushala Daora Ticket,1,Daora Dragon Scale+,4,Daora Carapace,4,Daora Claw+,2
+Empress Vambraces γ,,8,8,31,70,76,90,3,1,1,-3,-2,Agitator,2,Evade Extender,1,Lunastra Favor,1,Lunastra Ticket,1,Lunastra Scale+,4,Lunastra Carapace,4,Lunastra Tail,2
+Zorah Claws γ,,8,99,31,72,78,92,4,-3,-1,-2,-3,Earplugs,2,,,Zorah Magdaros Mastery,1,Zorah Magdaros Ticket,1,Zorah Magdaros Ridge,1,Zorah Magdaros Carapace,2,Zorah Magdaros Gem,1
 Diver's Braces,,3,3,0,22,50,74,1,4,1,1,1,Quick Sheath,1,,,,,Summer Twilight Ticket,1,Coral Crystal,1,,,,
 Diver's Braces α,,5,6,2,46,68,84,1,4,4,1,1,Quick Sheath,1,,,,,Summer Twilight Ticket,1,Carbalite Ore,2,Quality Bone,1,,
 Butterfly Brachia α,M,5,6,0,42,64,80,-1,-1,2,0,2,Critical Eye,2,Health Boost,1,,,Summer Insect Guide,1,Hornetaur Carapace,1,Carbalite Ore,2,Quality Bone,1

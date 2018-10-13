@@ -299,6 +299,7 @@ Lunastra Horn
 Lunastra Mane
 Lunastra Scale+
 Lunastra Tail
+Lunastra Ticket
 Lunastra Wing
 Lustrous Scale
 Machalite Ore
@@ -541,6 +542,7 @@ Zorah Magdaros Heat Scale
 Zorah Magdaros Magma
 Zorah Magdaros Pleura
 Zorah Magdaros Ridge
+Zorah Magdaros Ticket
 (Pre-Order Exclusive)
 (B-Rank Arena Quests 1-7)
 (B-Rank Arena Quests 8-9)

@@ -41,11 +41,11 @@
 下位装備を表示(&L)
 
 #Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
-Always Search Alpha Armor
+α防具のみ検索
 
 #Toggling all Event (DLC) armor
-Enable All
-Disable All
+全て選択
+全て外す
 
 スキル名順で並び替える(&A)
 
@@ -195,4 +195,4 @@ ASS 設定
 %1 除外
 
 #Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
-Completed
+MAX

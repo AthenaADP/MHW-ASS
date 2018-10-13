@@ -12,7 +12,7 @@ Dichte Augenklappe α
 Schatten Sonnenbrille α
 Kulu-Ya-Ku Kopf α
 Wackelwurm Kopf
-Lunastra Rüstung
+Lunastra α,β Rüstung
 Kirin γ Rüstung
 Vaal-Hazak γ Rüstung
 Taucher/Taucher α Rüstung
@@ -21,3 +21,4 @@ Drachenreiter α Rüstung
 Kaiser γ Rüstung
 Kushala γ Rüstung
 Ernte/Ernte α Rüstung
+Lunastra γ Rüstung

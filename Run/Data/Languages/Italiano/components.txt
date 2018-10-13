@@ -299,6 +299,7 @@ Lunastra: corno
 Lunastra: criniera
 Lunastra: scaglia+
 Lunastra: coda
+Stampa Lunastra
 Lunastra: ala
 Lustrous Scale
 Minerale machalite
@@ -541,6 +542,7 @@ Zorah Magdaros: scaglia rovente
 Zorah Magdaros: magma
 Zorah Magdaros: pleura
 Zorah Magdaros: cresta
+Stampa Zorah Magdaros
 (Esclusiva Pre-ordine)
 (Quest Arena Grado B 1-7)
 (Quest Arena Grado B 8-9)

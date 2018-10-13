@@ -163,6 +163,8 @@ Kirin-Armstulpen γ
 Vaal-Hazak-Armschienen γ
 Kaiser-Armschienen γ
 Kushala-Klauen γ
+Kaiserin-Armschienen γ
+Zorah-Klauen γ
 Taucherhandschuhe
 Taucherhandschuhe α
 Schmetterling-Brachia α

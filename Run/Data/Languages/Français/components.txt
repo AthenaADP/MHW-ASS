@@ -27,7 +27,7 @@ Potion de pierre
 Griffe de défense
 Appât Arowana
 Viande astera
-Autumn Harvest Ticket
+Ticket automne
 Cuirasse Rathalos azur
 Écaille Rathalos azur +
 Queue Rathalos azur
@@ -299,6 +299,7 @@ Corne Lunastra
 Crinière Lunastra
 Écaille Lunastra +
 Queue Lunastra
+Ticket Lunastra
 Aile Lunastra
 Écaille brillante
 Machalite
@@ -541,6 +542,7 @@ Gemme Zorah Magdaros
 Magma Zorah Magdaros
 Plexus Zorah Magdaros
 Vertèbre Zorah Magdaros
+Ticket Zorah Magdaros
 (Exclu pré-commande)
 (Rang B Quêtes arène 1-7)
 (Rang B Quêtes arène 8-9)
