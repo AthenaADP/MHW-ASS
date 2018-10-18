@@ -153,8 +153,8 @@ Vertex di farfalla
 Vertex dello scarabeo
 Elmo floreale
 Elmo floreale α
-Harvest Flor
-Harvest Flor α
+Fior del raccolto
+Fior del raccolto α
 Furia di Kulve Taroth α
 Furia di Kulve Taroth β
 Capelli di Dante α

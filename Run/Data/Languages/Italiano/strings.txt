@@ -41,11 +41,11 @@ Includi Amuleto Vento Propizio
 &Includi Armature Low Rank
 
 #Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
-Always Search Alpha Armor
+Ricerca solo armatura Alpha
 
 #Toggling all Event (DLC) armor
-Enable All
-Disable All
+Abilita Tutto
+Disabilita Tutto
 
 &Ordina Abilità Alfabeticamente 
 
@@ -196,4 +196,4 @@ Fanculo Tutto?
 Escludi %1
 
 #Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
-Completed
+Completato

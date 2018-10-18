@@ -27,7 +27,7 @@ Siero armatura
 Artiglio della difesa
 Esca arowana
 Carne di Astera
-Autumn Harvest Ticket
+Buono Raccolto d’Autunno
 Rathalos azzurro: carapace
 Rathalos azzurro: scaglia+
 Rathalos azzurro: coda
@@ -299,7 +299,7 @@ Lunastra: corno
 Lunastra: criniera
 Lunastra: scaglia+
 Lunastra: coda
-Stampa Lunastra
+Buono Lunastra
 Lunastra: ala
 Lustrous Scale
 Minerale machalite
@@ -542,7 +542,7 @@ Zorah Magdaros: scaglia rovente
 Zorah Magdaros: magma
 Zorah Magdaros: pleura
 Zorah Magdaros: cresta
-Stampa Zorah Magdaros
+Buono Zorah Magdaros
 (Esclusiva Pre-ordine)
 (Quest Arena Grado B 1-7)
 (Quest Arena Grado B 8-9)
