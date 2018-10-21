@@ -534,6 +534,7 @@ Xeno'jiiva Horn
 Xeno'jiiva Shell
 Xeno'jiiva Soulscale
 Xeno'jiiva Tail
+Xeno'jiiva Ticket
 Xeno'jiiva Veil
 Xeno'jiiva Wing
 Zorah Magdaros Carapace

@@ -165,6 +165,7 @@ Kaiser-Panzerung γ
 Kushala-Zista γ
 Kaiserin-Panzerung γ
 Zorah-Lederhaut γ
+Xeno'jiiva-Lederhaut γ
 Taucheranzug
 Taucheranzug α
 Schmetterling-Thorax α

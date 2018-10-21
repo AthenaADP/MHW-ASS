@@ -534,6 +534,7 @@ Corne Xeno’jiiva
 Carapace Xeno’jiiva
 Écaille d’âme Xeno’jiiva
 Queue Xeno’jiiva
+Ticket Xeno'jiiva
 Voile Xeno’jiiva
 Aile Xeno’jiiva
 Cuirasse Zorah Magdaros

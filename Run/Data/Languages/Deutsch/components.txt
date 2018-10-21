@@ -534,6 +534,7 @@ Xeno'jiiva-Horn
 Xeno'jiiva-Panzer
 Xeno'jiiva-Seelenschuppe
 Xeno'jiiva-Schwanz
+Xeno'jiiva-Ticket
 Xeno'jiiva-Schleier
 Xeno'jiiva-Flügel
 Zorah-Magdaros-Rückenpanzer

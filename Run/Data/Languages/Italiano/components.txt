@@ -534,6 +534,7 @@ Xeno'jiiva: corno
 Xeno'jiiva: corazza
 Xeno'jiiva: scaglia anima
 Xeno'jiiva: coda
+Buono Xeno'jiiva
 Xeno'jiiva: velo
 Xeno'jiiva: ala
 Zorah Magdaros: carapace
