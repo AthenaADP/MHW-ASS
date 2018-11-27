@@ -176,6 +176,6 @@ Queen Beetle Vertex β,F,5,6,2,42,64,80,-1,-1,2,0,2,Stun Resistance,2,,,,,Summer
 Sealed Eyepatch α,,5,6,21,46,68,84,3,2,0,2,0,Fire Resistance,1,,,,,Black Bandage,2,Shamos Scale+,7,Shamos Hide+,5,Piercing Claw,4
 Shadow Shades α,,5,6,111,46,68,84,4,0,4,2,0,Stun Resistance,1,,,,,Black Crystal Ticket,3,Lightcrystal,1,Novacrystal,1,Dragonvein Crystal,3
 Kulu-Ya-Ku Head α,,5,6,31,46,68,84,2,0,2,3,2,Pro Transporter,1,,,,,Kulu-Ya-Ku Ticket,3,Kulu-Ya-Ku Beak+,1,Kulu-Ya-Ku Plume+,4,Kulu-Ya-Ku Hide+,5
-Wiggler Head,,5,6,11,46,68,84,0,4,0,0,4,Wide-Range,2,,,,,Wiggler Ticket,3,Shamos Hide+,4,Gajau Scale,4,Coral Bone,3
+Wiggler Head α,,5,6,11,46,68,84,0,4,0,0,4,Wide-Range,2,,,,,Wiggler Ticket,3,Shamos Hide+,4,Gajau Scale,4,Coral Bone,3
 Dragonseal Earrings α,Arena,7,8,0,60,72,86,0,0,0,0,0,Elderseal Boost,1,,,,,(B-Rank Arena Quests 8-9),0,,,,,,
 Pulverizing Feather,Arena,4,7,0,32,56,76,0,0,0,0,0,Bombardier,3,,,,,(B-Rank Arena Quests 1-7),0,,,,,,
