@@ -29,27 +29,27 @@
 重置設定(&C)
 
 #This refers to armor made from Arena coins
-允許鬥技場製作裝備(&A)
+允許使用斗技场狩猎币解锁的裝備(&A)
 
 #Event items from Event/Challenge quests
-允許挑戰製作裝備(&E)
+允許製作的裝備(&E)
 
 #Allow the special pre-order bonus "Fair Wind Charm"
-允許追風護石(&F)
+允許使用预购送的追風護石(&F)
 
 #This setting will ignore low rank armor if you are in high rank
-允許下位裝備(&L)
+允許使用下位裝備(&L)
 
 #Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
 總是搜索α防具
 
 #Toggling all Event (DLC) armor
 全選
-全關
+全部取消
 
 Sort Skills Alpha&betically
 
-&Donate
+捐助(&D)
 技能信息(&S)
 
 #This option opens a browser to my Facebook page
@@ -64,7 +64,7 @@ Sort Skills Alpha&betically
 默認(&D)
 
 #This string is used in the Advanced Search dialog to deselect all armors in a list.
-&None
+無(&N)
 
 #This string is used in the combobox that sorts solutions by various criteria
 無排序
@@ -72,7 +72,7 @@ Sort Skills Alpha&betically
 #Buttons
 搜索(&S)
 取消選擇(&N)
-Select &Best
+選擇最佳(&B)
 追加(&A)
 重置(&R)
 移除(&R)
@@ -125,59 +125,59 @@ Select &Best
 
 孔數
 孔位等級
-(none)
+(無)
 
 #When a solution has spare slots. Format: "3 slots spare (1+1+2)"
-%1 slots spare
+%1 個剩餘孔位
 
 查找結果數：
 
 #When there are too many solutions to display all of them, %1 is the limit (default 1000)
 僅顯示前 %1 個搜索結果：
 
-Decoration list
-File is corrupt.
-Version
-Find
+装饰品列表
+文件錯誤
+版本
+查找
 
 #Used in some error popups
-Error
+錯誤
 
 #For showing min (%1) and max (%2) defence, e.g. 10 to 100
-%1 to %2
+%1 到 %2
 
-Defence
-Results
-Delete All Decorations
-ASS Settings
+防禦
+結果
+刪除全部裝飾品
+配裝器設置
 最大搜索結果數(&M)
 顯示裝飾品名稱
 顯示製造材料列表
 Preview Image Default &Zoom
 
 #Showing min/max defence and elemental resists
-%1-%2 Def, %3 Fir, %4 Wat, %5 Ice, %6 Thn, %7 Drg
+防御力 %1-%2, 火耐性 %3, 水耐性 %4, 冰耐性 %5, 雷耐性 %6, 龍耐性 %7
 
 #This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
-%1 Jewel
+%1珠
 
 #Item Type refers to weapon/helm/body armor/etc.
-Item Type
+物品类型
 
 #This string is for displaying potential extra skills
-(%1 possible)
+(%1 可能)
 
 #Strings for the skill description dialog
 Show
-Description
-Skills
-Skill Trees
-Available from these Armor pieces:
+詳情
+技能
+技能系統
+可以從以下裝備中獲得：
 Available as a set bonus from these Armor pieces:
 
 #Strings for displaying hunter rank, village quest progress etc.
 %1☆
-All
+全部
 
 #Confirmation popup
 Are you sure?
@@ -195,4 +195,4 @@ Are you sure?
 No %1
 
 #Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
-Completed
+完成
