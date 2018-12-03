@@ -1,4 +1,4 @@
-#Name,Restriction,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
+﻿#Name,Restriction,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
 Leather Headgear,,1,1,0,2,38,68,2,0,0,0,0,Hunger Resistance,1,,,,,Iron Ore,2,,,,,,
 Chainmail Headgear,,1,1,0,2,38,68,0,2,0,0,0,Master Gatherer,1,,,,,Iron Ore,2,,,,,,
 Hunter's Headgear,,1,1,0,6,42,72,2,2,0,0,0,Scoutfly Range Up,1,,,,,Jagras Hide,2,Jagras Scale,2,,,,
@@ -156,6 +156,8 @@ Blossom Headgear,,3,2,0,18,46,70,1,1,4,1,1,Honey Hunter,1,,,,,Spring Blossom Tic
 Blossom Headgear α,,5,6,11,40,62,78,1,1,4,1,1,Honey Hunter,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
 Harvest Flor,,3,4,0,26,54,78,4,1,1,1,1,Focus,1,,,,,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Flor α,,6,6,12,52,72,84,4,1,1,1,1,Focus,1,,,,,Autumn Harvest Ticket,1,Monster Hardbone,2,Monster Keenbone,1,,
+Orion Cap,,4,5,0,30,54,74,1,1,1,4,1,Recovery Up,1,,,,,Winter Star Ticket,1,Monster Bone+,1,,,,
+Orion Cap α,,6,6,13,58,78,90,1,1,1,4,1,Recovery Up,1,,,,,Winter Star Ticket,1,Fucium Ore,1,Monster Hardbone,1,,
 Kulve Taroth's Fury α,,8,9,1,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Agitator,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Spiralhorn,6,Nergigante Gem,1
 Kulve Taroth's Fury β,,8,9,21,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Agitator,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Spiralhorn,6,Nergigante Gem,1
 Dante's Hair α,,8,8,1,64,70,84,3,-3,3,-3,3,Weakness Exploit,1,Critical Eye,1,,,Red Orb,1,Rathalos Scale+,5,Odogaron Scale+,5,Anjanath Scale+,5

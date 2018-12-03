@@ -1,4 +1,4 @@
-#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
+﻿#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
 Leather Trousers,,1,1,0,2,38,68,2,0,0,0,0,,,,,,,Iron Ore,1,,,,,,
 Chainmail Trousers,,1,1,0,2,38,68,0,2,0,0,0,,,,,,,Iron Ore,1,,,,,,
 Hunter's Greaves,,1,1,0,6,42,72,2,2,0,0,0,BBQ Master,1,,,,,Jagras Hide,1,Monster Bone S,1,,,,
@@ -156,6 +156,8 @@ Blossom Boots,,3,2,0,18,46,70,1,1,4,1,1,Recovery Speed,1,,,,,Spring Blossom Tick
 Blossom Boots α,,5,6,11,40,62,78,1,1,4,1,1,Recovery Speed,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,2,,,,
 Harvest Raiz,,3,4,0,26,54,78,4,1,1,1,1,Mushroomancer,1,,,,,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Raiz α,,6,6,12,52,72,84,4,1,1,1,1,Mushroomancer,1,,,,,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
+Orion Boots,,4,5,0,30,54,74,1,1,1,4,1,Heroics,1,,,,,Winter Star Ticket,1,Monster Bone+,2,,,,
+Orion Boots α,,6,6,13,58,78,90,1,1,1,4,1,Heroics,1,,,,,Winter Star Ticket,1,Fucium Ore,2,Monster Hardbone,1,,
 Kulve Taroth's Wrath α,,8,9,1,64,70,84,4,-2,3,-4,-2,Wide-Range,2,Peak Performance,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Tailshell,4,Vaal Hazak Gem,1
 Kulve Taroth's Wrath β,,8,9,21,64,70,84,4,-2,3,-4,-2,Wide-Range,2,Peak Performance,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Shell,7,Kulve Taroth Golden Tailshell,4,Vaal Hazak Gem,1
 Dante's Leather Boots α,,8,8,11,64,70,84,3,-3,3,-3,3,Weakness Exploit,2,,,,,Red Orb,1,Teostra Carapace,6,Teostra Webbing,3,Teostra Gem,1

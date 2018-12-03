@@ -1,4 +1,4 @@
-#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
+﻿#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
 Leather Mail,,1,1,0,2,38,68,2,0,0,0,0,,,,,,,Iron Ore,1,,,,,,
 Chainmail Vest,,1,1,0,2,38,68,0,2,0,0,0,,,,,,,Iron Ore,1,,,,,,
 Hunter's Mail,,1,1,0,6,42,72,2,2,0,0,0,Slinger Capacity,1,,,,,Jagras Hide,2,Monster Bone S,2,,,,
@@ -156,6 +156,8 @@ Blossom Vest,,3,2,0,18,46,70,1,1,4,1,1,Quick Sheath,1,,,,,Spring Blossom Ticket,
 Blossom Vest α,,5,6,11,40,62,78,1,1,4,1,1,Quick Sheath,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,3,,,,
 Harvest Tronco,,3,4,0,26,54,78,4,1,1,1,1,Tremor Resistance,1,,,,,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Tronco α,,6,6,12,52,72,84,4,1,1,1,1,Tremor Resistance,1,,,,,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
+Orion Vest,,4,5,0,30,54,74,1,1,1,4,1,Flinch Free,1,,,,,Winter Star Ticket,1,Monster Bone+,2,,,,
+Orion Vest α,,6,6,3,58,78,90,1,1,1,4,1,Flinch Free,1,,,,,Winter Star Ticket,1,Fucium Ore,2,Monster Hardbone,1,,
 Kulve Taroth's Ire α,,8,9,1,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Tailshell,6,Xeno'jiiva Gem,1
 Kulve Taroth's Ire β,,8,9,31,64,70,84,4,-2,3,-4,-2,Stun Resistance,2,Critical Boost,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Tailshell,6,Xeno'jiiva Gem,1
 Dante's Coat α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Critical Eye,1,,,Red Orb,1,Odogaron Sinew+,6,Odogaron Claw+,4,Odogaron Plate,1

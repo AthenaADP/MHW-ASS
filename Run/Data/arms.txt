@@ -1,4 +1,4 @@
-#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
+﻿#Name,Gender,Rarity,Acquire,Slots,Min Def,Max Def,Aug Def,Fire,Water,Thunder,Ice,Dragon,Skill 1,Points 1,Skill 2,Points 2,Skill 3,Points 3,Material 1,Num 1,Material 2,Num 2,Material 3,Num 3,Material 4,Num 4
 Leather Gloves,,1,1,0,2,38,68,2,0,0,0,0,,,,,,,Iron Ore,1,,,,,,
 Chainmail Gloves,,1,1,0,2,38,68,0,2,0,0,0,,,,,,,Iron Ore,1,,,,,,
 Hunter's Vambraces,,1,1,0,6,42,72,2,2,0,0,0,Stealth,1,,,,,Jagras Hide,1,Jagras Scale,1,,,,
@@ -156,6 +156,8 @@ Blossom Cuffs,,3,2,0,18,46,70,1,1,4,1,1,Paralysis Resistance,1,,,,,Spring Blosso
 Blossom Cuffs α,,5,6,11,40,62,78,1,1,4,1,1,Paralysis Resistance,1,,,,,Spring Blossom Ticket,3,Carbalite Ore,1,,,,
 Harvest Trama,,3,4,0,26,54,78,4,1,1,1,1,Resentment,1,,,,,Autumn Harvest Ticket,1,Sturdy Bone,1,,,,
 Harvest Trama α,,6,6,12,52,72,84,4,1,1,1,1,Resentment,1,,,,,Autumn Harvest Ticket,1,Monster Hardbone,1,Monster Keenbone,1,,
+Orion Vambraces,,4,5,0,30,54,74,1,1,1,4,1,Windproof,1,,,,,Winter Star Ticket,1,Monster Bone+,1,,,,
+Orion Vambraces α,,6,6,13,58,78,90,1,1,1,4,1,Windproof,1,,,,,Winter Star Ticket,1,Fucium Ore,1,Monster Hardbone,1,,
 Kulve Taroth's Rage α,,8,9,1,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Power Prolonger,2,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Spiralhorn,6,Kulve Taroth Golden Glimstone,1
 Kulve Taroth's Rage β,,8,9,31,64,70,84,4,-2,3,-4,-2,Free Elem/Ammo Up,1,Power Prolonger,1,,,Kulve Taroth Golden Scale,12,Kulve Taroth Golden Nugget,18,Kulve Taroth Golden Spiralhorn,6,Kulve Taroth Golden Glimstone,1
 Dante's Gloves α,,8,8,3,64,70,84,3,-3,3,-3,3,Evade Window,1,Special Ammo Boost,1,,,Red Orb,1,Anjanath Pelt+,6,Anjanath Fang+,4,Anjanath Plate,1
