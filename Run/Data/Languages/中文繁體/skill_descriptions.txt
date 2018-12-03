@@ -1,367 +1,367 @@
-Reduces the duration of poison by 30%.
-Reduces the duration of poison by 60%.
-Prevents poison.
-Reduces the duration of paralysis by 30%.
-Reduces the duration of paralysis by 60%.
-Prevents paralysis.
-Reduces the duration of sleep by 30%.
-Reduces the duration of sleep by 60%.
-Prevents sleep.
-Reduces the duration of stun by 30%.
-Reduces the duration of stun by 60%.
-Prevents stun.
-Reduces limits on movement speed and evasion.
-Delays blastblight and reduces blast damage.
-Greatly delays blastblight and greatly reduces blast damage.
-Prevents blastblight.
-Reduces damage while bleeding.
-Greatly reduces damage while bleeding.
-Prevents bleeding.
-Reduces the duration of Defense Down by 30%.
-Reduces the duration of Defense Down by 60%.
-Prevents Defense Down.
-Slightly reduces the effects of weak monster roars.
-Reduces the effects of weak monster roars.
-Nullifies weak monster roars.
-Nullifies weak monster roars and reduces the effects of strong monster roars.
-Nullifies weak and strong monster roars.
-Slightly reduces the effects of minor wind pressure.
-Reduces the effects of minor wind pressure.
-Negates minor wind pressure.
-Negates minor wind pressure and reduces the effects of major wind pressure.
-Negates minor and major wind pressure.
-Nullifies minor ground tremors.
-Nullifies minor ground tremors and reduces the effects of major ground tremors.
-Nullifies minor and major ground tremors.
-Makes slinger dung pods more effective at making monsters run away.
-Nullifies damage from effluvia and reduces damage from acids.
-Nullfies heat damage.
-Attack +3
-Attack +6
-Attack +9
-Attack +12 Affinity +5%
-Attack +15 Affinity +5%
-Attack +18 Affinity +5%
-Attack +21 Affinity +5%
-Defense +5
-Defense +10
-Defense +15
-Defense +20 All Elemental Resistances +3
-Defense +25 All Elemental Resistances +3
-Defense +30 All Elemental Resistances +3
-Defense +35 All Elemental Resistances +3
-Health +15
-Health +30
-Health +50
-Recovery +10%
-Recovery +20%
-Recovery +30%
-Doubles the speed at which you heal recoverable damage.
-Triples the speed at which you heal recoverable damage.
-Quadruples the speed at which you heal recoverable damage.
-Fire resistance +6
-Fire resistance +12
-Fire resistance +20 Defense +10
-Water resistance +6
-Water resistance +12
-Water resistance +20 Defense +10
-Ice resistance +6
-Ice resistance +12
-Ice resistance +20 Defense +10
-Thunder resistance +6
-Thunder resistance +12
-Thunder resistance +20 Defense +10
-Dragon resistance +6
-Dragon resistance +12
-Dragon resistance +20 Defense +10
-Reduces the duration of all elemental blights by 30%.
-Reduces the duration of all elemental blights by 60%.
-Nullifies all elemental blights.
-Fire attack +30
-Fire attack +60
-Fire attack +100
-Fire attack +5% Bonus: +100
-Fire attack +10% Bonus: +100
-Water attack +30
-Water attack +60
-Water attack +100
-Water attack +5% Bonus: +100
-Water attack +10% Bonus: +100
-Ice attack +30
-Ice attack +60
-Ice attack +100
-Ice attack +5% Bonus: +100
-Ice attack +10% Bonus: +100
-Thunder attack +30
-Thunder attack +60
-Thunder attack +100
-Thunder attack +5% Bonus: +100
-Thunder attack +10% Bonus: +100
-Dragon attack +30
-Dragon attack +60
-Dragon attack +100
-Dragon attack +5% Bonus: +100
-Dragon attack +10% Bonus: +100
-Poison buildup +5% Bonus: +10
-Poison buildup +10% Bonus: +10
-Poison buildup +20% Bonus: +10
-Paralysis buildup +5% Bonus: +10
-Paralysis buildup +10% Bonus: +10
-Paralysis buildup +20% Bonus: +10
-Sleep buildup +5% Bonus: +10
-Sleep buildup +10% Bonus: +10
-Sleep buildup +20% Bonus: +10
-Blast buildup +5% Bonus: +10
-Blast buildup +10% Bonus: +10
-Blast buildup +20% Bonus: +10
-Increases the power of normal ammo and normal arrows.
-Increases the power of piercing ammo and Dragon Piercer.
-Increases the power of spread ammo and power shot arrows.
-Draws out 33% of hidden element and expands clip size for some ammo.
-Draws out 66% of hidden element and expands clip size for some ammo.
-Draws out 100% of hidden element and expands clip size for some ammo.
-Affinity +3%
-Affinity +6%
-Affinity +10%
-Affinity +15%
-Affinity +20%
-Affinity +25%
-Affinity +30%
-Increases damage dealt by critical hits by 30%.
-Increases damage dealt by critical hits by 35%.
-Increases damage dealt by critical hits by 40%.
-Attacks that hit weak spots have 15% increased affinity.
-Attacks that hit weak spots have 30% increased affinity.
-Attacks that hit weak spots have 50% increased affinity.
-Increases gauge fill rate by 5% and reduces charge times by 5%.
-Increases gauge fill rate by 10% and reduces charge times by 10%.
-Increases gauge fill rate by 20% and reduces charge times by 20%.
-Bonus duration +10%
-Bonus duration +20%
-Bonus duration +30%
-Weapon sharpness +10
-Weapon sharpness +20
-Weapon sharpness +30
-Weapon sharpness +40
-Weapon sharpness +50
-Draw attack affinity +30%
-Draw attack affinity +60%
-Draw attack affinity +100%
-Part damage +10%
-Part damage +20%
-Part damage +30%
-Stun power +10%
-Stun power +20%
-Stun power +30%
-Exhaust power +10%
-Exhaust power +20%
-Exhaust power +30%
-Makes it easier to mount monsters and down mounted monsters.
-Jumping attack power +10%
-While active, increases affinity by 10% and reduces stamina depletion by 10%.
-While active, increases affinity by 20% and reduces stamina depletion by 10%.
-While active, increases affinity by 30% and reduces stamina depletion by 30%.
-While active, increases affinity by 40% and reduces stamina depletion by 30%.
-While active, increases affinity by 50% and reduces stamina depletion by 50%.
-While active, grants attack +4 and increases affinity by 3%.
-While active, grants attack +8 and increases affinity by 6%.
-While active, grants attack +12 and increases affinity by 9%.
-While active, grants attack +16 and increases affinity by 12%.
-While active, grants attack +20 and increases affinity by 15%.
-While active, grants attack +5.
-While active, grants attack +10.
-While active, grants attack +20.
-While active, increases attack power by 5% and increases defense by 15 points.
-While active, increases attack power by 10% and increases defense by 20 points.
-While active, increases attack power by 15% and increases defense by 25 points.
-While active, increases attack power by 20% and increases defense by 30 points.
-While active, increases attack power by 30% and increases defense by 40 points.
-Increases attack by 10% and defense by 15% with each use.
-While active, grants attack +5.
-While active, grants attack +10.
-While active, grants attack +15.
-While active, grants attack +20.
-While active, grants attack +25.
-While active, greatly improves evasion invulnerability time and reduces stamina depletion.
-Extends melody effect duration and increases health recovery.
-Loading capacity +1
-Increases the power of bowgun special ammo and Dragon Piercer by 10%.
-Increases the power of bowgun special ammo and Dragon Piercer by 20%.
-Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.
-Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.
-Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%.
-Firepower +10%
-Firepower +20%
-Reduces continuous stamina depletion by 15%.
-Reduces continuous stamina depletion by 30%.
-Reduces continuous stamina depletion by 50%.
-Reduces fixed stamina depletion by 10%.
-Reduces fixed stamina depletion by 20%.
-Reduces fixed stamina depletion by 30%.
-Reduces fixed stamina depletion by 40%.
-Reduces fixed stamina depletion by 50%.
-Enables Leap of Faith.
-Stamina recovery speed +10%
-Stamina recovery speed +20%
-Stamina recovery speed +30%
-Extends the time until your stamina cap decreases by 30%.
-Extends the time until your stamina cap decreases by 60%.
-Prevents your stamina cap from decreasing.
-Very slightly increases invulnerability window.
-Slightly increases invulnerability window.
-Increases invulnerability window.
-Greatly increases invulnerability window.
-Massively increases invulnerability window.
-Slightly extends evasion distance.
-Extends evasion distance.
-Greatly extends evasion distance.
-Very slightly decreases the impact of attacks.
-Slightly decreases the impact of attacks and reduces stamina depletion by 15%.
-Greatly decreases the impact of attacks and redcues stamina depletion by 15%.
-Greatly decreases the impact of attacks and redcues stamina depletion by 30%.
-Greatly decreases the impact of attacks and redcues stamina depletion by 50%.
-Slightly increases sheathing speed.
-Moderately increases sheathing speed.
-Greatly increases sheathing speed.
-Items affect nearby allies with 33% of their efficacy.
-Items affect nearby allies in a wider radius with 33% of their efficacy.
-Items affect nearby allies in a wider radius with 66% of their efficacy.
-Items affect nearby allies in a much wider radius with 66% of their efficacy.
-Items affect nearby allies in a wider radius with full efficacy.
-Item effect duration +10%
-Item effect duration +25%
-Item effect duration +50%
-Activates 25% of the time.
-Slightly increases item use speed.
-Moderately increases item use speed.
-Greatly increases item use speed.
-Removes one cycle from the sharpening process.
-Removes two cycles from the sharpening process.
-Removes three cycles from the sharpening process.
-Explosive power +10%
-Explosive power +20%
-Explosive power +30%
-Lets you digest blue mushrooms and toadstools.
-Additionally lets you digest nitroshrooms and parashrooms.
-Additionally lets you digest mandragoras, devil's blight, and exciteshrooms.
-Increases the time window for reeling in fish, and makes it easier to catch large fish.
-Increases movement speed while transporting and reduces downtime on landings.
-Speeds up gathering and prevents knockbacks while gathering.
-One extra honey per gather.
-Prevents knockback while carving.
-While active, reduces damage taken by 15%.
-While active, reduces damage taken by 30%.
-While active, reduces damage taken by 50%.
-Increases Palico attack power and defense by 5%.
-Increases Palico attack power and defense by 10%.
-Increases Palico attack power and defense by 15%.
-Increases Palico attack power and defense by 20%.
-Increases Palico attack power and defense by 25%.
-One extra consumable herb item per gather.
-One extra consumable herb, fruit, nut, or seed item per gather.
-One extra consumable herb, fruit, nut, seed, or insect item per gather.
-One extra consumable herb, fruit, nut, seed, insect or mushroom item per gather.
-Allows you to gather one extra time from bonepiles.
-Allows you to gather one extra time from bonepiles and special item gathering points.
-Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops.
-While active, increases affinity by 10%.
-While active, increases affinity by 20%.
-While active, increases affinity by 30%.
-Increases the loading capacity for slinger ammo collected from the ground or plants.
-In addition, increases the loading capacity for some slinger ammo dropped by monsters.
-In addition, increases the loading capacity for all slinger ammo dropped by monsters.
-Makes it slightly easier for monsters to lose sight of you.
-Makes it moderately easier for monsters to lose sight of you.
-Makes it much easier for monsters to lose sight of you.
-Prevents knockbacks.
-Prevents standard knockbacks. Tripping is reduced to a knockback instead.
-Prevents knockbacks and tripping.
-Expands your scoutflies' detection range.
-Increases movement speed while crouching.
-Negates knockback during jumps.
-Sporepuffs restore 20 health.
-Sporepuffs restore 35 health.
-Sporepuffs restore 60 health.
-Prevents water from slowing movement.
-Prevents water from slowing movement and improves evasion while in water.
-Prevents water from slowing movement and greatly improves evasion while in water.
-Reduces stamina depletion while climbing by 25%.
-Increases the success rate of flash effects.
-Speeds up progress on research levels and special investigations.
-Increases the chances of a corpse being left behind.
-Greatly increases the chances of a corpse being left behind.
-Makes it so corpses will always be left behind.
-Reduces effluvial buildup.
-Greatly reduces effluvial buildup.
-Prevents effluvial buildup.
-Increases gauge fill rate by 50%.
-Increases the likelihood of rare gathering points respawning.
-Marks rare sites on the wildlife map.
-Makes it easier to cook well-done steaks.
-Shortens time until reuse by 5%.
-Shortens time until reuse by 10%.
-Shortens time until reuse by 20%.
-Increases affinity by 30% for a short time after sliding.
-Discourages monsters from engaging you even if you've been spotted.
-Highly discourages monsters from engaging you even if you've been spotted.
-Prevents monsters from engaging you even if you've been spotted.
-Regenerates your health as you continually attack a monster. Recovery varies by weapon.
-Allows recovery to exceed the red portion of the health gauge.
-Extends the duration of your poison's effect on monsters.
-Temporarily reduces stamina depletion when health is at 40% or lower.
-Increases stamina cap.
-Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.
-Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.
-Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning.
-Powers up non-elemental weapons you have equipped.
-High chance of increased capture rewards. (No effect when joining mid-quest.)
-Allows you to guard against ordinarily unblockable attacks.
-Above a certain health threshold, you withstand an attack that would normally cart you (once only).
-Prevents your weapon from losing sharpness during critical hits.
-Negates all wind pressure.
-Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo.
-Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits.
-Good chance of increased quest rewards. (No effect when joining mid-quest.)
-Increases max bow charge level by one.
-Adds a stun effect to draw attacks and slightly increases attack power.
-Weapon sharpness does not decrease for a set time after sharpening.
-Let you use Poison coating.
-Let you use Paralysis coating.
-Let you use Sleep coating.
-Let you use Blast coating.
-Boosts Elderseal one level.
-High chance of increased game rewards. (No effect when joining mid-quest.)
-Lets you carve one additional time. (No effect when joining mid-quest.)
-Elemental damage increased for jumping attacks.
-Set bonus grants <<Adrenaline>>.
-Set bonus grants <<Good Luck>>.
-Set bonus grants <<Punishing Draw>>.
-Set bonus grants <<Critical Element>>.
-Set bonus grants <<Bludgeoner>>.
-Set bonus grants <<Capture Master>>.
-Set bonus grants <<Adrenaline>>.
-Set bonus grants <<Stamina Cap Up>>.
-Set bonus grants <<Poison Duration Up>>.
-Set bonus grants <<Critical Status>>.
-Set bonus grants <<Good Luck>>.
-Set bonus grants <<Bow Charge Plus>>.
-Set bonus grants <<Punishing Draw>>.
-Set bonus grants <<Protective Polish>>.
-Set bonus grants <<Critical Element>>.
-Set bonus grants <<Mind's Eye/Ballistics>>.
-Set bonus grants <<Bludgeoner>>.
-Set bonus grants <<Non-elemental Boost>>.
-Set bonus grants <<Guard Up>>.
-Set bonus grants <<Guts>>.
-Set bonus grants <<Hasten Recovery>>.
-Set bonus grants <<Master's Touch>>.
-Set bonus grants <<Nullify Wind Pressure>>.
-Set bonus grants <<Super Recovery>>.
-Set bonus grants <<Capture Master>>.
-Set bonus grants <<Razor Sharp/Spare Shot>>.
-Set bonus grants <<Great Luck>>.
-Set bonus grants <<Carving Master>>.
-Set bonus grants <<Stamina Cap Up>>.
-Set bonus grants <<Mind's Eye/Ballistics>>.
-Set bonus grants <<Elemental Airborne>>.
-Set bonus grants <<Master's Touch>>.
+減少毒狀態的時間30%
+減少毒狀態的時間60%
+毒屬性無效化
+減少麻痹狀態的時間30%
+減少麻痹狀態的時間60%
+麻痹屬性無效化
+減少睡眠狀態的時間30%
+減少睡眠狀態的時間60%
+睡眠屬性無效化
+減少昏厥狀態的時間30%
+減少昏厥狀態的時間60%
+昏厥屬性無效化
+減輕移動速度、迴避行動的限制
+延遲和減少爆破傷害
+大幅度延遲和減少爆破傷害
+爆破屬性無效化
+減少受到裂傷屬性的傷害
+大幅度減少受到裂傷屬性的傷害
+裂傷屬性無效化
+減少防禦力DOWN狀態的時間30%
+減少防禦力DOWN狀態的時間60%
+防禦力DOWN屬性無效化
+小幅減輕咆哮【小】的影響
+減輕咆哮【小】的影響
+使咆哮【小】無效
+使咆哮【小】無效，減輕咆哮【大】的影響
+使咆哮【小】【大】無效
+小幅減輕風壓【小】
+減輕風壓【小】
+使風壓【小】無效
+使風壓【小】無效，減輕風壓【大】
+使風壓【小】【大】無效
+使震動【小】無效
+使震動【小】無效，減輕震動【大】的影響
+使震動【小】【大】無效
+提高逃離投射器異臭彈的效果
+使瘴氣霧霾無效，減輕酸造成的傷害
+使熱造成的傷害無效
+基礎攻擊力 +3
+基礎攻擊力 +6
+基礎攻擊力 +9
+基礎攻擊力 +12 會心率 +5%
+基礎攻擊力 +15 會心率 +5%
+基礎攻擊力 +18 會心率 +5%
+基礎攻擊力 +21 會心率 +5%
+防禦 +5
+防禦 +10
+防禦 +15
+防禦 +20 全屬性耐性 +3
+防禦 +25 全屬性耐性 +3
+防禦 +30 全屬性耐性 +3
+防禦 +35 全屬性耐性 +3
+體力 +15
+體力 +30
+體力 +50
+體力回復量 +10%
+體力回復量 +20%
+體力回復量 +30%
+紅色計量表的自動回復速度2倍
+紅色計量表的自動回復速度3倍
+紅色計量表的自動回復速度4倍
+火屬性耐性 +6
+火屬性耐性 +12
+火屬性耐性 +20 防禦 +10
+水屬性耐性 +6
+水屬性耐性 +12
+水屬性耐性 +20 防禦 +10
+冰屬性耐性 +6
+冰屬性耐性 +12
+冰屬性耐性 +20 防禦 +10
+雷屬性耐性 +6
+雷屬性耐性 +12
+雷屬性耐性 +20 防禦 +10
+龍屬性耐性 +6
+龍屬性耐性 +12
+龍屬性耐性 +20 防禦 +10
+全屬性異常狀態的效果時間減少30%
+全屬性異常狀態的效果時間減少60%
+使全屬性異常狀態無效
+火屬性攻擊 +30
+火屬性攻擊 +60
+火屬性攻擊 +100
+火屬性攻擊值提升5% 火屬性攻擊 +100
+火屬性攻擊值提升10% 火屬性攻擊 +100
+水屬性攻擊 +30
+水屬性攻擊 +60
+水屬性攻擊 +100
+水屬性攻擊值提升5% 水屬性攻擊 +100
+水屬性攻擊值提升10% 水屬性攻擊 +100
+冰屬性攻擊 +30
+冰屬性攻擊 +60
+冰屬性攻擊 +100
+冰屬性攻擊值提升5% 冰屬性攻擊 +100
+冰屬性攻擊值提升10% 冰屬性攻擊 +100
+雷屬性攻擊 +30
+雷屬性攻擊 +60
+雷屬性攻擊 +100
+雷屬性攻擊值提升5% 雷屬性攻擊 +100
+雷屬性攻擊值提升10% 雷屬性攻擊 +100
+龍屬性攻擊 +30
+龍屬性攻擊 +60
+龍屬性攻擊 +100
+龍屬性攻擊值提升5% 龍屬性攻擊 +100
+龍屬性攻擊值提升10% 龍屬性攻擊 +100
+毒素纍計值提升5% 毒素纍計值 +10
+毒素纍計值提升10% 毒素纍計值 +10
+毒素纍計值提升20% 毒素纍計值 +10
+麻痹纍計值提升5% 麻痹纍計值 +10
+麻痹纍計值提升10% 麻痹纍計值 +10
+麻痹纍計值提升20% 麻痹纍計值 +10
+睡眠纍計值提升5% 睡眠纍計值 +10
+睡眠纍計值提升10% 睡眠纍計值 +10
+睡眠纍計值提升20% 睡眠纍計值 +10
+爆破纍計值提升5% 爆破纍計值 +10
+爆破纍計值提升10% 爆破纍計值 +10
+爆破纍計值提升20% 爆破纍計值 +10
+通常彈、通常箭的威力UP (測試約提升10%)
+貫通彈、龍之箭的威力UP (測試約提升10%)
+散彈、剛射的威力UP (測試約提升10%)
+激發出1/3的隱藏屬性／增加部分彈藥裝填數
+激發出2/3的隱藏屬性／增加多數彈藥裝填數
+激發出100%的隱藏屬性／幾乎增加所有彈藥裝填數
+會心率 +3%
+會心率 +6%
+會心率 +10%
+會心率 +15%
+會心率 +20%
+會心率 +25%
+會心率 +30%
+會心攻擊時的傷害倍率增強為1.3倍
+會心攻擊時的傷害倍率增強為1.35倍
+會心攻擊時的傷害倍率增強為1.4倍
+攻擊有效部份時，會心率+15%
+攻擊有效部份時，會心率+30%
+攻擊有效部份時，會心率+50%
+計量表上升率5%UP，蓄力時間縮短5%
+計量表上升率5%UP，蓄力時間縮短10%
+計量表上升率5%UP，蓄力時間縮短20%
+持續時間+10%
+持續時間+20%
+持續時間+30%
+武器鋒利度+10
+武器鋒利度+20
+武器鋒利度+30
+武器鋒利度+40
+武器鋒利度+50
+武器拔刀攻擊的會心率+30%
+武器拔刀攻擊的會心率+60%
+武器拔刀攻擊的會心率+100%
+對部位的累積傷害+10%
+對部位的累積傷害+20%
+對部位的累積傷害+30%
+昏厥威力+10%
+昏厥威力+20%
+昏厥威力+30%
+減氣威力+10%
+減氣威力+20%
+減氣威力+30%
+容易騎乘怪物，更容易在騎乘狀態下成功
+跳躍攻擊的威力+10%
+技能發動時，會心率+10%，耐力消耗量減少10%.
+技能發動時，會心率+20%，耐力消耗量減少10%.
+技能發動時，會心率+30%，耐力消耗量減少30%.
+技能發動時，會心率+40%，耐力消耗量減少30%.
+技能發動時，會心率+50%，耐力消耗量減少50%.
+技能發動時，基礎攻擊力+4，會心率3%.
+技能發動時，基礎攻擊力+8，會心率6%.
+技能發動時，基礎攻擊力+12，會心率9%.
+技能發動時，基礎攻擊力+16，會心率12%.
+技能發動時，基礎攻擊力+20，會心率15%.
+技能發動時，基礎攻擊力+5.
+技能發動時，基礎攻擊力+10.
+技能發動時，基礎攻擊力+20.
+技能發動時，攻擊力提升5%，防禦力+15
+技能發動時，攻擊力提升10%，防禦力+20
+技能發動時，攻擊力提升15%，防禦力+25
+技能發動時，攻擊力提升20%，防禦力+30
+技能發動時，攻擊力提升30%，防禦力+40
+每次陣亡后攻擊力1.1倍、防禦力1.15倍
+技能發動時，基礎攻擊力+5.
+技能發動時，基礎攻擊力+10.
+技能發動時，基礎攻擊力+15.
+技能發動時，基礎攻擊力+20.
+技能發動時，基礎攻擊力+25.
+技能發動時，大幅延長迴避的無敵時間，並減少耐力消耗量
+延長狩獵笛旋律效果時間，體力回復量的上升率UP
+銃槍的砲擊裝填數與盾斧的瓶裝填數+1
+弩的特殊彈藥和弓的龍之箭的威力+10%.
+弩的特殊彈藥和弓的龍之箭的威力+20%.
+對象的攻擊力+10%，減少龍擊砲的冷卻時間15%.
+對象的攻擊力+20%，減少龍擊砲的冷卻時間30%.
+對象的攻擊力+30%，減少龍擊砲的冷卻時間50%.
+弩砲、大砲的威力+10%
+弩砲、大砲的威力+20%
+持續耐力消耗量減少15%.
+持續耐力消耗量減少30%.
+持續耐力消耗量減少50%.
+固定耐力消耗量減少10%.
+固定耐力消耗量減少20%.
+固定耐力消耗量減少30%.
+固定耐力消耗量減少40%.
+固定耐力消耗量減少50%.
+朝大型魔物跳躍，就可以迴避了。同時會延長飛躍距離。
+回復速度+10%
+回復速度+20%
+回復速度+30%
+到耐力計量表最大值減少的時間延長30%.
+到耐力計量表最大值減少的時間延長60%.
+使耐力最大值的減少無效
+無敵時間極小幅延長
+無敵時間小幅延長
+延長無敵時間
+大幅延長無敵時間
+極大幅延長無敵時間
+迴避距離小幅延長
+延長迴避距離
+大幅延長迴避距離
+小幅減少攻擊的威力
+小幅減少攻擊的威力，減少耐力消費量15%
+大幅減少攻擊的威力，減少耐力消費量15%
+大幅減少攻擊的威力，減少耐力消費量30%
+極大幅減少攻擊的威力，減少耐力消費量50%
+收刀速度小幅上升
+收刀速度上升
+收刀速度大幅上升
+給予周圍的同伴1/3的效果
+給予大範圍的同伴1/3的效果
+給予大範圍的同伴1/3的效果
+給予大範圍的同伴1/3的效果
+給予極大範圍的同伴同樣的效果
+效果時間+10%
+效果時間+25%
+效果時間+50%
+效果發動率25%，食用、飲用類的道具有一定的機率可再次使用
+小幅提升使用道具及食用速度
+提升使用道具及食用速度
+大幅提升使用道具及食用速度
+省略研磨動作1次
+省略研磨動作2次
+省略研磨動作3次
+爆彈系道具的傷害威力+10%
+爆彈系道具的傷害威力+20%
+爆彈系道具的傷害威力+30%
+已可食用青菇與毒菇
+追加可食用爆炸菇與麻痺菇
+追加可食用風茄，鬼爆炸菇與心跳加速菇
+延長釣起魚的時間，就更容易釣起大魚
+搬運時的移動速度上升，減輕著地時的反作用力
+採集行動時，速度上升&後仰無效
+蜂蜜取得數+1
+剝取中，後仰無效
+效果發動時，傷害減輕15%.
+效果發動時，傷害減輕30%.
+效果發動時，傷害減輕50%.
+隨從的攻擊力與防禦力提升5%.
+隨從的攻擊力與防禦力提升10%.
+隨從的攻擊力與防禦力提升15%.
+隨從的攻擊力與防禦力提升20%.
+隨從的攻擊力與防禦力提升25%.
+草系消耗道具的取得數+1
+追加實、種系消耗道具的取得數+1
+追加蟲系消耗道具的取得數+1
+追加菇系消耗道具的取得數+1
+駭骨採集點的採集次數+1
+追加特產品採集點的採集次數+1
+追加礦石採集點的採集次數+1
+效果發動時，會心率+10%.
+效果發動時，會心率+20%.
+效果發動時，會心率+30%.
+小幅增加在地面或植物取得的彈藥裝填數
+再小幅增加一部份魔物掉落的彈藥裝填數
+再小幅增加所有魔物掉落的彈藥裝填數
+追丟的機率小幅提高
+追丟的機率提高
+追丟的機率大幅提高
+使後仰無效
+使後仰無效，將屁股著地減輕為後仰狀態
+使後仰、屁股著地無效
+反應距離擴張
+加快蹲下時的移動速度
+跳躍中，後仰無效
+體力回復20
+體力回復35
+體力回復60
+即使在水中移動速度也不會減慢
+在水中移動速度也不會減慢，提高在水中的迴避性能
+在水中移動速度也不會減慢，大幅提高在水中的迴避性能
+迴避被牆壁藤蔓纏住的行動所需的耐力消耗減少25%
+閃光效果的生效率UP
+更容易調查及研究大型魔物
+屍體殘留的機率提高
+屍體殘留的機率大幅提高
+必定會有屍體殘留
+抑制瘴氣的侵蝕
+大幅抑制瘴氣的侵蝕
+瘴氣的侵蝕無效
+取得痕跡時的計量表上升量1.5倍
+提高活性化的採集點的發生率。
+可透過生態MAP了解活性化的採集點。
+更容易烤出全熟肉
+再使用時間縮短5%.
+再使用時間縮短10%.
+再使用時間縮短20%.
+進行滑走後，一定時間內會心率會上升。
+即使被發現也不容易進入戰鬥狀態
+即使被發現也幾乎不會進入戰鬥狀態
+即使被發現也不會變為戰鬥狀態
+若持續攻擊命中魔物，便能回復體力。回復量會依武器種類不同而有所變動
+體力在達到計量表的最大值前會持續自動回復
+提高對魔物施毒的效果時間
+體力降低至40%以下時，一定時間內耐力的消耗量會減少
+增加耐力的上限值
+因攻擊而出現會心時，所造成的屬性傷害(火、水、雷、冰、龍)會提高
+攻擊不會被彈開，縮短彈藥、箭矢達到最大威力時的距離
+銳利度愈差攻擊力愈高。遠距離武器的近身攻擊威力與使敵人昏厥的容易度有大幅提升
+強化裝備中的無屬性武器 (測試約提升10%)
+捕獲獲取得的報酬數量變多的機率很高(從任務中途開始使用不會有效果)
+可以防禦一般無法防禦的攻擊
+當體力在一定程度以上時，即使承受了超過體力的傷害，也能撐住而不耗盡體力一次
+發生會心攻擊時，不會消耗銳利度
+使全部的風壓無效
+銳利度的消耗降低一半 ／ 有少量機會在射擊時不消耗弩槍的彈藥及弓的瓶
+因攻擊而出現會心時，所造成的狀態異常值(麻痺、毒、睡眠、爆破)會提高
+完成任務獲得的報酬數量容易變多(從任務中途開始使用不會有效果)
+弓的蓄力階段增加1個階段
+追加、強化武器拔刀攻擊所引起的昏厥的能力，攻擊力也會小幅提升
+研磨武器後，一定時間內銳利度不會降低
+弓可以裝著毒瓶
+弓可以裝著麻痹瓶
+弓可以裝著睡眠瓶
+弓可以裝著爆破瓶
+龍封力強化一個階段
+完成任務獲取得的報酬數量變多的機率很高(從任務中途開始使用不會有效果)
+捕獲獲取得的報酬數量變多的機率很高(從任務中途開始使用不會有效果)
+跳躍攻擊的屬性傷害UP
+套裝技能 <<振奮>>.
+套裝技能 <<幸運>>.
+套裝技能 <<拔刀術【力】>>.
+套裝技能 <<會心攻擊【屬性】>>.
+套裝技能 <<鈍器能手>>.
+套裝技能 <<捕獲名人>>.
+套裝技能 <<振奮>>.
+套裝技能 <<突破耐力上限>>.
+套裝技能 <<毒傷害強化>>.
+套裝技能 <<會心攻擊【特殊】>>.
+套裝技能 <<幸運>>.
+套裝技能 <<解放弓的蓄力階段>>.
+套裝技能 <<拔刀術【力】>>.
+套裝技能 <<剛刃研磨>>.
+套裝技能 <<會心攻擊【屬性】>>.
+套裝技能 <<心眼/彈道強化>>.
+套裝技能 <<鈍器能手>>.
+套裝技能 <<無屬性强化>>.
+套裝技能 <<防禦强化>>.
+套裝技能 <<毅力>>.
+套裝技能 <<加速再生>>.
+套裝技能 <<達人藝>>.
+套裝技能 <<風壓完全無效>>.
+套裝技能 <<超回復力>>.
+套裝技能 <<捕獲名人>>.
+套裝技能 <<利刃/彈藥節約>>.
+套裝技能 <<強運>>.
+套裝技能 <<剝取名人>>.
+套裝技能 <<突破耐力上限>>.
+套裝技能 <<心眼/彈道強化>>.
+套裝技能 <<飛燕【屬性】>>.
+套裝技能 <<達人藝>>.
