@@ -1,234 +1,234 @@
-Poison Charm I
-Poison Charm II
-Poison Charm III
-Attack Charm I
-Attack Charm II
-Attack Charm III
-Defense Charm I
-Defense Charm II
-Defense Charm III
-Paralysis Charm I
-Paralysis Charm II
-Paralysis Charm III
-Sleep Charm I
-Sleep Charm II
-Sleep Charm III
-Stun Charm I
-Stun Charm II
-Stun Charm III
-Windproof Charm I
-Windproof Charm II
-Windproof Charm III
-Health Charm I
-Health Charm II
-Health Charm III
-Recovery Charm I
-Recovery Charm II
-Recovery Charm III
-Fire Charm I
-Fire Charm II
-Fire Charm III
-Water Charm I
-Water Charm II
-Water Charm III
-Thunder Charm I
-Thunder Charm II
-Thunder Charm III
-Blaze Charm I
-Blaze Charm II
-Blaze Charm III
-Flood Charm I
-Flood Charm II
-Flood Charm III
-Shock Charm I
-Shock Charm II
-Shock Charm III
-Venom Charm I
-Venom Charm II
-Venom Charm III
-Immobilize Charm I
-Immobilize Charm II
-Immobilize Charm III
-Tranq Charm I
-Tranq Charm II
-Tranq Charm III
-KO Charm I
-KO Charm II
-KO Charm III
-Enervate Charm I
-Enervate Charm II
-Enervate Charm III
-Artillery Charm I
-Artillery Charm II
-Artillery Charm III
-Hungerless Charm I
-Hungerless Charm II
-Hungerless Charm III
-Ironside Charm I
-Ironside Charm II
-Ironside Charm III
-Friendship Charm I
-Friendship Charm II
-Friendship Charm III
-Extension Charm I
-Extension Charm II
-Extension Charm III
-Glutton's Charm I
-Glutton's Charm II
-Glutton's Charm III
-Blessing Charm I
-Blessing Charm II
-Blessing Charm III
-Rally Charm I
-Rally Charm II
-Rally Charm III
-Botany Charm I
-Botany Charm II
-Botany Charm III
-Geology Charm I
-Geology Charm II
-Geology Charm III
-Slinger Charm I
-Slinger Charm II
-Slinger Charm III
-Stealth Charm I
-Stealth Charm II
-Stealth Charm III
-Smoke Charm I
-Smoke Charm II
-Smoke Charm III
-Mirewalker Charm I
-Mirewalker Charm II
-Mirewalker Charm III
-Insect Charm I
-Insect Charm II
-Insect Charm III
-Intimidator Charm I
-Intimidator Charm II
-Intimidator Charm III
-Heavy Artillery Charm I
-Heavy Artillery Charm II
-Light Eater's Charm
-Tracker Charm
-Fortification Charm
-Performer's Charm
-Capacity Charm
-Bleed Charm I
-Bleed Charm II
-Bleed Charm III
-Speed Heal Charm I
-Speed Heal Charm II
-Speed Heal Charm III
-Ice Charm I
-Ice Charm II
-Ice Charm III
-Blight Charm I
-Blight Charm II
-Blight Charm III
-Frost Charm I
-Frost Charm II
-Frost Charm III
-Master's Charm I
-Master's Charm II
-Master's Charm III
-Evasion Charm I
-Evasion Charm II
-Evasion Charm III
-Sheath Charm I
-Sheath Charm II
-Sheath Charm III
-Whetstone Charm I
-Whetstone Charm II
-Whetstone Charm III
-Blast Charm I
-Blast Charm II
-Blast Charm III
-Dragon Charm I
-Dragon Charm II
-Dragon Charm III
-Wyrmsbane Charm I
-Wyrmsbane Charm II
-Wyrmsbane Charm III
-Demolition Charm I
-Demolition Charm II
-Demolition Charm III
-Draw Charm I
-Draw Charm II
-Special Shot Charm I
-Special Shot Charm II
-Marathon Charm I
-Marathon Charm II
-Fitness Charm I
-Fitness Charm II
-Fitness Charm III
-Surge Charm I
-Surge Charm II
-Leaping Charm I
-Leaping Charm II
-Bombardier Charm I
-Bombardier Charm II
-Bombardier Charm III
-Mushroom Charm I
-Mushroom Charm II
-Awakening Charm I
-Awakening Charm II
-Handicraft Charm I
-Handicraft Charm II
-Handicraft Charm III
-Mud Puppy Charm
-Trickshot Charm
-獵人Life Charm
-Procurer's Charm
-Gatherer's Charm
-Guard Charm I
-Guard Charm II
-Guard Charm III
-Earplugs Charm I
-Earplugs Charm II
-Earplugs Charm III
-Tremor Charm I
-Tremor Charm II
-Exploiter Charm I
-Exploiter Charm II
-Focus Charm I
-Focus Charm II
-Breaker Charm I
-Breaker Charm II
-Fury Charm I
-Fury Charm II
-Grit Charm I
-Grit Charm II
-Maintenance Charm I
-Maintenance Charm II
-Maintenance Charm III
-Power Charm I
-Power Charm II
-Challenger Charm I
-Challenger Charm II
-Unscathed Charm I
-Unscathed Charm II
-Mighty Charm I
-Mighty Charm II
-Impact Charm I
-Impact Charm II
-Miasma Charm I
-Miasma Charm II
-Miasma Charm III
-Normal Shots Charm
-Clearmind Charm
-Rider's Charm
-Surveyor's Charm
-Critical Charm I
-Invigorate Charm I
-Invigorate Charm II
-Penetration Charm
-Dispersal Charm
-Poison Coating Charm
-Para Coating Charm
-Sleep Coating Charm
-Blast Coating Charm
-Geomancy Charm
-Gale Charm
-Wyrmslayer Charm
-Bulwark Charm
-Fair Wind Charm
+耐毒護石 I
+耐毒護石 II
+耐毒護石 III
+攻擊護石 I
+攻擊護石 II
+攻擊護石 III
+防禦護石 I
+防禦護石 II
+防禦護石 III
+耐痹護石 I
+耐痹護石 II
+耐痹護石 III
+耐眠護石 I
+耐眠護石 II
+耐眠護石 III
+耐絶護石 I
+耐絶護石 II
+耐絶護石 III
+防風護石 I
+防風護石 II
+防風護石 III
+體力護石 I
+體力護石 II
+體力護石 III
+治癒護石 I
+治癒護石 II
+治癒護石 III
+耐火護石 I
+耐火護石 II
+耐火護石 III
+耐水護石 I
+耐水護石 II
+耐水護石 III
+耐雷護石 I
+耐雷護石 II
+耐雷護石 III
+火炎護石 I
+火炎護石 II
+火炎護石 III
+流水護石 I
+流水護石 II
+流水護石 III
+雷光護石 I
+雷光護石 II
+雷光護石 III
+毒擊護石 I
+毒擊護石 II
+毒擊護石 III
+痹擊護石 I
+痹擊護石 II
+痹擊護石 III
+睡擊護石 I
+睡擊護石 II
+睡擊護石 III
+KO護石 I
+KO護石 II
+KO護石 III
+奪氣護石 I
+奪氣護石 II
+奪氣護石 III
+砲術護石 I
+砲術護石 II
+砲術護石 III
+無食護石 I
+無食護石 II
+無食護石 III
+鐵壁護石 I
+鐵壁護石 II
+鐵壁護石 III
+友愛護石 I
+友愛護石 II
+友愛護石 III
+持續護石 I
+持續護石 II
+持續護石 III
+快吃護石 I
+快吃護石 II
+快吃護石 III
+加護護石 I
+加護護石 II
+加護護石 III
+指揮護石 I
+指揮護石 II
+指揮護石 III
+植學護石 I
+植學護石 II
+植學護石 III
+地學護石 I
+地學護石 II
+地學護石 III
+投石護石 I
+投石護石 II
+投石護石 III
+潛伏護石 I
+潛伏護石 II
+潛伏護石 III
+煙復護石 I
+煙復護石 II
+煙復護石 III
+沼渡護石 I
+沼渡護石 II
+沼渡護石 III
+昆蟲學護石護石 I
+昆蟲學護石護石 II
+昆蟲學護石護石 III
+威嚇護石 I
+威嚇護石 II
+威嚇護石 III
+砲撃手護石 I
+砲撃手護石 II
+小胃口護石
+追蹤護石
+不屈護石
+吹笛護石
+裝填護石
+耐裂護石 I
+耐裂護石 II
+耐裂護石 III
+早復l護石 I
+早復l護石 II
+早復l護石 III
+耐冰護石 I
+耐冰護石 II
+耐冰護石 III
+耐屬護石 I
+耐屬護石 II
+耐屬護石 III
+冰結護石 I
+冰結護石 II
+冰結護石 III
+達人護石 I
+達人護石 II
+達人護石 III
+回避護石 I
+回避護石 II
+回避護石 III
+納刀護石 I
+納刀護石 II
+納刀護石 III
+研磨護石 I
+研磨護石 II
+研磨護石 III
+耐爆護石 I
+耐爆護石 II
+耐爆護石 III
+耐龍護石 I
+耐龍護石 II
+耐龍護石 III
+破龍護石 I
+破龍護石 II
+破龍護石 III
+爆破護石 I
+爆破護石 II
+爆破護石 III
+拔刀護石 I
+拔刀護石 II
+特射護石 I
+特射護石 II
+强走護石 I
+强走護石 II
+體術護石 I
+體術護石 II
+體術護石 III
+早氣護石 I
+早氣護石 II
+跳躍護石 I
+跳躍護石 II
+爆師護石 I
+爆師護石 II
+爆師護石 III
+茸好護石 I
+茸好護石 II
+覺醒護石 I
+覺醒護石 II
+匠之護石 I
+匠之護石 II
+匠之護石 III
+泥浴護石
+陷阱彈護石
+狩獵生活護石
+調查達人護石
+採集鐵人護石
+耐防護石 I
+耐防護石 II
+耐防護石 III
+耳塞護石 I
+耳塞護石 II
+耳塞護石 III
+耐震護石 I
+耐震護石 II
+痛擊護石 I
+痛擊護石 II
+集中護石 I
+集中護石 II
+重擊護石 I
+重擊護石 II
+逆上護石 I
+逆上護石 II
+底力護石 I
+底力護石 II
+整備護石 I
+整備護石 II
+整備護石 III
+全開護石 I
+全開護石 II
+挑戰護石 I
+挑戰護石 II
+無傷護石 I
+無傷護石 II
+渾身護石 I
+渾身護石 II
+耐衝護石 I
+耐衝護石 II
+耐瘴護石 I
+耐瘴護石 II
+耐瘴護石 III
+通常彈護石
+心靜自然涼護石
+騎手護石
+調查達人護石
+超心護石
+昂揚護石 I
+昂揚護石 II
+貫通彈護石
+散彈護石
+毒瓶護石
+麻痹瓶護石
+睡眠瓶護石
+爆破瓶護石
+風水護石
+疾風護石
+滅龍護石
+堅守護石
+追風護石
