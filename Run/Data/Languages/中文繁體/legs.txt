@@ -1,0 +1,176 @@
+﻿皮製Trousers
+鎖甲Trousers
+獵人Greaves
+骨製Greaves
+巨蜂Greaves
+
+Gajau Boots
+凶豺龍Greaves
+搔鳥Greaves
+合金Greaves
+毒妖鳥Greaves
+土砂龍Greaves
+泥魚龍Greaves
+飛雷龍Greaves
+礦石Greaves
+獨角仙Crura
+燕尾蝶Crura
+
+巨甲蟲Greaves
+蠻顎龍Greaves
+雌火龍Greaves
+眩鳥Greaves
+浮空龍Greaves
+凶顎龍Greaves
+骨鎚龍Greaves
+鑄鐵Greaves
+死神Heel
+旅團Boots
+風漂龍Greaves
+慘爪龍Greaves
+火龍Greaves
+角龍Greaves
+麒麟Leg Guards
+皮製Trousers α
+皮製Trousers β
+鎖甲Trousers α
+鎖甲Trousers β
+獵人Greaves α
+獵人Greaves β
+骨製Greaves α
+骨製Greaves β
+合金Greaves α
+合金Greaves β
+獨角仙Crura α
+獨角仙Crura β
+燕尾蝶Crura α
+燕尾蝶Crura β
+巨蜂Greaves α
+巨蜂Greaves β
+巨甲蟲Greaves α
+巨甲蟲Greaves β
+
+
+
+Gajau Boots α
+Gajau Boots β
+
+
+凶豺龍Greaves α
+凶豺龍Greaves β
+搔鳥Greaves α
+搔鳥Greaves β
+眩鳥Greaves α
+眩鳥Greaves β
+凶顎龍Greaves α
+凶顎龍Greaves β
+毒妖鳥Greaves α
+毒妖鳥Greaves β
+土砂龍Greaves α
+土砂龍Greaves β
+蠻顎龍Greaves α
+蠻顎龍Greaves β
+泥魚龍Greaves α
+泥魚龍Greaves β
+飛雷龍Greaves α
+飛雷龍Greaves β
+浮空龍Greaves α
+浮空龍Greaves β
+雌火龍Greaves α
+雌火龍Greaves β
+火龍心Greaves α
+火龍心Greaves β
+骨鎚龍Greaves α
+骨鎚龍Greaves β
+
+
+
+
+岩賊龍Greaves α
+岩賊龍Greaves β
+鑄島熔岩Spurs α
+鑄島熔岩Spurs β
+礦石Greaves α
+礦石Greaves β
+鑄鐵Greaves α
+鑄鐵Greaves β
+旅團Boots α
+旅團Boots β
+
+
+熔岩龍Greaves α
+熔岩龍Greaves β
+風漂龍Greaves α
+風漂龍Greaves β
+慘爪龍Greaves α
+慘爪龍Greaves β
+火龍Greaves α
+火龍Greaves β
+火龍魂Greaves α
+火龍魂Greaves β
+角龍Greaves α
+角龍Greaves β
+暴君角龍Greaves α
+暴君角龍Greaves β
+爆鎚龍Greaves α
+爆鎚龍Greaves β
+爆鱗龍Greaves α
+爆鱗龍Greaves β
+大馬士革Greaves α
+大馬士革Greaves β
+杜賓Greaves α
+杜賓Greaves β
+死神Heel α
+死神Heel β
+
+戰紋Greaves α
+戰紋Greaves β
+帝王Greaves α
+帝王Greaves β
+鋼龍Crus α
+鋼龍Crus β
+烏爾德Greaves α
+烏爾德Greaves β
+麒麟Leg Guards α
+麒麟Leg Guards β
+異種大型Spurs α
+異種大型Spurs β
+公會十字Boots α
+公會十字Boots β
+
+追蹤者Pants α
+追蹤者Pants β
+殘虐Greaves α
+殘虐Greaves β
+皇后Greaves α
+皇后Greaves β
+Drachen Greaves α
+Aloy's Leggings α
+Ryu's Legs
+Ryu's Legs α
+Sakura's Legs α
+燕尾蝶Crura
+獨角仙后Crura
+巴魯特Boots
+巴魯特Boots α
+收穫Raiz
+收穫Raiz α
+獵戶星靴
+獵戶星靴 α
+絢輝龍鎧羅Wrath α
+絢輝龍鎧羅Wrath β
+但丁皮製Boots α
+蒼星之將Guards α
+麒麟Leg Guards γ
+烏爾德Greaves γ
+帝王Greaves γ
+鋼龍Crus γ
+皇后Greaves γ
+鑄島熔岩Spurs γ
+異種大型Spurs γ
+潛水夫Boots
+潛水夫Boots α
+燕尾蝶Crura α
+燕尾蝶Crura β
+獨角仙后Crura α
+獨角仙后Crura β

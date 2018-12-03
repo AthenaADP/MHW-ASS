@@ -1,0 +1,176 @@
+﻿皮製Belt
+鎖甲Belt
+獵人Coil
+骨製Coil
+巨蜂Coil
+
+
+凶豺龍Coil
+搔鳥Coil
+合金Coil
+毒妖鳥Coil
+土砂龍Coil
+泥魚龍Coil
+飛雷龍Coil
+礦石Coil
+獨角仙Elytra
+燕尾蝶Elytra
+
+巨甲蟲Coil
+蠻顎龍Coil
+雌火龍Coil
+眩鳥Coil
+浮空龍Coil
+凶顎龍Coil
+骨鎚龍Coil
+鑄鐵Coil
+死神Bowels
+旅團Coil
+風漂龍Coil
+慘爪龍Coil
+火龍Coil
+角龍Coil
+麒麟Hoop
+皮製Belt α
+皮製Belt β
+鎖甲Belt α
+鎖甲Belt β
+獵人Coil α
+獵人Coil β
+骨製Coil α
+骨製Coil β
+合金Coil α
+合金Coil β
+獨角仙Elytra α
+獨角仙Elytra β
+燕尾蝶Elytra α
+燕尾蝶Elytra β
+巨蜂Coil α
+巨蜂Coil β
+巨甲蟲Coil α
+巨甲蟲Coil β
+
+
+
+
+
+
+
+凶豺龍Coil α
+凶豺龍Coil β
+搔鳥Coil α
+搔鳥Coil β
+眩鳥Coil α
+眩鳥Coil β
+凶顎龍Coil α
+凶顎龍Coil β
+毒妖鳥Coil α
+毒妖鳥Coil β
+土砂龍Coil α
+土砂龍Coil β
+蠻顎龍Coil α
+蠻顎龍Coil β
+泥魚龍Coil α
+泥魚龍Coil β
+飛雷龍Coil α
+飛雷龍Coil β
+浮空龍Coil α
+浮空龍Coil β
+雌火龍Coil α
+雌火龍Coil β
+火龍心Coil α
+火龍心Coil β
+骨鎚龍Coil α
+骨鎚龍Coil β
+
+
+
+
+岩賊龍Coil α
+岩賊龍Coil β
+鑄島熔岩Spine α
+鑄島熔岩Spine β
+礦石Coil α
+礦石Coil β
+鑄鐵Coil α
+鑄鐵Coil β
+旅團Coil α
+旅團Coil β
+
+
+熔岩龍Coil α
+熔岩龍Coil β
+風漂龍Coil α
+風漂龍Coil β
+慘爪龍Coil α
+慘爪龍Coil β
+火龍Coil α
+火龍Coil β
+火龍魂Coil α
+火龍魂Coil β
+角龍Coil α
+角龍Coil β
+暴君角龍Coil α
+暴君角龍Coil β
+爆鎚龍Coil α
+爆鎚龍Coil β
+爆鱗龍Coil α
+爆鱗龍Coil β
+大馬士革Coil α
+大馬士革Coil β
+杜賓Coil α
+杜賓Coil β
+死神Bowels α
+死神Bowels β
+
+戰紋Coil α
+戰紋Coil β
+帝王Coil α
+帝王Coil β
+鋼龍Cocoon α
+鋼龍Cocoon β
+烏爾德Coil α
+烏爾德Coil β
+麒麟Hoop α
+麒麟Hoop β
+異種大型Spine α
+異種大型Spine β
+公會十字Coil α
+公會十字Coil β
+
+追蹤者Belt α
+追蹤者Belt β
+殘虐Coil α
+殘虐Coil β
+皇后Coil α
+皇后Coil β
+Drachen Coil α
+Aloy's Torso α
+Ryu's Torso
+Ryu's Torso α
+Sakura's Skirt α
+燕尾蝶Elytra
+獨角仙后Elytra
+巴魯特Coat
+巴魯特Coat α
+收穫Hoja
+收穫Hoja α
+獵戶星風衣
+獵戶星風衣 α
+絢輝龍鎧羅Malice α
+絢輝龍鎧羅Malice β
+但丁Belt α
+蒼星之將Tassets α
+麒麟Hoop γ
+烏爾德Coil γ
+帝王Coil γ
+鋼龍Cocoon γ
+皇后Coil γ
+鑄島熔岩Spine γ
+異種大型Spine γ
+潛水夫Belt
+潛水夫Belt α
+燕尾蝶Elytra α
+燕尾蝶Elytra β
+獨角仙后Elytra α
+獨角仙后Elytra β

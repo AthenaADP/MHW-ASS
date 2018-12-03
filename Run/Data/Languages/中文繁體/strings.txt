@@ -1,0 +1,198 @@
+﻿#  MHW ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+-
+
+#Menu options
+文件(&F)
+設定(&O)
+語言(&L)
+幫助(&H)
+加載(&L)
+保存(&S)
+更新(&U)
+退出(&X)
+
+#This option resets all settings to default
+重置設定(&C)
+
+#This refers to armor made from Arena coins
+允許鬥技場製作裝備(&A)
+
+#Event items from Event/Challenge quests
+允許挑戰製作裝備(&E)
+
+#Allow the special pre-order bonus "Fair Wind Charm"
+允許追風護石(&F)
+
+#This setting will ignore low rank armor if you are in high rank
+允許下位裝備(&L)
+
+#Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
+總是搜索α防具
+
+#Toggling all Event (DLC) armor
+全選
+全關
+
+Sort Skills Alpha&betically
+
+&Donate
+技能信息(&S)
+
+#This option opens a browser to my Facebook page
+檢查更新(&U)
+
+關於(&A)
+我的裝飾品(&D)
+導入(&I)
+快速搜索(&Q)
+高級搜索(&A)
+取消(&C)
+默認(&D)
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&None
+
+#This string is used in the combobox that sorts solutions by various criteria
+無排序
+
+#Buttons
+搜索(&S)
+取消選擇(&N)
+Select &Best
+追加(&A)
+重置(&R)
+移除(&R)
+全部移除(&A)
+向上移動(&U)
+向下移動(&D)
+關閉(&C)
+查找下一個(&F)
+
+任務等級
+武器孔位
+性別
+男性
+女性
+無額外技能排序
+結果排序/過濾
+
+龍耐性
+火耐性
+冰耐性
+雷耐性
+水耐性
+基礎防禦
+最大防禦
+平均防禦
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+難易度
+
+稀有度
+剩餘孔位
+
+#When sorting solutions, "Family" refers to which monsters the gear is made from
+套裝
+
+#Extra Skills are skills that a solution may have that the user did not search for
+額外技能
+
+裝飾品
+完全不用裝飾品
+使用我的裝飾品
+使用全部裝飾品
+
+技能
+技能
+技能過濾
+
+#Used in the Advanced Search dialog
+選擇裝備
+
+孔數
+孔位等級
+(none)
+
+#When a solution has spare slots. Format: "3 slots spare (1+1+2)"
+%1 slots spare
+
+查找結果數：
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+僅顯示前 %1 個搜索結果：
+
+Decoration list
+File is corrupt.
+Version
+Find
+
+#Used in some error popups
+Error
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 to %2
+
+Defence
+Results
+Delete All Decorations
+ASS Settings
+最大搜索結果數(&M)
+顯示裝飾品名稱
+顯示製造材料列表
+Preview Image Default &Zoom
+
+#Showing min/max defence and elemental resists
+%1-%2 Def, %3 Fir, %4 Wat, %5 Ice, %6 Thn, %7 Drg
+
+#This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
+%1 Jewel
+
+#Item Type refers to weapon/helm/body armor/etc.
+Item Type
+
+#This string is for displaying potential extra skills
+(%1 possible)
+
+#Strings for the skill description dialog
+Show
+Description
+Skills
+Skill Trees
+Available from these Armor pieces:
+Available as a set bonus from these Armor pieces:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+All
+
+#Confirmation popup
+Are you sure?
+
+#Skill Level. %1 is the skill name, %2 is the level number
+%1 Lv%2
+
+#Slot formatting. Gear can have up to 3 slots, each with a level from 1-3
+%1-%2-%3
+
+#Showing a number of decorations. First value is the number, second is the name. E.g. 3x Thunder Jewel
+%1x %2
+
+#For a filter that excludes a skill
+No %1
+
+#Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
+Completed
