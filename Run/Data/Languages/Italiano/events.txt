@@ -21,5 +21,6 @@ Armatura Drachen α
 Armatura Teostra γ
 Armatura Kushala γ
 Armatura raccolto/raccolto α
+Orion/Orion α Armor
 Armatura Lunastra γ
 Armatura Zorah Magdaros γ

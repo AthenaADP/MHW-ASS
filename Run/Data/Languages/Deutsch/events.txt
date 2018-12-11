@@ -21,5 +21,6 @@ Drachenreiter α Rüstung
 Kaiser γ Rüstung
 Kushala γ Rüstung
 Ernte/Ernte α Rüstung
+Orion/Orion α Armor
 Lunastra γ Rüstung
 Zorah Magdaros γ Rüstung

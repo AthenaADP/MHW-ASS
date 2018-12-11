@@ -1,4 +1,4 @@
-Leather Headgear
+﻿Leather Headgear
 Chainmail Headgear
 Hunter's Headgear
 Bone Helm
@@ -155,6 +155,8 @@ Blossom Headgear
 Blossom Headgear α
 Harvest Flor
 Harvest Flor α
+Orion Cap
+Orion Cap α
 Kulve Taroth's Fury α
 Kulve Taroth's Fury β
 Dante's Hair α

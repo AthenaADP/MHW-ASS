@@ -1,4 +1,4 @@
-Leather Belt
+﻿Leather Belt
 Chainmail Belt
 Hunter's Coil
 Bone Coil
@@ -155,6 +155,8 @@ Blossom Coat
 Blossom Coat α
 Harvest Hoja
 Harvest Hoja α
+Orion Coat
+Orion Coat α
 Kulve Taroth's Malice α
 Kulve Taroth's Malice β
 Dante's Belt α
