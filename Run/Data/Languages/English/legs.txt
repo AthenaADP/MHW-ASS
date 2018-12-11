@@ -1,4 +1,4 @@
-Leather Trousers
+﻿Leather Trousers
 Chainmail Trousers
 Hunter's Greaves
 Bone Greaves
@@ -155,6 +155,8 @@ Blossom Boots
 Blossom Boots α
 Harvest Raiz
 Harvest Raiz α
+Orion Boots
+Orion Boots α
 Kulve Taroth's Wrath α
 Kulve Taroth's Wrath β
 Dante's Leather Boots α

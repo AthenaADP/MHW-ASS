@@ -1,4 +1,4 @@
-Leather Gloves
+﻿Leather Gloves
 Chainmail Gloves
 Hunter's Vambraces
 Bone Vambraces
@@ -155,6 +155,8 @@ Blossom Cuffs
 Blossom Cuffs α
 Harvest Trama
 Harvest Trama α
+Orion Vambraces
+Orion Vambraces α
 Kulve Taroth's Rage α
 Kulve Taroth's Rage β
 Dante's Gloves α

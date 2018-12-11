@@ -525,6 +525,7 @@ Val Habar Quartz 교역 아이템
 흔들흔들 티켓
 익룡의 가죽
 익룡의 가죽+
+Winter Star Ticket
 낡은 구슬
 용골 덩어리
 용옥

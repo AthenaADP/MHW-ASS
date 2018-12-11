@@ -1,4 +1,4 @@
-Deviljho Armor
+﻿Deviljho Armor
 Aloy's Armor (full set)
 Ryu's Armor (full set)
 Ryu's α Armor (full set)
@@ -21,5 +21,6 @@ Drachen α Armor
 Teostra γ Armor
 Kushala Daora γ Armor
 Harvest/Harvest α Armor
+Orion/Orion α Armor
 Lunastra γ Armor
 Zorah Magdaros γ Armor

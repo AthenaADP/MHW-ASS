@@ -1,4 +1,4 @@
-Leather Mail
+﻿Leather Mail
 Chainmail Vest
 Hunter's Mail
 Bone Mail
@@ -155,6 +155,8 @@ Blossom Vest
 Blossom Vest α
 Harvest Tronco
 Harvest Tronco α
+Orion Vest
+Orion Vest α
 Kulve Taroth's Ire α
 Kulve Taroth's Ire β
 Dante's Coat α
