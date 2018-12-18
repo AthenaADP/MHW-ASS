@@ -1,7 +1,7 @@
 #pragma once
 
-#define VERSION_NO 0.58b
-#define VERSION_RC 0,5,8,1
+#define VERSION_NO 0.59b
+#define VERSION_RC 0,5,9,1
 
 #define STRINGIZE2(X) #X
 #define STRINGIZE(X) STRINGIZE2(X)
