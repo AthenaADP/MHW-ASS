@@ -21,6 +21,7 @@ Armure Drachen α
 Armure Teostra γ
 Armure Kushala γ
 Armure de récolte/récolte α
-Orion/Orion α Armor
 Armure Lunastra γ
 Armure Zorah Magdaros γ
+Armure Xeno'jiiva γ
+Armure Orion/Orion α

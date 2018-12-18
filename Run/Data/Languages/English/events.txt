@@ -21,6 +21,7 @@ Drachen α Armor
 Teostra γ Armor
 Kushala Daora γ Armor
 Harvest/Harvest α Armor
-Orion/Orion α Armor
 Lunastra γ Armor
 Zorah Magdaros γ Armor
+Xeno'jiiva γ Armor
+Orion/Orion α Armor
