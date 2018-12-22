@@ -5,7 +5,7 @@ Armure Ryu α (Set complet)
 Armure Sakura α (Set complet)
 Armure Papillon/Scarabée
 Armure Printemps/Printemps α 
-Armure Kulve Taroth
+Armure Kulve Taroth α+β
 Armure Dante
 Armure Azure Starlord (USJ)
 Cache oeil interdit α
@@ -25,3 +25,4 @@ Armure Lunastra γ
 Armure Zorah Magdaros γ
 Armure Xeno'jiiva γ
 Armure Orion/Orion α
+Armure Kulve Taroth γ

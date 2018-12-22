@@ -5,7 +5,7 @@ Armatura Ryu α (set completo)
 Armatura Sakura (set completo)
 Armatura farfalla/scarabeo
 Armatura floreale/floreale α
-Armatura Kulve Taroth
+Armatura Kulve Taroth α+β
 Armatura Dante
 Armatura sommo celeste
 Benda nera α
@@ -25,3 +25,4 @@ Armatura Lunastra γ
 Armatura Zorah Magdaros γ
 Armatura Xeno'jiiva γ
 Armatura Orion/Orion α
+Armatura Kulve Taroth γ
