@@ -263,7 +263,7 @@ Kulu-Ya-Ku: piuma+
 Kulu-Ya-Ku: scaglia
 Kulu-Ya-Ku: scaglia+
 Stampa Kulu-Ya-Ku
-Kulve Taroth Emperor Nugget
+Kulve Taroth: pepita imperatore
 Kulve Taroth: gemma dorata
 Kulve Taroth: pepita dorata
 Kulve Taroth: scaglia dorata
