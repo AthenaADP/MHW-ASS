@@ -2635,6 +2635,11 @@ private:
 			box->EndUpdate();
 		}
 
+		if( HaveAllDLCEnabled() )
+			mnuToggleAllDLC->Text = StaticString( DisableAll );
+		else
+			mnuToggleAllDLC->Text = StaticString( EnableAll );
+
 		for( int i = 0; i < Armor::static_dlc.Count; ++i )
 		{
 			mnuAllowEventArmor->DropDownItems[ i + 2 ]->Text = Armor::static_dlc[ i ]->name;

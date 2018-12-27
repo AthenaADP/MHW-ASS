@@ -155,8 +155,8 @@ Manches Printemps
 Manches Printemps α
 Harvest Trama
 Harvest Trama α
-Orion Vambraces
-Orion Vambraces α
+Moufles Orion
+Moufles Orion α
 Rage Kulve Taroth α
 Rage Kulve Taroth β
 Gants Dante α
@@ -168,6 +168,7 @@ Poigne Kushala γ
 Gants Impératrix γ
 Griffes Zorah γ
 Griffes Xeno'jiiva γ
+Rage Kulve Taroth γ
 Gants de plongée
 Gants de plongée α
 Brachia Papillon α

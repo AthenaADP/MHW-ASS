@@ -173,12 +173,11 @@ void Solution::ReduceCharm()
 				abilities[ ap->ability ] -= ap->amount;
 				charm = nullptr;
 			}
-			else
+			else if( have > ap->ability->max_level )
 			{
 				//otherwise, we'll keep the charm but reduce it down if it exceeds the max level of the ability
-				const unsigned excess = have - Math::Max( need, ap->ability->max_level );
-				if( excess > 0 )
-					charm = Charm::FindExactCharm( ap->ability, ap->amount - excess );
+				const unsigned excess = have - ap->ability->max_level;
+				charm = Charm::FindExactCharm( ap->ability, ap->amount - excess );
 			}
 		}
 	}

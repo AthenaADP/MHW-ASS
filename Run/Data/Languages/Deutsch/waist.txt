@@ -155,8 +155,8 @@ Blüten-Hüftschutz
 Blüten-Hüftschutz α
 Ernte-Hoja
 Ernte-Hoja α
-Orion Coat
-Orion Coat α
+Orion-Hüftschutz
+Orion-Hüftschutz α
 Kulve Taroths Groll α
 Kulve Taroths Groll β
 Dantes Gürtel α
@@ -168,6 +168,7 @@ Kushala-Kokon γ
 Kaiserin-Hüftring γ
 Zorah-Stachel γ
 Xeno'jiiva-Stachel γ
+Kulve Taroths Groll γ
 Tauchergürtel
 Tauchergürtel α
 Schmetterling-Elytra α

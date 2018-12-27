@@ -155,8 +155,8 @@ Blüten-Manschetten
 Blüten-Manschetten α
 Ernte-Trama
 Ernte-Trama α
-Orion Vambraces
-Orion Vambraces α
+Orion-Armschutz
+Orion-Armschutz α
 Kulve Taroths Rage α
 Kulve Taroths Rage β
 Dantes Handschuhe α
@@ -168,6 +168,7 @@ Kushala-Klauen γ
 Kaiserin-Armschienen γ
 Zorah-Klauen γ
 Xeno'jiiva-Klauen γ
+Kulve Taroths Rage γ
 Taucherhandschuhe
 Taucherhandschuhe α
 Schmetterling-Brachia α

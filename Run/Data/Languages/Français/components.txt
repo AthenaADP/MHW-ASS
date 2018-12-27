@@ -263,6 +263,7 @@ Aigrette Kulu-Ya-Ku +
 Écaille Kulu-Ya-Ku
 Écaille Kulu-Ya-Ku +
 Ticket Kulu-Ya-Ku
+Pépite impériale Kulve Taroth
 Gemme d'or Kulve Taroth
 Pépite d'or Kulve Taroth
 Écaille d'or Kulve Taroth
@@ -525,7 +526,7 @@ Steak à point
 Ticket tortilleur
 Peau drake ailé
 Peau drake ailé +
-Winter Star Ticket
+Ticket Hiver
 Joyau ???4
 Masse osseuse wyvern
 Gemme wyverne

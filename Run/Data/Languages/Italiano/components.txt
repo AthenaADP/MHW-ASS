@@ -263,6 +263,7 @@ Kulu-Ya-Ku: piuma+
 Kulu-Ya-Ku: scaglia
 Kulu-Ya-Ku: scaglia+
 Stampa Kulu-Ya-Ku
+Kulve Taroth: pepita imperatore
 Kulve Taroth: gemma dorata
 Kulve Taroth: pepita dorata
 Kulve Taroth: scaglia dorata
@@ -525,7 +526,7 @@ Whetfish Fin+
 Buono tremoglia
 Pterowyvern: pelle
 Pterowyvern: pelle+
-Winter Star Ticket
+Buono stelle d’inverno
 Worn Feystone
 Massa ossea wyvern
 Gemma Wyvern

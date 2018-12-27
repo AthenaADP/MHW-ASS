@@ -155,8 +155,8 @@ Elmo floreale
 Elmo floreale α
 Fior del raccolto
 Fior del raccolto α
-Orion Cap
-Orion Cap α
+Copricapo di Orione
+Copricapo di Orione α
 Furia di Kulve Taroth α
 Furia di Kulve Taroth β
 Capelli di Dante α
@@ -168,6 +168,7 @@ Riverbero di Kushala γ
 Corona dell'imperatrice γ
 Testa di Zorah γ
 Testa di Xeno'jiiva γ
+Furia di Kulve Taroth γ
 Maschera da sommozzatore
 Maschera da sommozzatore α
 Vertex di farfalla α

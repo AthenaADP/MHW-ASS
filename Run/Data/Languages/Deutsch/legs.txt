@@ -155,8 +155,8 @@ Blüten-Stiefel
 Blüten-Stiefel α
 Ernte-Raiz
 Ernte-Raiz α
-Orion Boots
-Orion Boots α
+Orion-Stiefel
+Orion-Stiefel α
 Kulve Taroths Zorn α
 Kulve Taroths Zorn β
 Dantes Lederstiefel α
@@ -168,6 +168,7 @@ Kushala-Crus γ
 Kaiserin-Beinschienen γ
 Zorah-Sporen γ
 Xeno'jiiva-Sporen γ
+Kulve Taroths Zorn γ
 Taucherstiefel
 Taucherstiefel α
 Schmetterling-Crura α

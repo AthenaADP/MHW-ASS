@@ -5,7 +5,7 @@ Ryu's α Armor (full set)
 Sakura's Armor (full set)
 Butterfly/Queen Beetle Armor
 Blossom/Blossom α Armor
-Kulve Taroth Armor
+Kulve Taroth α+β Armor
 Dante's Armor
 Azure Starlord Armor
 Sealed Eyepatch α
@@ -21,6 +21,8 @@ Drachen α Armor
 Teostra γ Armor
 Kushala Daora γ Armor
 Harvest/Harvest α Armor
-Orion/Orion α Armor
 Lunastra γ Armor
 Zorah Magdaros γ Armor
+Xeno'jiiva γ Armor
+Orion/Orion α Armor
+Kulve Taroth γ Armor

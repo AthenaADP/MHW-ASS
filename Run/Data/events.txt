@@ -21,6 +21,8 @@ Aetheryte Shard,Behemoth Bone,Behemoth Great Horn,Behemoth Mane,Behemoth Shearcl
 Teostra Ticket
 Kushala Daora Ticket
 Autumn Harvest Ticket
-Winter Star Ticket
 Lunastra Ticket
 Zorah Magdaros Ticket
+Xeno'jiiva Ticket
+Winter Star Ticket
+Kulve Taroth Emperor Nugget

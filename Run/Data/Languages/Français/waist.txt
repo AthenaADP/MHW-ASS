@@ -155,8 +155,8 @@ Jupette Printemps
 Jupette Printemps α
 Harvest Hoja
 Harvest Hoja α
-Orion Coat
-Orion Coat α
+Jupette Orion
+Jupette Orion α
 Courroux Kulve Taroth α
 Courroux Kulve Taroth β
 Ceinture Dante α
@@ -168,6 +168,7 @@ Cocon Kushala γ
 Ceinture Impératrix γ
 Vertèbre Zorah γ
 Vertèbre Xeno'jiiva γ
+Courroux Kulve Taroth γ
 Ceinture de plongée
 Ceinture de plongée α
 Elytre Papillon α

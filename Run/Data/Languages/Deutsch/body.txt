@@ -155,8 +155,8 @@ Blüten-Weste
 Blüten-Weste α
 Ernte-Tronco
 Ernte-Tronco α
-Orion Vest
-Orion Vest α
+Orion-Weste
+Orion-Weste α
 Kulve Taroths Ärger α
 Kulve Taroths Ärger β
 Dantes Mantel α
@@ -168,6 +168,7 @@ Kushala-Zista γ
 Kaiserin-Panzerung γ
 Zorah-Lederhaut γ
 Xeno'jiiva-Lederhaut γ
+Kulve Taroths Ärger γ
 Taucheranzug
 Taucheranzug α
 Schmetterling-Thorax α

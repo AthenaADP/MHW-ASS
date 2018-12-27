@@ -155,8 +155,8 @@ Bottes Printemps
 Bottes Printemps α
 Harvest Raiz
 Harvest Raiz α
-Orion Boots
-Orion Boots α
+Pantalon Orion
+Pantalon Orion α
 Fureur Kulve Taroth β
 Fureur Kulve Taroth β
 Bottes de cuir Dantes α
@@ -168,6 +168,7 @@ Mollet Kushala γ
 Cuissards Impératrix γ
 Éperons Zorah γ
 Éperons Xeno'jiiva γ
+Fureur Kulve Taroth γ
 Pantalon de plongée
 Pantalon de plongée α
 Crura Papillon α

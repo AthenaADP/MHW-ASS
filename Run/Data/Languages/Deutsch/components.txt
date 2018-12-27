@@ -263,6 +263,7 @@ Kulu-Ya-Ku-Prachtfeder+
 Kulu-Ya-Ku-Schuppe
 Kulu-Ya-Ku-Schuppe+
 Kulu-Ya-Ku-Ticket
+KT Kaiserklumpen
 KT Goldener Glimmstein
 KT Goldener Klumpen
 KT Goldene Schuppe
@@ -525,7 +526,7 @@ Wetzfisch-Flosse+
 Wackelwurm-Ticket
 Flugdrachen-Lederhaut
 Flugdrachen-Lederhaut+
-Winter Star Ticket
+Winterstern-Ticket
 Worn Feystone
 Wyvern-Knochenmasse
 Wyvern-Edelstein

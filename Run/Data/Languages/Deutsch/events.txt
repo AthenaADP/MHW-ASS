@@ -5,7 +5,7 @@ Ryus α Rüstung (komplettes Set)
 Sakuras Rüstung (komplettes Set)
 Schmetterling/Königinnenkäfer Rüstung
 Blüten/Blüten α Rüstung
-Kulve Taroth Rüstung
+Kulve Taroth α,β Rüstung
 Dantes Rüstung
 Azurstern Gebieter Rüstung
 Dichte Augenklappe α
@@ -21,6 +21,8 @@ Drachenreiter α Rüstung
 Kaiser γ Rüstung
 Kushala γ Rüstung
 Ernte/Ernte α Rüstung
-Orion/Orion α Armor
 Lunastra γ Rüstung
 Zorah Magdaros γ Rüstung
+Xeno'jiiva γ Rüstung
+Orion/Orion α Rüstung
+Kulve Taroth γ Rüstung
