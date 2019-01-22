@@ -1,4 +1,4 @@
-Ceinture en cuir
+﻿Ceinture en cuir
 Ceinture de mailles
 Boucle de chasseur
 Tassette d'os
@@ -175,3 +175,5 @@ Elytre Papillon α
 Elytre Papillon β
 Élytre Scarabée α
 Élytre Scarabée β
+Gala Suit Tail
+Gala Suit Tail α

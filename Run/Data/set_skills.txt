@@ -31,3 +31,4 @@ Lunastra Favor,2,Stamina Cap Up
 Lunastra Favor,4,Mind's Eye/Ballistics
 Soul of the Dragoon,2,Elemental Airborne
 Soul of the Dragoon,4,Master's Touch
+Astera Blessing,5,Great Luck

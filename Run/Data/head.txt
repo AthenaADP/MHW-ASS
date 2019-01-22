@@ -182,3 +182,5 @@ Kulu-Ya-Ku Head α,,5,6,31,46,68,84,2,0,2,3,2,Pro Transporter,1,,,,,Kulu-Ya-Ku T
 Wiggler Head α,,5,6,11,46,68,84,0,4,0,0,4,Wide-Range,2,,,,,Wiggler Ticket,3,Shamos Hide+,4,Gajau Scale,4,Coral Bone,3
 Dragonseal Earrings α,Arena,7,8,0,60,72,86,0,0,0,0,0,Elderseal Boost,1,,,,,(B-Rank Arena Quests 8-9),0,,,,,,
 Pulverizing Feather,Arena,4,7,0,32,56,76,0,0,0,0,0,Bombardier,3,,,,,(B-Rank Arena Quests 1-7),0,,,,,,
+Gala Suit Top Hat,,4,5,0,34,58,78,1,1,1,1,4,Critical Boost,1,,,,,Appreciation Ticket,1,Monster Bone+,3,,,,
+Gala Suit Top Hat α,,7,7,211,64,70,84,1,1,1,1,4,Critical Boost,1,,,,,Appreciation Ticket,3,Elder Dragon Bone,3,High Commendation,2,,

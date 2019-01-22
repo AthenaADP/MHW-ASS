@@ -1,4 +1,4 @@
-Lunettes en cuir
+﻿Lunettes en cuir
 Heaume de mailles
 Coiffe de chasseur
 Casque d'os
@@ -181,3 +181,5 @@ Tête Kulu-Ya-Ku α
 Tête de tortilleur α
 Cache-eil Roi-dragon α
 Plume destructrice
+Gala Suit Top Hat
+Gala Suit Top Hat α

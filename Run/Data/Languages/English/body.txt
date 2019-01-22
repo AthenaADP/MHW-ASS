@@ -175,3 +175,5 @@ Butterfly Thorax α
 Butterfly Thorax β
 Queen Beetle Thorax α
 Queen Beetle Thorax β
+Gala Suit Jacket
+Gala Suit Jacket α
