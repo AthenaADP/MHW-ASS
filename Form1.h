@@ -684,6 +684,10 @@ namespace MHWASS
 				{
 					mnuAllowFairWind->Checked = Convert::ToBoolean( line->Substring( 14 ) );
 				}
+				else if( line->StartsWith( L"ALWAYSUSEALPHA=" ) )
+				{
+					mnuAlwaysSearchAlpha->Checked = Convert::ToBoolean( line->Substring( 15 ) );
+				}
 				else if( line->StartsWith( L"PREVIEWZOOM=" ) )
 				{
 					const int zoom = Convert::ToInt32( line->Substring( 12 ) );
@@ -845,6 +849,7 @@ namespace MHWASS
 			fout.WriteLine( L"SHOWMATLIST=" + mnuPrintMaterials->Checked );
 			fout.WriteLine( L"SORTALPHA=" + mnuSortSkillsAlphabetically->Checked );
 			fout.WriteLine( L"ALLOWFAIRWIND=" + mnuAllowFairWind->Checked );
+			fout.WriteLine( L"ALWAYSUSEALPHA=" + mnuAlwaysSearchAlpha->Checked );
 			fout.WriteLine( L"PREVIEWZOOM=" + PreviewImage::zoom );
 			fout.WriteLine( L"SORTTYPE=" + cmbSort->SelectedIndex );
 			fout.WriteLine( L"DECOTYPE=" + cmbDecorationSelect->SelectedIndex );
