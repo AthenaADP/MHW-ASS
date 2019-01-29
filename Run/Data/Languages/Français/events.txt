@@ -1,4 +1,4 @@
-Armure Deviljho
+﻿Armure Deviljho
 Armure Aloy (Set complet)
 Armure Ryu (Set complet)
 Armure Ryu α (Set complet)
@@ -26,3 +26,4 @@ Armure Zorah Magdaros γ
 Armure Xeno'jiiva γ
 Armure Orion/Orion α
 Armure Kulve Taroth γ
+Gala Suit/Gala Suit α Armor

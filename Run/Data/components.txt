@@ -18,6 +18,7 @@ Anjanath Scale+
 Anjanath Tail
 Antidote
 Antidote Herb
+Appreciation Ticket
 Aqua Sac
 Aquacore Ore
 Armor Sphere

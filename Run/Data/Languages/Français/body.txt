@@ -1,4 +1,4 @@
-Cotte en cuir
+﻿Cotte en cuir
 Cotte de mailles
 Cotte de chasseur
 Veste d'os
@@ -175,3 +175,5 @@ Thorax Papillon α
 Thorax Papillon β
 Thorax Scarabée α
 Thorax Scarabée β
+Gala Suit Jacket
+Gala Suit Jacket α

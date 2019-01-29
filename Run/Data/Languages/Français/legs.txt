@@ -1,4 +1,4 @@
-Pantalon en cuir
+﻿Pantalon en cuir
 Pantalon de mailles
 Grèves de chasseur
 Jambières d'os
@@ -175,3 +175,5 @@ Crura Papillon α
 Crura Papillon β
 Crura Scarabée α
 Crura Scarabée β
+Gala Suit Slacks
+Gala Suit Slacks α
