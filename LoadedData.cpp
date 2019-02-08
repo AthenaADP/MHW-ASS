@@ -118,6 +118,8 @@ void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_ab
 	if( adv && armor->force_disable )
 		return;
 
+	const bool test = armor->name->StartsWith( L"Azure" );
+
 	const bool may_remove_self = !adv || !armor->force_enable;
 	for( int i = 0; i < list->Count; ++i )
 	{
@@ -179,10 +181,11 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 	{
 		Armor^ a = inf_armor[ i ];
 		if( a->no_relevant_skills &&
-			a->total_slots < max_num_slots &&
-			a->highest_slot_level < max_slot_level &&
-			a->slot_product < max_slot_product &&
-			a->total_slot_level < max_total_slot_levels )
+			a->total_slots <= max_num_slots &&
+			a->highest_slot_level <= max_slot_level &&
+			a->slot_product <= max_slot_product &&
+			a->total_slot_level <= max_total_slot_levels &&
+			!Utility::Contains( rel_armor, a ) )
 			inf_armor->RemoveAt( i-- );
 	}
 }
