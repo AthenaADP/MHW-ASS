@@ -2585,6 +2585,7 @@ private:
 		}
 
 		can_save = true;
+		UpdateImpossibleSkills();
 		SaveConfig();
 	}
 
@@ -2607,6 +2608,7 @@ private:
 			else
 				mnuToggleAllDLC->Text = StaticString( EnableAll );
 
+			UpdateImpossibleSkills();
 			SaveConfig();
 		}
 	}

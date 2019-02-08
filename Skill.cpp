@@ -308,7 +308,7 @@ unsigned GetMostPossible( List_t< Armor^ >^ armors, Ability^ ab, const unsigned 
 	unsigned total = 0;
 	for each( Armor^ armor in armors )
 	{
-		if( armor->hr <= hr )
+		if( armor->hr <= hr && !armor->dlc_disabled )
 		{
 			unsigned armor_total = GetSkillPointsAt( armor->abilities, ab );
 			if( ab->decoration && ab->decoration->hr <= hr )
