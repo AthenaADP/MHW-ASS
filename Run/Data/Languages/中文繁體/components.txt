@@ -1,60 +1,60 @@
-﻿Ace Hunter Coin
-Adamant Pill
-Adamant Seed
-Advanced Armor Sphere
+﻿擊龍王硬幣
+忍耐藥丸
+忍耐種子
+尖鎧玉
 Aetheryte Shard
-Ancient Bone
-Ancient Potion
-Anjanath Fang
-Anjanath Fang+
-Anjanath Gem
-Anjanath Nosebone
-Anjanath Nosebone+
-Anjanath Pelt
-Anjanath Pelt+
-Anjanath Plate
-Anjanath Scale
-Anjanath Scale+
-Anjanath Tail
-Antidote
-Antidote Herb
+太古大骨
+古老的秘藥
+蠻顎龍的牙
+蠻顎龍的銳牙
+蠻顎龍的寶玉
+蠻顎龍的鼻骨
+蠻顎龍的大鼻骨
+蠻顎龍的毛皮
+蠻顎龍的上毛皮
+蠻顎龍的逆鱗
+蠻顎龍的鱗
+蠻顎龍的上鱗
+蠻顎龍的尾巴
+解毒藥
+解毒草
 感謝票
-Aqua Sac
-Aquacore Ore
-Armor Sphere
-Armor Sphere+
-Armorcharm
-Armorskin
-Armortalon
-Arowana Bait
-Astera Jerky
+水袋
+水晶原石
+鎧玉
+上鎧玉
+守護之護符
+硬化藥
+守護之爪
+龍魚糰子
+星辰肉干
 Autumn Harvest Ticket
-Azure Rathalos Carapace
-Azure Rathalos Scale+
-Azure Rathalos Tail
-Azure Rathalos Wing
+蒼火龍的堅殼
+蒼火龍的上鱗
+蒼火龍的尾巴
+蒼火龍之翼
 Azure Star Shard
 Azure Stargem
-Baitbug
-Barnos Hide+
-Barnos Talon
-Barrel Bomb
-Barroth Carapace
-Barroth Claw
-Barroth Claw+
-Barroth Coin
-Barroth Ridge
-Barroth Ridge+
-Barroth Scalp
-Barroth Shell
-Barroth Tail
-Bazelgeuse Carapace
-Bazelgeuse Fuse
-Bazelgeuse Gem
-Bazelgeuse Scale+
-Bazelgeuse Tail
-Bazelgeuse Talon
-Bazelgeuse Wing
+陸續上鉤黃金餌
+酸翼龍的上皮
+酸翼龍的尖爪
+小爆彈桶
+土砂龍的堅殼
+土砂龍的爪
+土砂龍的鋭爪
+土砂龍硬幣
+土砂龍的背甲
+土砂龍的堅甲
+土砂龍的頭殼
+土砂龍的甲殼
+土砂龍的尾巴
+爆鱗龍的堅殼
+爆鱗龍的爆腺
+爆鱗龍的寶玉
+爆鱗龍的上鱗
+爆鱗龍的尾巴
+爆鱗龍的尖爪
+爆鱗龍之翼
 Beautiful Scale
 Behemoth Bone
 Behemoth Great Horn
@@ -62,491 +62,491 @@ Behemoth Mane
 Behemoth Shearclaw
 Behemoth Tail
 Bhernastone
-Binoculars
-Bird Wyvern Gem
-Bitterbug
-Black Bandage
-Black Crystal Ticket
-Black Diablos Carapace
-Black Diablos Ridge+
-Black Spiral Horn+
-Blastnut
-Blazenut
-Blos Medulla
-Blue Mushroom
-Bomb Arowana Scale
-Bomberry
-Boomerang
-Boulder Bone
-Bounce Bomb
-Brutal Bone
-Brute Coin
-Burnt Meat
-Burst Arowana Scale
-Carbalite Ore
-Catalyst
-Chillshroom
+望遠鏡
+鳥龍玉
+苦蟲
+黑色繃帶
+黑水晶票
+黑角龍的堅殼
+黑角龍的堅甲
+優質的黑卷角
+爆裂果實
+薄荷果實
+角龍的延髓
+青菇
+爆裂鱗片
+擴散果實
+迴力標
+堅硬岩骨
+木桶飛彈
+狂亂蠻骨
+獸龍硬幣
+燒焦的肉
+破裂鱗片
+靈鶴石
+增強劑
+冰冷菇
 Chipped Scale
-Coma Sac
-Commendation
-Cool Drink
-Coral Bone
-Coral Crystal
-Daora Carapace
-Daora Claw+
-Daora Dragon Scale+
-Daora Gem
-Daora Horn+
-Daora Tail
-Daora Webbing
-Dash Extract
-Dash Juice
-Deceased Scale
+昏睡袋
+勇氣之証
+冷飲
+珊瑚紅骨
+深海結晶
+鋼龍的堅殼
+鋼龍的尖爪
+鋼的上龍鱗
+鋼龍的寶玉
+鋼龍的尖角
+鋼龍的尾巴
+鋼龍的翼膜
+急奔萃取液
+強走藥
+死屍的龍鱗
 Deluxe First Wyverian Print
-Demon Powder
-Demondrug
-Devil's Blight
-Deviljho Hide
-Deviljho Scalp
-Deviljho Talon
-Deviljho Gem
-Deviljho Scale
-Deviljho Saliva
-Deviljho Tail
-Deviljho Tallfang
-Diablos Carapace
-Diablos Fang
-Diablos Marrow
-Diablos Ridge
-Diablos Ridge+
-Diablos Shell
-Diablos Tailcase
-Dodogama Hide+
-Dodogama Jaw
-Dodogama Scale+
-Dodogama Tail
-Dodogama Talon
-Dragonbone Relic
-Dragoncore Ore
-Dragonfell Berry
-Dragonite Ore
-Dragonstrike nut
-Dragonvein Crystal
-Dreamcore Ore
-Drugged Meat
+鬼人粉塵
+鬼人藥
+鬼爆炸菇
+恐暴龍的黑皮
+恐暴龍的頭殼
+恐暴龍的鉤爪
+恐暴龍的寶玉
+恐暴龍的黑鱗
+恐暴龍的唾液
+恐暴龍的尾巴
+恐暴龍的大牙
+角龍的堅殼
+角龍的牙
+角龍的骨髓
+角龍的背甲
+角龍的堅甲
+角龍的甲殼
+角龍的尾甲
+岩賊龍的上皮
+岩賊龍的顎
+岩賊龍的上鱗
+岩賊龍的尾巴
+岩賊龍的尖爪
+古老龍骨
+龍晶原石
+屠龍果實
+輝龍石
+龍擊果實
+龍脈結晶
+幻晶原石
+睡眠生肉
 Dundormarin
-Dung
-Dung Pod
-Earth Crystal
-Elder Dragon Blood
-Elder Dragon Bone
-Electro Sac
-Empty Phial
-Energy Drink
-Exciteshroom
-Farcaster
-Fertile Mud
-Fire Dragon Scale+
-Fire Herb
-Firecell Stone
+魔物的糞便
+投射器異臭彈
+大地結晶
+古龍之血
+古龍骨
+電氣袋
+空瓶
+元氣飲料
+心跳加速蘑菇
+回歸球
+肥沃的泥土
+獄炎的龍鱗
+火藥草
+獄炎石
 First Wyverian Print
-Flame Sac
-Flamenut
-Flash Pod
-Flashbug
-Flowfern
-Flying Coin
-Freezer Sac
-Frost Sac
-Fucium Ore
+火炎袋
+結果果實
+投射器閃光彈
+光蟲
+流水草
+飛龍硬幣
+凍結袋
+冰結袋
+白鳩石
 Gajalaka Sketch
 Gajau Scale
-Gajau Skin
-Gajau Whisker
-Gama Coin
-Gastodon Carapace
-Gastodon Horn
+咬魚的皮
+咬魚的鬚
+岩賊龍硬幣
+突擊龍的堅殼
+突擊龍的尖角
 Gilded Scale
 Gilded Scale+
-Girros Fang
-Girros Hide
-Girros Hide+
-Girros Scale
-Girros Scale+
+凶顎龍的麻痺牙
+凶顎龍的皮
+凶顎龍的上皮
+凶顎龍的鱗
+凶顎龍的上鱗
 Gleaming Streamstone
 Glimmering Scale
 Glowing Feystone
-Godbug
-Gold Wyverian Print
-Golden Egg
+不死蟲
+金之龍人票據
+金蛋
 Golden Scale
 Golden Scale+
-Goldenfish Bait
-Grand Gajau Whisker
-Great Bomb Arowana Scale
-Great Burst Arowana Scale
-Great Girros Fang
-Great Girros Fang+
-Great Girros Hide
-Great Girros Hide+
-Great Girros Hood
-Great Girros Hood+
-Great Girros Scale
-Great Girros Scale+
-Great Girros Tail
-Great Gunpowderfish Scale
-Great Hornfly
-Great 凶豺龍Claw
-Great 凶豺龍Claw+
-Great 凶豺龍Hide
-Great 凶豺龍Hide+
-Great 凶豺龍Mane
-Great 凶豺龍Scale
-Great 凶豺龍Scale+
-Great Sushifish Scale
-Gunpowder
-Gunpowder Level 2
-Gunpowderfish Bait
-Gunpowderfish Scale
-Gunpowser Level 3
-Hard Armor Sphere
-Hardshell Powder
+金魚糰子
+咬魚的大鬚
+大爆裂鱗片
+大破裂鱗片
+大凶顎龍的牙
+大凶顎龍的銳牙
+大凶顎龍的皮
+大凶顎龍的上皮
+大凶顎龍的頭巾殼
+大凶顎龍的大頭巾
+大凶顎龍的鱗
+大凶顎龍的上鱗
+大凶顎龍的尾巴
+大火藥金魚鱗片
+大角鳳蝶
+大凶豺龍的爪
+大凶豺龍的尖爪
+大凶豺龍的皮
+大凶豺龍的上皮
+大凶豺龍的鬃毛
+大凶豺龍的鱗
+大凶豺龍的上鱗
+大刺身鱗片
+爆藥
+LV2火藥粉
+火藥金魚糰子
+火藥金魚鱗片
+LV3火藥粉
+堅鎧玉
+硬化粉塵
 Heavy Armor Sphere
-Herb
-Herbal Medicine
-Herbal Powder
+藥草
+漢方藥
+漢方粉塵
 Hero's Streamstone
-High Commendation
-High-quality Pelt
-Honey
-Hornetaur Carapace
-Hornetaur Head
-Hornetaur Innerwing
-Hornetaur Shell
-Hornetaur Wing
-Hunter King Coin
-Immortal Dragonscale
-Immunizer
-Inferno Sac
-Iron Ore
-Ivy
-凶豺龍Hide
-凶豺龍Hide+
-凶豺龍Scale
-凶豺龍Scale+
-Jyuratodus Carapace
-Jyuratodus Fang
-Jyuratodus Fang+
-Jyuratodus Fin
-Jyuratodus Fin+
-Jyuratodus Scale
-Jyuratodus Scale+
-Jyuratodus Shell
-Kelbi Horn
-Kestodon Carapace
-Kestodon Scalp
-Kestodon Shell
-Kirin Azure Horn
-Kirin Hide
-Kirin Hide+
-Kirin Mane
-Kirin Tail
-Kirin Thunderhorn
-Kirin Thundertail
-Kirin Ticket
-Kulu Coin
-Kulu-Ya-Ku Beak
-Kulu-Ya-Ku Beak+
-Kulu-Ya-Ku Hide
-Kulu-Ya-Ku Hide+
-Kulu-Ya-Ku Plume
-Kulu-Ya-Ku Plume+
-Kulu-Ya-Ku Scale
-Kulu-Ya-Ku Scale+
-Kulu-Ya-Ku Ticket
+勇氣之証G
+良質毛皮
+蜂蜜
+巨甲蟲的堅殼
+巨甲蟲的頭
+巨甲蟲的薄羽
+巨甲蟲的甲殼
+巨甲蟲的羽
+狩獵王硬幣
+不滅的龍鱗
+活力劑
+爆炎袋
+鐵礦石
+常春藤葉
+凶豺龍的皮
+凶豺龍的上皮
+凶豺龍的鱗
+凶豺龍的上鱗
+泥魚龍的堅殼
+泥魚龍的牙
+泥魚龍的銳牙
+泥魚龍的腰內肉
+泥魚龍的上腰內肉
+泥魚龍的鱗
+泥魚龍的上鱗
+泥魚龍的甲殼
+精靈鹿角
+冠突龍的堅殼
+冠突龍的頭殼
+冠突龍的甲殼
+麒麟的蒼角
+麒麟的皮
+麒麟的上皮
+麒麟的鬃毛
+麒麟的尾
+麒麟的雷角
+麒麟的雷尾
+麒麟硬幣
+搔鳥硬幣
+搔鳥的啄
+搔鳥的大啄
+搔鳥的皮
+搔鳥的上皮
+搔鳥的飾羽
+搔鳥的大飾羽
+搔鳥的鱗
+搔鳥的上鱗
+搔鳥硬幣
 Kulve Taroth Emperor Nugget
-Kulve Taroth Golden Glimstone
-Kulve Taroth Golden Nugget
-Kulve Taroth Golden Scale
-Kulve Taroth Golden Shell
-Kulve Taroth Golden Spiralhorn
-Kulve Taroth Golden Tailshell
-Kushala Daora Ticket
-Large Barrel
-Large Barrel Bomb
+爛輝龍的金煌玉
+爛輝龍的金塊
+爛輝龍的金鱗
+爛輝龍的金殼
+爛輝龍的金卷角
+爛輝龍的金尾殼
+鋼龍硬幣
+大桶
+大爆彈桶
 Large Scale
-Latchberry
-Lava Nugget
-Lavasioth Carapace
-Lavasioth Fang+
-Lavasioth Fin+
-Lavasioth Scale+
-Legiana Claw
-Legiana Claw+
-Legiana Gem
-Legiana Hide
-Legiana Hide+
-Legiana Plate
-Legiana Scale
-Legiana Scale+
-Legiana Tail Webbing
-Legiana Webbing
-Legiana Wing
-Lifepowder
-Lightcrystal
+螺旋果實
+熔岩塊
+熔岩龍的堅殼
+熔岩龍的銳牙
+熔岩龍的上腰內肉
+熔岩龍的上鱗
+風漂龍的爪
+風漂龍的尖爪
+風漂龍的寶玉
+風漂龍的皮
+風漂龍的上皮
+風漂龍的逆鱗
+風漂龍的鱗
+風漂龍的上鱗
+風漂龍的尾膜
+風漂龍的翼膜
+風漂龍之翼
+生命粉塵
+亮水晶
 Loc Lac Ore
-Lunastra Carapace
-Lunastra Gem
-Lunastra Horn
-Lunastra Mane
-Lunastra Scale+
-Lunastra Tail
-Lunastra Ticket
-Lunastra Wing
+炎妃龍的堅殼
+炎妃龍的寶玉
+炎妃龍的尖角
+炎妃龍的鬚
+炎妃龍上鱗
+炎妃龍的尾巴
+炎妃龍硬幣
+炎妃龍之翼
 Lustrous Scale
-Machalite Ore
-Majestic Horn
-Mandragora
-Max Potion
-Mega Armorskin
-Mega Barrel Bomb
-Mega Bounce Bomb
-Mega Dash Juice
-Mega Demondrug
-Mega Nutrients
-Mega Potion
-Might Pill
-Might Seed
+燕雀石
+優質的彎曲角
+風茄
+秘藥
+硬化藥．大
+大爆弾桶G
+木桶飛彈G
+強走藥．大
+鬼人藥．大
+營養劑．大
+回復藥．大
+怪力藥丸
+怪力種子
 Minegardenite
-Monster Bone L
-Monster Bone M
-Monster Bone S
-Monster Bone+
-Monster Broth
-Monster Fluid
-Monster Hardbone
-Monster Keenbone
-Mosswine Hide
+龍骨【大】
+龍骨【中】
+龍骨【小】
+上龍骨
+魔物濃汁
+魔物體液
+堅龍骨
+尖龍骨
+菌豬苔皮
 Mysterious Feystone
-Needleberry
-Nergigante Carapace
-Nergigante Gem
-Nergigante Horn+
-Nergigante Regrowth Plate
-Nergigante Tail
-Nergigante Talon
-Net
-Nitroshroom
-Nora Brave Trophy
-Nourishing Extract
-Novacrystal
-Nulberry
-Nutrients
-Odogaron Claw
-Odogaron Claw+
-Odogaron Fang
-Odogaron Fang+
-Odogaron Gem
-Odogaron Plate
-Odogaron Scale
-Odogaron Scale+
-Odogaron Sinew
-Odogaron Sinew+
-Odogaron Tail
-Omniplegia Sac
-Paolumu Carapace+
-Paolumu Pelt
-Paolumu Pelt+
-Paolumu Scale
-Paolumu Scale+
-Paolumu Shell
-Paolumu Webbing
-Paolumu Wing
-Paralysis Sac
-Parashroom
-Piercing Claw
-Pink Rathian Carapace
-Pink Rathian Scale+
-Pinnacle Coin
-Pitfall Trap
+針果實
+滅盡龍的堅殼
+滅盡龍的寶玉
+滅盡龍的大角
+滅盡龍的再生殼
+滅盡龍的尾巴
+滅盡龍的尖爪
+網子
+爆炸菇
+諾拉族勇者之証
+滋養萃取液
+璀璨水晶
+打消果實
+營養劑
+慘爪龍的爪
+慘爪龍的尖爪
+慘爪龍的牙
+慘爪龍的銳牙
+慘爪龍的寶玉
+慘爪龍的逆鱗
+慘爪龍的鱗
+慘爪龍的上鱗
+慘爪龍的硬筋
+慘爪龍的大硬筋
+慘爪龍的尻尾
+強力麻痺袋
+橡膠質的堅殼
+浮空龍的毛皮
+浮空龍的上毛皮
+浮空龍的鱗
+浮空龍的上鱗
+橡膠質的甲殼
+浮空龍的翼膜
+浮空龍之翼
+麻痺袋
+麻痺菇
+銳爪
+櫻火龍的堅殼
+櫻火龍的上鱗
+鬪技王的硬幣
+地洞
 Platinum Scale
 Platinum Scale+
-Poison Sac
-Poison Smoke Bomb
-Poisoned Meat
-Potion
-Powercharm
-Powertalon
-Pukei Coin
-Pukei-Pukei Carapace
-Pukei-Pukei Quill
-Pukei-Pukei Sac
-Pukei-Pukei Sac+
-Pukei-Pukei Scale
-Pukei-Pukei Scale+
-Pukei-Pukei Shell
-Pukei-Pukei Tail
-Pukei-Pukei Wing
-Quality Bone
-Radobaan Carapace
-Radobaan Marrow
-Radobaan Medulla
-Radobaan Oilshell
-Radobaan Scale
-Radobaan Scale+
-Radobaan Shell
-Rare Steak
-Rath Wingtalon
-Rathalos Carapace
-Rathalos Coin
-Rathalos Marrow
-Rathalos Medulla
-Rathalos Plate
-Rathalos Ruby
-Rathalos Scale
-Rathalos Scale+
-Rathalos Shell
-Rathalos Tail
-Rathalos Webbing
-Rathalos Wing
-Rathian Carapace
-Rathian Coin
-Rathian Plate
-Rathian Ruby
-Rathian Scale
-Rathian Scale+
-Rathian Shell
-Rathian Spike
-Rathian Spike+
-Rathian Webbing
-Ration
-Raw Meat
+毒袋
+毒煙霧球
+毒生肉
+回復藥
+力量之護符
+力之爪
+毒妖鳥硬幣
+毒妖鳥的堅殼
+毒妖鳥的羽毛
+毒妖鳥的喉袋
+毒妖鳥的大喉袋
+毒妖鳥的鱗
+毒妖鳥的上鱗
+毒妖鳥的甲殼
+毒妖鳥的尾巴
+毒妖鳥之翼
+良質硬骨
+骨鎚竜的堅殼
+骨鎚龍的骨髓
+骨鎚竜的延髄
+骨鎚龍的黑油殼
+骨鎚龍的鱗
+骨鎚竜的上鱗
+骨鎚龍的甲殼
+半生熟肉
+火龍的翼爪
+火龍的堅殼
+火龍硬幣
+火龍的骨髓
+火龍的延髓
+火龍的逆鱗
+火龍的紅玉
+火龍的鱗
+火龍的上鱗
+火龍的甲殼
+火龍的尾巴
+火龍的翼膜
+火龍之翼
+雌火龍的堅殼
+雌火龍硬幣
+雌火龍的逆鱗
+雌火龍的紅玉
+雌火龍的鱗
+雌火龍的上鱗
+雌火龍的甲殼
+雌火龍的棘
+雌火龍的上棘
+雌火龍的羽膜
+攜帶糧食
+生肉
 Red Orb
-Research Commission Ticket
-Rolled-up Dung
+調查團票
+堆起的糞便
 SFV Ticket
 SFV Ticket II
 SFV Ticket III
-Screamer Pod
-Screamer Sac
-Shamos Hide
-Shamos Hide+
-Shamos Scale
-Shamos Scale+
-Sharp Claw
+投射器音爆彈
+鳴袋
+貓蜥龍的皮
+貓蜥龍的上皮
+貓蜥龍的鱗
+貓蜥龍的上鱗
+尖爪
 Shining Streamstone
-Shock Trap
-Silver Egg
-Silver Wyverian Print
-Sinister Cloth
-Slashberry
-Sleep Herb
-Sleep Sac
-Small Barrel
-Smoke Bomb
-Smokenut
-Snow Herb
-Spider Web
-Spiritcore Ore
+麻痺陷阱
+銀蛋
+銀之龍人票據
+災禍之布
+斬裂果實
+眠草
+睡眠袋
+小桶
+煙霧球
+煙果實
+霜降草
+蜘蛛網
+精晶原石
 Spring Blossom Ticket
 Spring Insect Field Guide
-Steel Egg
-Steel Wyverian Print
+鋼蛋
+鋼之龍人票據
 Streamstone
 Streamstone Shard
-Sturdy Bone
+硬質骨頭
 Sullied Streamstone
 Summer Insect Guide
 Summer Twilight Ticket
-Sushifish Scale
-Tailraider Voucher
-Teostra Carapace
-Teostra Claw+
-Teostra Gem
-Teostra Horn+
-Teostra Mane
-Teostra Powder
-Teostra Tail
-Teostra Ticket
-Teostra Webbing
-Thunder Sac
-Thunderbug
-Tinged Meat
-Toadstool
-Tobi-Kadachi Claw
-Tobi-Kadachi Claw+
-Tobi-Kadachi Electrode
-Tobi-Kadachi Electrode+
-Tobi-Kadachi Membrane
-Tobi-Kadachi Pelt
-Tobi-Kadachi Pelt+
-Tobi-Kadachi Scale
-Tobi-Kadachi Scale+
-Torrent Sac
-Toxin Sac
-Tranq Bomb
-Trap Tool
-Twisted Horn
-Tzitzi Coin
-Tzitzi-Ya-Ku Claw
-Tzitzi-Ya-Ku Claw+
-Tzitzi-Ya-Ku Hide
-Tzitzi-Ya-Ku Hide+
-Tzitzi-Ya-Ku Photophore
-Tzitzi-Ya-Ku Photophore+
-Tzitzi-Ya-Ku Scale
-Tzitzi-Ya-Ku Scale+
-Unknown Skull
-Uragaan Carapace
-Uragaan Jaw
-Uragaan Marrow
-Uragaan Ruby
-Uragaan Scale+
-Uragaan Scute
-Vaal Hazak Carapace
-Vaal Hazak Fang+
-Vaal Hazak Gem
-Vaal Hazak Membrane
-Vaal Hazak Tail
-Vaal Hazak Talon
-Vaal Hazak Ticket
-Vaal Hazak Wing
+刺身魚鱗片
+隨從票
+炎王龍的堅殼
+炎龍的尖爪
+炎龍的寶玉
+炎王龍的尖角
+炎王龍的鬃毛
+炎龍的粉塵
+炎王龍的尾巴
+炎王龍硬幣
+炎龍的翼膜
+電擊袋
+雷光蟲
+麻痺生肉
+毒菇
+飛雷龍的爪
+飛雷龍的尖爪
+飛雷龍的電極針
+飛雷龍的雷極針
+飛雷龍的皮膜
+飛雷龍的毛皮
+飛雷龍的上毛皮
+飛雷龍的鱗
+飛雷龍的上鱗
+大水袋
+猛毒袋
+捕獲用麻醉球
+陷阱工具
+彎曲角
+眩鳥硬幣
+眩鳥的爪
+眩鳥的尖爪
+眩鳥的皮
+眩鳥的上皮
+眩鳥的發光膜
+眩鳥的閃光膜
+眩鳥的鱗
+眩鳥的上鱗
+謎樣的頭骨
+爆鎚龍的堅殼
+爆鎚龍的顎
+爆鎚龍的延髓
+爆鎚龍的紅玉
+爆鎚龍的上鱗
+爆鎚龍的耐熱殼
+屍套龍的堅殼
+屍套龍的銳牙
+屍套龍的寶玉
+屍套龍的皮膜
+屍套龍的尾巴
+屍套龍的尖爪
+屍套龍硬幣
+屍套龍之翼
 Val Habar Quartz
-Vespoid Carapace
-Vespoid Innerwing
-Vespoid Shell
-Vespoid Wing
-Voucher
-Warm Pelt
-Warped Bone
+巨蜂的堅殼
+巨蜂的薄羽
+巨蜂的甲殼
+巨蜂的羽
+餐劵
+溫暖的毛皮
+扭曲狂骨
 Warped Feystone
 Warrior's Streamstone
-Well-done Steak
-Whetfish Fin
-Whetfish Fin+
-Wiggler Ticket
-Wingdrake Hide
-Wingdrake Hide+
+全熟肉
+切味魚的鯺
+切味魚的上鯺
+孑孓票
+翼龍的皮
+翼龍的上皮
 Winter Star Ticket
 Worn Feystone
-Wyvern Bonemass
-Wyvern Gem
-Xeno'jiiva Claw
-Xeno'jiiva Gem
-Xeno'jiiva Horn
-Xeno'jiiva Shell
-Xeno'jiiva Soulscale
-Xeno'jiiva Tail
-Xeno'jiiva Ticket
-Xeno'jiiva Veil
-Xeno'jiiva Wing
-Zorah Magdaros Carapace
-Zorah Magdaros Gem
-Zorah Magdaros Heat Scale
-Zorah Magdaros Magma
-Zorah Magdaros Pleura
-Zorah Magdaros Ridge
-Zorah Magdaros Ticket
+龍骨塊
+龍玉
+冥燈龍的幽爪
+冥燈龍的幽玉
+冥燈龍的幽角
+冥燈龍的幽鱗
+冥燈龍的白殼
+冥燈龍的尾巴
+冥燈龍硬幣
+冥燈龍的幽幕
+冥燈龍的幽翼
+熔山龍的岩殼
+熔山龍的寶玉
+熔山龍的熱鱗
+熔山龍的岩漿
+熔山龍的胸殼
+熔山龍的背甲
+熔山龍硬幣
 (Pre-Order Exclusive)
 (B-Rank Arena Quests 1-7)
 (B-Rank Arena Quests 8-9)

@@ -130,7 +130,7 @@ Dragonbone Relic
 Dragoncore Ore
 Dragonfell Berry
 Dragonite Ore
-Dragonstrike nut
+Dragonstrike Nut
 Dragonvein Crystal
 Dreamcore Ore
 Drugged Meat
@@ -208,7 +208,7 @@ Gunpowder
 Gunpowder Level 2
 Gunpowderfish Bait
 Gunpowderfish Scale
-Gunpowser Level 3
+Gunpowder Level 3
 Hard Armor Sphere
 Hardshell Powder
 Heavy Armor Sphere
