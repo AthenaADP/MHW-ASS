@@ -58,6 +58,7 @@ ref struct Solution
 	unsigned long long GetHash();
 	
 	bool MatchesQuery( Query^ query );
+	bool HasDLCDisabledArmor();
 	void CalculateData( const unsigned hr );
 	void CalculateFamilyScore();
 	void CalculateSkillModifiers();

@@ -292,6 +292,16 @@ bool Solution::MatchesQuery( Query^ query )
 	return true;
 }
 
+bool Solution::HasDLCDisabledArmor()
+{
+	for each( Armor^ armor in armors )
+	{
+		if( armor->dlc_disabled )
+			return true;
+	}
+	return false;
+}
+
 void Solution::CalculateExtraSkills( Query^ query )
 {
 	extra_skills.Clear();

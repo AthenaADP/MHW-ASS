@@ -235,6 +235,9 @@ namespace MHWASS
 				 List_t< Skill^ >^ the_list = mnuSortSkillsAlphabetically->Checked ? %Skill::ordered_skills : %Skill::static_skills;
 				 for each( Skill^ skill in the_list )
 				 {
+					 if( skill->ability->set_ability )
+						 continue;
+
 					 if( Utility::Contains( disallowed, skill->ability ) )
 						 continue;
 
@@ -2035,6 +2038,9 @@ private:
 			if( ++count > MAX_LIMIT )
 				break;
 
+			if( solution->HasDLCDisabledArmor() )
+				continue;
+
 			sb.Append( endl );
 			result_offsets.Add( ++offset );
 		
@@ -2586,6 +2592,7 @@ private:
 
 		can_save = true;
 		UpdateImpossibleSkills();
+		UpdateResultString();
 		SaveConfig();
 	}
 
@@ -2609,6 +2616,7 @@ private:
 				mnuToggleAllDLC->Text = StaticString( EnableAll );
 
 			UpdateImpossibleSkills();
+			UpdateResultString();
 			SaveConfig();
 		}
 	}
