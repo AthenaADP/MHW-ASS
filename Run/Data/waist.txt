@@ -178,4 +178,3 @@ Queen Beetle Elytra α,F,5,6,1,42,64,80,-1,-1,2,0,2,Defense Boost,2,Marathon Run
 Queen Beetle Elytra β,F,5,6,3,42,64,80,-1,-1,2,0,2,Defense Boost,2,,,,,Summer Insect Guide,1,Vespoid Carapace,1,Dragonvein Crystal,3,Quality Bone,1
 Gala Suit Tail,,4,5,0,34,58,78,1,1,1,1,4,Slinger Capacity,1,Astera Blessing,1,,,Appreciation Ticket,1,Monster Bone+,1,,,,
 Gala Suit Tail α,,7,7,311,64,70,84,1,1,1,1,4,Slinger Capacity,1,Astera Blessing,1,,,Appreciation Ticket,3,Elder Dragon Bone,1,High Commendation,2,,
-
