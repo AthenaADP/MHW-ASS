@@ -50,16 +50,37 @@ Disable All
 Sort Skills Alpha&betically
 
 &Donate
+
+#Menu item
 &Skill Information
+
+#Form title
+Skill Information
 
 #This option opens a browser to my Facebook page
 Check for &Updates
 
+#Menu item
 &About
-My &Decorations
-&Import
+
+#Form title
+About
+
+#Button to open the My Decorations form
+My &List...
+
+#Title of the My Decorations form
+My Decorations
+
+&Import...
 &Quick Search
-&Advanced Search
+
+#Button for Advanced Search
+&Advanced Search...
+
+#Title for Advanced Search form
+Advanced Search
+
 &Cancel
 &Default
 

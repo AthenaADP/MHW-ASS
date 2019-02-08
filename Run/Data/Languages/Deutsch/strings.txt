@@ -51,15 +51,19 @@ Sortiere Skills alphabetisch
 
 &Spenden
 &Skill-Informationen
+Skill-Informationen
 
 #This option opens a browser to my Facebook page
 Auf Updates überprüfen
 
 &Über
+Über
+Meine Dekos...
 Meine Dekos
 &Importieren
 &Schnellsuche
-&Erweiterte Suche
+&Erweiterte Suche...
+Erweiterte Suche
 &Abbrechen
 &Standard
 

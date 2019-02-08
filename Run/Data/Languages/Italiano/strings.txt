@@ -51,15 +51,19 @@ Disabilita Tutto
 
 &Donazioni
 &Descrizioni Abilità
+Descrizioni Abilità
 
 #This option opens a browser to my Facebook page
 &Ricerca Aggiornamenti
 
 &Informazioni
-&I Miei Gioielli
+Informazioni
+&I Miei Gioielli...
+I Miei Gioielli
 &Importa
 &Ricerca Rapida
-&Ricerca Avanzata
+&Ricerca Avanzata...
+Ricerca Avanzata
 &Annulla
 &Predefinito
 

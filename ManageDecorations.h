@@ -36,7 +36,7 @@ namespace MHWASS {
 			
 			InitFilter( cmbSkillFilters );
 			
-			Text = BasicString( MyDecorations );
+			Text = BasicString( MyDecorationsForm );
 			btnAdd->Text = StaticString( AddNewDecoration );
 			btnDelete->Text = StaticString( DeleteDecoration );
 			btnDeleteAll->Text = StaticString( DeleteAllDecorations );

@@ -373,7 +373,10 @@ namespace MHWASS
 			 {
 				 ComboBox^ box = safe_cast<ComboBox^>( cmsSkills->SourceControl );
 				 if( box )
+				 {
 					 box->SelectedIndex = -1;
+					 cmbSkill_SelectedIndexChanged( box, nullptr );
+				 }
 			 }
 
 			 void InitializeComboBox( const int i )
@@ -1049,22 +1052,26 @@ namespace MHWASS
 			this->nudWeaponSlots1->Size = System::Drawing::Size( 27, 20 );
 			this->nudWeaponSlots1->TabIndex = 7;
 			this->nudWeaponSlots1->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->nudWeaponSlots1->ValueChanged += gcnew System::EventHandler( this, &Form1::nudWeaponSlots1_ValueChanged );
 			// 
 			// nudWeaponSlots2
 			// 
 			this->nudWeaponSlots2->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
 			this->nudWeaponSlots2->BackColor = System::Drawing::SystemColors::Control;
+			this->nudWeaponSlots2->Enabled = false;
 			this->nudWeaponSlots2->Location = System::Drawing::Point( 111, 46 );
 			this->nudWeaponSlots2->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
 			this->nudWeaponSlots2->Name = L"nudWeaponSlots2";
 			this->nudWeaponSlots2->Size = System::Drawing::Size( 27, 20 );
 			this->nudWeaponSlots2->TabIndex = 6;
 			this->nudWeaponSlots2->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->nudWeaponSlots2->ValueChanged += gcnew System::EventHandler( this, &Form1::nudWeaponSlots2_ValueChanged );
 			// 
 			// nudWeaponSlots3
 			// 
 			this->nudWeaponSlots3->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
 			this->nudWeaponSlots3->BackColor = System::Drawing::SystemColors::Control;
+			this->nudWeaponSlots3->Enabled = false;
 			this->nudWeaponSlots3->Location = System::Drawing::Point( 141, 46 );
 			this->nudWeaponSlots3->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
 			this->nudWeaponSlots3->Name = L"nudWeaponSlots3";
@@ -1203,7 +1210,7 @@ namespace MHWASS
 			this->btnAdvancedSearch->Name = L"btnAdvancedSearch";
 			this->btnAdvancedSearch->Size = System::Drawing::Size( 137, 27 );
 			this->btnAdvancedSearch->TabIndex = 1;
-			this->btnAdvancedSearch->Text = L"&Advanced Search";
+			this->btnAdvancedSearch->Text = L"&Advanced Search...";
 			this->btnAdvancedSearch->UseVisualStyleBackColor = true;
 			this->btnAdvancedSearch->Click += gcnew System::EventHandler( this, &Form1::btnAdvancedSearch_Click );
 			// 
@@ -1213,7 +1220,7 @@ namespace MHWASS
 			this->btnCancel->Name = L"btnCancel";
 			this->btnCancel->Size = System::Drawing::Size( 85, 27 );
 			this->btnCancel->TabIndex = 2;
-			this->btnCancel->Text = L"Ca&ncel";
+			this->btnCancel->Text = L"&Cancel";
 			this->btnCancel->UseVisualStyleBackColor = true;
 			this->btnCancel->Click += gcnew System::EventHandler( this, &Form1::btnCancel_Click );
 			// 
@@ -1236,7 +1243,7 @@ namespace MHWASS
 			this->btnDecorations->Name = L"btnDecorations";
 			this->btnDecorations->Size = System::Drawing::Size( 89, 23 );
 			this->btnDecorations->TabIndex = 1;
-			this->btnDecorations->Text = L"My &Decorations";
+			this->btnDecorations->Text = L"My &Decos...";
 			this->btnDecorations->UseVisualStyleBackColor = true;
 			this->btnDecorations->Click += gcnew System::EventHandler( this, &Form1::btnDecorations_Click );
 			// 
@@ -1563,11 +1570,7 @@ namespace MHWASS
 			this->cmbDecorationSelect->ContextMenuStrip = this->cmsCharms;
 			this->cmbDecorationSelect->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
 			this->cmbDecorationSelect->FormattingEnabled = true;
-			this->cmbDecorationSelect->Items->AddRange( gcnew cli::array< System::Object^  >( 3 )
-			{
-				L"Use no decorations", L"Use my decorations",
-					L"Use all decorations"
-			} );
+			this->cmbDecorationSelect->Items->AddRange( gcnew cli::array< System::Object^  >( 3 ) { L"Use none", L"Use mine", L"Use all" } );
 			this->cmbDecorationSelect->Location = System::Drawing::Point( 6, 19 );
 			this->cmbDecorationSelect->Name = L"cmbDecorationSelect";
 			this->cmbDecorationSelect->Size = System::Drawing::Size( 88, 21 );
@@ -2685,9 +2688,9 @@ private:
 		grpSkills->Text = StaticString( Skills );
 		grpSkillFilters->Text = StaticString( SkillFilters );
 		grpGender->Text = StaticString( Gender );
-		btnDecorations->Text = StaticString( MyDecorations );
+		btnDecorations->Text = StaticString( MyDecorationsButton );
 		btnSearch->Text = StaticString( QuickSearch );
-		btnAdvancedSearch->Text = StaticString( AdvancedSearch );
+		btnAdvancedSearch->Text = StaticString( AdvancedSearchButton );
 		btnCancel->Text = StaticString( Cancel );
 		cmbDecorationSelect->Items[ 0 ] = StaticString( UseNoDecorations );
 		cmbDecorationSelect->Items[ 1 ] = StaticString( UseOnlyMyDecorations );
@@ -3099,6 +3102,34 @@ private:
 		this->Size = Drawing::Size( Width, NumSkills * 27 + 307 );
 
 		SaveConfig();
+	}
+
+	System::Void nudWeaponSlots1_ValueChanged( System::Object^  sender, System::EventArgs^  e )
+	{
+		if( (int)nudWeaponSlots1->Value == 0 )
+		{
+			nudWeaponSlots2->Value = 0;
+			nudWeaponSlots3->Value = 0;
+			nudWeaponSlots2->Enabled = false;
+			nudWeaponSlots3->Enabled = false;
+		}
+		else
+		{
+			nudWeaponSlots2->Enabled = true;
+		}
+	}
+
+	System::Void nudWeaponSlots2_ValueChanged( System::Object^  sender, System::EventArgs^  e )
+	{
+		if( (int)nudWeaponSlots2->Value == 0 )
+		{
+			nudWeaponSlots3->Value = 0;
+			nudWeaponSlots3->Enabled = false;
+		}
+		else
+		{
+			nudWeaponSlots3->Enabled = true;
+		}
 	}
 
 	System::Void exitToolStripMenuItem_Click( System::Object^ sender, System::EventArgs^ e )

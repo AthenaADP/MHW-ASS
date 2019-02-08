@@ -51,14 +51,18 @@ Trier alphabétiquement
 
 &Donation
 &Informations talents
+Informations talents
 
 #This option opens a browser to my Facebook page
 Vérifier les MàJ
 
 &A propos
-Mes &Joyaux
+A propos
+Mes &Joyaux...
+Mes Joyaux
 &Importer
 &Recherche rapide
+Recherche avancée...
 Recherche avancée
 &Annuler
 &Défaut

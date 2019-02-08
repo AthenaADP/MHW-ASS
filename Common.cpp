@@ -294,14 +294,15 @@ void StringTable::LoadLanguage( String^ lang )
 	//load strings
 	{
 		text = gcnew array< String^ >( (int)StringTable::StringIndex::NumStrings );
-		IO::StreamReader fin( IO::File::OpenRead( dir + L"strings.txt" ) );
+		String^ string_table = dir + L"strings.txt";
+		IO::StreamReader fin( IO::File::OpenRead( string_table ) );
 		int i;
 		for( i = 0; i < text->Length; )
 		{
 			String^ line = fin.ReadLine();
 			if( !line )
 			{
-				Windows::Forms::MessageBox::Show( L"Unexpected end of file: not enough lines of text" );
+				Windows::Forms::MessageBox::Show( nullptr, L"Unexpected end of file: not enough lines of text", string_table );
 				break;
 			}
 			if( line == L"" || line[ 0 ] == L'#' )

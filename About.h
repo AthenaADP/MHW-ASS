@@ -22,7 +22,7 @@ namespace MHWASS {
 			lblVersion->Text = StartString( Version ) + STRINGIZE( VERSION_NO );
 			label1->Text += GAMES;
 			btnClose->Text = StaticString( Close );
-			Text = BasicString( About );
+			Text = BasicString( AboutForm );
 
 			String^ credit = StaticString( TranslationCredit );
 			if( credit != L"-" )

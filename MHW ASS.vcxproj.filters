@@ -149,9 +149,6 @@
     <EmbeddedResource Include="Form1.resX">
       <Filter>Resource Files</Filter>
     </EmbeddedResource>
-    <EmbeddedResource Include="ImportCharms.resX">
-      <Filter>Resource Files</Filter>
-    </EmbeddedResource>
     <EmbeddedResource Include="PreviewImage.resX">
       <Filter>Resource Files</Filter>
     </EmbeddedResource>

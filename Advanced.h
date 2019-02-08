@@ -102,7 +102,7 @@ namespace MHWASS {
 			lvCharms->ResumeLayout();
 			lvCharms->ItemChecked += gcnew ItemCheckedEventHandler( this, &Advanced::CheckBoxClicked );
 
-			Text = BasicString( AdvancedSearch );
+			Text = BasicString( AdvancedSearchForm );
 			btnSearch->Text = StaticString( Search );
 			btnCancel->Text = StaticString( Cancel );
 			grpArmors->Text = StaticString( SelectArmor );

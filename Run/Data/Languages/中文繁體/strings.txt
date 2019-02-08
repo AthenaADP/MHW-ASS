@@ -51,15 +51,19 @@ Sort Skills Alpha&betically
 
 捐助(&D)
 技能信息(&S)
+技能信息
 
 #This option opens a browser to my Facebook page
 檢查更新(&U)
 
 關於(&A)
+關於
 我的裝飾品(&D)
+我的裝飾品
 導入(&I)
 快速搜索(&Q)
 高級搜索(&A)
+高級搜索
 取消(&C)
 默認(&D)
 

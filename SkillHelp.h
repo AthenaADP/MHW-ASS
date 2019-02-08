@@ -47,7 +47,7 @@ namespace MHWASS
 			grpDescription->Location = Point( 6 + grpSkills->Location.X + grpSkills->Size.Width, grpDescription->Location.Y );
 			grpDescription->Size = Drawing::Size( this->Width - grpDescription->Location.X - 28, grpDescription->Size.Height );
 
-			this->Text = BasicString( SkillHelp );
+			this->Text = BasicString( SkillHelpForm );
 
 			this->alphabetic = alphabetic;
 			this->default_female = default_female;
