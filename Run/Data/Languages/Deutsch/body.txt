@@ -175,5 +175,5 @@ Schmetterling-Thorax α
 Schmetterling-Thorax β
 Königinnenkäfer-Thorax α
 Königinnenkäfer-Thorax β
-Gala Suit Jacket
-Gala Suit Jacket α
+Galaanzug-Jacke
+Galaanzug-Jacke α

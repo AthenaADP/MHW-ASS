@@ -175,5 +175,5 @@ Schmetterling-Crura α
 Schmetterling-Crura β
 Königinnenkäfer-Crura α
 Königinnenkäfer-Crura β
-Gala Suit Slacks
-Gala Suit Slacks α
+Galaanzug-Hosen
+Galaanzug-Hosen α
