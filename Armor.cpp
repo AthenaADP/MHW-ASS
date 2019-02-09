@@ -326,14 +326,8 @@ void Armor::LoadDLC( System::String^ filename )
 				{
 					for each( Armor^ armor in armor_type )
 					{
-						for each( MaterialComponent^ mc in armor->components )
-						{
-							if( mc->material == mat )
-							{
-								dlc->armors.Add( armor );
-								break;
-							}
-						}
+						if( armor->components.Count > 0 && armor->components[ 0 ]->material == mat )
+							dlc->armors.Add( armor );
 					}
 				}
 			}
@@ -342,8 +336,20 @@ void Armor::LoadDLC( System::String^ filename )
 				Assert( false, L"Could not find DLC armor " + name );
 			}
 		}
+		
 		Armor::static_dlc.Add( dlc );
 	}
+
+	/*IO::StreamWriter fout( L"dlc_dump.txt" );
+	for each( ArmorDLC^ dlc in Armor::static_dlc )
+	{
+		fout.Write( dlc->name );
+		for each ( Armor^ armor in dlc->armors )
+		{
+			fout.Write( L"," + armor->name );
+		}
+		fout.WriteLine();
+	}*/
 }
 
 void Armor::LoadLanguageDLC( System::String^ filename )
