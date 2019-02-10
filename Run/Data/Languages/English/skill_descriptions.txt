@@ -333,6 +333,7 @@ Boosts Elderseal one level.
 High chance of increased game rewards. (No effect when joining mid-quest.)
 Lets you carve one additional time. (No effect when joining mid-quest.)
 Elemental damage increased for jumping attacks.
+Only those who complete the rigorous witcher training are allowed to use the powerful magic of the Igni Sign.
 Set bonus grants <<Adrenaline>>.
 Set bonus grants <<Good Luck>>.
 Set bonus grants <<Punishing Draw>>.
@@ -366,3 +367,5 @@ Set bonus grants <<Mind's Eye/Ballistics>>.
 Set bonus grants <<Elemental Airborne>>.
 Set bonus grants <<Master's Touch>>.
 Set bonus grants <<Great Luck>>.
+Set bonus grants <<Igni Intensity>>.
+Set bonus grants <<Super Recovery>>.

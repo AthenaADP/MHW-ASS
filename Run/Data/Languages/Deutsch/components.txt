@@ -4,6 +4,9 @@ Diamantsamen
 Rüstkugel III
 Ätheryten-Splitter
 Alter Knochen
+Ancient Cursed Bone
+Ancient Leshen Claw
+Ancient Leshen Skull
 Uralter Trank
 Anjanath-Reißzahn
 Anjanath-Reißzahn+
@@ -92,6 +95,7 @@ Belobigung
 Kaltgetränk
 Korallenknochen
 Korallenkristall
+Cursed Bone
 Daora-Rückenpanzer
 Daora-Klaue+
 Daora-Drachenschuppe+
@@ -292,6 +296,9 @@ Legiana-Schuppe+
 Legiana-Schwanzgewebe
 Legiana-Gewebe
 Legiana-Flügel
+Leshen Claw
+Leshen Resin
+Leshen Skull
 Lebenspulver
 Lichtkristall
 Loc-Lac-Erz
@@ -335,6 +342,7 @@ Nergigante-Horn+
 Nergigante-Nachwachsplatte
 Nergigante-Schwanz
 Nergigante-Kralle
+Nergigante-Ticket
 Netz
 Nitropilz
 Nora-Kriegertrophäe

@@ -27,3 +27,6 @@ Xeno'jiiva Ticket
 Winter Star Ticket
 Kulve Taroth Emperor Nugget
 Appreciation Ticket
+Leshen Skull,Leshen Claw,Cursed Bone,Leshen Resin
+Ancient Leshen Skull,Ancient Leshen Claw,Ancient Cursed Bone
+Nergigante Ticket

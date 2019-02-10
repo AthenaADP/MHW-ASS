@@ -4,6 +4,9 @@ Graine de ténacité
 Sphère d'armure II
 Éclat d'éthérite
 Os ancien
+Ancient Cursed Bone
+Ancient Leshen Claw
+Ancient Leshen Skull
 Potion ancestrale
 Croc Anjanath
 Croc Anjanath +
@@ -92,6 +95,7 @@ Certificat du champion
 Boisson fraîche
 Os de corail
 Cristal de corail
+Cursed Bone
 Cuirasse Daora
 Griffe Daora +
 Écaille Daora +
@@ -292,6 +296,9 @@ Plaque Legiana
 Palmure de queue Legiana
 Palmure Legiana
 Aile Legiana
+Leshen Claw
+Leshen Resin
+Leshen Skull
 Poudre de vie
 Cristal de lumière
 Minerai loc lac
@@ -335,6 +342,7 @@ Corne Nergigante +
 Plaque régénératrice Nergigante
 Queue Nergigante
 Serre Nergigante
+Nergigante Ticket
 Filet
 Champinitro
 Trophée de valeur Nora

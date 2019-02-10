@@ -177,3 +177,6 @@ Torace dello scarabeo α
 Torace dello scarabeo β
 Giacca gran galà
 Giacca gran galà α
+Corpo di Geralt α
+Corpo di Ciri α
+Cotta di Nergigante γ

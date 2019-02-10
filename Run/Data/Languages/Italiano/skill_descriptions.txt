@@ -333,6 +333,7 @@ Aumenta il livello sigillo anziano di uno.
 Ottima probabilità di maggiori premi a fine missione. (Nessun effetto all'entrata di una missione in corso).
 Permette di scagliare una volta in più. (Nessun effetto all'entrata di una missione in corso).
 Incrementa i danni elementali inflitti dagli attacchi in salto.
+Solo coloro che completano il rigoroso allenamento witcher possono usare la potente magia del segno Igni.
 Bonus set attiva <<Adrenalina>>.
 Bonus set attiva <<Buona fortuna>>.
 Bonus set attiva <<Sfoderata punitrice>>.
@@ -366,3 +367,5 @@ Bonus set attiva <<Preveggenza/Balistica>>.
 Bonus set attiva <<Minaccia aerea elementale>>.
 Bonus set attiva <<Tocco del maestro>>.
 Bonus set attiva <<Gran fortuna>>.
+Bonus set attiva <<Intensità Igni>>.
+Bonus set attiva <<Super guarigione>>.

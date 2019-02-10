@@ -177,6 +177,9 @@ Vertex dello scarabeo α
 Vertex dello scarabeo β
 Cilindro gran galà
 Cilindro gran galà α
+Testa di Geralt α
+Testa di Ciri α
+Elmo di Nergigante γ
 Benda nera α
 Occhiali del buoio α
 Testa di Kulu-Ya-Ku α

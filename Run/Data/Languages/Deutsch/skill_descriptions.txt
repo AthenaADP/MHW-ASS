@@ -333,6 +333,7 @@ Verbessert das Ältestensiegel um eine Stufe.
 Erhöhte Chance auf zusätzliche Questbelohnungen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
 Ermöglicht dir, einen Kadaver einmal zusätzlich zu zerlegen. (Keine Auswirkung, wenn du der Quest später beitrittst.)
 Erhöht den Element-Schaden durch gesprungene Angriffe.
+Only those who complete the rigorous witcher training are allowed to use the powerful magic of the Igni Sign.
 Setbonus verleiht <<Adrenalin>>.
 Setbonus verleiht <<Glück>>.
 Setbonus verleiht <<Bestrafender Zug>>.
@@ -366,3 +367,5 @@ Setbonus verleiht <<Inneres Auge/Ballistik>>.
 Setbonus verleiht <<Element-Luftherrschaft>>.
 Setbonus verleiht <<Meisterschliff>>.
 Setbonus verleiht <<Glückserhöher>>.
+Setbonus verleiht <<Igni Intensity>>.
+Setbonus verleiht <<Super-Erholung>>.

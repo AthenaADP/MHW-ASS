@@ -333,6 +333,7 @@
 完成任務獲取得的報酬數量變多的機率很高(從任務中途開始使用不會有效果)
 捕獲獲取得的報酬數量變多的機率很高(從任務中途開始使用不會有效果)
 跳躍攻擊的屬性傷害UP
+Only those who complete the rigorous witcher training are allowed to use the powerful magic of the Igni Sign.
 套裝技能 <<振奮>>.
 套裝技能 <<幸運>>.
 套裝技能 <<拔刀術【力】>>.
@@ -366,3 +367,5 @@
 套裝技能 <<飛燕【屬性】>>.
 套裝技能 <<達人藝>>.
 套裝技能 <<強運>>.
+套裝技能 <<Igni Intensity>>.
+套裝技能 <<超回復力>>.

@@ -4,6 +4,9 @@
 尖鎧玉
 Aetheryte Shard
 太古大骨
+Ancient Cursed Bone
+Ancient Leshen Claw
+Ancient Leshen Skull
 古老的秘藥
 蠻顎龍的牙
 蠻顎龍的銳牙
@@ -92,6 +95,7 @@ Chipped Scale
 冷飲
 珊瑚紅骨
 深海結晶
+Cursed Bone
 鋼龍的堅殼
 鋼龍的尖爪
 鋼的上龍鱗
@@ -263,7 +267,7 @@ Hero's Streamstone
 搔鳥的大飾羽
 搔鳥的鱗
 搔鳥的上鱗
-搔鳥硬幣
+搔鳥票
 Kulve Taroth Emperor Nugget
 爛輝龍的金煌玉
 爛輝龍的金塊
@@ -292,6 +296,9 @@ Large Scale
 風漂龍的尾膜
 風漂龍的翼膜
 風漂龍之翼
+Leshen Claw
+Leshen Resin
+Leshen Skull
 生命粉塵
 亮水晶
 Loc Lac Ore
@@ -335,6 +342,7 @@ Mysterious Feystone
 滅盡龍的再生殼
 滅盡龍的尾巴
 滅盡龍的尖爪
+滅盡龍硬幣
 網子
 爆炸菇
 諾拉族勇者之証

@@ -177,6 +177,9 @@ Queen Beetle Vertex α
 Queen Beetle Vertex β
 Gala Suit Top Hat
 Gala Suit Top Hat α
+Geralt's Head α
+Ciri's Head α
+Nergigante Helm γ
 Sealed Eyepatch α
 Shadow Shades α
 Kulu-Ya-Ku Head α

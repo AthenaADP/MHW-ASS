@@ -32,3 +32,5 @@ Lunastra Favor,4,Mind's Eye/Ballistics
 Soul of the Dragoon,2,Elemental Airborne
 Soul of the Dragoon,4,Master's Touch
 Astera Blessing,5,Great Luck
+Witcher's Knowledge,2,Igni Intensity
+Witcher's Knowledge,4,Super Recovery

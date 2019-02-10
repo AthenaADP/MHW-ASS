@@ -177,3 +177,6 @@ Königinnenkäfer-Thorax α
 Königinnenkäfer-Thorax β
 Galaanzug-Jacke
 Galaanzug-Jacke α
+Geralt-Körper  α
+Ciri-Körper  α
+Nergigante-Panzerung γ

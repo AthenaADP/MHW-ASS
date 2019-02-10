@@ -177,3 +177,6 @@ Queen Beetle Thorax α
 Queen Beetle Thorax β
 Gala Suit Jacket
 Gala Suit Jacket α
+Geralt's Body α
+Ciri's Body α
+Nergigante Mail γ

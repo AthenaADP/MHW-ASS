@@ -4,6 +4,9 @@ Seme della difesa
 Advanced Armor Sphere
 Frammento di eterite
 Osso Antico
+Ancient Cursed Bone
+Ancient Leshen Claw
+Ancient Leshen Skull
 Pillola Antica
 Anjanath: zanna
 Anjanath: zanna+
@@ -92,6 +95,7 @@ Encomio
 Cool Drink
 Osso corallino
 Cristallo corallino
+Cursed Bone
 Daora: carapace
 Daora: artiglio+
 Daora: scaglia+
@@ -292,6 +296,9 @@ Legiana: scaglia+
 Legiana: membrana caudale
 Legiana: membrana
 Legiana: ala
+Leshen Claw
+Leshen Resin
+Leshen Skull
 Lifepowder
 Cristallo luce
 Loc Lac Ore
@@ -335,6 +342,7 @@ Nergigante: corno+
 Nergigante: piastra rigenerata
 Nergigante: coda
 Nergigante: sperone
+Nergigante Ticket
 Net
 Nitroshroom
 Trofeo Audace Nora

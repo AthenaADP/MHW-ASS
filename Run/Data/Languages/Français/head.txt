@@ -177,6 +177,9 @@ Vertex Scarabée α
 Vertex Scarabée β
 Chapeau de gala
 Chapeau de gala α
+Geralt's Head α
+Ciri's Head α
+Coiffe Nergigante γ
 Cache-oeil interdit α
 Lunettes teintées α
 Tête Kulu-Ya-Ku α

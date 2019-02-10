@@ -134,6 +134,7 @@ Elderseal Boost
 Great Luck
 Carving Master
 Elemental Airborne
+Igni Intensity
 Anjanath Power
 Legiana Blessing
 Odogaron Power
@@ -160,3 +161,4 @@ Commission Guidance
 Lunastra Favor
 Soul of the Dragoon
 Astera Blessing
+Witcher's Knowledge

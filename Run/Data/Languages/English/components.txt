@@ -4,6 +4,9 @@ Adamant Seed
 Advanced Armor Sphere
 Aetheryte Shard
 Ancient Bone
+Ancient Cursed Bone
+Ancient Leshen Claw
+Ancient Leshen Skull
 Ancient Potion
 Anjanath Fang
 Anjanath Fang+
@@ -92,6 +95,7 @@ Commendation
 Cool Drink
 Coral Bone
 Coral Crystal
+Cursed Bone
 Daora Carapace
 Daora Claw+
 Daora Dragon Scale+
@@ -292,6 +296,9 @@ Legiana Scale+
 Legiana Tail Webbing
 Legiana Webbing
 Legiana Wing
+Leshen Claw
+Leshen Resin
+Leshen Skull
 Lifepowder
 Lightcrystal
 Loc Lac Ore
@@ -335,6 +342,7 @@ Nergigante Horn+
 Nergigante Regrowth Plate
 Nergigante Tail
 Nergigante Talon
+Nergigante Ticket
 Net
 Nitroshroom
 Nora Brave Trophy

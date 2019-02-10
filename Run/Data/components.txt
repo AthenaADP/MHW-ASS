@@ -4,6 +4,9 @@ Adamant Seed
 Advanced Armor Sphere
 Aetheryte Shard
 Ancient Bone
+Ancient Cursed Bone
+Ancient Leshen Claw
+Ancient Leshen Skull
 Ancient Potion
 Anjanath Fang
 Anjanath Fang+
@@ -92,6 +95,7 @@ Commendation
 Cool Drink
 Coral Bone
 Coral Crystal
+Cursed Bone
 Daora Carapace
 Daora Claw+
 Daora Dragon Scale+
@@ -271,7 +275,7 @@ Kulve Taroth Golden Scale
 Kulve Taroth Golden Shell
 Kulve Taroth Golden Spiralhorn
 Kulve Taroth Golden Tailshell
-Kushala Daora Ticket
+Kushala Daora Ticket,10
 Large Barrel
 Large Barrel Bomb
 Large Scale
@@ -292,6 +296,9 @@ Legiana Scale+
 Legiana Tail Webbing
 Legiana Webbing
 Legiana Wing
+Leshen Claw
+Leshen Resin
+Leshen Skull
 Lifepowder
 Lightcrystal
 Loc Lac Ore
@@ -301,7 +308,7 @@ Lunastra Horn
 Lunastra Mane
 Lunastra Scale+
 Lunastra Tail
-Lunastra Ticket
+Lunastra Ticket,10
 Lunastra Wing
 Lustrous Scale
 Machalite Ore
@@ -335,6 +342,7 @@ Nergigante Horn+
 Nergigante Regrowth Plate
 Nergigante Tail
 Nergigante Talon
+Nergigante Ticket,10
 Net
 Nitroshroom
 Nora Brave Trophy
@@ -424,9 +432,9 @@ Raw Meat
 Red Orb
 Research Commission Ticket
 Rolled-up Dung
-SFV Ticket
-SFV Ticket II
-SFV Ticket III
+SFV Ticket,Arena
+SFV Ticket II,Arena
+SFV Ticket III,Arena
 Screamer Pod
 Screamer Sac
 Shamos Hide
@@ -537,7 +545,7 @@ Xeno'jiiva Horn
 Xeno'jiiva Shell
 Xeno'jiiva Soulscale
 Xeno'jiiva Tail
-Xeno'jiiva Ticket
+Xeno'jiiva Ticket,10
 Xeno'jiiva Veil
 Xeno'jiiva Wing
 Zorah Magdaros Carapace
@@ -546,7 +554,7 @@ Zorah Magdaros Heat Scale
 Zorah Magdaros Magma
 Zorah Magdaros Pleura
 Zorah Magdaros Ridge
-Zorah Magdaros Ticket
+Zorah Magdaros Ticket,10
 (Pre-Order Exclusive)
 (B-Rank Arena Quests 1-7)
 (B-Rank Arena Quests 8-9)
