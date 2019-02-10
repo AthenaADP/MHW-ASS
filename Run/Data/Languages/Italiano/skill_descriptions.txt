@@ -365,3 +365,4 @@ Bonus set attiva <<Aumenta resistenza>>.
 Bonus set attiva <<Preveggenza/Balistica>>.
 Bonus set attiva <<Minaccia aerea elementale>>.
 Bonus set attiva <<Tocco del maestro>>.
+Bonus set attiva <<Gran fortuna>>.

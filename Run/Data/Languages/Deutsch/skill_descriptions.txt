@@ -365,3 +365,4 @@ Setbonus verleiht <<Ausdauerlimit hoch>>.
 Setbonus verleiht <<Inneres Auge/Ballistik>>.
 Setbonus verleiht <<Element-Luftherrschaft>>.
 Setbonus verleiht <<Meisterschliff>>.
+Setbonus verleiht <<Glückserhöher>>.

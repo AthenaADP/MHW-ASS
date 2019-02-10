@@ -365,3 +365,4 @@ Set bonus grants <<Stamina Cap Up>>.
 Set bonus grants <<Mind's Eye/Ballistics>>.
 Set bonus grants <<Elemental Airborne>>.
 Set bonus grants <<Master's Touch>>.
+Set bonus grants <<Great Luck>>.

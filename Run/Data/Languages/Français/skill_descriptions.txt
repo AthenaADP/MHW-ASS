@@ -365,3 +365,4 @@ Bonus de set <<Stamina+>>
 Bonus de set <<Œil de l'esprit>
 Bonus de Set <<Châtiment des cieux>>
 Bonus de Set <<Main de maître>>
+Bonus de set <<Bonne fortune>>
