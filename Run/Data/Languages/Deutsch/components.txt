@@ -95,7 +95,7 @@ Belobigung
 Kaltgetränk
 Korallenknochen
 Korallenkristall
-Cursed Bone
+Verfluchter Knochen
 Daora-Rückenpanzer
 Daora-Klaue+
 Daora-Drachenschuppe+
@@ -296,9 +296,9 @@ Legiana-Schuppe+
 Legiana-Schwanzgewebe
 Legiana-Gewebe
 Legiana-Flügel
-Leshen Claw
-Leshen Resin
-Leshen Skull
+Waldschrat-Klaue
+Waldschrat-Harz
+Waldschrat-Schädel
 Lebenspulver
 Lichtkristall
 Loc-Lac-Erz

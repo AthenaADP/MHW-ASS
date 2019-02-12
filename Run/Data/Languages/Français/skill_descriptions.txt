@@ -76,7 +76,7 @@ Résistance dragon +12
 Résistance dragon +20 Défense +10
 Durée fléaux élémentaires -30%
 Durée fléaux élémentaires -60%
-Annule les fléaux éémentaires
+Annule les fléaux élémentaires
 Attaque feu +30
 Attaque feu +60
 Attaque feu +100
@@ -333,7 +333,7 @@ Augmente le sceau des ancien de un niveau
 Grande chance d'obtenir plus de récompenses en cas de capture
 Permet de dépeçer une fois de plus (sauf participation en cours).
 Les dégâts élémentaires sont augmentés durant les attaques sautées.
-Only those who complete the rigorous witcher training are allowed to use the powerful magic of the Igni Sign.
+Seuls ceux qui complètent l'entraînement rigoureux des sorceleurs peuvent utilisar la puissante magie du signe d'Igni.
 Bonus de set <<Adrénaline>>
 Bonus de set <<Bonne fortune>>
 Bonus de set <<Batto-jutsu>>
@@ -367,5 +367,5 @@ Bonus de set <<Œil de l'esprit>
 Bonus de Set <<Châtiment des cieux>>
 Bonus de Set <<Main de maître>>
 Bonus de set <<Bonne fortune>>
-Bonus de set <<Igni Intensity>>
+Bonus de set <<Intensité d'Igni>>
 Bonus de set <<Super récupération>>
