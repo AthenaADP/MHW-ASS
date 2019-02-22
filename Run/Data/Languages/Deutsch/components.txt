@@ -4,9 +4,9 @@ Diamantsamen
 Rüstkugel III
 Ätheryten-Splitter
 Alter Knochen
-Ancient Cursed Bone
-Ancient Leshen Claw
-Ancient Leshen Skull
+Uralter Verfluchter Knochen
+Uralter-Waldschrat-Klaue
+Uralter-Waldschrat-Schädel
 Uralter Trank
 Anjanath-Reißzahn
 Anjanath-Reißzahn+
