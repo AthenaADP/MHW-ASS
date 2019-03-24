@@ -296,7 +296,7 @@ bool Solution::HasDLCDisabledArmor()
 {
 	for each( Armor^ armor in armors )
 	{
-		if( armor->dlc_disabled )
+		if( armor && armor->dlc_disabled )
 			return true;
 	}
 	return false;

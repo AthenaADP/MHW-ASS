@@ -118,7 +118,9 @@ void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_ab
 	if( adv && armor->force_disable )
 		return;
 
-	const bool test = armor->name->StartsWith( L"Azure" );
+#ifdef _DEBUG
+	const bool test = armor->name->StartsWith( L"Kaiser" );
+#endif
 
 	const bool may_remove_self = !adv || !armor->force_enable;
 	for( int i = 0; i < list->Count; ++i )

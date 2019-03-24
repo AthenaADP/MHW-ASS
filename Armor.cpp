@@ -404,7 +404,7 @@ bool Armor::MatchesQuery( Query^ query, const bool allow_full )
 	no_relevant_skills = true;
 	for( int i = 0; i < abilities.Count; ++i )
 	{
-		if( Utility::Contains( %query->rel_abilities, abilities[ i ]->ability ) )
+		if( abilities[ i ]->ability->relevant )
 		{
 			no_relevant_skills = false;
 			return true;
