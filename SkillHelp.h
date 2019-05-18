@@ -47,6 +47,9 @@ namespace MHWASS
 			grpDescription->Location = Point( 6 + grpSkills->Location.X + grpSkills->Size.Width, grpDescription->Location.Y );
 			grpDescription->Size = Drawing::Size( this->Width - grpDescription->Location.X - 28, grpDescription->Size.Height );
 
+			tipDescription->ToolTipTitle = StaticString( Description );
+			tipDescription->SetToolTip( txtDescription, StaticString( TipResults ) );
+
 			this->Text = BasicString( SkillHelpForm );
 
 			this->alphabetic = alphabetic;
@@ -84,6 +87,7 @@ namespace MHWASS
 	private: System::Windows::Forms::RichTextBox^  txtDescription;
 	private: System::ComponentModel::IContainer^  components;
 	private: System::Windows::Forms::ContextMenuStrip^  cmsDescription;
+	private: System::Windows::Forms::ToolTip^ tipDescription;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
@@ -172,7 +176,10 @@ namespace MHWASS
 			this->grpSkills->ResumeLayout(false);
 			this->grpDescription->ResumeLayout(false);
 			this->ResumeLayout(false);
-
+			//
+			// tipDescription
+			//
+			tipDescription = gcnew System::Windows::Forms::ToolTip();
 		}
 #pragma endregion
 

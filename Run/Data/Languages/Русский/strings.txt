@@ -12,7 +12,7 @@
 #  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
 #
 
-#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen (-) means nothing is shown.
 -
 
 #Menu options
@@ -217,3 +217,17 @@ ASS Настройки
 
 #Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
 Полный набор
+
+#Prefix for slot levels
+Lv
+
+#Tooltips
+Right-click armors or skills for more info
+Select which decorations to search with
+Select an extra skill to filter out results which don't have it
+Select criteria to sort results by
+Select the level of quests you have access to
+Click to add extra weapon slots
+Select the level of weapon slot %1
+Click to remove skill options
+Click to add skill options

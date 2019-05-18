@@ -274,6 +274,16 @@ ref struct StringTable
 		NumDecorations,
 		ExcludeSkill,
 		Completed,
+		SlotLevelPrefix,
+		TipResults,
+		TipDecorations,
+		TipFilter,
+		TipSort,
+		TipQuestLevel,
+		TipAddWeaponSlots,
+		TipWeaponSlotLevel,
+		TipRemoveSkills,
+		TipAddSkills,
 		NumStrings
 	};
 };
