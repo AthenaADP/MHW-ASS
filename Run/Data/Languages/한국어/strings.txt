@@ -205,12 +205,12 @@ No %1
 Lv
 
 #Tooltips
-Right-click armors or skills for more info
-Select which decorations to search with
-Select an extra skill to filter out results which don't have it
-Select criteria to sort results by
-Select the level of quests you have access to
-Click to add extra weapon slots
-Select the level of weapon slot %1
-Click to remove skill options
-Click to add skill options
+방어구 또는 스킬의 자세한 정보를 보려면 우클릭
+검색할 장식주를 선택
+없는 결과를 필터링할 추가스킬을 선택
+결과를 정렬할 기준 선택
+수주 가능한 퀘스트 수준 선택
+무기 슬롯을 추가하려면 클릭
+무기 슬롯 %1 수준을 선택
+스킬 옵션을 제거하려면 클릭
+스킬 옵션을 추가하려면 클릭
