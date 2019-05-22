@@ -91,7 +91,7 @@
 性別
 男性
 女性
-おまけスキルのフィルター無し
+おまけスキルフィルター無し
 結果並べ替え・フィルター
 
 龍耐性
@@ -111,14 +111,14 @@
 
 
 #When sorting solutions, "Family" refers to which monsters the gear is made from
-同じセットを優先
+同セット優先
 
 #Extra Skills are skills that a solution may have that the user did not search for
 おまけスキル
 
 装飾品選択
 使用しない
-所有中の装飾品
+所持装飾品
 全装飾品
 
 スキル
@@ -133,12 +133,12 @@
 (無し)
 
 #When a solution has spare slots. Format: "3 slots spare (1+1+2)"
-%1 個の余りスロット
+余るスロット：%1
 
 検索結果:
 
 #When there are too many solutions to display all of them, %1 is the limit (default 1000)
-結果の中から最初の %1 個だけを表示します:
+結果中最初 %1 件:
 
 装飾品リスト
 ファイルが破損しています。
@@ -164,7 +164,7 @@ ASS 設定
 防御力 %1-%2, 火耐性 %3, 水耐性 %4, 氷耐性 %5, 雷耐性 %6, 龍耐性 %7
 
 #This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
-%1の珠
+「%1」の珠
 #Item Type refers to weapon/helm/body armor/etc.
 装備種類
 
@@ -176,8 +176,8 @@ ASS 設定
 説明
 発動スキル
 スキル系統
-このスキルがついている防具:
-このスキルがシリーズスキルとしてついている防具:
+このスキルを含む防具:
+このスキルがセットスキルに含まれている防具:
 
 #Strings for displaying hunter rank, village quest progress etc.
 %1☆
@@ -205,12 +205,12 @@ MAX
 LV
 
 #Tooltips
-Right-click armors or skills for more info
-Select which decorations to search with
-Select an extra skill to filter out results which don't have it
-Select criteria to sort results by
-Select the level of quests you have access to
-Click to add extra weapon slots
-Select the level of weapon slot %1
-Click to remove skill options
-Click to add skill options
+装備またはスキルを右クリックすることで詳細が見られます
+選択した装飾品で検索します   
+おまけスキルを選んで更に検索結果を絞ります
+結果の並べ条件
+現在受けられる最大クエストレベル
+武器スロットの追加
+武器スロットのレベル
+スキル削除
+スキル追加
