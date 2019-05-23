@@ -203,15 +203,15 @@ Sans %1
 Complet
 
 #Prefix for slot levels
-Lv
+Nv
 
 #Tooltips
-Right-click armors or skills for more info
-Select which decorations to search with
-Select an extra skill to filter out results which don't have it
-Select criteria to sort results by
-Select the level of quests you have access to
-Click to add extra weapon slots
-Select the level of weapon slot %1
-Click to remove skill options
-Click to add skill options
+Clique droit sur armures/talents pour plus d'infos
+Choisir les décorations à chercher
+Choisir un talent supplémentaire pour filtrer les résultats qui ne l'ont pas
+Choisir un critère pour trier les résultats
+Choisir le niveau de quête auquel vous avez accès
+Clique pour ajouter un slot à l'arme
+Choisir le niveau du slot %1
+Clique pour retirer les options de talent
+Clique pour ajouter des options de talent

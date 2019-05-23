@@ -203,15 +203,15 @@ Kein/e %1
 Maximiert
 
 #Prefix for slot levels
-Lv
+St
 
 #Tooltips
-Right-click armors or skills for more info
-Select which decorations to search with
-Select an extra skill to filter out results which don't have it
-Select criteria to sort results by
-Select the level of quests you have access to
-Click to add extra weapon slots
-Select the level of weapon slot %1
-Click to remove skill options
-Click to add skill options
+Rechtsklick auf Rüstung oder Skills für mehr Infos
+Wähle, mit welchen Dekos gesucht werden soll
+Wähle einen Extraskill, um Ergebnisse zu filtern, die ihn nicht haben
+Wähle Kriterien, nach denen Ergebnisse sortiert werden
+Wähle die Queststufen, auf die du Zugriff hast
+Klicken um Waffenslots hinzuzufügen
+Wähle die Stufe von Waffenslot %1
+Klicken um Skilloptionen zu entfernen
+Klicken um Skilloptionen hinzuzufügen

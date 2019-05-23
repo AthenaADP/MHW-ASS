@@ -203,15 +203,15 @@ Escludi %1
 Completato
 
 #Prefix for slot levels
-Lv
+LV
 
 #Tooltips
-Right-click armors or skills for more info
-Select which decorations to search with
-Select an extra skill to filter out results which don't have it
-Select criteria to sort results by
-Select the level of quests you have access to
-Click to add extra weapon slots
-Select the level of weapon slot %1
-Click to remove skill options
-Click to add skill options
+Click-destro su armature o abilità per maggiori informazioni
+Seleziona con quali decorazioni cercare
+Seleziona un'ulteriore abilità per escludere i risultati in cui non è presente
+Seleziona con che criterio organizzare i risultati
+Seleziona a che livello di missioni hai accesso
+Aggiungi slot armi
+Seleziona il livello dello slot arma %1
+Meno abilità
+Più abilità
