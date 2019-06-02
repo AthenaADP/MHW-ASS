@@ -219,15 +219,15 @@ ASS Настройки
 Полный набор
 
 #Prefix for slot levels
-Lv
+Ур
 
 #Tooltips
-Right-click armors or skills for more info
-Select which decorations to search with
-Select an extra skill to filter out results which don't have it
-Select criteria to sort results by
-Select the level of quests you have access to
-Click to add extra weapon slots
-Select the level of weapon slot %1
-Click to remove skill options
-Click to add skill options
+ПКМ по броне или умению для детальной информации
+Выберете самоцветы для поиска
+Выберите доп. умение, чтобы отфильтровать результаты
+Выберите способ сортировки
+Выберите уровень заданий, которые вам доступны
+Нажмите, чтобы добавить доп. слот оружию
+Выберите уровень %1го слота
+Нажмите, чтобы удалить слот умения
+Нажмите, чтобы добавить слот умения
