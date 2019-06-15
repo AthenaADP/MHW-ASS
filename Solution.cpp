@@ -13,6 +13,7 @@ ref struct CalculationData
 	AbilityMap need;
 	Map_t< Skill^, int > relevant;
 	List_t< List_t< Decoration^ >^ > rel_decoration_map;
+	unsigned total_relevant_skill_points;
 };
 
 void AddAbilities( AbilityMap% total, List_t< AbilityPair^ >% abilities )
@@ -79,7 +80,7 @@ void GetInitialData( CalculationData^ data )
 	}
 
 	data->solution->slots_spare = gcnew array< unsigned >( 4 );
-	for( int i = 0; i < 4; ++i )
+	for( int i = 1; i < 4; ++i )
 		data->solution->slots_spare[ i ] = data->query->weapon_slots[ i ];
 	
 	data->solution->defence = data->solution->max_defence = data->solution->aug_defence = data->solution->fire_res = data->solution->ice_res = data->solution->water_res
@@ -90,6 +91,8 @@ void GetInitialData( CalculationData^ data )
 	AddInitialArmor( data->solution->armors[ 2 ], data->solution );
 	AddInitialArmor( data->solution->armors[ 3 ], data->solution );
 	AddInitialArmor( data->solution->armors[ 4 ], data->solution );
+
+	data->solution->total_slots_spare = data->solution->slots_spare[ 1 ] + data->solution->slots_spare[ 2 ] + data->solution->slots_spare[ 3 ];
 
 	if( data->solution->charm )
 	{
@@ -117,6 +120,15 @@ void GetInitialData( CalculationData^ data )
 			data->solution->abilities.Add( bonus, 1 );
 		else
 			data->solution->abilities[ bonus ]++;
+	}
+
+	data->total_relevant_skill_points = 0;
+
+	e = data->solution->abilities.GetEnumerator();
+	while( e.MoveNext() )
+	{
+		if( e.Current.Key->relevant )
+			data->total_relevant_skill_points += e.Current.Value;
 	}
 }
 
@@ -150,8 +162,9 @@ bool CalculateDecorations( CalculationData^ data )
 		}
 		if( required > 0 )
 			return false;
-		
 	}
+
+	data->solution->total_slots_spare = data->solution->slots_spare[ 1 ] + data->solution->slots_spare[ 2 ] + data->solution->slots_spare[ 3 ];
 	return true;
 }
 
@@ -183,19 +196,18 @@ void Solution::ReduceCharm()
 	}
 }
 
-void Solution::FindExtraSkills()
+void Solution::FindPotentialSkillUpgrades()
 {
 	if( total_slots_spare == 0 )
 		return;
 	
-	//first try to upgrade skills
-
+	//try to upgrade each relevant skill using spare slots
 	for each( Collections::Generic::KeyValuePair< Ability^, unsigned >^ ap in abilities )
 	{
 		Ability^ ab = ap->Key;
 		if( !ab->decoration || ap->Value == ab->max_level )
 			continue;
-		
+
 		unsigned val = ap->Value;
 		Skill^ current_skill = ab->GetSkill( val );
 		if( current_skill && current_skill->best )
@@ -216,6 +228,72 @@ void Solution::FindExtraSkills()
 	}
 }
 
+void Solution::FindArmorSwaps( Query^ query )
+{
+	//for each armor piece we want to optimize
+	for( int armor_type = 0; armor_type < (int)Armor::ArmorType::NumArmorTypes; ++armor_type )
+	{
+		Armor^ armor = armors[ armor_type ];
+		if( !armor )
+			continue;
+
+		unsigned total_required = 0;
+		bool have_set_skill = false;
+		Map_t< Ability^, int > required_abilities;
+		for each( AbilityPair^ ap in armor->abilities )
+		{
+			if( ap->ability->relevant )
+			{
+				if( ap->ability->set_ability )
+				{
+					have_set_skill = true;
+					break;
+				}
+				else
+				{
+					Assert( data->need.ContainsKey( ap->ability ), L"need doesn't contain ability" );
+					Assert( abilities.ContainsKey( ap->ability ), L"abilities doesn't contain ability" );
+					const int required = int( data->need[ ap->ability ] - abilities[ ap->ability ] + ap->amount );
+					total_required += (unsigned)Math::Max( 0, required );
+					required_abilities.Add( ap->ability, required );
+				}
+			}
+		}
+		if( have_set_skill || total_required == 0 )
+			continue;
+		
+		//search unused armors for potential swaps
+		for each( Armor^ other_armor in query->inf_armor[ armor_type ] )
+		{
+			if( other_armor->force_disable )
+				continue;
+
+			if( other_armor->total_slots + other_armor->total_relevant_skill_points < total_required )
+				continue;
+
+			Solution^ swap = CreateArmorSwap( query, (int)armor_type, other_armor );
+			if( swap->MatchesQuery( query, false ) )
+				armor_swaps.Add( swap );
+		}
+	}
+}
+
+Solution^ Solution::CreateArmorSwap( Query^ query, int armor_type, Armor^ armor )
+{
+	Solution^ swap = gcnew Solution();
+	swap->armors.AddRange( %armors );
+	swap->armors[ armor_type ] = armor;
+	swap->charm = charm;
+	return swap;
+}
+
+void Solution::CalculatePotentialExtraSkills()
+{
+	potential_extra_skills.Clear();
+
+	FindPotentialSkillUpgrades();
+}
+
 bool Solution::ImpossibleNoDecorations( Query^ query )
 {
 	for each( Skill^ skill in query->skills )
@@ -225,7 +303,7 @@ bool Solution::ImpossibleNoDecorations( Query^ query )
 		
 		if( have < need )
 		{
-			if( !skill->ability->decoration || query->no_decos )
+			if( query->no_decos || !skill->ability->decoration || !skill->ability->decoration->can_use )
 				return true;
 
 			bool found = false;
@@ -239,12 +317,18 @@ bool Solution::ImpossibleNoDecorations( Query^ query )
 			}
 			if( !found )
 				return true;
+
+			const unsigned required = need - have;
+			if( total_slots_spare < required ||
+				skill->ability->decoration->slot_level == 3 && required > slots_spare[3] ||
+				skill->ability->decoration->slot_level == 2 && required > slots_spare[3] + slots_spare[2] )
+				return true;
 		}
 	}
 	return false;
 }
 
-bool Solution::MatchesQuery( Query^ query )
+bool Solution::MatchesQuery( Query^ query, const bool find_armor_swaps )
 {
 	data = gcnew CalculationData;
 	data->query = query;
@@ -259,13 +343,14 @@ bool Solution::MatchesQuery( Query^ query )
 	
 	GetInitialData( data );
 
+	if( data->total_relevant_skill_points + total_slots_spare < query->total_skill_points_required )
+		return false;
+
 	if( ImpossibleNoDecorations( query ) )
 		return false;
 
 	if( !query->no_decos && !CalculateDecorations( data ) )
 		return false;
-
-	total_slots_spare = slots_spare[ 1 ] + slots_spare[ 2 ] + slots_spare[ 3 ];
 	
 	for each( Skill^ skill in query->skills )
 	{
@@ -275,20 +360,27 @@ bool Solution::MatchesQuery( Query^ query )
 			return false;
 	}
 	
-	if( charm )
+	//not very useful in MHW
+	/*if( charm )
 	{
 		ReduceCharm();
-	}
+	}*/
 
 	CalculateExtraSkills( query );
+	CalculatePotentialExtraSkills();
 	CalculateFamilyScore();
-	CalculateSkillModifiers();
+	CalculateSkillModifiers(); //e.g. apply +fire res, etc.
 	
 	Assert( total_slots_spare < 1000, L"Total slots spare is negative" );
 	for each( Decoration^ deco in decorations )
 	{
 		difficulty += deco->difficulty;
 	}
+	if( charm )
+		difficulty += charm->difficulty;
+	
+	if( find_armor_swaps )
+		FindArmorSwaps( query );
 	return true;
 }
 
@@ -317,7 +409,7 @@ void Solution::CalculateExtraSkills( Query^ query )
 	}
 }
 
-void Solution::CalculateData( const unsigned hr )
+void Solution::CalculateData()
 {
 	abilities.Clear();
 	fire_res = ice_res = thunder_res = water_res = dragon_res = defence = rarity = difficulty = max_defence = aug_defence = 0;
@@ -350,6 +442,7 @@ void Solution::CalculateData( const unsigned hr )
 
 	CalculateFamilyScore();
 	CalculateSkillModifiers();
+	CalculatePotentialExtraSkills();
 }
 
 void Solution::CalculateSkillModifiers()

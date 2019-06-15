@@ -16,7 +16,7 @@ ref struct Query : public System::Object
 {
 	List_t< Skill^ > skills;
 	Gender gender;
-	unsigned hr;
+	unsigned hr, total_skill_points_required;
 	bool include_arena, allow_lower_tier, allow_fair_wind, no_decos, my_decos, always_search_alpha;
 
 	array< unsigned >^ weapon_slots;
@@ -55,19 +55,25 @@ ref struct Solution
 	unsigned defence, max_defence, aug_defence, rarity, difficulty, total_slots_spare;
 	array< unsigned >^ slots_spare, ^family_score;
 
+	List_t< Solution^ > armor_swaps;
+
 	unsigned long long GetHash();
 	
-	bool MatchesQuery( Query^ query );
+	bool MatchesQuery( Query^ query, const bool find_armor_swaps );
 	bool HasDLCDisabledArmor();
-	void CalculateData( const unsigned hr );
+	void CalculateData();
 	void CalculateFamilyScore();
 	void CalculateSkillModifiers();
 
 private:
 	CalculationData^ data;
 
+	Solution^ CreateArmorSwap( Query^ query, int armor_type, Armor^ armor );
+
 	bool ImpossibleNoDecorations( Query^ query );
 	void CalculateExtraSkills( Query^ query );
+	void CalculatePotentialExtraSkills();
 	void ReduceCharm();
-	void FindExtraSkills();
+	void FindPotentialSkillUpgrades();
+	void FindArmorSwaps( Query^ query );
 };

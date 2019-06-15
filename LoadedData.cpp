@@ -122,12 +122,12 @@ void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_ab
 	const bool test = armor->name->StartsWith( L"Kaiser" );
 #endif
 
-	const bool may_remove_self = !adv || !armor->force_enable;
+	const bool may_remove_self = !adv/* || !armor->force_enable*/;
 	for( int i = 0; i < list->Count; ++i )
 	{
 		if( armor->IsBetterThan( list[ i ], rel_abilities ) )
 		{
-			const bool may_remove = !adv || !list[ i ]->force_enable;
+			const bool may_remove = !adv/* || !list[ i ]->force_enable*/;
 			if( may_remove && !list[ i ]->IsBetterThan( armor, rel_abilities ) )
 			{
 				list->Remove( list[ i-- ] );
@@ -147,14 +147,29 @@ void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_ab
 		inf_armor->Add( armor );
 }
 
+bool IsBonusArmor( Armor^ a )
+{
+	return a->total_slots >= 2 && a->highest_slot_level > 1 && a->abilities.Count > 0;
+}
+
+int CompareArmorByIndex( Armor^ a, Armor^ b )
+{
+	return a->index < b->index ? -1 : b->index < a->index ? 1 : 0;
+}
+
 void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor^ >^ list, List_t< Armor^ >^ inf_armor )
 {
+	List_t< Armor^ > bonus_armor;
+
 	for each( Armor^ armor in list )
 	{
+		armor->relevant = false;
 		if( armor->MatchesQuery( query, false ) )
 		{
 			AddToList( rel_armor, armor, %query->rel_abilities, inf_armor, false );
 		}
+		else if( IsBonusArmor( armor ) )
+			bonus_armor.Add( armor );
 	}
 
 	if( query->always_search_alpha )
@@ -162,9 +177,9 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 		for( int i = 0; i < rel_armor->Count; ++i )
 		{
 			Armor^ alpha = rel_armor[ i ]->alpha_version;
-			if( alpha && !alpha->no_relevant_skills && !Utility::Contains( rel_armor, alpha ) )
+			if( alpha && alpha->total_relevant_skill_points > 0 && !Utility::Contains( inf_armor, alpha ) )
 			{
-				rel_armor->Insert( i, alpha );
+				inf_armor->Insert( i, alpha );
 				++i;
 			}
 		}
@@ -173,6 +188,8 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 	unsigned max_num_slots = 0, max_slot_level = 0, max_total_slot_levels = 0, max_slot_product = 0;
 	for each( Armor^ armor in rel_armor )
 	{
+		armor->relevant = true;
+
 		max_num_slots = Math::Max( max_num_slots, armor->total_slots );
 		max_slot_level = Math::Max( max_slot_level, armor->highest_slot_level );
 		max_total_slot_levels = Math::Max( max_total_slot_levels, armor->total_slot_level );
@@ -182,13 +199,22 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 	for( int i = 0; i < inf_armor->Count; ++i )
 	{
 		Armor^ a = inf_armor[ i ];
-		if( a->no_relevant_skills &&
+		if( a->total_relevant_skill_points == 0 &&
+			!IsBonusArmor( a ) &&
+			a->total_slots < 3 &&
 			a->total_slots <= max_num_slots &&
 			a->highest_slot_level <= max_slot_level &&
 			a->slot_product <= max_slot_product &&
 			a->total_slot_level <= max_total_slot_levels &&
 			!Utility::Contains( rel_armor, a ) )
 			inf_armor->RemoveAt( i-- );
+	}
+
+	if( bonus_armor.Count > 0 )
+	{
+		inf_armor->AddRange( %bonus_armor );
+
+		inf_armor->Sort( gcnew Comparison< Armor^ >( CompareArmorByIndex ) );
 	}
 }
 

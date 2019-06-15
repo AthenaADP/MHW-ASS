@@ -86,7 +86,7 @@ namespace MHWASS {
 				}
 				FixColumnWidth( boxes[ i ] );
 				boxes[ i ]->ResumeLayout();
-				boxes[ i ]->ItemChecked += gcnew ItemCheckedEventHandler( this, &Advanced::CheckBoxClicked );
+				boxes[ i ]->ItemChecked += gcnew ItemCheckedEventHandler( this, &Advanced::ArmorCheckBoxClicked );
 
 				RecheckDefaultItems( boxes[ i ] );
 			}
@@ -100,7 +100,7 @@ namespace MHWASS {
 			RecheckDefaultItems( lvCharms );
 			FixColumnWidth( lvCharms );
 			lvCharms->ResumeLayout();
-			lvCharms->ItemChecked += gcnew ItemCheckedEventHandler( this, &Advanced::CheckBoxClicked );
+			lvCharms->ItemChecked += gcnew ItemCheckedEventHandler( this, &Advanced::CharmCheckBoxClicked );
 
 			Text = BasicString( AdvancedSearchForm );
 			btnSearch->Text = StaticString( Search );
@@ -609,6 +609,7 @@ namespace MHWASS {
 
 		System::Void btnCancel_Click(System::Object^  sender, System::EventArgs^  e)
 		{
+			this->DialogResult = System::Windows::Forms::DialogResult::Cancel;
 			Close();
 		}
 
@@ -650,7 +651,7 @@ namespace MHWASS {
 			lv->BeginUpdate();
 			for each( ListViewItem^ item in lv->Items )
 			{
-				item->Checked = item->Font->Bold;
+				item->Checked = true;
 				item->ForeColor = color_default;
 				AdvancedSearchOptions^ op = safe_cast< AdvancedSearchOptions^ >( item->Tag );
 				op->force_disable = false;
@@ -662,41 +663,23 @@ namespace MHWASS {
 
 	private:
 
-		System::Void CheckAlpha( List_t< Charm^ >% inf, List_t< Charm^ >% rel ) {}
-
-		System::Void CheckAlpha( List_t< Armor^ >% inf, List_t< Armor^ >% rel )
-		{
-			for( int i = 0; i < rel.Count; ++i )
-			{
-				Armor^ alpha = rel[ i ]->alpha_version;
-				if( alpha && !alpha->no_relevant_skills && !Utility::Contains( %rel, alpha ) )
-				{
-					rel.Insert( i, alpha );
-					++i;
-				}
-			}
-		}
-
-		template< class T >
 		System::Void RecalculateDefaults( ListView^ lv )
 		{
-			List_t< T^ > inf, rel;
+			List_t< Charm^ > inf, rel;
 			for( int i = 0; i < lv->Items->Count; ++i )
 			{
-				T^ item = safe_cast< T^ >( lv->Items[ i ]->Tag );
+				Charm^ item = safe_cast< Charm^ >( lv->Items[ i ]->Tag );
 				AddToList( %rel, item, %query->rel_abilities, %inf, true );
 			}
-			if( query->always_search_alpha )
-				CheckAlpha( inf, rel );
 
 			//check for anything to enable
-			for each( T^ item in rel )
+			for each( Charm^ item in rel )
 			{
 				if( !item->force_enable && !item->force_disable && !lv->Items[ item->adv_index ]->Checked )
 					lv->Items[ item->adv_index ]->Checked = true;
 			}
 			//check for anything to disable
-			for each( T^ item in inf )
+			for each( Charm^ item in inf )
 			{
 				if( !item->force_enable && !item->force_disable && lv->Items[ item->adv_index ]->Checked && !Utility::Contains( %rel, item ) )
 					lv->Items[ item->adv_index ]->Checked = false;
@@ -707,22 +690,20 @@ namespace MHWASS {
 		{
 			if( sender == lvCharms )
 			{
-				RecalculateDefaults< Charm >( lvCharms );
+				RecalculateDefaults( lvCharms );
 			}
-			else
+			else if( sender != nullptr )
 			{
-				for each( ListView^ lv in boxes )
+				ListView^ lv = safe_cast< ListView^ >( sender );
+				for each( ListViewItem^ item in lv->Items )
 				{
-					if( lv == sender )
-					{
-						RecalculateDefaults< Armor >( lv );
-						break;
-					}
+					AdvancedSearchOptions^ ad = safe_cast< AdvancedSearchOptions^ >( item->Tag );
+					item->Checked = !ad->force_disable;
 				}
 			}
 		}
 
-		System::Void CheckBoxClicked( System::Object^ sender, ItemCheckedEventArgs^ e )
+		System::Void CharmCheckBoxClicked( System::Object^ sender, ItemCheckedEventArgs^ e )
 		{
 			if( !manual_checking )
 				return;
@@ -753,6 +734,31 @@ namespace MHWASS {
 					op->force_disable = true;
 					e->Item->ForeColor = color_disabled;
 				}
+				op->force_enable = false;
+			}
+
+			RecheckDefaultItems( sender );
+
+			manual_checking = true;
+		}
+
+		System::Void ArmorCheckBoxClicked( System::Object^ sender, ItemCheckedEventArgs^ e )
+		{
+			if( !manual_checking )
+				return;
+			manual_checking = false;
+
+			AdvancedSearchOptions^ op = safe_cast<AdvancedSearchOptions^>( e->Item->Tag );
+			if( e->Item->Checked )
+			{
+				e->Item->ForeColor = color_default;
+				op->force_disable = false;
+				op->force_enable = false;
+			}
+			else
+			{
+				e->Item->ForeColor = color_disabled;
+				op->force_disable = true;
 				op->force_enable = false;
 			}
 

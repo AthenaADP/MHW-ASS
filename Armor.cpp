@@ -401,17 +401,14 @@ bool Armor::MatchesQuery( Query^ query, const bool allow_full )
 		return false;
 
 	//check for relevant skills
-	no_relevant_skills = true;
-	for( int i = 0; i < abilities.Count; ++i )
+	total_relevant_skill_points = 0;
+	for each( AbilityPair^ ap in abilities )
 	{
-		if( abilities[ i ]->ability->relevant )
-		{
-			no_relevant_skills = false;
-			return true;
-		}
+		if( ap->ability->relevant )
+			total_relevant_skill_points += ap->amount;
 	}
 	
-	return true;
+	return total_relevant_skill_points > 0;
 }
 
 bool Armor::IsBetterAtNonSkills( Armor^ other )
@@ -435,7 +432,7 @@ bool Armor::IsBetterThan( Armor^ other, List_t< Ability^ >^ rel_abilities )
 		this->highest_slot_level > other->highest_slot_level ||
 		this->total_slot_level > other->total_slot_level ||
 		this->slot_product > other->slot_product ||
-		this->total_slots >= other->total_slots && highest_slot_level >= other->highest_slot_level && total_slot_level >= other->total_slot_level && slot_product >= other->slot_product && !no_relevant_skills && other->no_relevant_skills )
+		this->total_slots >= other->total_slots && highest_slot_level >= other->highest_slot_level && total_slot_level >= other->total_slot_level && slot_product >= other->slot_product && total_relevant_skill_points > 0 && other->total_relevant_skill_points == 0 )
 		return true;
 
 	if( SpecificAbility::nonelemental_boost->relevant && other->has_free_element )
@@ -443,7 +440,7 @@ bool Armor::IsBetterThan( Armor^ other, List_t< Ability^ >^ rel_abilities )
 
 	bool somewhat_worse = total_slots < other->total_slots || highest_slot_level < other->highest_slot_level || total_slot_level < other->total_slot_level || slot_product < other->slot_product;
 	
-	if( !somewhat_worse && this->no_relevant_skills && other->no_relevant_skills )
+	if( !somewhat_worse && this->total_relevant_skill_points == 0 && other->total_relevant_skill_points == 0 )
 	{
 		return this->IsBetterAtNonSkills( other );
 	}

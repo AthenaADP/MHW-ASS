@@ -89,11 +89,11 @@ namespace MHWASS
 		const static DialogResult_t OK = DialogResult_t::OK;
 		int MAX_LIMIT;
 		int NumSkills = 10;
-		int NumWeaponSlots = 1;
+		int NumWeaponSlots = 2;
 		const static int MaxSolutions = 100000;
 		static Threading::Mutex^ progress_mutex = gcnew Threading::Mutex;
 		static Threading::Mutex^ results_mutex = gcnew Threading::Mutex;
-		static Threading::Mutex^ charm_map_mutex = gcnew Threading::Mutex;
+		static Threading::Mutex^ all_solutions_mutex = gcnew Threading::Mutex;
 		static Threading::Mutex^ worker_mutex = gcnew Threading::Mutex;
 		String^ CFG_FILE;
 		String^ endl;
@@ -485,6 +485,8 @@ namespace MHWASS
 
 			Text += " v" + STRINGIZE( VERSION_NO );
 
+			Focus(); //without this, the icon won't show in the taskbar, for some reason
+
 			construction_complete = true;
 		}
 
@@ -557,7 +559,7 @@ namespace MHWASS
 				solution->extra_skills.Add( Skill::static_skills[ index ] );
 			}
 
-			solution->CalculateData( int( nudHR->Value ) );
+			solution->CalculateData();
 
 			all_solutions.Add( solution );
 		}
@@ -1737,6 +1739,11 @@ private:
 		query->my_decos = cmbDecorationSelect->SelectedIndex == 1;
 		
 		query->skills.AddRange( skills );
+		query->total_skill_points_required = 0;
+		for each( Skill^ skill in skills )
+		{
+			query->total_skill_points_required += skill->level;
+		}
 
 		data->GetRelevantData( query );
 	}
@@ -1921,11 +1928,21 @@ private:
 		{
 			query->rel_armor[ p ]->Clear();
 			List_t< Armor^ >^ ilist = query->inf_armor[ p ];
+			query->inf_armor[ p ] = gcnew List_t< Armor^ >();
 			for( int i = 0; i < ilist->Count; ++i )
 			{
-				if( advanced_search.boxes[ p ]->Items[ i ]->Checked )
-					query->rel_armor[ p ]->Add( ilist[ i ] );
+				if( !ilist[ i ]->force_disable )
+					AddToList( query->rel_armor[ p ], ilist[ i ], %query->rel_abilities, query->inf_armor[ p ], false );
 			}
+
+#ifdef _DEBUG
+			for( int i = 0; i < ilist->Count; ++i )
+			{
+				const bool checked = advanced_search.boxes[ p ]->Items[ i ]->Checked;
+				const bool used = Utility::Contains( query->rel_armor[ p ], ilist[ i ] ) || Utility::Contains( query->inf_armor[ p ], ilist[ i ] );
+				Assert( checked == used, L"Advanced search armor usage not as expected" );
+			}
+#endif
 		}
 		query->rel_charms.Clear();
 		
@@ -2130,7 +2147,7 @@ private:
 				if( armor )
 				{
 					sb.Append( armor->name );
-					if( armor->no_relevant_skills )
+					if( armor->total_relevant_skill_points == 0 )
 					{
 						//sb.Append( StaticString( JustForTheSlots ) );
 					}
@@ -2205,6 +2222,15 @@ private:
 					}
 				}
 			}
+			if( cmbFilterByExtraSkill->SelectedIndex > 0 && cmbFilterByExtraSkill->SelectedIndex - 1 < solutions_extra_skills.Count )
+			{
+				Skill^ selected_extra_skill = solutions_extra_skills[ cmbFilterByExtraSkill->SelectedIndex - 1 ]->skill;
+				if( !Utility::Contains( %solution->extra_skills, selected_extra_skill ) && Utility::Contains( %solution->potential_extra_skills, selected_extra_skill ) )
+				{
+					sb.AppendLine( FormatString1( SkillPossible, selected_extra_skill->name ) );
+					offset++;
+				}
+			}
 
 			if( mnuPrintMaterials->Checked )
 			{
@@ -2266,28 +2292,37 @@ private:
 
 #pragma region Worker Thread Stuff
 
+	System::Void AddSolution( Solution^ sol )
+	{
+		const auto hash = sol->GetHash();
+		if( !solution_hashes.ContainsKey( hash ) )
+		{
+			solution_hashes.Add( hash, 0 );
+			all_solutions.Add( sol );
+		}
+
+		for each( Solution^ swap in sol->armor_swaps )
+		{
+			AddSolution( swap );
+		}
+	}
+
 	System::Void AddSolutions( List_t< Solution^ >^ solutions )
 	{
-		charm_map_mutex->WaitOne();
+		all_solutions_mutex->WaitOne();
 		for each( Solution^ sol in solutions )
 		{
 			if( all_solutions.Count >= MaxSolutions )
 			{
-				charm_map_mutex->ReleaseMutex();
+				all_solutions_mutex->ReleaseMutex();
 				search_cancelled = true;
 				for each( BackgroundWorker^ worker in workers )
 					worker->CancelAsync();
 				return;
 			}
-
-			const auto hash = sol->GetHash();
-			if( !solution_hashes.ContainsKey( hash ) )
-			{
-				solution_hashes.Add( hash, 0 );
-				all_solutions.Add( sol );
-			}
+			else AddSolution( sol );
 		}
-		charm_map_mutex->ReleaseMutex();
+		all_solutions_mutex->ReleaseMutex();
 	}
 
 	System::Void cmbFilterByExtraSkill_SelectedIndexChanged(System::Object^  sender, System::EventArgs^  e)
@@ -2328,6 +2363,17 @@ private:
 					if( ExtraSkillFilters::filter_rules.ContainsKey( sk->ability ) && !ExtraSkillFilters::filter_rules[ sk->ability ]->IsRelevant() )
 						continue;
 					
+					solutions_extra_skills.Add( gcnew ExtraSkill( sk, true ) );
+					sk->extra = true;
+				}
+			}
+			for each( Skill^ sk in sol->potential_extra_skills )
+			{
+				if( !sk->ability->set_ability && !sk->extra )
+				{
+					if( ExtraSkillFilters::filter_rules.ContainsKey( sk->ability ) && !ExtraSkillFilters::filter_rules[ sk->ability ]->IsRelevant() )
+						continue;
+
 					solutions_extra_skills.Add( gcnew ExtraSkill( sk, true ) );
 					sk->extra = true;
 				}
@@ -2437,7 +2483,7 @@ private:
 
 		try
 		{
-			if( job->MatchesQuery( query ) )
+			if( job->MatchesQuery( query, true ) )
 				return job;
 		}
 		catch( Exception^ e )
@@ -2805,6 +2851,7 @@ private:
 		tipResults->SetToolTip( txtSolutions, StaticString( TipResults ) );
 		tipDecorations->ToolTipTitle = StaticString( Decorations );
 		tipDecorations->SetToolTip( btnDecorations, StaticString( TipDecorations ) );
+		tipDecorations->SetToolTip( cmbDecorationSelect, StaticString( TipDecorations ) );
 		tipSortFilter->ToolTipTitle = StaticString( SortFilterResults );
 		tipSortFilter->SetToolTip( cmbFilterByExtraSkill, StaticString( TipFilter ) );
 		tipSortFilter->SetToolTip( cmbSort, StaticString( TipSort ) );
@@ -3041,7 +3088,7 @@ private:
 			ExtraSkill^ selected = solutions_extra_skills[ cmbFilterByExtraSkill->SelectedIndex - 1 ];
 			for each( Solution^ s in all_solutions )
 			{
-				if( selected->want && Utility::Contains( %s->extra_skills, selected->skill ) ||
+				if( selected->want && ( Utility::Contains( %s->extra_skills, selected->skill ) || Utility::Contains( %s->potential_extra_skills, selected->skill ) ) ||
 					!selected->want && !Utility::Contains( %s->extra_skills, selected->skill->ability ) )
 					final_solutions.Add( s );
 			}

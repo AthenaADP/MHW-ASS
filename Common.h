@@ -82,8 +82,8 @@ void myassert( const bool val, System::String^ message );
 void myassert( const bool val, System::String^ message, System::String^ suffix_copy );
 
 #ifdef _DEBUG
-#define Assert( X, Y ) myassert( !!(X), Y )
-#define AssertCopy( X, Y, Z ) myassert( !!(X), Y, Z )
+#define Assert( CONDITION, MESSAGE ) myassert( !!(CONDITION), MESSAGE )
+#define AssertCopy( CONDITION, MESSAGE, COPY_TEXT_TO_CLIPBOARD ) myassert( !!(CONDITION), MESSAGE, COPY_TEXT_TO_CLIPBOARD )
 #else
 #define Assert( X, Y )
 #define AssertCopy( X, Y, Z )
