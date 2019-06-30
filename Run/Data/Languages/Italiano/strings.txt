@@ -211,7 +211,6 @@ Seleziona con quali decorazioni cercare
 Seleziona un'ulteriore abilità per escludere i risultati in cui non è presente
 Seleziona con che criterio organizzare i risultati
 Seleziona a che livello di missioni hai accesso
-Aggiungi slot armi
 Seleziona il livello dello slot arma %1
 Meno abilità
 Più abilità

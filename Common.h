@@ -280,7 +280,6 @@ ref struct StringTable
 		TipFilter,
 		TipSort,
 		TipQuestLevel,
-		TipAddWeaponSlots,
 		TipWeaponSlotLevel,
 		TipRemoveSkills,
 		TipAddSkills,

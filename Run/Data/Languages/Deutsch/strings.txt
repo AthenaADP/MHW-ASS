@@ -211,7 +211,6 @@ Wähle, mit welchen Dekos gesucht werden soll
 Wähle einen Extraskill, um Ergebnisse zu filtern, die ihn nicht haben
 Wähle Kriterien, nach denen Ergebnisse sortiert werden
 Wähle die Queststufen, auf die du Zugriff hast
-Klicken um Waffenslots hinzuzufügen
 Wähle die Stufe von Waffenslot %1
 Klicken um Skilloptionen zu entfernen
 Klicken um Skilloptionen hinzuzufügen

@@ -211,7 +211,6 @@ Choisir les décorations à chercher
 Choisir un talent supplémentaire pour filtrer les résultats qui ne l'ont pas
 Choisir un critère pour trier les résultats
 Choisir le niveau de quête auquel vous avez accès
-Clique pour ajouter un slot à l'arme
 Choisir le niveau du slot %1
 Clique pour retirer les options de talent
 Clique pour ajouter des options de talent
