@@ -78,6 +78,8 @@ namespace Utility
 	void UpdateContextMenu( System::Windows::Forms::ContextMenuStrip^ strip, Charm^ charm );
 }
 
+//bool CanDisplayString( System::String^ text );
+
 void myassert( const bool val, System::String^ message );
 void myassert( const bool val, System::String^ message, System::String^ suffix_copy );
 

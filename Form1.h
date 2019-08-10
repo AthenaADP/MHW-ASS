@@ -510,6 +510,7 @@ namespace MHWASS
 			array< String^ >^ langs = IO::Directory::GetDirectories( L"Data/Languages" );
 			for each( String^% lang in langs )
 			{
+				//Assert( CanDisplayString( lang ) , "Can't display language" );
 				ToolStripMenuItem^ item = gcnew ToolStripMenuItem( lang->Substring( lang->LastIndexOf( L'\\' ) + 1 ) );
 				item->Click += gcnew EventHandler( this, &Form1::LanguageSelect_Click );
 				mnuLanguage->DropDownItems->Add( item );
@@ -975,11 +976,7 @@ namespace MHWASS
 			this->components = ( gcnew System::ComponentModel::Container() );
 			System::ComponentModel::ComponentResourceManager^  resources = ( gcnew System::ComponentModel::ComponentResourceManager( Form1::typeid ) );
 			this->groupBox1 = ( gcnew System::Windows::Forms::GroupBox() );
-			this->nudWeaponSlots1 = ( gcnew MHWASS::NumericUpDownSlot() );
-			this->nudWeaponSlots2 = ( gcnew MHWASS::NumericUpDownSlot() );
 			this->lblSlots = ( gcnew System::Windows::Forms::Label() );
-			this->nudWeaponSlots3 = ( gcnew MHWASS::NumericUpDownSlot() );
-			this->nudHR = ( gcnew MHWASS::NumericUpDownHR() );
 			this->lblHR = ( gcnew System::Windows::Forms::Label() );
 			this->grpSkills = ( gcnew System::Windows::Forms::GroupBox() );
 			this->lblRemoveSkills = ( gcnew System::Windows::Forms::Label() );
@@ -1037,11 +1034,11 @@ namespace MHWASS
 			this->tipResults = ( gcnew System::Windows::Forms::ToolTip( this->components ) );
 			this->tipSortFilter = ( gcnew System::Windows::Forms::ToolTip( this->components ) );
 			this->tipDecorations = ( gcnew System::Windows::Forms::ToolTip( this->components ) );
+			this->nudWeaponSlots1 = ( gcnew MHWASS::NumericUpDownSlot() );
+			this->nudWeaponSlots2 = ( gcnew MHWASS::NumericUpDownSlot() );
+			this->nudWeaponSlots3 = ( gcnew MHWASS::NumericUpDownSlot() );
+			this->nudHR = ( gcnew MHWASS::NumericUpDownHR() );
 			this->groupBox1->SuspendLayout();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->BeginInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->BeginInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->BeginInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->BeginInit();
 			this->grpSkills->SuspendLayout();
 			this->groupBox4->SuspendLayout();
 			this->grpResults->SuspendLayout();
@@ -1050,6 +1047,10 @@ namespace MHWASS
 			this->grpSortFilter->SuspendLayout();
 			this->grpDecorations->SuspendLayout();
 			this->cmsSkills->SuspendLayout();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->BeginInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->BeginInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->BeginInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->BeginInit();
 			this->SuspendLayout();
 			// 
 			// groupBox1
@@ -1066,33 +1067,6 @@ namespace MHWASS
 			this->groupBox1->TabIndex = 0;
 			this->groupBox1->TabStop = false;
 			// 
-			// nudWeaponSlots1
-			// 
-			this->nudWeaponSlots1->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
-			this->nudWeaponSlots1->BackColor = System::Drawing::SystemColors::Control;
-			this->nudWeaponSlots1->Location = System::Drawing::Point( 79, 46 );
-			this->nudWeaponSlots1->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
-			this->nudWeaponSlots1->Name = L"nudWeaponSlots1";
-			this->nudWeaponSlots1->Size = System::Drawing::Size( 40, 20 );
-			this->nudWeaponSlots1->TabIndex = 7;
-			this->nudWeaponSlots1->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->tipWeaponSlots->SetToolTip( this->nudWeaponSlots1, L"Set the level of Weapon Slot 1" );
-			this->nudWeaponSlots1->ValueChanged += gcnew System::EventHandler( this, &Form1::nudWeaponSlots1_ValueChanged );
-			// 
-			// nudWeaponSlots2
-			// 
-			this->nudWeaponSlots2->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
-			this->nudWeaponSlots2->BackColor = System::Drawing::SystemColors::Control;
-			this->nudWeaponSlots2->Enabled = false;
-			this->nudWeaponSlots2->Location = System::Drawing::Point( 120, 46 );
-			this->nudWeaponSlots2->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
-			this->nudWeaponSlots2->Name = L"nudWeaponSlots2";
-			this->nudWeaponSlots2->Size = System::Drawing::Size( 40, 20 );
-			this->nudWeaponSlots2->TabIndex = 6;
-			this->nudWeaponSlots2->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->tipWeaponSlots->SetToolTip( this->nudWeaponSlots2, L"Set the level of Weapon Slot 2" );
-			this->nudWeaponSlots2->ValueChanged += gcnew System::EventHandler( this, &Form1::nudWeaponSlots2_ValueChanged );
-			// 
 			// lblSlots
 			// 
 			this->lblSlots->AutoSize = true;
@@ -1101,34 +1075,6 @@ namespace MHWASS
 			this->lblSlots->Size = System::Drawing::Size( 74, 13 );
 			this->lblSlots->TabIndex = 4;
 			this->lblSlots->Text = L"Weapon Slots";
-			// 
-			// nudWeaponSlots3
-			// 
-			this->nudWeaponSlots3->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
-			this->nudWeaponSlots3->BackColor = System::Drawing::SystemColors::Control;
-			this->nudWeaponSlots3->Enabled = false;
-			this->nudWeaponSlots3->Location = System::Drawing::Point( 161, 46 );
-			this->nudWeaponSlots3->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
-			this->nudWeaponSlots3->Name = L"nudWeaponSlots3";
-			this->nudWeaponSlots3->Size = System::Drawing::Size( 40, 20 );
-			this->nudWeaponSlots3->TabIndex = 5;
-			this->nudWeaponSlots3->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->tipWeaponSlots->SetToolTip( this->nudWeaponSlots3, L"Set the level of Weapon Slot 3" );
-			// 
-			// nudHR
-			// 
-			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
-			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
-			this->nudHR->Location = System::Drawing::Point( 161, 20 );
-			this->nudHR->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
-			this->nudHR->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
-			this->nudHR->Name = L"nudHR";
-			this->nudHR->Size = System::Drawing::Size( 40, 20 );
-			this->nudHR->TabIndex = 1;
-			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
-			this->tipQuestLevel->SetToolTip( this->nudHR, L"Set level of quests you have access to" );
-			this->nudHR->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
-			this->nudHR->ValueChanged += gcnew System::EventHandler( this, &Form1::nudHR_ValueChanged );
 			// 
 			// lblHR
 			// 
@@ -1650,6 +1596,61 @@ namespace MHWASS
 			// 
 			this->tipDecorations->ToolTipTitle = L"Decorations";
 			// 
+			// nudWeaponSlots1
+			// 
+			this->nudWeaponSlots1->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudWeaponSlots1->BackColor = System::Drawing::SystemColors::Control;
+			this->nudWeaponSlots1->Location = System::Drawing::Point( 79, 46 );
+			this->nudWeaponSlots1->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
+			this->nudWeaponSlots1->Name = L"nudWeaponSlots1";
+			this->nudWeaponSlots1->Size = System::Drawing::Size( 40, 20 );
+			this->nudWeaponSlots1->TabIndex = 7;
+			this->nudWeaponSlots1->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->tipWeaponSlots->SetToolTip( this->nudWeaponSlots1, L"Set the level of Weapon Slot 1" );
+			this->nudWeaponSlots1->ValueChanged += gcnew System::EventHandler( this, &Form1::nudWeaponSlots1_ValueChanged );
+			// 
+			// nudWeaponSlots2
+			// 
+			this->nudWeaponSlots2->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudWeaponSlots2->BackColor = System::Drawing::SystemColors::Control;
+			this->nudWeaponSlots2->Enabled = false;
+			this->nudWeaponSlots2->Location = System::Drawing::Point( 120, 46 );
+			this->nudWeaponSlots2->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
+			this->nudWeaponSlots2->Name = L"nudWeaponSlots2";
+			this->nudWeaponSlots2->Size = System::Drawing::Size( 40, 20 );
+			this->nudWeaponSlots2->TabIndex = 6;
+			this->nudWeaponSlots2->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->tipWeaponSlots->SetToolTip( this->nudWeaponSlots2, L"Set the level of Weapon Slot 2" );
+			this->nudWeaponSlots2->ValueChanged += gcnew System::EventHandler( this, &Form1::nudWeaponSlots2_ValueChanged );
+			// 
+			// nudWeaponSlots3
+			// 
+			this->nudWeaponSlots3->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudWeaponSlots3->BackColor = System::Drawing::SystemColors::Control;
+			this->nudWeaponSlots3->Enabled = false;
+			this->nudWeaponSlots3->Location = System::Drawing::Point( 161, 46 );
+			this->nudWeaponSlots3->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 3, 0, 0, 0 } );
+			this->nudWeaponSlots3->Name = L"nudWeaponSlots3";
+			this->nudWeaponSlots3->Size = System::Drawing::Size( 40, 20 );
+			this->nudWeaponSlots3->TabIndex = 5;
+			this->nudWeaponSlots3->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->tipWeaponSlots->SetToolTip( this->nudWeaponSlots3, L"Set the level of Weapon Slot 3" );
+			// 
+			// nudHR
+			// 
+			this->nudHR->Anchor = static_cast<System::Windows::Forms::AnchorStyles>( ( System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Right ) );
+			this->nudHR->BackColor = System::Drawing::SystemColors::Control;
+			this->nudHR->Location = System::Drawing::Point( 161, 20 );
+			this->nudHR->Maximum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
+			this->nudHR->Minimum = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 1, 0, 0, 0 } );
+			this->nudHR->Name = L"nudHR";
+			this->nudHR->Size = System::Drawing::Size( 40, 20 );
+			this->nudHR->TabIndex = 1;
+			this->nudHR->TextAlign = System::Windows::Forms::HorizontalAlignment::Center;
+			this->tipQuestLevel->SetToolTip( this->nudHR, L"Set level of quests you have access to" );
+			this->nudHR->Value = System::Decimal( gcnew cli::array< System::Int32 >( 4 ) { 9, 0, 0, 0 } );
+			this->nudHR->ValueChanged += gcnew System::EventHandler( this, &Form1::nudHR_ValueChanged );
+			// 
 			// Form1
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF( 6, 13 );
@@ -1669,10 +1670,6 @@ namespace MHWASS
 			this->Text = L"Athena\'s ASS for ";
 			this->groupBox1->ResumeLayout( false );
 			this->groupBox1->PerformLayout();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->EndInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->EndInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->EndInit();
-			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->EndInit();
 			this->grpSkills->ResumeLayout( false );
 			this->grpSkills->PerformLayout();
 			this->groupBox4->ResumeLayout( false );
@@ -1684,6 +1681,10 @@ namespace MHWASS
 			this->grpSortFilter->ResumeLayout( false );
 			this->grpDecorations->ResumeLayout( false );
 			this->cmsSkills->ResumeLayout( false );
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots1 ) )->EndInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots2 ) )->EndInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudWeaponSlots3 ) )->EndInit();
+			( cli::safe_cast<System::ComponentModel::ISupportInitialize^>( this->nudHR ) )->EndInit();
 			this->ResumeLayout( false );
 			this->PerformLayout();
 

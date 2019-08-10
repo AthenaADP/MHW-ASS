@@ -10,8 +10,83 @@ using namespace Windows::Forms;
 #using <mscorlib.dll>
 using namespace System::Runtime::InteropServices;
 
-[DllImport("user32.dll", SetLastError = true)]
-extern int SendMessage( IntPtr hWnd, int Msg, bool wParam, Int32 lParam );
+value class Win32
+{
+public:
+	[DllImport( "user32.dll", SetLastError = true )]
+	static int SendMessage( IntPtr hWnd, UInt32 Msg, Int32 wParam, Int32 lParam );
+
+	/*[DllImport( "gdi32.dll", EntryPoint = "CreateDC", SetLastError = true )]
+	static IntPtr CreateDC( const char* lpszDriver, const char* lpszDeviceName, const char* lpszOutput, IntPtr devMode );
+
+	[DllImport( "gdi32.dll", ExactSpelling = true, SetLastError = true )]
+	static bool DeleteDC( IntPtr hdc );
+
+	[DllImport( "gdi32.dll" )]
+	static IntPtr SelectObject( IntPtr hdc, IntPtr hgdiobj );
+
+	[DllImport( "gdi32.dll", CharSet = CharSet::Unicode )]
+	static int GetGlyphIndices( IntPtr hdc, [MarshalAs( UnmanagedType::LPWStr )] String^ lpstr, int c, [MarshalAs( UnmanagedType::LPArray )]array< Int16 >^, int fl );
+	*/
+};
+
+/*bool CanDisplayString( IntPtr hdc, Drawing::FontFamily^ font_family, String^ text )
+{
+	try
+	{
+		Drawing::Font^ font = gcnew Drawing::Font( font_family, 12, Drawing::FontStyle::Regular, Drawing::GraphicsUnit::Point );
+
+		if( Win32::SelectObject( hdc, font->ToHfont() ) == IntPtr::Zero )
+			return false;
+		
+		int count = text->Length;
+		array< Int16 >^ rtcode = gcnew array< Int16 >( count );
+		int res = Win32::GetGlyphIndices( hdc, text, count, rtcode, 1 );
+		if( res == -1 )
+			return false;
+
+		for each( Int16 code in rtcode )
+		{
+			if( code == -1 )
+				return false;
+		}
+		return true;
+	}
+	catch( Exception^ e )
+	{
+		MessageBox::Show( e->ToString(), "Font error" );
+	}
+	return false;
+}
+
+bool CanDisplayString( String^ text )
+{
+	IntPtr hdc = IntPtr::Zero;
+	try
+	{
+		hdc = Win32::CreateDC( "DISPLAY", nullptr, nullptr, IntPtr::Zero );
+		if( hdc == IntPtr::Zero )
+			return false;
+
+		Drawing::Text::InstalledFontCollection^ fonts = gcnew Drawing::Text::InstalledFontCollection();
+		List_t< String^ > valid;
+		for each( Drawing::FontFamily^ family  in fonts->Families )
+		{
+			if( family->Name->Length > 0 && CanDisplayString( hdc, family, text ) )
+				valid.Add( family->Name );
+		}
+
+		Win32::DeleteDC( hdc );
+		return valid.Count > 0;
+	}
+	catch( Exception^ e )
+	{
+		MessageBox::Show( e->ToString(), "Font error" );
+	}
+	if( hdc != IntPtr::Zero )
+		Win32::DeleteDC( hdc );
+	return false;
+}*/
 
 namespace Utility
 {
@@ -397,11 +472,11 @@ bool ConvertUInt( unsigned% i, String^ str, StringTable::StringIndex err )
 
 void SuspendDrawing( System::Windows::Forms::Control^ control )
 {
-	SendMessage( control->Handle, 11, false, 0 );
+	Win32::SendMessage( control->Handle, 11, false, 0 );
 }
 
 void ResumeDrawing( System::Windows::Forms::Control^ control )
 {
-	SendMessage( control->Handle, 11, true, 0 );
+	Win32::SendMessage( control->Handle, 11, true, 0 );
 	control->Refresh();
 }
