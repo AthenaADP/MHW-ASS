@@ -1904,15 +1904,22 @@ private:
 
 		for( int p = 0; p < int( Armor::ArmorType::NumArmorTypes ); ++p )
 		{
+			List_t< String^ > old, nnu;
+			for each( Armor^ a in query->rel_armor[ p ] )
+				old.Add( a->name );
+
 			query->rel_armor[ p ]->Clear();
 			List_t< Armor^ >^ ilist = query->inf_armor[ p ];
 			query->inf_armor[ p ] = gcnew List_t< Armor^ >();
-			for( int i = 0; i < ilist->Count; ++i )
+			/*for( int i = 0; i < ilist->Count; ++i )
 			{
 				if( !ilist[ i ]->force_disable )
 					AddToList( query->rel_armor[ p ], ilist[ i ], %query->rel_abilities, query->inf_armor[ p ], false );
-			}
+			}*/
 
+			data->GetRelevantArmors( query, query->rel_armor[ p ], Armor::static_armors[ p ], query->inf_armor[ p ], true );
+			for each( Armor^ a in query->rel_armor[ p ] )
+				nnu.Add( a->name );
 #ifdef _DEBUG
 			for( int i = 0; i < ilist->Count; ++i )
 			{
@@ -2105,17 +2112,18 @@ private:
 
 		System::Text::StringBuilder sb( solutions->Count * 1024 );
 
-		if( last_result ) sb.Append( last_result );
+		if( last_result )
+			sb.Append( last_result );
 		
 		System::String^ dash = L"-----------------";
 		int count = 0;
 		for each( Solution^ solution in solutions )
 		{
-			if( ++count > MAX_LIMIT )
-				break;
-
 			if( solution->HasDLCDisabledArmor() )
 				continue;
+
+			if( ++count > MAX_LIMIT )
+				break;
 
 			sb.Append( endl );
 			result_offsets.Add( ++offset );
@@ -2245,7 +2253,7 @@ private:
 			final_solutions.AddRange( solutions );
 
 		System::Text::StringBuilder sb2;
-		sb2.Append( StartString( SolutionsFound ) )->AppendLine( Convert::ToString( final_solutions.Count ) );
+		sb2.Append( StartString( SolutionsFound ) )->AppendLine( Convert::ToString( count ) );
 
 		if( solutions->Count > MAX_LIMIT )
 		{

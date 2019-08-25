@@ -22,9 +22,11 @@ ref struct Armor : public AdvancedSearchOptions
 
 	bool IsBetterThan( Armor^ other, List_t< Ability^ >^ rel_abilities );
 	bool IsBetterAtNonSkills( Armor^ other );
+	bool IsStrictlyBetterThan( Armor^ other );
 	unsigned GetSkillAt( Ability^ ability );
 
 	bool MatchesQuery( Query^ query, const bool allow_full );
+	bool MeetsRequirements( Query^ query, const bool allow_full );
 
 	bool ContainsAnyAbility( List_t< Ability^ >% to_search );
 

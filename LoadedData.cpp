@@ -113,27 +113,25 @@ void AddToList( List_t< Decoration^ >^ list, Decoration^ item, List_t< Ability^ 
 	list->Add( item );
 }
 
-void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_abilities, List_t< Armor^ >^ inf_armor, const bool adv )
+void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_abilities, List_t< Armor^ >^ inf_armor, const bool check_disabled )
 {
-	if( adv && armor->force_disable )
+	if( check_disabled && armor->force_disable )
 		return;
 
-#ifdef _DEBUG
-	const bool test = armor->name->StartsWith( L"Kaiser" );
-#endif
+//#ifdef _DEBUG
+//	const bool test = armor->name->StartsWith( L"Kaiser" );
+//#endif
 
-	const bool may_remove_self = !adv/* || !armor->force_enable*/;
 	for( int i = 0; i < list->Count; ++i )
 	{
 		if( armor->IsBetterThan( list[ i ], rel_abilities ) )
 		{
-			const bool may_remove = !adv/* || !list[ i ]->force_enable*/;
-			if( may_remove && !list[ i ]->IsBetterThan( armor, rel_abilities ) )
+			if( !list[ i ]->IsBetterThan( armor, rel_abilities ) )
 			{
 				list->Remove( list[ i-- ] );
 			}
 		}
-		else if( may_remove_self && list[ i ]->IsBetterThan( armor, rel_abilities ) )
+		else if( list[ i ]->IsBetterThan( armor, rel_abilities ) )
 		{
 			if( inf_armor )
 			{
@@ -147,9 +145,9 @@ void AddToList( List_t< Armor^ >^ list, Armor^ armor, List_t< Ability^ >^ rel_ab
 		inf_armor->Add( armor );
 }
 
-bool IsBonusArmor( Armor^ a )
+bool IsBonusArmor( Armor^ a, Query^ query )
 {
-	return a->total_slots >= 2 && a->highest_slot_level > 1 && a->abilities.Count > 0;
+	return a->MeetsRequirements( query, false ) && a->total_slots >= 2 && a->highest_slot_level > 1 && a->abilities.Count > 0;
 }
 
 int CompareArmorByIndex( Armor^ a, Armor^ b )
@@ -157,18 +155,20 @@ int CompareArmorByIndex( Armor^ a, Armor^ b )
 	return a->index < b->index ? -1 : b->index < a->index ? 1 : 0;
 }
 
-void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor^ >^ list, List_t< Armor^ >^ inf_armor )
+void LoadedData::GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor^ >^ list, List_t< Armor^ >^ inf_armor, const bool check_disabled )
 {
 	List_t< Armor^ > bonus_armor;
 
 	for each( Armor^ armor in list )
 	{
+		//const bool test = armor->name->StartsWith( L"Kulve" );
+
 		armor->relevant = false;
 		if( armor->MatchesQuery( query, false ) )
 		{
 			AddToList( rel_armor, armor, %query->rel_abilities, inf_armor, false );
 		}
-		else if( IsBonusArmor( armor ) )
+		else if( IsBonusArmor( armor, query ) && !( check_disabled && armor->force_disable ) )
 			bonus_armor.Add( armor );
 	}
 
@@ -177,10 +177,9 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 		for( int i = 0; i < rel_armor->Count; ++i )
 		{
 			Armor^ alpha = rel_armor[ i ]->alpha_version;
-			if( alpha && alpha->total_relevant_skill_points > 0 && !Utility::Contains( inf_armor, alpha ) )
+			if( alpha && alpha->total_relevant_skill_points > 0 && !alpha->dlc_disabled && !( check_disabled && alpha->force_disable ) && !Utility::Contains( inf_armor, alpha ) )
 			{
-				inf_armor->Insert( i, alpha );
-				++i;
+				inf_armor->Add( alpha );
 			}
 		}
 	}
@@ -200,7 +199,7 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 	{
 		Armor^ a = inf_armor[ i ];
 		if( a->total_relevant_skill_points == 0 &&
-			!IsBonusArmor( a ) &&
+			!IsBonusArmor( a, query ) &&
 			a->total_slots < 3 &&
 			a->total_slots <= max_num_slots &&
 			a->highest_slot_level <= max_slot_level &&
@@ -210,12 +209,21 @@ void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor
 			inf_armor->RemoveAt( i-- );
 	}
 
+	for each( Armor^ armor in rel_armor )
+	{
+		for( int i = 0; i < inf_armor->Count; ++i )
+		{
+			if( inf_armor[ i ]->total_relevant_skill_points == 0 && !IsBonusArmor( inf_armor[ i ], query ) && armor->IsStrictlyBetterThan( inf_armor[ i ] ) )
+				inf_armor->RemoveAt( i-- );
+		}
+	}
+
 	if( bonus_armor.Count > 0 )
 	{
 		inf_armor->AddRange( %bonus_armor );
-
-		inf_armor->Sort( gcnew Comparison< Armor^ >( CompareArmorByIndex ) );
 	}
+
+	inf_armor->Sort( gcnew Comparison< Armor^ >( CompareArmorByIndex ) );
 }
 
 void GetRelevantDecorations( Query^ query )
@@ -288,7 +296,7 @@ void LoadedData::GetRelevantData( Query^ query )
 	//get relevant armors
 	for( int i = 0; i < int( Armor::ArmorType::NumArmorTypes ); ++i )
 	{
-		GetRelevantArmors( query, query->rel_armor[ i ], Armor::static_armors[ i ], query->inf_armor[ i ] );
+		GetRelevantArmors( query, query->rel_armor[ i ], Armor::static_armors[ i ], query->inf_armor[ i ], false );
 		
 		query->rel_armor[ i ]->TrimExcess();
 	}

@@ -28,4 +28,6 @@ public:
 	void LoadDataFiles();
 
 	void GetRelevantData( Query^ query );
+
+	void GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, List_t< Armor^ >^ list, List_t< Armor^ >^ inf_armor, const bool check_disabled );
 };

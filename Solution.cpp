@@ -265,7 +265,7 @@ void Solution::FindArmorSwaps( Query^ query )
 		//search unused armors for potential swaps
 		for each( Armor^ other_armor in query->inf_armor[ armor_type ] )
 		{
-			if( other_armor->force_disable )
+			if( other_armor->force_disable || other_armor->relevant || other_armor->dlc_disabled )
 				continue;
 
 			if( other_armor->total_slots + other_armor->total_relevant_skill_points < total_required )

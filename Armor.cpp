@@ -389,15 +389,22 @@ unsigned GetTier( const unsigned hr )
 	return hr > 5 ? 1 : 0;
 }
 
-bool Armor::MatchesQuery( Query^ query, const bool allow_full )
+bool Armor::MeetsRequirements( Query^ query, const bool allow_full )
 {
-	//check requirements
 	if( !query->include_arena && this->arena ||
 		!query->allow_lower_tier && GetTier( this ) < GetTier( query->hr ) ||
 		gender != Gender::BOTH_GENDERS && gender != query->gender ||
-		this->dlc_disabled || 
+		this->dlc_disabled ||
 		!allow_full && this->full_set ||
 		query->hr < this->hr )
+		return false;
+
+	return true;
+}
+
+bool Armor::MatchesQuery( Query^ query, const bool allow_full )
+{
+	if( !MeetsRequirements( query, allow_full ) )
 		return false;
 
 	//check for relevant skills
@@ -408,7 +415,7 @@ bool Armor::MatchesQuery( Query^ query, const bool allow_full )
 			total_relevant_skill_points += ap->amount;
 	}
 	
-	return total_relevant_skill_points > 0;
+	return total_relevant_skill_points > 0 || total_slots > 0;
 }
 
 bool Armor::IsBetterAtNonSkills( Armor^ other )
@@ -462,6 +469,43 @@ bool Armor::IsBetterThan( Armor^ other, List_t< Ability^ >^ rel_abilities )
 	}
 
 	return total_relevant_points > other_total_relevant_points || ( !somewhat_worse && this->IsBetterAtNonSkills( other ) );
+}
+
+bool Armor::IsStrictlyBetterThan( Armor^ other )
+{
+	if( this->full_set || other->full_set )
+		return false;
+
+	if( this->total_slots < other->total_slots ||
+		this->highest_slot_level < other->highest_slot_level ||
+		this->total_slot_level < other->total_slot_level ||
+		this->slot_product < other->slot_product )
+		return false;
+
+	if( SpecificAbility::nonelemental_boost->relevant && this->has_free_element && !other->has_free_element )
+		return false;
+
+	int total_relevant_points = 0, other_total_relevant_points = 0;
+
+	for each( AbilityPair^ ap in abilities )
+	{
+		int my_skill_at = this->GetSkillAt( ap->ability );
+		int other_skill_at = other->GetSkillAt( ap->ability );
+
+		if( my_skill_at < other_skill_at )
+			return false;
+	}
+
+	for each( AbilityPair^ ap in other->abilities )
+	{
+		int my_skill_at = this->GetSkillAt( ap->ability );
+		int other_skill_at = other->GetSkillAt( ap->ability );
+
+		if( my_skill_at < other_skill_at )
+			return false;
+	}
+
+	return true;
 }
 
 unsigned Armor::GetSkillAt( Ability^ ability )
