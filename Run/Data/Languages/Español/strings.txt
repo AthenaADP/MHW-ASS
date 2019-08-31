@@ -149,7 +149,7 @@ Nivel del hueco
 (ninguno)
 
 #When a solution has spare slots. Format: "3 slots spare (1+1+2)"
-%1 huecos vacíos
+%1 hueco(s) vacío(s)
 
 Soluciones encontradas:
 
@@ -192,9 +192,9 @@ Tipo de objeto
 Mostrar
 Descripción
 Habilidades
-Arboles de habilidades
+Árboles de habilidades
 Disponible de estas piezas de armadura:
-Disponible como bonus de set de estas piezas de armadura:
+Disponible como habilidad extra de set de estas piezas de armadura:
 
 #Strings for displaying hunter rank, village quest progress etc.
 %1☆
