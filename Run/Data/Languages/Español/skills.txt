@@ -1,0 +1,164 @@
+Poison Resistance
+Paralysis Resistance
+Sleep Resistance
+Stun Resistance
+Muck Resistance
+Blast Resistance
+Bleeding Resistance
+Iron Skin
+Earplugs
+Windproof
+Tremor Resistance
+Dungmaster
+Effluvial Expert
+Heat Guard
+Attack Boost
+Defense Boost
+Health Boost
+Recovery Up
+Recovery Speed
+Fire Resistance
+Water Resistance
+Ice Resistance
+Thunder Resistance
+Dragon Resistance
+Blight Resistance
+Fire Attack
+Water Attack
+Ice Attack
+Thunder Attack
+Dragon Attack
+Poison Attack
+Paralysis Attack
+Sleep Attack
+Blast Attack
+Normal Shots
+Piercing Shots
+Spread/Power Shots
+Free Elem/Ammo Up
+Critical Eye
+Critical Boost
+Weakness Exploit
+Focus
+Power Prolonger
+Handicraft
+Critical Draw
+Partbreaker
+Slugger
+Stamina Thief
+Master Mounter
+Airborne
+Latent Power
+Agitator
+Peak Performance
+Heroics
+Fortify
+Resentment
+Resuscitate
+Horn Maestro
+Capacity Boost
+Special Ammo Boost
+Artillery
+Heavy Artillery
+Marathon Runner
+Constitution
+Leap of Faith
+Stamina Surge
+Hunger Resistance
+Evade Window
+Evade Extender
+Guard
+Quick Sheath
+Wide-Range
+Item Prolonger
+Free Meal
+Speed Eating
+Speed Sharpening
+Bombardier
+Mushroomancer
+Master Fisher
+Pro Transporter
+Master Gatherer
+Honey Hunter
+Carving Pro
+Divine Blessing
+Palico Rally
+Botanist
+Geologist
+Maximum Might
+Slinger Capacity
+Stealth
+Flinch Free
+Scoutfly Range Up
+Speed Crawler
+Jump Master
+Sporepuff Expert
+Aquatic Expert
+Cliffhanger
+Blindsider
+Scholar
+Entomologist
+Effluvia Resistance
+Scenthound
+Forager's Luck
+Detector
+BBQ Master
+Tool Specialist
+Affinity Sliding
+Intimidator
+Hasten Recovery
+Super Recovery
+Poison Duration Up
+Adrenaline
+Stamina Cap Up
+Critical Element
+Mind's Eye/Ballistics
+Bludgeoner
+Non-elemental Boost
+Capture Master
+Guard Up
+Guts
+Master's Touch
+Nullify Wind Pressure
+Razor Sharp/Spare Shot
+Critical Status
+Good Luck
+Bow Charge Plus
+Punishing Draw
+Protective Polish
+Poison Functionality
+Para Functionality
+Sleep Functionality
+Blast Functionality
+Elderseal Boost
+Great Luck
+Carving Master
+Elemental Airborne
+Igni Intensity
+Anjanath Power
+Legiana Blessing
+Odogaron Power
+Rathalos Power
+Diablos Power
+Kirin Blessing
+Anjanath Will
+Pink Rathian Mastery
+Zorah Magdaros Mastery
+Legiana Favor
+Odogaron Mastery
+Rathalos Mastery
+Diablos Mastery
+Uragaan Protection
+Bazelgeuse Protection
+Nergigante Hunger
+Teostra Technique
+Kushala Daora Flight
+Vaal Hazak Vitality
+Kirin Favor
+Xeno'jiiva Divinity
+Guild Guidance
+Commission Guidance
+Lunastra Favor
+Soul of the Dragoon
+Astera Blessing
+Witcher's Knowledge

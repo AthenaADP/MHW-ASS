@@ -1,0 +1,182 @@
+﻿Pantalones de cuero
+Pantalones de malla
+Grebas de cazador
+Grebas de hueso
+Grebas de Vespoid
+
+Botas de Gajau
+Grebas de Jagras
+Grebas de Kulu
+Grebas de aleación
+Grebas de Pukei
+Grebas de Barroth
+Grebas de Jyura
+Grebas de Kadachi
+Grebas de megametal
+Patas rey escarabajo
+Espinillera de mariposa
+
+Grebas de Hornetaur
+Grebas de Anja
+Grebas de Rathian
+Grebas de Tzitzi
+Grebas de Tzitzi
+Grebas de Girros
+Grebas de Baan
+Grebas de lingotes
+Talón pestilente
+Botas de brigada
+Grebas de Legiana
+Grebas de Odogaron
+Grebas de Rathalos
+Faja de Diablos
+Perneras de Kirin
+Pantalones de cuero α
+Pantalones de cuero β
+Pantalones de malla α
+Pantalones de malla β
+Grebas de cazador α
+Grebas de cazador β
+Grebas de hueso α
+Grebas de hueso β
+Grebas de aleación α
+Grebas de aleación β
+Patas rey escarabajo α
+Patas rey escarabajo β
+Espinillera de mariposa α
+Espinillera de mariposa β
+Grebas de Vespoid α
+Grebas de Vespoid β
+Grebas de Hornetaur α
+Grebas de Hornetaur β
+
+
+
+Botas de Gajau α
+Botas de Gajau β
+
+
+Grebas de Jagras α
+Grebas de Jagras β
+Grebas de Kulu α
+Grebas de Kulu β
+Grebas de Tzitzi α
+Grebas de Tzitzi β
+Grebas de Girros α
+Grebas de Girros β
+Grebas de Pukei α
+Grebas de Pukei β
+Grebas de Barroth α
+Grebas de Barroth β
+Grebas de Anja α
+Grebas de Anja β
+Grebas de Jyura α
+Grebas de Jyura β
+Grebas de Kadachi α
+Grebas de Kadachi β
+Grebas de Tzitzi α
+Grebas de Tzitzi β
+Grebas de Rathian α
+Grebas de Rathian β
+Grebas corazón Rath α
+Grebas corazón Rath β
+Grebas de Baan α
+Grebas de Baan β
+
+
+
+
+Grebas de Dodogama α
+Grebas de Dodogama β
+Espolón de Zorah α
+Espolón de Zorah β
+Grebas megametal α
+Grebas megametal β
+Grebas de lingotes α
+Grebas de lingotes β
+Botas de brigada α
+Botas de brigada β
+
+
+Grebas Lavasioth α
+Grebas Lavasioth β
+Grebas de Legiana α
+Grebas de Legiana β
+Grebas de Odogaron α
+Grebas de Odogaron β
+Grebas de Rathalos α
+Grebas de Rathalos β
+Grebas alma Rath α
+Grebas alma Rath β
+Faja de Diablos α
+Faja de Diablos β
+Grebas Diablos Negra α
+Grebas Diablos Negra β
+Grebas de Uragaan α
+Grebas de Uragaan β
+Grebas de Bazel α
+Grebas de Bazel β
+Grebas de Damasco α
+Grebas de Damasco β
+Grebas de Dober α
+Grebas de Dober β
+Talón pestilente α
+Talón pestilente β
+
+Grebas de Nergigante α
+Grebas de Nergigante β
+Grebas de Káiser α
+Grebas de Káiser β
+Perneras Kushala α
+Perneras Kushala β
+Grebas de Vaal Hazak α
+Grebas de Vaal Hazak β
+Perneras de Kirin α
+Perneras de Kirin β
+Espolón de Xeno'jiiva α
+Espolón de Xeno'jiiva β
+Botas cruz gremial α
+Botas cruz gremial β
+
+Pantalones comisión α
+Pantalones comisión β
+Grebas de Vangis α
+Grebas de Vangis β
+Grebas de emperatriz α
+Grebas de emperatriz β
+Grebas Drachen α
+Piernas de Aloy α
+Piernas de Ryu
+Piernas de Ryu α
+Piernas de Sakura α
+Espinillera de mariposa
+Patas reina escarabajo
+Botas de flores
+Botas de flores α
+Raíz de cosecha
+Raíz de cosecha α
+Botas Orión
+Botas Orión α
+Cólera Kulve Taroth α
+Cólera Kulve Taroth β
+Botas de Dante α
+Guard. rey celestial α
+Perneras de Kirin γ
+Grebas de Vaal Hazak γ
+Grebas de Káiser γ
+Perneras Kushala γ
+Grebas de emperatriz γ
+Espolón de Zorah γ
+Espolón de Xeno'jiiva γ
+Cólera Kulve Taroth γ
+Botas de buceo
+Botas de buceo α
+Espinillera de mariposa α
+Espinillera de mariposa β
+Patas reina escarabajo α
+Patas reina escarabajo β
+Pantalones traje gala
+Pantalones traje gala α
+Piernas de Geralt α
+Piernas de Ciri α
+Grebas de Nergigante γ

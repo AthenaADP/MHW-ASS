@@ -1,0 +1,234 @@
+Poison Charm I
+Poison Charm II
+Poison Charm III
+Attack Charm I
+Attack Charm II
+Attack Charm III
+Defense Charm I
+Defense Charm II
+Defense Charm III
+Paralysis Charm I
+Paralysis Charm II
+Paralysis Charm III
+Sleep Charm I
+Sleep Charm II
+Sleep Charm III
+Stun Charm I
+Stun Charm II
+Stun Charm III
+Windproof Charm I
+Windproof Charm II
+Windproof Charm III
+Health Charm I
+Health Charm II
+Health Charm III
+Recovery Charm I
+Recovery Charm II
+Recovery Charm III
+Fire Charm I
+Fire Charm II
+Fire Charm III
+Water Charm I
+Water Charm II
+Water Charm III
+Thunder Charm I
+Thunder Charm II
+Thunder Charm III
+Blaze Charm I
+Blaze Charm II
+Blaze Charm III
+Flood Charm I
+Flood Charm II
+Flood Charm III
+Shock Charm I
+Shock Charm II
+Shock Charm III
+Venom Charm I
+Venom Charm II
+Venom Charm III
+Immobilize Charm I
+Immobilize Charm II
+Immobilize Charm III
+Tranq Charm I
+Tranq Charm II
+Tranq Charm III
+KO Charm I
+KO Charm II
+KO Charm III
+Enervate Charm I
+Enervate Charm II
+Enervate Charm III
+Artillery Charm I
+Artillery Charm II
+Artillery Charm III
+Hungerless Charm I
+Hungerless Charm II
+Hungerless Charm III
+Ironside Charm I
+Ironside Charm II
+Ironside Charm III
+Friendship Charm I
+Friendship Charm II
+Friendship Charm III
+Extension Charm I
+Extension Charm II
+Extension Charm III
+Glutton's Charm I
+Glutton's Charm II
+Glutton's Charm III
+Blessing Charm I
+Blessing Charm II
+Blessing Charm III
+Rally Charm I
+Rally Charm II
+Rally Charm III
+Botany Charm I
+Botany Charm II
+Botany Charm III
+Geology Charm I
+Geology Charm II
+Geology Charm III
+Slinger Charm I
+Slinger Charm II
+Slinger Charm III
+Stealth Charm I
+Stealth Charm II
+Stealth Charm III
+Smoke Charm I
+Smoke Charm II
+Smoke Charm III
+Mirewalker Charm I
+Mirewalker Charm II
+Mirewalker Charm III
+Insect Charm I
+Insect Charm II
+Insect Charm III
+Intimidator Charm I
+Intimidator Charm II
+Intimidator Charm III
+Heavy Artillery Charm I
+Heavy Artillery Charm II
+Light Eater's Charm
+Tracker Charm
+Fortification Charm
+Performer's Charm
+Capacity Charm
+Bleed Charm I
+Bleed Charm II
+Bleed Charm III
+Speed Heal Charm I
+Speed Heal Charm II
+Speed Heal Charm III
+Ice Charm I
+Ice Charm II
+Ice Charm III
+Blight Charm I
+Blight Charm II
+Blight Charm III
+Frost Charm I
+Frost Charm II
+Frost Charm III
+Master's Charm I
+Master's Charm II
+Master's Charm III
+Evasion Charm I
+Evasion Charm II
+Evasion Charm III
+Sheath Charm I
+Sheath Charm II
+Sheath Charm III
+Whetstone Charm I
+Whetstone Charm II
+Whetstone Charm III
+Blast Charm I
+Blast Charm II
+Blast Charm III
+Dragon Charm I
+Dragon Charm II
+Dragon Charm III
+Wyrmsbane Charm I
+Wyrmsbane Charm II
+Wyrmsbane Charm III
+Demolition Charm I
+Demolition Charm II
+Demolition Charm III
+Draw Charm I
+Draw Charm II
+Special Shot Charm I
+Special Shot Charm II
+Marathon Charm I
+Marathon Charm II
+Fitness Charm I
+Fitness Charm II
+Fitness Charm III
+Surge Charm I
+Surge Charm II
+Leaping Charm I
+Leaping Charm II
+Bombardier Charm I
+Bombardier Charm II
+Bombardier Charm III
+Mushroom Charm I
+Mushroom Charm II
+Awakening Charm I
+Awakening Charm II
+Handicraft Charm I
+Handicraft Charm II
+Handicraft Charm III
+Mud Puppy Charm
+Trickshot Charm
+Hunter's Life Charm
+Procurer's Charm
+Gatherer's Charm
+Guard Charm I
+Guard Charm II
+Guard Charm III
+Earplugs Charm I
+Earplugs Charm II
+Earplugs Charm III
+Tremor Charm I
+Tremor Charm II
+Exploiter Charm I
+Exploiter Charm II
+Focus Charm I
+Focus Charm II
+Breaker Charm I
+Breaker Charm II
+Fury Charm I
+Fury Charm II
+Grit Charm I
+Grit Charm II
+Maintenance Charm I
+Maintenance Charm II
+Maintenance Charm III
+Power Charm I
+Power Charm II
+Challenger Charm I
+Challenger Charm II
+Unscathed Charm I
+Unscathed Charm II
+Mighty Charm I
+Mighty Charm II
+Impact Charm I
+Impact Charm II
+Miasma Charm I
+Miasma Charm II
+Miasma Charm III
+Normal Shots Charm
+Clearmind Charm
+Rider's Charm
+Surveyor's Charm
+Critical Charm I
+Invigorate Charm I
+Invigorate Charm II
+Penetration Charm
+Dispersal Charm
+Poison Coating Charm
+Para Coating Charm
+Sleep Coating Charm
+Blast Coating Charm
+Geomancy Charm
+Gale Charm
+Wyrmslayer Charm
+Bulwark Charm
+Fair Wind Charm
