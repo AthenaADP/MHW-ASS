@@ -1,98 +1,97 @@
 Joya antídoto
-Geology Jewel
-Heavy Artillery Jewel
-Hungerless Jewel
-Satiated Jewel
-Protection Jewel
-Meowster Jewel
-Botany Jewel
-Tip Toe Jewel
-Flight Jewel
-Smoke Jewel
-Mirewalker Jewel
-Specimen Jewel
-Miasma Jewel
-Scent Jewel
-Intimidator Jewel
-Maintenance Jewel
-Crisis Jewel
+Joya geológica
+Joya tiro pesado
+Joya antigula
+Joya saciante
+Joya de protección
+Joya miaunstruo
+Joya botánica
+Joya de puntillas
+Joya de vuelo
+Joya de humo
+Joya lodazal
+Joya espécimen
+Joya de miasma
+Joya olfativa
+Joya intimidante
+Joya reparadora
+Joya de crisis
 Joya antiparálisis
-Fortitude Jewel
-Water Res Jewel
-Suture Jewel
-Dragon Res Jewel
-Fire Res Jewel
-Ice Res Jewel
-Def Lock Jewel
-Thunder Res Jewel
-Pep Jewel
+Joya de supervivencia
+Joya resist. al agua
+Joya de sutura
+Joya resist. al draco
+Joya resist. al fuego
+Joya resist. al hielo
+Joya de bloqueo
+Joya resist. al rayo
+Joya de sueño
 Joya antinitro
-Gobbler Jewel
-Physique Jewel
-Blaze Jewel
-Evasion Jewel
-Jumping Jewel
-Sheath Jewel
-Friendship Jewel
-Enduring Jewel
-Medicine Jewel
-Grinder Jewel
+Joya del tragón
+Joya de salud
+Joya de fuego
+Joya de evasión
+Joya de salto
+Joya de enfundado
+Joya de amistad
+Joya impasible
+Joya medicinal
+Joya afiladora
 Joya de voluntad
-Bomber Jewel
-Recovery Jewel
-Slider Jewel
-Defense Jewel
-Stonethrower Jewel
-Footing Jewel
-Brace Jewel
-Wind Resist Jewel
-Earplug Jewel
-Vitality Jewel
-Resistor Jewel
-Sonorous Jewel
-KO Jewel
-Stream Jewel
-Frost Jewel
-Bolt Jewel
-Dragon Jewel
-Venom Jewel
-Poisoncoat Jewel
-Expert Jewel
-Tenderizer Jewel
-Destroyer Jewel
-Elementless Jewel
-Drain Jewel
-Paracoat Jewel
-Sharp Jewel
-Shield Jewel
-Dragonseal Jewel
-Trueshot Jewel
-Enhancer Jewel
-Forceshot Jewel
-Furor Jewel
-Potential Jewel
-Paralyzer Jewel
+Joya bombardera
+Joya de recuparación
+Joya deslizante
+Joya de defensa
+Joya lanzapiedras
+Joya de firmeza
+Joya tenaz
+Joya antiviento
+Joya de tapones
+Joya de fuerza
+Joya reostato
+Joya del músico
+Joya de boxeo
+Joya de agua
+Joya de hielo
+Joya de rayo
+Joya de draco
+Joya venenosa
+Joya ponzoñosa
+Joya del experto
+Joya ablandadora
+Joya de destrucción
+Joya sin elemento
+Joya débil
+Joya paralizante
+Joya afilada
+Joya escudo
+Joya sello de dragón
+Joya tirofijo
+Joya de aumento
+Joya de disparo
+Joya del furor
+Joya de potencia
+Joya paralizante
 Joya del sueño
-Ironwall Jewel
-Refresh Jewel
-Blast Jewel
-Sleepcoat Jewel
-Blastcoat Jewel
-Throttle Jewel
-Challenger Jewel
-Attack Jewel
-Flawless Jewel
-Magazine Jewel
-Mighty Jewel
-Sprinter Jewel
-Critical Jewel
-Artillery Jewel
-Fungiform Jewel
-Release Jewel
-Spread Jewel
-Charger Jewel
-Handicraft Jewel
-Mighty Bow Jewel
-Mind's Eye Jewel
-Draw Jewel
-Pierce Jewel
+Joya de guardia
+Joya de refresco
+Joya nitro
+Joya somnífera
+Joya de nitro
+Joya del poder
+Joya desafiante
+Joya de ataque
+Joya del ileso
+Joya almacén
+Joya poderosa
+Joya de impulso
+Joya crítica
+Joya de artillería
+Joya micótica
+Joya abanico
+Joya cargadora
+Joya de artesanía
+Joya de arco poderoso
+Joya ojo mental
+Joya de desenfunde
+Joya perforante
