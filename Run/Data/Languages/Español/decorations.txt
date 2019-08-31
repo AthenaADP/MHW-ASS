@@ -71,7 +71,7 @@ Joya de aumento
 Joya de disparo
 Joya del furor
 Joya de potencia
-Joya paralizante
+Joya paralizante 
 Joya del sueño
 Joya de guardia
 Joya de refresco
@@ -88,6 +88,7 @@ Joya de impulso
 Joya crítica
 Joya de artillería
 Joya micótica
+Joya liberadora
 Joya abanico
 Joya cargadora
 Joya de artesanía

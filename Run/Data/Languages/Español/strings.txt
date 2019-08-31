@@ -26,13 +26,13 @@ Guzú, Prats
 Salir
 
 #This option resets all settings to default
-&Reiniciar Configuración
+&Reiniciar ajustes
 
 #This refers to armor made from Arena coins
-Permitir Armadura de la arena
+Seleccionar armaduras de la arena
 
 #Event items from Event/Challenge quests
-Permitir armadura de eventos
+Seleccionar armaduras de eventos
 
 #Allow the special pre-order bonus "Fair Wind Charm"
 Permitir Cigua de la 5.ª
@@ -67,7 +67,7 @@ Comprobar actualizaciones
 Acerca de
 
 #Button to open the My Decorations form
-Mi lista...
+Mis adornos...
 
 #Title of the My Decorations form
 Mis adornos
@@ -227,6 +227,7 @@ Elegir con qué adornos buscar
 Selecciona una habilidad para filtrar resultados que no la tengan
 Selecciona un criterio para ordenar los resultados
 Selecciona el nivel de misiones al que tengas acceso
-Selecciona el nivel del hueco del arma %1
+Click para añadir huecos extra al arma
+Selecciona el nivel del hueco %1 del arma
 Click para quitar una opción de habilidad.
 Click para añadir una opción de habilidad.
