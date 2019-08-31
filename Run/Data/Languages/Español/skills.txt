@@ -1,164 +1,164 @@
-Poison Resistance
-Paralysis Resistance
-Sleep Resistance
-Stun Resistance
-Muck Resistance
-Blast Resistance
-Bleeding Resistance
-Iron Skin
-Earplugs
-Windproof
-Tremor Resistance
-Dungmaster
-Effluvial Expert
-Heat Guard
-Attack Boost
-Defense Boost
-Health Boost
-Recovery Up
-Recovery Speed
-Fire Resistance
-Water Resistance
-Ice Resistance
-Thunder Resistance
-Dragon Resistance
-Blight Resistance
-Fire Attack
-Water Attack
-Ice Attack
-Thunder Attack
-Dragon Attack
-Poison Attack
-Paralysis Attack
-Sleep Attack
-Blast Attack
-Normal Shots
-Piercing Shots
-Spread/Power Shots
-Free Elem/Ammo Up
-Critical Eye
-Critical Boost
-Weakness Exploit
-Focus
-Power Prolonger
-Handicraft
-Critical Draw
-Partbreaker
-Slugger
-Stamina Thief
-Master Mounter
-Airborne
-Latent Power
-Agitator
-Peak Performance
-Heroics
-Fortify
-Resentment
-Resuscitate
-Horn Maestro
-Capacity Boost
-Special Ammo Boost
-Artillery
-Heavy Artillery
-Marathon Runner
-Constitution
-Leap of Faith
-Stamina Surge
-Hunger Resistance
-Evade Window
-Evade Extender
-Guard
-Quick Sheath
-Wide-Range
-Item Prolonger
-Free Meal
-Speed Eating
-Speed Sharpening
-Bombardier
-Mushroomancer
-Master Fisher
-Pro Transporter
-Master Gatherer
-Honey Hunter
-Carving Pro
-Divine Blessing
-Palico Rally
-Botanist
-Geologist
-Maximum Might
-Slinger Capacity
-Stealth
-Flinch Free
-Scoutfly Range Up
-Speed Crawler
-Jump Master
-Sporepuff Expert
-Aquatic Expert
-Cliffhanger
-Blindsider
-Scholar
-Entomologist
-Effluvia Resistance
-Scenthound
-Forager's Luck
-Detector
-BBQ Master
-Tool Specialist
-Affinity Sliding
-Intimidator
-Hasten Recovery
-Super Recovery
-Poison Duration Up
-Adrenaline
-Stamina Cap Up
-Critical Element
-Mind's Eye/Ballistics
-Bludgeoner
-Non-elemental Boost
-Capture Master
-Guard Up
-Guts
-Master's Touch
-Nullify Wind Pressure
-Razor Sharp/Spare Shot
-Critical Status
-Good Luck
-Bow Charge Plus
-Punishing Draw
-Protective Polish
-Poison Functionality
-Para Functionality
-Sleep Functionality
-Blast Functionality
-Elderseal Boost
-Great Luck
-Carving Master
-Elemental Airborne
-Igni Intensity
-Anjanath Power
-Legiana Blessing
-Odogaron Power
-Rathalos Power
-Diablos Power
-Kirin Blessing
-Anjanath Will
-Pink Rathian Mastery
-Zorah Magdaros Mastery
-Legiana Favor
-Odogaron Mastery
-Rathalos Mastery
-Diablos Mastery
-Uragaan Protection
-Bazelgeuse Protection
-Nergigante Hunger
-Teostra Technique
-Kushala Daora Flight
-Vaal Hazak Vitality
-Kirin Favor
-Xeno'jiiva Divinity
-Guild Guidance
-Commission Guidance
-Lunastra Favor
-Soul of the Dragoon
-Astera Blessing
-Witcher's Knowledge
+Anti veneno
+Anti parálisis
+Anti sueño
+Anti aturdimiento
+Anti fango
+Anti nitro
+Anti sangrado
+Anti reducción de defensa
+Anti rugidos
+Anti viento
+Anti temblores
+Bonus cápsula boñiga
+Anti efluvio
+Anti calor
+Bonus ataque
+Bonus defensa
+Bonus salud
+Bonus curación
+Bonus recuperación
+Anti fuego
+Anti agua
+Anti hielo
+Anti rayo
+Anti draco
+Anti plagas
+Ataque de fuego
+Ataque de agua
+Ataque de hielo
+Ataque de rayo
+Ataque de draco
+Ataque venenoso
+Ataque paralizante
+Ataque de sueño
+Ataque nitro
+Disparo normal
+Disparo perforante
+Disp. abanico/potente
+Elem. oculto/munición+
+Bonus afinidad
+Bonus críticos
+Bonus punto débil
+Tiempo de carga
+Carga prolongada
+Bonus afilado
+Bonus al desenfundar
+Bonus rompe-partes
+Bonus al aturdir
+Bonus agotador
+Bonus al montar
+Bonus ataque en salto
+Poder latente
+Instigador
+Bonus salud completa
+Bonus salud baja
+Bonus de desmayo
+Bonus daño temporal
+Bonus evasión/resist.
+Bonus cornamusa
+Bonus capacidad
+Bonus tiro especial
+Bonus explosivo
+Bonus armas pesadas
+Bonus esprint
+Bonus evasión
+Bonus de salto
+Bonus de adrenalina
+Bonus reducción resist.
+Intervalo de evasión
+Distancia de evasión
+Guardia mejorada
+Desenfunde veloz
+Alcance extendido
+Duración de objetos
+Comida gratis
+Velocidad al comer
+Velocidad de afilado
+Explosivos mejorados
+Experto en setas
+Experto en pesca
+Experto en transporte
+Experto en recolección
+Experto en miel
+Experto en despiece
+Protección divina
+Mejora de camarada
+Experto en recursos
+Experto en minerales
+Bonus de afinidad
+Capacidad de eslinga
+Experto en sigilo
+Mejora de balance
+Rango de Lafarillos
+Movimiento agachado
+Experto en salto
+Experto en hierbasporas
+Movilidad en el agua
+Experto en trepar
+Mejora al deslumbrar
+Experto en investigación
+Experto en insectos
+Experto en efluvio
+Experto en rastreo
+Suerte del mendigo
+Cartografía
+Chef de barbacoa
+Experto en herramientas
+Afinidad deslizante
+Intimidador
+Regeneración
+Superrecuperación
+Veneno extendido
+Adrenalina
+Mejora límite resist.
+Elemento crítico
+Ojo mental/balística
+Impacto mejorado
+Bonus no elemental
+Experto en capturas
+Escudo
+Tripas
+Toque del maestro
+Anti ráfagas
+Afiladísimo/tiro extra
+Estado crítico
+Buena suerte
+Arquero maestro
+Pena inmediata
+Acabado protector
+Añade veneno
+Añade parálisis
+Añade sueño
+Añade nitro
+Bonus sello ancianos
+Recompensas extra
+Despiece extra
+Bonus salto elemental
+Intensidad de Igni
+Poder de Anjanath
+Bendición de Legiana
+Poder de Odogaron
+Poder de Rathalos
+Poder de Diablos
+Bendición de Kirin
+Voluntad de Anjanath
+Maestría de Rathian Rosa
+Maestría de Zorah
+Favor de Legiana
+Maestria de Odogaron
+Maestria de Rathalos
+Maestria de Diablos
+Protección de Uragaan
+Protección de Bazelgeuse
+Hambre de Nergigante
+Técnica de Teostra
+Vuelo de Kushala Daora
+Vitalidad de Vaal Hazak
+Favor de Kirin
+Divinidad Xeno'jiiva
+Ayuda del gremio
+Ayuda de la comisión
+Favor de Lunastra
+Alma de caballero dragón
+Bendición de Astera
+Astucia de brujo

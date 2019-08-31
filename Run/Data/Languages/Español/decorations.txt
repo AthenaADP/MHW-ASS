@@ -1,4 +1,4 @@
-Antidote Jewel
+Joya antídoto
 Geology Jewel
 Heavy Artillery Jewel
 Hungerless Jewel
@@ -16,7 +16,7 @@ Scent Jewel
 Intimidator Jewel
 Maintenance Jewel
 Crisis Jewel
-Antipara Jewel
+Joya antiparálisis
 Fortitude Jewel
 Water Res Jewel
 Suture Jewel
@@ -26,7 +26,7 @@ Ice Res Jewel
 Def Lock Jewel
 Thunder Res Jewel
 Pep Jewel
-Antiblast Jewel
+Joya antinitro
 Gobbler Jewel
 Physique Jewel
 Blaze Jewel
@@ -37,7 +37,7 @@ Friendship Jewel
 Enduring Jewel
 Medicine Jewel
 Grinder Jewel
-Steadfast Jewel
+Joya de voluntad
 Bomber Jewel
 Recovery Jewel
 Slider Jewel
@@ -72,7 +72,7 @@ Forceshot Jewel
 Furor Jewel
 Potential Jewel
 Paralyzer Jewel
-Sleep Jewel
+Joya del sueño
 Ironwall Jewel
 Refresh Jewel
 Blast Jewel
