@@ -13,7 +13,7 @@
 #
 
 #The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen (-) means nothing is shown.
-Guzú
+Guzú, Prats
 
 #Menu options
 &Archivo
