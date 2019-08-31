@@ -52,7 +52,7 @@ Ordenar habilidades alfabéticamente
 &Donar
 
 #Menu item
-&Información sobre las habilidades
+&Habilidades
 
 #Form title
 Información sobre las habilidades
@@ -109,7 +109,7 @@ Sexo
 Masculino
 Femenino
 Sin filtro por habilidad
-Ordenar/Filtrar resultados
+Ordenar/Filtrar soluciones
 
 Res. Dragon
 Res. Fuego
@@ -145,7 +145,7 @@ Filtros por habilidad
 Seleccionar armadura
 
 Huecos
-Nivel del hueco
+Nivel de hueco
 (ninguno)
 
 #When a solution has spare slots. Format: "3 slots spare (1+1+2)"
@@ -168,10 +168,10 @@ Error
 %1 a %2
 
 Defensa
-Resultados
+Soluciones
 Eliminar todos los adornos
 Opciones ASS
-&Resultados máximos
+&Limitar soluciones
 Mostrar nombres de adornos
 Mostrar lista de materiales
 Previsualizar imagen por defecto &Zoom
@@ -224,8 +224,8 @@ Nv
 #Tooltips
 Click derecho a las armaduras para información adicional
 Elegir con qué adornos buscar
-Selecciona una habilidad para filtrar resultados que no la tengan
-Selecciona un criterio para ordenar los resultados
+Selecciona una habilidad para filtrar soluciones que no la tengan
+Selecciona un criterio para ordenar las soluciones
 Selecciona el nivel de misiones al que tengas acceso
 Click para añadir huecos extra al arma
 Selecciona el nivel del hueco %1 del arma
