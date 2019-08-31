@@ -1,234 +1,234 @@
-Poison Charm I
-Poison Charm II
-Poison Charm III
-Attack Charm I
-Attack Charm II
-Attack Charm III
-Defense Charm I
-Defense Charm II
-Defense Charm III
-Paralysis Charm I
-Paralysis Charm II
-Paralysis Charm III
-Sleep Charm I
-Sleep Charm II
-Sleep Charm III
-Stun Charm I
-Stun Charm II
-Stun Charm III
-Windproof Charm I
-Windproof Charm II
-Windproof Charm III
-Health Charm I
-Health Charm II
-Health Charm III
-Recovery Charm I
-Recovery Charm II
-Recovery Charm III
-Fire Charm I
-Fire Charm II
-Fire Charm III
-Water Charm I
-Water Charm II
-Water Charm III
-Thunder Charm I
-Thunder Charm II
-Thunder Charm III
-Blaze Charm I
-Blaze Charm II
-Blaze Charm III
-Flood Charm I
-Flood Charm II
-Flood Charm III
-Shock Charm I
-Shock Charm II
-Shock Charm III
-Venom Charm I
-Venom Charm II
-Venom Charm III
-Immobilize Charm I
-Immobilize Charm II
-Immobilize Charm III
-Tranq Charm I
-Tranq Charm II
-Tranq Charm III
-KO Charm I
-KO Charm II
-KO Charm III
-Enervate Charm I
-Enervate Charm II
-Enervate Charm III
-Artillery Charm I
-Artillery Charm II
-Artillery Charm III
-Hungerless Charm I
-Hungerless Charm II
-Hungerless Charm III
-Ironside Charm I
-Ironside Charm II
-Ironside Charm III
-Friendship Charm I
-Friendship Charm II
-Friendship Charm III
-Extension Charm I
-Extension Charm II
-Extension Charm III
-Glutton's Charm I
-Glutton's Charm II
-Glutton's Charm III
-Blessing Charm I
-Blessing Charm II
-Blessing Charm III
-Rally Charm I
-Rally Charm II
-Rally Charm III
-Botany Charm I
-Botany Charm II
-Botany Charm III
-Geology Charm I
-Geology Charm II
-Geology Charm III
-Slinger Charm I
-Slinger Charm II
-Slinger Charm III
-Stealth Charm I
-Stealth Charm II
-Stealth Charm III
-Smoke Charm I
-Smoke Charm II
-Smoke Charm III
-Mirewalker Charm I
-Mirewalker Charm II
-Mirewalker Charm III
-Insect Charm I
-Insect Charm II
-Insect Charm III
-Intimidator Charm I
-Intimidator Charm II
-Intimidator Charm III
-Heavy Artillery Charm I
-Heavy Artillery Charm II
-Light Eater's Charm
-Tracker Charm
-Fortification Charm
-Performer's Charm
-Capacity Charm
-Bleed Charm I
-Bleed Charm II
-Bleed Charm III
-Speed Heal Charm I
-Speed Heal Charm II
-Speed Heal Charm III
-Ice Charm I
-Ice Charm II
-Ice Charm III
-Blight Charm I
-Blight Charm II
-Blight Charm III
-Frost Charm I
-Frost Charm II
-Frost Charm III
-Master's Charm I
-Master's Charm II
-Master's Charm III
-Evasion Charm I
-Evasion Charm II
-Evasion Charm III
-Sheath Charm I
-Sheath Charm II
-Sheath Charm III
-Whetstone Charm I
-Whetstone Charm II
-Whetstone Charm III
-Blast Charm I
-Blast Charm II
-Blast Charm III
-Dragon Charm I
-Dragon Charm II
-Dragon Charm III
-Wyrmsbane Charm I
-Wyrmsbane Charm II
-Wyrmsbane Charm III
-Demolition Charm I
-Demolition Charm II
-Demolition Charm III
-Draw Charm I
-Draw Charm II
-Special Shot Charm I
-Special Shot Charm II
-Marathon Charm I
-Marathon Charm II
-Fitness Charm I
-Fitness Charm II
-Fitness Charm III
-Surge Charm I
-Surge Charm II
-Leaping Charm I
-Leaping Charm II
-Bombardier Charm I
-Bombardier Charm II
-Bombardier Charm III
-Mushroom Charm I
-Mushroom Charm II
-Awakening Charm I
-Awakening Charm II
-Handicraft Charm I
-Handicraft Charm II
-Handicraft Charm III
-Mud Puppy Charm
-Trickshot Charm
-Hunter's Life Charm
-Procurer's Charm
-Gatherer's Charm
-Guard Charm I
-Guard Charm II
-Guard Charm III
-Earplugs Charm I
-Earplugs Charm II
-Earplugs Charm III
-Tremor Charm I
-Tremor Charm II
-Exploiter Charm I
-Exploiter Charm II
-Focus Charm I
-Focus Charm II
-Breaker Charm I
-Breaker Charm II
-Fury Charm I
-Fury Charm II
-Grit Charm I
-Grit Charm II
-Maintenance Charm I
-Maintenance Charm II
-Maintenance Charm III
-Power Charm I
-Power Charm II
-Challenger Charm I
-Challenger Charm II
-Unscathed Charm I
-Unscathed Charm II
-Mighty Charm I
-Mighty Charm II
-Impact Charm I
-Impact Charm II
-Miasma Charm I
-Miasma Charm II
-Miasma Charm III
-Normal Shots Charm
-Clearmind Charm
-Rider's Charm
-Surveyor's Charm
-Critical Charm I
-Invigorate Charm I
-Invigorate Charm II
-Penetration Charm
-Dispersal Charm
-Poison Coating Charm
-Para Coating Charm
-Sleep Coating Charm
-Blast Coating Charm
-Geomancy Charm
-Gale Charm
-Wyrmslayer Charm
-Bulwark Charm
-Fair Wind Charm
+Cigua veneno I
+Cigua veneno II
+Cigua veneno III
+Cigua ataque I
+Cigua ataque II
+Cigua ataque III
+Cigua defensa I
+Cigua defensa II
+Cigua defensa III
+Cigua parálisis I
+Cigua parálisis II
+Cigua parálisis III
+Cigua sueño I
+Cigua sueño II
+Cigua sueño III
+Cigua aturdidora I
+Cigua aturdidora II
+Cigua aturdidora III
+Cigua viento I
+Cigua viento II
+Cigua viento III
+Cigua salud I
+Cigua salud II
+Cigua salud III
+Cigua recuperación I
+Cigua recuperación II
+Cigua recuperación III
+Cigua fuego I
+Cigua fuego II
+Cigua fuego III
+Cigua agua I
+Cigua agua II
+Cigua agua III
+Cigua rayo I
+Cigua rayo II
+Cigua rayo III
+Cigua llamas I
+Cigua llamas II
+Cigua llamas III
+Cigua lluvia I
+Cigua lluvia II
+Cigua lluvia III
+Cigua electro I
+Cigua electro II
+Cigua electro III
+Cigua tóxica I
+Cigua tóxica II
+Cigua tóxica III
+Cigua inmóvil I
+Cigua inmóvil II
+Cigua inmóvil III
+Cigua tranquilz. I
+Cigua tranquilz. II
+Cigua tranquilz. III
+Cigua noqueo I
+Cigua noqueo II
+Cigua noqueo III
+Cigua mosqueo I
+Cigua mosqueo II
+Cigua mosqueo III
+Cigua artillera I
+Cigua artillera II
+Cigua artillera III
+Cigua antihambre I
+Cigua antihambre II
+Cigua antihambre III
+Cigua férrea I
+Cigua férrea II
+Cigua férrea III
+Cigua amistad I
+Cigua amistad II
+Cigua amistad III
+Cigua extensión I
+Cigua extensión II
+Cigua extensión III
+Cigua gula I
+Cigua gula II
+Cigua gula III
+Cigua bendita I
+Cigua bendita II
+Cigua bendita III
+Cigua apoyo I
+Cigua apoyo II
+Cigua apoyo III
+Cigua botánica I
+Cigua botánica II
+Cigua botánica III
+Cigua geóloga I
+Cigua geóloga II
+Cigua geóloga III
+Cigua eslinga I
+Cigua eslinga II
+Cigua eslinga III
+Cigua sigilo I
+Cigua sigilo II
+Cigua sigilo III
+Cigua humo I
+Cigua humo II
+Cigua humo III
+Cigua lodazal I
+Cigua lodazal II
+Cigua lodazal III
+Cigua insecto I
+Cigua insecto II
+Cigua insecto III
+Cigua intimidante I
+Cigua intimidante II
+Cigua intimidante III
+Cigua tiro pesado I
+Cigua tiro pesado II
+Cigua del hambre
+Cigua de sabueso
+Cigua de fortaleza
+Cigua de talento
+Cigua de capacidad
+Cigua sangre I
+Cigua sangre II
+Cigua sangre III
+Cigua cura veloz I
+Cigua cura veloz II
+Cigua cura veloz III
+Cigua hielo I
+Cigua hielo II
+Cigua hielo III
+Cigua plaga I
+Cigua plaga II
+Cigua plaga III
+Cigua helada I
+Cigua helada II
+Cigua helada III
+Cigua maestra I
+Cigua maestra II
+Cigua maestra III
+Cigua evasión I
+Cigua evasión II
+Cigua evasión III
+Cigua funda I
+Cigua funda II
+Cigua funda III
+Cigua afiladora I
+Cigua afiladora II
+Cigua afiladora III
+Cigua nitro I
+Cigua nitro II
+Cigua nitro III
+Cigua draco I
+Cigua draco II
+Cigua draco III
+Cigua sierpe I
+Cigua sierpe II
+Cigua sierpe III
+Cigua demolición I
+Cigua demolición II
+Cigua demolición III
+Cigua extracción I
+Cigua extracción II
+Cigua tiro espec. I
+Cigua tiro espec. II
+Cigua maratón I
+Cigua maratón II
+Cigua en forma I
+Cigua en forma II
+Cigua en forma III
+Cigua recarga I
+Cigua recarga II
+Cigua saltarina I
+Cigua saltarina II
+Cigua bombardera I
+Cigua bombardera II
+Cigua bombardera III
+Cigua seta I
+Cigua seta II
+Cigua despertar I
+Cigua despertar II
+Cigua artesanía I
+Cigua artesanía II
+Cigua artesanía III
+Cigua nectura
+Cigua trucada
+Cigua vida de cazador
+Cigua del procurador
+Cigua del recolector
+Cigua guarda I
+Cigua guarda II
+Cigua guarda III
+Cigua para oídos I
+Cigua para oídos II
+Cigua para oídos III
+Cigua temblores I
+Cigua temblores II
+Cigua provecho I
+Cigua provecho II
+Cigua centrada I
+Cigua centrada II
+Cigua troceo I
+Cigua troceo II
+Cigua furia I
+Cigua furia II
+Cigua abrasiva I
+Cigua abrasiva II
+Cigua reparadora I
+Cigua reparadora II
+Cigua reparadora III
+Cigua de poder I
+Cigua de poder II
+Cigua desafío I
+Cigua desafío II
+Cigua ilesa I
+Cigua ilesa II
+Cigua potente I
+Cigua potente II
+Cigua impacto I
+Cigua impacto II
+Cigua miasma I
+Cigua miasma II
+Cigua miasma III
+Cigua D normal
+Cigua menteclara
+Cigua del jinete
+Cigua del agrimensor
+Cigua crítica I
+Cigua de vigor I
+Cigua de vigor II
+Cigua D perforante
+Cigua D abanico/pot.
+Cigua vial de veneno
+Cigua vial paralizante
+Cigua vial de sueño
+Cigua vial de nitro
+Cigua geomancia
+Cigua de acróbata
+Cigua matadragones
+Cigua baluarte
+Cigua de la 5.ª
