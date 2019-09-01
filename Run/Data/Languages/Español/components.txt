@@ -1,560 +1,560 @@
-Ace Hunter Coin
-Adamant Pill
-Adamant Seed
-Advanced Armor Sphere
-Aetheryte Shard
-Ancient Bone
-Ancient Cursed Bone
-Ancient Leshen Claw
-Ancient Leshen Skull
-Ancient Potion
-Anjanath Fang
-Anjanath Fang+
-Anjanath Gem
-Anjanath Nosebone
-Anjanath Nosebone+
+Moneda del rey cazador
+Píldora armadura
+Semilla armadura
+Esfera de armadura avanzada
+Fragmento de eterita
+Hueso antiguo
+Hueso maldito de antiguo
+Garra de leshen antiguo
+Cráneo de leshen antiguo
+Poción antigua
+Colmillo de Anjanath
+Colmillo de Anjanath+
+Gema de Anjanath
+Hueso nasal de Anjanath
+Hueso nasal de Anjanath+
 Piel de Anjanath
 Piel de Anjanath+
-Anjanath Plate
-Anjanath Scale
-Anjanath Scale+
-Anjanath Tail
-Antidote
-Antidote Herb
-Appreciation Ticket
-Aqua Sac
-Aquacore Ore
-Armor Sphere
-Armor Sphere+
-Armorcharm
-Armorskin
-Armortalon
-Arowana Bait
-Astera Jerky
-Autumn Harvest Ticket
-Azure Rathalos Carapace
-Azure Rathalos Scale+
-Azure Rathalos Tail
-Azure Rathalos Wing
-Azure Star Shard
-Azure Stargem
-Baitbug
-Barnos Hide+
-Barnos Talon
-Barrel Bomb
-Barroth Carapace
-Barroth Claw
-Barroth Claw+
-Barroth Coin
-Barroth Ridge
-Barroth Ridge+
-Barroth Scalp
-Barroth Shell
-Barroth Tail
-Bazelgeuse Carapace
-Bazelgeuse Fuse
-Bazelgeuse Gem
-Bazelgeuse Scale+
-Bazelgeuse Tail
-Bazelgeuse Talon
-Bazelgeuse Wing
-Beautiful Scale
-Behemoth Bone
-Behemoth Great Horn
-Behemoth Mane
-Behemoth Shearclaw
-Behemoth Tail
-Bhernastone
-Binoculars
-Bird Wyvern Gem
-Bitterbug
-Black Bandage
-Black Crystal Ticket
-Black Diablos Carapace
-Black Diablos Ridge+
-Black Spiral Horn+
-Blastnut
-Blazenut
-Blos Medulla
-Blue Mushroom
-Bomb Arowana Scale
-Bomberry
-Boomerang
-Boulder Bone
-Bounce Bomb
-Brutal Bone
-Brute Coin
-Burnt Meat
-Burst Arowana Scale
-Carbalite Ore
-Catalyst
-Chillshroom
-Chipped Scale
-Coma Sac
-Commendation
-Cool Drink
-Coral Bone
-Coral Crystal
-Cursed Bone
-Daora Carapace
-Daora Claw+
-Daora Dragon Scale+
-Daora Gem
-Daora Horn+
-Daora Tail
-Daora Webbing
-Dash Extract
-Dash Juice
-Deceased Scale
-Deluxe First Wyverian Print
-Demon Powder
-Demondrug
-Devil's Blight
-Deviljho Hide
-Deviljho Scalp
-Deviljho Talon
-Deviljho Gem
-Deviljho Scale
-Deviljho Saliva
-Deviljho Tail
-Deviljho Tallfang
-Diablos Carapace
-Diablos Fang
-Diablos Marrow
-Diablos Ridge
-Diablos Ridge+
-Diablos Shell
-Diablos Tailcase
-Dodogama Hide+
-Dodogama Jaw
-Dodogama Scale+
-Dodogama Tail
-Dodogama Talon
-Dragonbone Relic
-Dragoncore Ore
-Dragonfell Berry
-Dragonite Ore
-Dragonstrike Nut
-Dragonvein Crystal
-Dreamcore Ore
-Drugged Meat
-Dundormarin
-Dung
-Dung Pod
-Earth Crystal
-Elder Dragon Blood
-Elder Dragon Bone
-Electro Sac
-Empty Phial
-Energy Drink
-Exciteshroom
-Farcaster
-Fertile Mud
-Fire Dragon Scale+
-Fire Herb
-Firecell Stone
-First Wyverian Print
-Flame Sac
-Flamenut
-Flash Pod
-Flashbug
-Flowfern
-Flying Coin
-Freezer Sac
-Frost Sac
-Fucium Ore
-Gajalaka Sketch
-Gajau Scale
-Gajau Skin
-Gajau Whisker
-Gama Coin
-Gastodon Carapace
-Gastodon Horn
-Gilded Scale
-Gilded Scale+
-Girros Fang
-Girros Hide
-Girros Hide+
-Girros Scale
-Girros Scale+
-Gleaming Streamstone
-Glimmering Scale
-Glowing Feystone
-Godbug
-Gold Wyverian Print
-Golden Egg
-Golden Scale
-Golden Scale+
-Goldenfish Bait
-Grand Gajau Whisker
-Great Bomb Arowana Scale
-Great Burst Arowana Scale
-Great Girros Fang
-Great Girros Fang+
-Great Girros Hide
-Great Girros Hide+
-Great Girros Hood
-Great Girros Hood+
-Great Girros Scale
-Great Girros Scale+
-Great Girros Tail
-Great Gunpowderfish Scale
-Great Hornfly
-Great Jagras Claw
-Great Jagras Claw+
-Great Jagras Hide
-Great Jagras Hide+
-Great Jagras Mane
-Great Jagras Scale
-Great Jagras Scale+
-Great Sushifish Scale
-Gunpowder
-Gunpowder Level 2
-Gunpowderfish Bait
-Gunpowderfish Scale
-Gunpowder Level 3
-Hard Armor Sphere
-Hardshell Powder
-Heavy Armor Sphere
-Herb
-Herbal Medicine
-Herbal Powder
-Hero's Streamstone
-High Commendation
-High-quality Pelt
-Honey
-Hornetaur Carapace
-Hornetaur Head
-Hornetaur Innerwing
-Hornetaur Shell
-Hornetaur Wing
-Hunter King Coin
-Immortal Dragonscale
-Immunizer
-Inferno Sac
-Iron Ore
-Ivy
-Jagras Hide
-Jagras Hide+
-Jagras Scale
-Jagras Scale+
-Jyuratodus Carapace
-Jyuratodus Fang
-Jyuratodus Fang+
-Jyuratodus Fin
-Jyuratodus Fin+
-Jyuratodus Scale
-Jyuratodus Scale+
-Jyuratodus Shell
-Kelbi Horn
-Kestodon Carapace
-Kestodon Scalp
-Kestodon Shell
-Kirin Azure Horn
-Kirin Hide
-Kirin Hide+
-Kirin Mane
-Kirin Tail
-Kirin Thunderhorn
-Kirin Thundertail
-Kirin Ticket
-Kulu Coin
-Kulu-Ya-Ku Beak
-Kulu-Ya-Ku Beak+
-Kulu-Ya-Ku Hide
-Kulu-Ya-Ku Hide+
-Kulu-Ya-Ku Plume
-Kulu-Ya-Ku Plume+
-Kulu-Ya-Ku Scale
-Kulu-Ya-Ku Scale+
-Kulu-Ya-Ku Ticket
-Kulve Taroth Emperor Nugget
-Kulve Taroth Golden Glimstone
-Kulve Taroth Golden Nugget
-Kulve Taroth Golden Scale
-Kulve Taroth Golden Shell
-Kulve Taroth Golden Spiralhorn
-Kulve Taroth Golden Tailshell
-Kushala Daora Ticket
-Large Barrel
-Large Barrel Bomb
-Large Scale
-Latchberry
-Lava Nugget
-Lavasioth Carapace
-Lavasioth Fang+
-Lavasioth Fin+
-Lavasioth Scale+
-Legiana Claw
-Legiana Claw+
-Legiana Gem
-Legiana Hide
-Legiana Hide+
-Legiana Plate
-Legiana Scale
-Legiana Scale+
-Legiana Tail Webbing
-Legiana Webbing
-Legiana Wing
-Leshen Claw
-Leshen Resin
-Leshen Skull
-Lifepowder
-Lightcrystal
-Loc Lac Ore
-Lunastra Carapace
-Lunastra Gem
-Lunastra Horn
-Lunastra Mane
-Lunastra Scale+
-Lunastra Tail
-Lunastra Ticket
-Lunastra Wing
-Lustrous Scale
-Machalite Ore
-Majestic Horn
-Mandragora
-Max Potion
-Mega Armorskin
-Mega Barrel Bomb
-Mega Bounce Bomb
-Mega Dash Juice
-Mega Demondrug
-Mega Nutrients
-Mega Potion
-Might Pill
-Might Seed
-Minegardenite
-Monster Bone L
-Monster Bone M
-Monster Bone S
-Monster Bone+
-Monster Broth
-Monster Fluid
-Monster Hardbone
-Monster Keenbone
-Mosswine Hide
-Mysterious Feystone
-Needleberry
-Nergigante Carapace
-Nergigante Gem
-Nergigante Horn+
-Nergigante Regrowth Plate
-Nergigante Tail
-Nergigante Talon
-Nergigante Ticket
-Net
-Nitroshroom
-Nora Brave Trophy
-Nourishing Extract
-Novacrystal
-Nulberry
-Nutrients
-Odogaron Claw
-Odogaron Claw+
-Odogaron Fang
-Odogaron Fang+
-Odogaron Gem
-Odogaron Plate
-Odogaron Scale
-Odogaron Scale+
-Odogaron Sinew
-Odogaron Sinew+
-Odogaron Tail
-Omniplegia Sac
-Paolumu Carapace+
-Paolumu Pelt
-Paolumu Pelt+
-Paolumu Scale
-Paolumu Scale+
-Paolumu Shell
-Paolumu Webbing
-Paolumu Wing
-Paralysis Sac
-Parashroom
-Piercing Claw
-Pink Rathian Carapace
-Pink Rathian Scale+
-Pinnacle Coin
-Pitfall Trap
-Platinum Scale
-Platinum Scale+
-Poison Sac
-Poison Smoke Bomb
-Poisoned Meat
-Potion
-Powercharm
-Powertalon
-Pukei Coin
-Pukei-Pukei Carapace
-Pukei-Pukei Quill
-Pukei-Pukei Sac
-Pukei-Pukei Sac+
-Pukei-Pukei Scale
-Pukei-Pukei Scale+
-Pukei-Pukei Shell
-Pukei-Pukei Tail
-Pukei-Pukei Wing
-Quality Bone
-Radobaan Carapace
-Radobaan Marrow
-Radobaan Medulla
-Radobaan Oilshell
-Radobaan Scale
-Radobaan Scale+
-Radobaan Shell
-Rare Steak
+Placa de Anjanath
+Escama de Anjanath
+Escama de Anjanath+
+Cola de Anjanath
+Antídoto
+Hierba antídoto
+Vale de gratitud
+Vesícula acuosa
+Oceanita
+Esfera de armadura
+Esfera de armadura+
+Amuleto de armadura
+Piel de armadura
+Garra de armadura
+Cebo de arrowana
+Cecina de Astera
+Vale de cosecha de otoño
+Coraza de Rathalos Celeste
+Escama de Rathalos Celeste+
+Cola de Rathalos Celeste
+Ala de Rathalos Celeste
+Fragmento de estrella celeste
+Gema estrella celeste
+Insecto goloso
+Piel de Barnos+
+Garra de Barnos
+Bomba de barril
+Coraza de Barroth
+Garra de Barroth
+Garra de Barroth+
+Moneda Barroth
+Cresta de Barroth
+Cresta de Barroth+
+Cuero cabelludo de Barroth
+Caparazón de Barroth
+Cola de Barroth
+Coraza de Bazelgeuse
+Espoleta de Bazelgeuse
+Gema de Bazelgeuse
+Escama de Bazelgeuse+
+Cola de Bazelgeuse
+Garra de Bazelgeuse
+Ala de Bazelgeuse
+Escama bonita
+Hueso de Bégimo
+Gran cuerno de Bégimo
+Crin de Bégimo
+Garra guadaña de Bégimo
+Cola de Bégimo
+Piedra Bherna
+Prismáticos
+Gema Wyvern pájaro
+Bicho amargo
+Vendaje negro
+Vale cristal negro
+Coraza de Diablos Negra
+Cresta de Diablos Negra+
+Colmillo negro en espiral+
+Nuez pegajosa
+Ardenuez
+Médula de Blos
+Seta azul
+Escama de arrowana bomba
+Baya bomba
+Bumerán
+Hueso fósil
+Bomba de rebote
+Hueso brutal
+Carne quemada
+Moneda brutal
+Escama de arrowana reventona
+Carbalita
+Catalizador
+Fresquiñón
+Escama astillada
+Vesícula de coma
+Recomendación
+Bebida fría
+Hueso de coral
+Cristal de coral
+Hueso maldito
+Coraza de Daora
+Garra afilada de Daora+
+Escama dragoniana de Daora+
+Gema de Daora
+Cuerno de Daora+
+Cola de Daora
+Membrana de Daora
+Extracto de poder
+Zumo de poder
+Escama fallecida
+Sello primer wyveriano de lujo
+Polvo de demonio
+Droga demoníaca
+Mancha del diablo
+Piel de Deviljho
+Cráneo de Deviljho
+Garra de Deviljho
+Gema de Deviljho
+Escama de Deviljho
+Saliva de Deviljho
+Cola de Deviljho
+Colmillo de Deviljho
+Coraza de Diablos
+Colmillo de Diablos
+Médula de Diablos
+Cresta de Diablos
+Cresta de Diablos+
+Caparazón de Diablos
+Colamen de Diablos
+Piel de Dodogama+
+Mandíbula de Dodogama
+Escama de Dodogama+
+Cola de Dodogama
+Garra de Dodogama
+Reliquia de dracohueso
+Lazurita
+Baya antidragón
+Dragonita
+Nuez dragoniana
+Cristal de dracovena
+Sanguinita
+Carne somnífera
+Dundomarino
+Boñiga
+Cápsula boñiga
+Cristal de tierra
+Sangre de dragón anciano
+Hueso de dragón anciano
+Vesícula eléctrica
+Frasco vacío
+Bebida energética
+Seta excitante
+Bola transportadora
+Barro fértil
+Escama de dragón de fuego+
+Hierba de fuego
+Piedra lava
+Sello de primer wyveriano
+Vesícula flamígera
+Flamanuez
+Cápsula flash
+Luminsecto
+Helechoflor
+Moneda Voladora
+Vesícula congelante
+Vesícula de nieve
+Fucium
+Dibujo Gajalaka
+Escama de Gajau
+Piel de Gajau
+Bigote de Gajau
+Moneda Gama
+Coraza de Gastodon
+Cuerno de Gastodon
+Escama de oropel 
+Escama de oropel+
+Colmillo de Girros
+Piel de Girros
+Piel de Girros+
+Escama de Girros
+Escama de Girros+
+Draconita reluciente
+Escama reluciente
+Joyas brillantes
+Bicho divino
+Sello wyveriano de oro
+Huevo de oro
+Escama dorada
+Escama dorada+
+Cebo de pez dorado
+Gran bigote de Gajau
+Escama de arrowana bomba real
+Escama de arrowana reventona real
+Colmillo de Gran Girros
+Colmillo de Gran Girros+
+Piel de Gran Girros
+Piel de Gran Girros+
+Capucha de Gran Girros
+Capucha de Gran Girros+
+Escama de Gran Girros
+Escama de Gran Girros+
+Cola de Gran Girros
+Escama de pez pólvora real
+Gran mosca cornuda
+Garra de Gran Jagras
+Garra de Gran Jagras+
+Piel de Gran Jagras
+Piel de Gran Jagras+
+Melena de Gran Jagras
+Escama de Gran Jagras
+Escama de Gran Jagras+
+Escama de pez sushi real
+Pólvora
+Pólvora nivel 2
+Cebo de pez pólvora
+Escama de pez pólvora
+Pólvora nivel 3
+Esfera de armadura dura
+Polvo de cáscara
+Esfera de armadura pesada
+Hierba
+Medicina herbal
+Polvo de hierbas
+Draconita héroe
+Gran recomendación
+Piel de alta calidad
+Miel
+Coraza de Hornetaur
+Cabeza de Hornetaur
+Intraala de Hornetaur
+Caparazón de Hornetaur
+Ala de Hornetaur
+Moneda de rey cazador
+Escama de dragón inmortal
+Inmunizador
+Vesícula infernal
+Hierro
+Hiedra
+Piel de Jagras
+Piel de Jagras+
+Escama de Jagras
+Escama de Jagras+
+Coraza de Jyuratodus
+Colmillo de Jyuratodus
+Colmillo de Jyuratodus+
+Aleta de Jyuratodus
+Aleta de Jyuratodus+
+Escama de Jyuratodus
+Escama de Jyuratodus+
+Caparazón de Jyuratodus
+Cuerno de Kelbi
+Coraza de Kestodon
+Crin de Kestodon
+Caparazón de Kestodon
+Cuerno de Kirin celeste
+Piel de Kirin
+Piel de Kirin+
+Crin de Kirin
+Cola de Kirin
+Cuerno rayo de Kirin
+Cola rayo de Kirin
+Vale de Kirin
+Moneda Kulu
+Pico de Kulu-Ya-Ku
+Pico de Kulu-Ya-Ku+
+Piel de Kulu-Ya-Ku
+Piel de Kulu-Ya-Ku+
+Pluma de Kulu-Ya-Ku
+Pluma de Kulu-Ya-Ku+
+Escama de Kulu-Ya-Ku
+Escama de Kulu-Ya-Ku+
+Vale Kulu-Ya-Ku
+Asombrosa pepita Kulve Taroth
+Gema vela dorada Kulve Taroth
+Garra dorada de Kulve Taroth
+Escama dorada de Kulve Taroth
+Caparazón dorado Kulve Taroth
+Espiracorno dorado Kulve Taroth
+Caparazón de cola Kulve Taroth
+Vale de Kushala Daora
+Barril grande
+Bomba de barril grande
+Escama grande
+Baya adherente
+Pepita de lava
+Coraza de Lavasioth
+Colmillo de Lavasioth+
+Aleta de Lavasioth+
+Escama de Lavasioth+
+Garra de Legiana
+Garra de Legiana+
+Gema de Legiana
+Piel de Legiana
+Piel de Legiana+
+Placa de Legiana
+Escama de Legiana
+Escama de Legiana+
+Membrana de cola de Legiana
+Membrana de Legiana
+Ala de Legiana
+Garra de leshen
+Resina de leshen
+Cráneo de leshen
+Polvo de vida
+Cristal reluciente
+Mineral Loc Lac
+Coraza de Lunastra
+Gema de Lunastra
+Cuerno de Lunastra
+Crin de Lunastra
+Escama de Lunastra+
+Cola de Lunastra
+Vale Lunastra
+Ala de Lunastra
+Escama lustrosa
+Machalita
+Cuerno majestuoso
+Mandrágora
+Poción máxima
+Piel de armadura+
+Megabomba de barril
+Mega bomba de rebote
+Megazumo de poder
+Megadroga demoníaca
+Meganutrientes
+Megapoción
+Píldora de poder
+Semilla de poder
+Minagardenita
+Hueso de monstruo grande
+Hueso de monstruo mediano
+Hueso de monstruo pequeño
+Hueso de monstruo+
+Caldo de monstruo
+Fluido de monstruo
+Hueso escudo
+Hueso afilado
+Piel de musgorrino
+Joyas misteriosas
+Baya aguja
+Coraza de Nergigante
+Gema de Nergigante
+Cuerno de Nergigante+
+Placa regeneración de Nergigante
+Cola de Nergigante
+Garra de Nergigante
+Vale Nergigante
+Red
+Nitroseta
+Trofeo de valor Nora
+Extracto nutritivo
+Novacristal
+Curibaya
+Nutrientes
+Garra de Odogaron
+Garra de Odogaron+
+Colmillo de Odogaron
+Colmillo de Odogaron+
+Gema de Odogaron
+Placa de Odogaron
+Escama de Odogaron
+Escama de Odogaron+
+Tendón de Odogaron
+Tendón de Odogaron+
+Cola de Odogaron
+Vesícula neural
+Coraza de Paolumu+
+Piel de Paolumu
+Piel de Paolumu+
+Escama de Paolumu
+Escama de Paolumu+
+Caparazón de Paolumu
+Membrana de Paolumu
+Ala de Paolumu
+Vesícula paralizante
+Paraliseta
+Garra perforante
+Coraza de Rathian Rosa
+Escama de Rathian Rosa+
+Moneda pináculo
+Trampa de escollo
+Escama de platino
+Escama de platino+
+Vesícula de veneno
+Bola de humo venenoso
+Carne envenenada
+Poción
+Amuleto de poder
+Garra de poder
+Moneda Pukei
+Coraza de Pukei-Pukei
+Péndola de Pukei-Pukei
+Bolsa de Pukei-Pukei
+Bolsa de Pukei-Pukei+
+Escama de Pukei-Pukei
+Escama de Pukei-Pukei+
+Caparazón de Pukei-Pukei
+Cola de Pukei-Pukei
+Ala de Pukei-Pukei
+Hueso escogido
+Coraza de Radobaan
+Tuétano de Radobaan
+Médula de Radobaan
+Aceite de Radobaan
+Escama de Radobaan
+Escama de Radobaan+
+Caparazón de Radobaan
+Filete poco hecho
 Rath Wingtalon
-Rathalos Carapace
-Rathalos Coin
-Rathalos Marrow
-Rathalos Medulla
-Rathalos Plate
-Rathalos Ruby
-Rathalos Scale
-Rathalos Scale+
-Rathalos Shell
-Rathalos Tail
-Rathalos Webbing
-Rathalos Wing
-Rathian Carapace
-Rathian Coin
-Rathian Plate
-Rathian Ruby
-Rathian Scale
-Rathian Scale+
-Rathian Shell
-Rathian Spike
-Rathian Spike+
-Rathian Webbing
-Ration
-Raw Meat
-Red Orb
-Research Commission Ticket
-Rolled-up Dung
-SFV Ticket
-SFV Ticket II
-SFV Ticket III
-Screamer Pod
-Screamer Sac
-Shamos Hide
-Shamos Hide+
-Shamos Scale
-Shamos Scale+
-Sharp Claw
-Shining Streamstone
-Shock Trap
-Silver Egg
-Silver Wyverian Print
-Sinister Cloth
-Slashberry
-Sleep Herb
-Sleep Sac
-Small Barrel
-Smoke Bomb
-Smokenut
-Snow Herb
-Spider Web
-Spiritcore Ore
-Spring Blossom Ticket
-Spring Insect Field Guide
-Steel Egg
-Steel Wyverian Print
-Streamstone
-Streamstone Shard
-Sturdy Bone
-Sullied Streamstone
-Summer Insect Guide
-Summer Twilight Ticket
-Sushifish Scale
-Tailraider Voucher
-Teostra Carapace
-Teostra Claw+
-Teostra Gem
-Teostra Horn+
-Teostra Mane
-Teostra Powder
-Teostra Tail
-Teostra Ticket
-Teostra Webbing
-Thunder Sac
-Thunderbug
-Tinged Meat
-Toadstool
-Tobi-Kadachi Claw
-Tobi-Kadachi Claw+
-Tobi-Kadachi Electrode
-Tobi-Kadachi Electrode+
-Tobi-Kadachi Membrane
-Tobi-Kadachi Pelt
-Tobi-Kadachi Pelt+
-Tobi-Kadachi Scale
-Tobi-Kadachi Scale+
-Torrent Sac
-Toxin Sac
-Tranq Bomb
-Trap Tool
-Twisted Horn
-Tzitzi Coin
-Tzitzi-Ya-Ku Claw
-Tzitzi-Ya-Ku Claw+
-Tzitzi-Ya-Ku Hide
-Tzitzi-Ya-Ku Hide+
-Tzitzi-Ya-Ku Photophore
-Tzitzi-Ya-Ku Photophore+
-Tzitzi-Ya-Ku Scale
-Tzitzi-Ya-Ku Scale+
-Unknown Skull
-Uragaan Carapace
-Uragaan Jaw
-Uragaan Marrow
-Uragaan Ruby
-Uragaan Scale+
-Uragaan Scute
-Vaal Hazak Carapace
-Vaal Hazak Fang+
-Vaal Hazak Gem
-Vaal Hazak Membrane
-Vaal Hazak Tail
-Vaal Hazak Talon
-Vaal Hazak Ticket
-Vaal Hazak Wing
-Val Habar Quartz
-Vespoid Carapace
-Vespoid Innerwing
-Vespoid Shell
-Vespoid Wing
-Voucher
-Warm Pelt
-Warped Bone
-Warped Feystone
-Warrior's Streamstone
-Well-done Steak
-Whetfish Fin
-Whetfish Fin+
-Wiggler Ticket
-Wingdrake Hide
-Wingdrake Hide+
-Winter Star Ticket
-Worn Feystone
-Wyvern Bonemass
-Wyvern Gem
-Xeno'jiiva Claw
-Xeno'jiiva Gem
-Xeno'jiiva Horn
-Xeno'jiiva Shell
-Xeno'jiiva Soulscale
-Xeno'jiiva Tail
-Xeno'jiiva Ticket
-Xeno'jiiva Veil
-Xeno'jiiva Wing
-Zorah Magdaros Carapace
-Zorah Magdaros Gem
-Zorah Magdaros Heat Scale
-Zorah Magdaros Magma
-Zorah Magdaros Pleura
-Zorah Magdaros Ridge
-Zorah Magdaros Ticket
-(Pre-Order Exclusive)
-(B-Rank Arena Quests 1-7)
-(B-Rank Arena Quests 8-9)
+Coraza de Rathalos
+Moneda Rathalos
+Tuétano de Rathalos
+Médula de Rathalos
+Placa de Rathalos
+Rubí de Rathalos
+Escama de Rathalos
+Escama de Rathalos+
+Caparazón de Rathalos
+Cola de Rathalos
+Membrana de Rathalos
+Ala de Rathalos
+Coraza de Rathian
+Moneda Rathian
+Placa de Rathian
+Rubí de Rathian
+Escama de Rathian
+Escama de Rathian+
+Caparazón de Rathian
+Púa de Rathian
+Púa de Rathian+
+Membrana de Rathian
+Ración
+Carne cruda
+Orbe rojo
+Billete de la comisión
+Boñiga enrollada
+Vale de SFV
+Vale de SFV II
+Vale de SFV III
+Cápsula chillona
+Vesícula lanzagritos
+Piel de Shamos
+Piel de Shamos+
+Escama de Shamos
+Escama de Shamos+
+Garra afilada
+Draconita brillante
+Trampa eléctrica
+Huevo de plata
+Sello wyveriano de plata
+Tela siniestra
+Rajabaya
+Hierba somnífera
+Vesícula somnífera
+Barril pequeño
+Bola de humo
+Nuez de humo
+Hierba de nieve
+Telaraña
+Solitrabita
+Vale de flores de primavera
+Insectario de primavera
+Huevo de acero
+Sello wyveriano de acero
+Draconita
+Trozo de draconita
+Hueso recio
+Draconita sucia
+Insectario de verano
+Vale puesta de sol de verano
+Escama de pez sushi
+Cupón de buscatrufos
+Coraza de Teostra
+Garra de Teostra+
+Gema de Teostra
+Cuerno de Teostra+
+Crin de Teostra
+Polvo de Teostra
+Cola de Teostra
+Vale Teostra
+Membrana de Teostra
+Vesícula de rayo
+Electrobicho
+Carne tóxica
+Hongo
+Garra de Tobi-Kadachi
+Garra de Tobi-Kadachi+
+Electrodo de Tobi-Kadachi
+Electrodo de Tobi-Kadachi+
+Membrana de Tobi-Kadachi
+Piel de Tobi-Kadachi
+Piel de Tobi-Kadachi+
+Escama de Tobi-Kadachi
+Escama de Tobi-Kadachi+
+Vesícula torrencial
+Vesícula tóxica
+Bola tranquilizante
+Herramienta para trampas
+Cuerno retorcido
+Moneda Tzitzi
+Garra de Tzitzi-Ya-Ku
+Garra de Tzitzi-Ya-Ku+
+Piel de Tzitzi-Ya-Ku
+Piel de Tzitzi-Ya-Ku+
+Fotóforo de Tzitzi-Ya-Ku
+Fotóforo de Tzitzi-Ya-Ku+
+Escama de Tzitzi-Ya-Ku
+Escama de Tzitzi-Ya-Ku+
+Cráneo desconocido
+Coraza de Uragaan
+Mandíbula de Uragaan
+Tuétano de Uragaan
+Rubí de Uragaan
+Escama de Uragaan+
+Peto de Uragaan
+Coraza de Vaal Hazak
+Colmillo de Vaal Hazak+
+Gema de Vaal Hazak
+Membrana de Vaal Hazak
+Cola de Vaal Hazak
+Garra de Vaal Hazak
+Vale Vaal Hazak
+Ala de Vaal Hazak
+Cuarzo Val Habar
+Coraza de Vespoid
+Ala interior de Vespoid
+Caparazón de Vespoid
+Ala de Vespoid
+Cupón
+Piel cálida
+Hueso deforme
+Joyas deformes
+Draconita guerrero
+Filete al punto
+Aleta de caballa cuchillo
+Aleta de caballa cuchillo+
+Vale de gorgasia
+Piel de dracoalado
+Piel de dracoalado+
+Vale estrella de invierno
+Joyas gastadas
+Hueso de wyvern
+Piedra de wyvern
+Garra de Xeno'jiiva
+Gema de Xeno'jiiva
+Cuerno de Xeno'jiiva
+Caparazón de Xeno'jiiva
+Escama de alma de Xeno'jiiva
+Cola de Xeno'jiiva
+Vale Xeno'jiiva
+Velo de Xeno'jiiva
+Ala de Xeno'jiiva
+Coraza de Zorah Magdaros
+Gema de Zorah Magdaros
+Escama ígnea de Zorah Magdaros
+Magma de Zorah Magdaros
+Pleura de Zorah Magdaros
+Cresta de Zorah Magdaros
+Vale Zorah Magdaros
+(Exclusivo de reserva)
+(Rango B en misiones de arena 1-7)
+(Rango B en misiones de arena 8-9)
