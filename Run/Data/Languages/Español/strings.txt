@@ -1,0 +1,233 @@
+﻿#  MHW ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen (-) means nothing is shown.
+Guzú, Prats
+
+#Menu options
+&Archivo
+&Opciones
+&Idioma
+&Ayuda
+&Cargar
+&Guardar
+&Actualizar
+Salir
+
+#This option resets all settings to default
+&Reiniciar ajustes
+
+#This refers to armor made from Arena coins
+Seleccionar armaduras de la arena
+
+#Event items from Event/Challenge quests
+Seleccionar armaduras de eventos
+
+#Allow the special pre-order bonus "Fair Wind Charm"
+Permitir Cigua de la 5.ª
+
+#This setting will ignore low rank armor if you are in high rank
+Permitir armadura de rango bajo
+
+#Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
+Buscar siempre armadura Alpha
+
+#Toggling all Event (DLC) armor
+Activar todo
+Desactivar todo
+
+Ordenar habilidades alfabéticamente
+
+&Donar
+
+#Menu item
+&Habilidades
+
+#Form title
+Información sobre las habilidades
+
+#This option opens a browser to my Facebook page
+Comprobar actualizaciones
+
+#Menu item
+&Acerca de
+
+#Form title
+Acerca de
+
+#Button to open the My Decorations form
+Mis adornos...
+
+#Title of the My Decorations form
+Mis adornos
+
+&Importar...
+&Búsqueda rápida
+
+#Button for Advanced Search
+&Búsqueda avanzada...
+
+#Title for Advanced Search form
+Búsqueda avanzada
+
+&Cancelar
+&Por defecto
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&Ninguna
+
+#This string is used in the combobox that sorts solutions by various criteria
+Desordenado
+
+#Buttons
+&Buscar
+Elegir ninguna
+Elegir la mejor
+&Añadir
+&Reiniciar
+&Quitar
+&Eliminar todo
+Mover hacia arriba
+Mover hacia abajo
+&Cerrar
+&Encontrar siguiente
+
+Nivel de misión
+Huecos arma
+Sexo
+Masculino
+Femenino
+Sin filtro por habilidad
+Ordenar/Filtrar soluciones
+
+Res. Dragon
+Res. Fuego
+Res. Hielo
+Res. Rayo
+Res. Agua
+Defensa base
+Defensa máxima
+Defensa aumentada
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Dificultad
+
+Rareza
+Huecos vacíos
+
+#When sorting solutions, "Family" refers to which monsters the gear is made from
+Familia
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Habilidades extra
+
+Adornos
+No usar
+Usar los míos
+Usar todos
+
+Habilidad
+Habilidades
+Filtros por habilidad
+
+#Used in the Advanced Search dialog
+Seleccionar armadura
+
+Huecos
+Nivel de hueco
+(ninguno)
+
+#When a solution has spare slots. Format: "3 slots spare (1+1+2)"
+%1 hueco(s) vacío(s)
+
+Soluciones encontradas:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Mostrando solo las primeras %1 soluciones:
+
+Lista de adornos
+Archivo corrupto.
+Versión
+Encontrar
+
+#Used in some error popups
+Error
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 a %2
+
+Defensa
+Soluciones
+Eliminar todos los adornos
+Opciones ASS
+&Limitar soluciones
+Mostrar nombres de adornos
+Mostrar lista de materiales
+Previsualizar imagen por defecto &Zoom
+
+#Showing min/max defence and elemental resists
+%1-%2 Def, %3 Fue, %4 Agu, %5 Hie, %6 Ray, %7 Drg
+
+#This string is used to show decorations as skills, e.g. "Expert Jewel". %1 is the skill name
+Joya %1
+
+#Item Type refers to weapon/helm/body armor/etc.
+Tipo de objeto
+
+#This string is for displaying potential extra skills
+(%1 posible)
+
+#Strings for the skill description dialog
+Mostrar
+Descripción
+Habilidades
+Árboles de habilidades
+Disponible de estas piezas de armadura:
+Disponible como habilidad extra de set de estas piezas de armadura:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+Todo
+
+#Confirmation popup
+¿Estás seguro/a?
+
+#Skill Level. %1 is the skill name, %2 is the level number
+%1 Nv%2
+
+#Slot formatting. Gear can have up to 3 slots, each with a level from 1-3
+%1-%2-%3
+
+#Showing a number of decorations. First value is the number, second is the name. E.g. 3x Thunder Jewel
+%1x %2
+
+#For a filter that excludes a skill
+Sin %1
+
+#Used in the "My Decorations" dialog to show skills/decorations that are "maxed out" i.e. you have enough decorations to get max level with the skill
+Completadas
+
+#Prefix for slot levels
+Nv
+
+#Tooltips
+Click derecho a las armaduras para información adicional
+Elegir con qué adornos buscar
+Selecciona una habilidad para filtrar soluciones que no la tengan
+Selecciona un criterio para ordenar las soluciones
+Selecciona el nivel de misiones al que tengas acceso
+Click para añadir huecos extra al arma
+Selecciona el nivel del hueco %1 del arma
+Click para quitar una opción de habilidad.
+Click para añadir una opción de habilidad.

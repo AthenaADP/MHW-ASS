@@ -1,0 +1,371 @@
+Reduce la duración del veneno un 30%.
+Reduce la duración del veneno un 60%.
+Anula los efectos del veneno.
+Reduce la duración de la parálisis un 30%.
+Reduce la duración de la parálisis un 60%.
+Anula la parálisis.
+Reduce la duración del sueño un 30%.
+Reduce la duración del sueño un 60%.
+Anula el sueño.
+Reduce la duración del aturdimiento un 30%.
+Reduce la duración del aturdimiento un 60%.
+Anula el aturdimiento.
+Reduce las limitaciones a la velocidad de movimiento y esquiva.
+Ralentiza la plaga de nitro y reduce el daño por explosión.
+Ralentiza mucho la plaga de nitro y reduce mucho el daño por explosión.
+Anula la plaga de nitro.
+Reduce el daño al sangrar.
+Reduce mucho el daño al sangrar.
+Anula el sangrado.
+Reduce la duración de defensa reducida 30%.
+Reduce la duración de defensa reducida 60%.
+Anula la reducción de defensa.
+Reduce levemente el efecto de los rugidos más débiles.
+Reduce el efecto de los rugidos menos fuertes.
+Anula el efecto de los rugidos más débiles.
+Anula el efecto de los rugidos más débiles y reduce el efecto de los rugidos fuertes.
+Anula el efecto de los rugidos tanto débiles como fuertes.
+Reduce levemente el efecto de ráfagas de vientos menores.
+Reduce el efecto de ráfagas de vientos menores.
+Anhula ráfagas de vientos menores.
+Anula ráfagas de vientos menores y reduce el efecto de ráfagas mayores.
+Anula las ráfagas de viento, tanto mayores como menores.
+Anula los temblores de tierra menores.
+Anula los temblores de tierra menores y reduce el efecto de los temblores mayores.
+Anula los temblores de tierra mayores y menores.
+Hace que las cápsulas boñiga de la eslinga sean más efectivas para ahuyentar a los monstruos.
+Anula el daño del efluvio y reduce el daño por ácido.
+Anula el daño por calor.
+Ataque +3
+Ataque +6
+Ataque +9
+Ataque +12 Afinidad +5%
+Ataque +15 Afinidad +5%
+Ataque +18 Afinidad +5%
+Ataque +21 Afinidad +5%
+Defensa +5
+Defensa +10
+Defensa +15
+Defensa +20 Resistencias elementales +3
+Defensa +25 Resistencias elementales +3
+Defensa +30 Resistencias elementales +3
+Defensa +35 Resistencias elementales +3
+Salud +15
+Salud +30
+Salud +50
+Recuperación +10%
+Recuperación +20%
+Recuperación +30%
+Duplica la velocidad a la que se cura la parte de daño recuperable.
+Triplica la velocidad a la que se cura la parte de daño recuperable.
+Cuadriplica la velocidad a la que se cura la parte de daño recuperable.
+Resistencia al fuego +6
+Resistencia al fuego +12
+Resistencia al fuego +20 Defensa +10
+Resistencia al agua +6
+Resistencia al agua +12
+Resistencia al agua +20 Defensa +10
+Resistencia al hielo +6
+Resistencia al hielo +12
+Resistencia al hielo +20 Defensa +10
+Resistencia al rayo +6
+Resistencia al rayo +12
+Resistencia al rayo +20 Defensa +10
+Resistencia al draco +6
+Resistencia al draco +12
+Resistencia al draco +20 Defensa +10
+Reduce la duración de todas las plagas elementales un 30%.
+Reduce la duración de todas las plagas elementales un 60%.
+Anula todas las plagas elementales.
+Ataque de fuego +30
+Ataque de fuego +60
+Ataque de fuego +100
+Ataque de fuego +5% Bonus adicional +100
+Ataque de fuego +10% Bonus adicional +100
+Ataque de agua +30
+Ataque de agua +60
+Ataque de agua +100
+Ataque de agua +5% Bonus adicional +100
+Ataque de agua +10% Bonus adicional +100
+Ataque de hielo +30
+Ataque de hielo +60
+Ataque de hielo +100
+Ataque de hielo +5% Bonus adicional +100
+Ataque de hielo +10% Bonus adicional +100
+Ataque de rayo +30
+Ataque de rayo +60
+Ataque de rayo +100
+Ataque de rayo +5% Bonus adicional +100
+Ataque de rayo +10% Bonus adicional +100
+Ataque de draco +30
+Ataque de draco +60
+Ataque de draco +100
+Ataque de draco +5% Bonus adicional +100
+Ataque de draco +10% Bonus adicional +100
+Acumulación de veneno +5% Bonus adicional +10
+Acumulación de veneno +10% Bonus adicional +10
+Acumulación de veneno +20% Bonus adicional +10
+Acumulación de parálisis +5% Bonus adicional +10
+Acumulación de parálisis +10% Bonus adicional +10
+Acumulación de parálisis +20% Bonus adicional +10
+Acumulación de sueño +5% Bonus adicional +10
+Acumulación de sueño +10% Bonus adicional +10
+Acumulación de sueño +20% Bonus adicional +10
+Acumulación de nitro +5% Bonus adicional +10
+Acumulación de nitro +10% Bonus adicional +10
+Acumulación de nitro +20% Bonus adicional +10
+Aumenta la potencia de los disparos con munición normal y flechas estándar.
+Aumenta el poder de los disparos con munición perforante y perforadragones.
+Aumenta el poder de los disparos con munición abanico y de las flechas de disparo potente.
+Extrae el 33% del elemento oculto y amplía el tamaño del cargador para cierta munición.
+Extrae el 66% del elemento oculto y amplía el tamaño del cargador para muchos tipos de munición.
+Extrae el 100% del elemento oculto y amplía el tamaño del cargador para la mayoría de munición.
+Afinidad +3%
+Afinidad +6%
+Afinidad +10%
+Afinidad +15%
+Afinidad +20%
+Afinidad +25%
+Afinidad +30%
+Los ataques críticos hacen 30% más daño que un ataque normal.
+Los ataques críticos hacen 35% más daño que un ataque normal.
+Los ataques críticos hacen 40% más daño que un ataque normal.
+Los ataques en puntos débiles tienen afinidad +15%.
+Los ataques en puntos débiles tienen afinidad +30%.
+Los ataques en puntos débiles tienen afinidad +50%.
+Aumenta la carga del medidor un 5% y reduce el tiempo de ataques cargados un 5%.
+Aumenta la carga del medidor un 10% y reduce el tiempo de ataques cargados un 10%.
+Aumenta la carga del medidor un 20% y reduce el tiempo de ataques cargados un 20%.
+Bonus de duración +10%
+Bonus de duración +20%
+Bonus de duración +30%
+Afilado del arma +10
+Afilado del arma +20
+Afilado del arma +30
+Afilado del arma +40
+Afilado del arma +50
+Afinidad del ataque tras desenfundar +30%
+Afinidad del ataque tras desenfundar +60%
+Afinidad del ataque tras desenfundar +100%
+Bonus de daño +10%
+Bonus de daño +20%
+Bonus de daño +30%
+Posibilidad de aturdir +10%
+Posibilidad de aturdir +20%
+Posibilidad de aturdir +30%
+Posibilidad de agotar +10%
+Posibilidad de agotar +20%
+Posibilidad de agotar +30%
+Es más sencillo montar monstruos y derribarlos mientras estás sobre ellos.
+Ataque con salto +10%
+Mientras está activo, aumenta la afinidad un 10% y reduce el gasto de resistencia un 10%.
+Mientras está activo, aumenta la afinidad un 20% y reduce el gasto de resistencia un 10%.
+Mientras está activo, aumenta la afinidad un 30% y reduce el gasto de resistencia un 30%.
+Mientras está activo, aumenta la afinidad un 40% y reduce el gasto de resistencia un 30%.
+Mientras está activo, aumenta la afinidad un 50% y reduce el gasto de resistencia un 50%.
+Mientras está activo, aumenta la afinidad 3% y el ataque +4.
+Mientras está activo, aumenta la afinidad 6% y el ataque +8.
+Mientras está activo, aumenta la afinidad 9% y el ataque +12.
+Mientras está activo, aumenta la afinidad 12% y el ataque +16.
+Mientras está activo, aumenta la afinidad 15% y el ataque +20.
+Mientras está activo, aumenta el ataque +5.
+Mientras está activo, aumenta el ataque +10.
+Mientras está activo, aumenta el ataque +20.
+Mientras está activo, aumenta el poder de ataque un 5% y aumenta la defensa +15.
+Mientras está activo, aumenta el poder de ataque un 10% y aumenta la defensa +20.
+Mientras está activo, aumenta el poder de ataque un 15% y aumenta la defensa +25.
+Mientras está activo, aumenta el poder de ataque un 20% y aumenta la defensa +30.
+Mientras está activo, aumenta el poder de ataque un 30% y aumenta la defensa +40.
+Aumenta el ataque un 10% y la defensa un 15% con cada uso.
+Mientras está activo, aumenta el ataque +5.
+Mientras está activo, aumenta el ataque +10.
+Mientras está activo, aumenta el ataque +15.
+Mientras está activo, aumenta el ataque +20.
+Mientras está activo, aumenta el ataque +25.
+Mientras está activo, alarga mucho el instante de invulnerabilidad al evadir y reduce el gasto de resistencia.
+Extiende la duración de efectos de las melodías y aumenta la recuperación de salud.
+Capacidad de carga +1
+Aumenta el poder del tiro especial de la ballesta y perforadragones un 10%.
+Aumenta el poder del tiro especial de la ballesta y perforadragones un 20%.
+Potencia el poder de cada ataque un 10% y acelera el enfriamiento del fuego de wyvern un 15%.
+Potencia el poder de cada ataque un 20% y acelera el enfriamiento del fuego de wyvern un 30%.
+Potencia el poder de cada ataque un 30% y acelera el enfriamiento del fuego de wyvern un 50%.
+Potencia de fuego +10%
+Potencia de fuego +20%
+Reduce el consumo gradual de resistencia un 15%.
+Reduce el consumo gradual de resistencia un 30%.
+Reduce el consumo gradual de resistencia un 50%.
+Reduce el consumo puntual de resistencia un 10%.
+Reduce el consumo puntual de resistencia un 20%.
+Reduce el consumo puntual de resistencia un 30%.
+Reduce el consumo puntual de resistencia un 40%.
+Reduce el consumo puntual de resistencia un 50%.
+Permite el uso de la habilidad "bonus de salto".
+Velocidad de recuperación de resistencia +10%
+Velocidad de recuperación de resistencia +20%
+Velocidad de recuperación de resistencia +30%
+Prolonga un 30% el tiempo que tarda la barra de resistencia en reducirse.
+Prolonga un 60% el tiempo que tarda la barra de resistencia en reducirse.
+Evita que tu barra de resistencia se reduzca.
+Alarga muy levemente el momento de invulnerabilidad al esquivar.
+Alarga levemente el momento de invulnerabilidad al esquivar.
+Alarga el momento de invulnerabilidad al esquivar.
+Alarga mucho el momento de invulnerabilidad al esquivar.
+Alarga muchísimo el momento de invulnerabilidad al esquivar.
+Aumenta levemente distancia a la que esquivas.
+Aumenta distancia a la que esquivas.
+Aumenta mucho distancia a la que esquivas.
+Reduce muy levemente el impacto de los ataques.
+Reduce levemente el impacto de los ataques y reduce el gasto de resistencia un 15%.
+Reduce mucho el impacto de los ataques y reduce el gasto de resistencia un 15%.
+Reduce mucho el impacto de los ataques y reduce el gasto de resistencia un 30%.
+Reduce muchísimo el impacto de los ataques y reduce el gasto de resistencia un 50%.
+Aumenta levemente la velocidad al desenfundar.
+Aumenta moderadamente la velocidad al desenfundar.
+Aumenta mucho la velocidad al desenfundar.
+Los objetos afectan a aliados cercanos con un 33% de eficacia.
+Los objetos afectan a aliados en un radio más amplio con un 33% de eficacia.
+Los objetos afectan a aliados en un radio más amplio con un 66% de eficacia.
+Los objetos afectan a aliados en un radio mucho más amplio con un 66% de eficacia.
+Los objetos afectan a aliados en un radio mucho más amplio con total eficacia.
+Duración del efecto de objetos +10%
+Duración del efecto de objetos +25%
+Duración del efecto de objetos +50%
+Se activa el 25% de las veces.
+Aumenta ligeramente la velocidad de uso de objetos.
+Aumenta notablemente la velocidad de uso de objetos.
+Aumenta mucho la velocidad de uso de objetos.
+Hace el proceso de afilado un ciclo más corto.
+Hace el proceso de afilado dos ciclos más corto.
+Hace el proceso de afilado tres ciclos más corto.
+Poder explosivo +10%
+Poder explosivo +20%
+Poder explosivo +30%
+Permite digerir setas azules y hongos.
+Adicionalmente, te permite digerir nitrosetas y paralisetas.
+Adicionalmente, te permite digerir mandrágora, mancha del diablo y setas excitantes.
+Alarga el intervalo para recoger el sedal y pescar con éxito. Facilita el pescar peces grandes.
+Aumenta la velocidad de movimiento al cargar con objetos y reduce el tiempo de impacto al caer de grandes saltos.
+Hace que extraer recursos sea más rápido y además evita que te derriben mientras extraes.
+Consigues una unidad de miel más por recolección.
+Evita que te derriben mientras cortas partes de monstruos.
+Cuando se active, reducirá el daño recibido un 15%.
+Cuando se active, reducirá el daño recibido un 30%.
+Cuando se active, reducirá el daño recibido un 50%.
+Aumenta la defensa y el ataque del camarada +5%.
+Aumenta la defensa y el ataque del camarada +10%.
+Aumenta la defensa y el ataque del camarada +15%.
+Aumenta la defensa y el ataque del camarada +20%.
+Aumenta la defensa y el ataque del camarada +25%.
+Cada vez que extraes hierbas consigues una adicional.
+Cada vez que extraes hierbas, frutas, nueces, o semillas consigues una adicional.
+Cada vez que extraes hierbas, frutas, nueces, semillas, o insectos consigues uno adicional.
+Cada vez que extraes hierbas, frutas, nueces, semillas, insectos o setas consigues una adicional.
+Te permite conseguir recursos de pilas de huesos una vez más de lo normal.
+Permite coger recursos en pilas de hueso y puntos de recolección especiales una vez más de lo normal.
+Recoge recursos de pilas de huesos, puntos de recolección y afloramientos mineros una vez más de lo normal.
+Mientras está activo, aumenta la afinidad un 10%.
+Mientras está activo, aumenta la afinidad un 20%.
+Mientras está activo, aumenta la afinidad un 30%.
+Aumenta la capacidad de carga de la munición de eslinga obtenida del suelo o de plantas.
+Además, aumenta la capacidad de carga de cierta munición de eslinga que dejan caer los monstruos.
+Además, aumenta la capacidad de carga de toda la munición de eslinga que dejen caer los monstruos.
+Hace un poco más fácil que los monstruos te pierdan de vista.
+Hace considerablemente más fácil que los monstruos te pierdan de vista.
+Hace mucho más fácil que los monstruos te pierdan de vista.
+Evita que seas empujado hacia atrás al bloquear ataques.
+Evita ser empujado hacia atrás al bloquear ataques. Los ataques que te derribarían te empujarán hacia atrás.
+Evita que seas empujado hacia atrás o te derriben al bloquear ataques.
+Expande el rango de detección de los Lafarillos.
+Aumenta la velocidad al moverte cuando lo hagas estando agachado.
+Evita ser interrumpido en medio de un salto al ser atacado.
+Las hierbasporas recuperan 20 puntos de salud.
+Las hierbasporas recuperan 35 puntos de salud.
+Las hierbasporas recuperan 60 puntos de salud.
+Evita que el agua ralentice tus movimientos.
+Evita que el agua ralentice tus movimientos y mejora tus esquivas en el agua.
+Evita que el agua ralentice tus movimientos y mejora mucho tus esquivas en el agua.
+Reduce el gasto de resistencia mientras trepas un 25%.
+Aumenta la probabilidad de éxito al deslumbrar a monstruos.
+Acelera el progreso de los niveles de investigación e investigaciones especiales
+Aumenta la posibilidad de que el cuerpo de los monstruos no quede destruido y puedas recoger de él.
+Aumenta mucho la posibilidad de que el cuerpo de los monstruos no quede destruido y puedas recoger de él.
+Asegura que el cuerpo de los monsruos no quede destruido y puedas recoger de él.
+Reduce la acumulación de efluvio.
+Reduce considerablemente la acumulación de efluvio.
+Evita la acumulación de efluvio.
+Acelera un 50% la recarga del indicador.
+Aumenta la probabilidad de que se regeneren los puntos de recolección de recursos raros.
+Indica los puntos de recolección raros en el mapa.
+Hace que cocinar filetes al punto sea más fácil.
+Disminuye el tiempo entre usos un 5%.
+Reduce el tiempo hasta reutilizarlo en un 10%.
+Reduce el tiempo hasta reutilizarlo en un 20%.
+Aumenta la afinidad un 30% durante un tiempo tras deslizarte.
+Disuade a los monstruos de atacarte, incluso si te han visto.
+Disuade mucho a los monstruos de atacarte, incluso si te han visto.
+Evita que los monstruos te ataquen, incluso si te han visto.
+Regenera la salud mientras ataques continuamente a un monstruo. La salud ganada depende del arma.
+Permite que puedas recuperar salud más allá de la parte roja de la barra.
+Prolonga la duración de los efectos del veneno en monstruos.
+Reduce temporalmente el gasto de resistencia cuando la salud esté al 40% o menos.
+Aumenta el límite de resistencia.
+Aumenta el daño elemental (fuego, agua, rayo, hielo, draco) cuando es resultado de un crítico.
+Evita que tus ataques reboten. La munición y flechas alcanzan máxima potencia en una distancia más corta.
+Mejora el ataque a medida que pierdes afilado, el ataque físico de armas de proyectil y la posibilidad de aturdir.
+Potencia las armas no elementales que tengas equipadas.
+Mejora la probabilidad de recibir objetos extra en recompensas de captura. (No sirve si accedes a una misión a medias).
+Permite el uso de la habilidad.
+Si tu salud supera cierto nivel, resistirás un ataque que normalmente te habría hecho desmayarte. (Solo una vez).
+Evita que el arma pierda afilado con los ataques críticos.
+Anula las ráfagas de viento.
+Reduce a la mitad la pérdida de afilado. Para arcos/ballestas, a veces disparas sin gastar viales ni munición.
+Aumenta el daño de estados alterados (parálisis, sueño, explosión veneno) cuando son resultado de un crítico.
+Buena probabilidad de recibir objetos extra en recompensas de misión. (No sirve si accedes a una misión a medias).
+Aumenta en 1 el nivel de carga del arco.
+Añade efecto aturdidor a los ataques al desenfundar y aumenta un poco el ataque.
+El afilado del arma no disminuye durante un tiempo tras afilarla.
+Permite aplicar viales de veneno.
+Permite aplicar viales paralizantes.
+Permite aplicar viales sedantes.
+Permite aplicar viales de nitro.
+Mejora el sello de ancianos en un nivel.
+A menudo aumenta las recompensas recibidas al terminar una misión. (No sirve si accedes a una misión a medias).
+Permite cortar el cuerpo de monstruos una vez más de lo normal. (No sirve si accedes a una misión a medias).
+Aumenta el daño elemental provocado por ataques en salto.
+Solo quienes completen el riguroso entrenamiento de brujo pueden utilizar la poderosa magia de la Señal de Igni.
+Habilidad extra del set <<Adrenalina>>.
+Habilidad extra del set <<Buena suerte>>.
+Habilidad extra del set <<Pena inmediata>>.
+Habilidad extra del set <<Elemento crítico>>.
+Habilidad extra del set <<Impacto mejorado>>.
+Habilidad extra del set <<Experto en capturas>>.
+Habilidad extra del set <<Adrenalina>>.
+Habilidad extra del set <<Mejora límite resist.>>.
+Habilidad extra del set <<Veneno extendido>>.
+Habilidad extra del set <<Estado crítico>>.
+Habilidad extra del set <<Buena suerte>>.
+Habilidad extra del set <<Arquero maestro>>.
+Habilidad extra del set <<Pena inmediata>>.
+Habilidad extra del set <<Acabado protector>>.
+Habilidad extra del set <<Elemento crítico>>.
+Habilidad extra del set <<Ojo mental/balística>>.
+Habilidad extra del set <<Impacto mejorado>>.
+Habilidad extra del set <<Bonus no elemental>>.
+Habilidad extra del set <<Escudo>>.
+Habilidad extra del set <<Tripas>>.
+Habilidad extra del set <<Regeneración>>.
+Habilidad extra del set <<Toque del maestro>>.
+Habilidad extra del set <<Anti ráfagas>>.
+Habilidad extra del set <<Superrecuperación>>.
+Habilidad extra del set <<Experto en capturas>>.
+Habilidad extra del set <<Afiladísimo/tiro extra>>.
+Habilidad extra del set <<Recompensas extra>>.
+Habilidad extra del set <<Despiece extra>>.
+Habilidad extra del set <<Mejora límite resist.>>.
+Habilidad extra del set <<Ojo mental/balística>>.
+Habilidad extra del set <<Bonus salto elemental>>.
+Habilidad extra del set <<Toque del maestro>>.
+Habilidad extra del set <<Recompensas extra>>.
+Habilidad extra del set <<Intensidad de Igni>>.
+Habilidad extra del set <<Superrecuperación>>.

@@ -1,0 +1,164 @@
+Anti veneno
+Anti parálisis
+Anti sueño
+Anti aturdimiento
+Anti fango
+Anti nitro
+Anti sangrado
+Anti reducción de defensa
+Anti rugidos
+Anti viento
+Anti temblores
+Bonus cápsula boñiga
+Anti efluvio
+Anti calor
+Bonus ataque
+Bonus defensa
+Bonus salud
+Bonus curación
+Bonus recuperación
+Anti fuego
+Anti agua
+Anti hielo
+Anti rayo
+Anti draco
+Anti plagas
+Ataque de fuego
+Ataque de agua
+Ataque de hielo
+Ataque de rayo
+Ataque de draco
+Ataque venenoso
+Ataque paralizante
+Ataque de sueño
+Ataque nitro
+Disparo normal
+Disparo perforante
+Disp. abanico/potente
+Elem. oculto/munición+
+Bonus afinidad
+Bonus críticos
+Bonus punto débil
+Tiempo de carga
+Carga prolongada
+Bonus afilado
+Bonus al desenfundar
+Bonus rompe-partes
+Bonus al aturdir
+Bonus agotador
+Bonus al montar
+Bonus ataque en salto
+Poder latente
+Instigador
+Bonus salud completa
+Bonus salud baja
+Bonus de desmayo
+Bonus daño temporal
+Bonus evasión/resist.
+Bonus cornamusa
+Bonus capacidad
+Bonus tiro especial
+Bonus explosivo
+Bonus armas pesadas
+Bonus esprint
+Bonus evasión
+Bonus de salto
+Bonus de adrenalina
+Bonus reducción resist.
+Intervalo de evasión
+Distancia de evasión
+Guardia mejorada
+Desenfunde veloz
+Alcance extendido
+Duración de objetos
+Comida gratis
+Velocidad al comer
+Velocidad de afilado
+Explosivos mejorados
+Experto en setas
+Experto en pesca
+Experto en transporte
+Experto en recolección
+Experto en miel
+Experto en despiece
+Protección divina
+Mejora de camarada
+Experto en recursos
+Experto en minerales
+Bonus de afinidad
+Capacidad de eslinga
+Experto en sigilo
+Mejora de balance
+Rango de Lafarillos
+Movimiento agachado
+Experto en salto
+Experto en hierbasporas
+Movilidad en el agua
+Experto en trepar
+Mejora al deslumbrar
+Experto en investigación
+Experto en insectos
+Experto en efluvio
+Experto en rastreo
+Suerte del mendigo
+Cartografía
+Chef de barbacoa
+Experto en herramientas
+Afinidad deslizante
+Intimidador
+Regeneración
+Superrecuperación
+Veneno extendido
+Adrenalina
+Mejora límite resist.
+Elemento crítico
+Ojo mental/balística
+Impacto mejorado
+Bonus no elemental
+Experto en capturas
+Escudo
+Tripas
+Toque del maestro
+Anti ráfagas
+Afiladísimo/tiro extra
+Estado crítico
+Buena suerte
+Arquero maestro
+Pena inmediata
+Acabado protector
+Añade veneno
+Añade parálisis
+Añade sueño
+Añade nitro
+Bonus sello ancianos
+Recompensas extra
+Despiece extra
+Bonus salto elemental
+Intensidad de Igni
+Poder de Anjanath
+Bendición de Legiana
+Poder de Odogaron
+Poder de Rathalos
+Poder de Diablos
+Bendición de Kirin
+Voluntad de Anjanath
+Maestría de Rathian Rosa
+Maestría de Zorah
+Favor de Legiana
+Maestria de Odogaron
+Maestria de Rathalos
+Maestria de Diablos
+Protección de Uragaan
+Protección de Bazelgeuse
+Hambre de Nergigante
+Técnica de Teostra
+Vuelo de Kushala Daora
+Vitalidad de Vaal Hazak
+Favor de Kirin
+Divinidad Xeno'jiiva
+Ayuda del gremio
+Ayuda de la comisión
+Favor de Lunastra
+Alma de caballero dragón
+Bendición de Astera
+Astucia de brujo
