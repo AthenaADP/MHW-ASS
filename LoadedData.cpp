@@ -164,11 +164,15 @@ void LoadedData::GetRelevantArmors( Query^ query, List_t< Armor^ >^ rel_armor, L
 		//const bool test = armor->name->StartsWith( L"Kulve" );
 
 		armor->relevant = false;
+
+		if( check_disabled && armor->force_disable )
+			continue;
+
 		if( armor->MatchesQuery( query, false ) )
 		{
 			AddToList( rel_armor, armor, %query->rel_abilities, inf_armor, false );
 		}
-		else if( IsBonusArmor( armor, query ) && !( check_disabled && armor->force_disable ) )
+		else if( IsBonusArmor( armor, query ) )
 			bonus_armor.Add( armor );
 	}
 

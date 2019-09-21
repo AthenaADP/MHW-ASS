@@ -1904,9 +1904,11 @@ private:
 
 		for( int p = 0; p < int( Armor::ArmorType::NumArmorTypes ); ++p )
 		{
+/*#ifdef _DEBUG
 			List_t< String^ > old, nnu;
 			for each( Armor^ a in query->rel_armor[ p ] )
 				old.Add( a->name );
+#endif*/
 
 			query->rel_armor[ p ]->Clear();
 			List_t< Armor^ >^ ilist = query->inf_armor[ p ];
@@ -1918,16 +1920,18 @@ private:
 			}*/
 
 			data->GetRelevantArmors( query, query->rel_armor[ p ], Armor::static_armors[ p ], query->inf_armor[ p ], true );
+
+/*#ifdef _DEBUG
 			for each( Armor^ a in query->rel_armor[ p ] )
 				nnu.Add( a->name );
-#ifdef _DEBUG
+
 			for( int i = 0; i < ilist->Count; ++i )
 			{
 				const bool checked = advanced_search.boxes[ p ]->Items[ i ]->Checked;
 				const bool used = Utility::Contains( query->rel_armor[ p ], ilist[ i ] ) || Utility::Contains( query->inf_armor[ p ], ilist[ i ] );
 				Assert( checked == used, L"Advanced search armor usage not as expected" );
 			}
-#endif
+#endif*/
 		}
 		query->rel_charms.Clear();
 		
