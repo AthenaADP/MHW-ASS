@@ -238,7 +238,7 @@ void Solution::FindArmorSwaps( Query^ query )
 			continue;
 
 		unsigned total_required = 0;
-		bool have_set_skill = false;
+		Ability^ required_set_skill = nullptr;
 		Map_t< Ability^, int > required_abilities;
 		for each( AbilityPair^ ap in armor->abilities )
 		{
@@ -246,8 +246,7 @@ void Solution::FindArmorSwaps( Query^ query )
 			{
 				if( ap->ability->set_ability )
 				{
-					have_set_skill = true;
-					break;
+					required_set_skill = ap->ability;
 				}
 				else
 				{
@@ -259,8 +258,6 @@ void Solution::FindArmorSwaps( Query^ query )
 				}
 			}
 		}
-		if( have_set_skill || total_required == 0 )
-			continue;
 		
 		//search unused armors for potential swaps
 		for each( Armor^ other_armor in query->inf_armor[ armor_type ] )
@@ -269,6 +266,9 @@ void Solution::FindArmorSwaps( Query^ query )
 				continue;
 
 			if( other_armor->total_slots + other_armor->total_relevant_skill_points < total_required )
+				continue;
+
+			if( required_set_skill && other_armor->GetSkillAt( required_set_skill ) == 0 )
 				continue;
 
 			Solution^ swap = CreateArmorSwap( query, (int)armor_type, other_armor );
