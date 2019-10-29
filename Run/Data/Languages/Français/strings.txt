@@ -41,7 +41,7 @@ Autoriser le bracelet de la Cinquième
 Autoriser les armures de bas rang
 
 #Always search Alpha armor if the Beta armor would be used, even if the Alpha armor is strictly inferior
-Toujours chercher armure AlphaAlways Search Alpha Armor
+Toujours utiliser la version Alpha des armures
 
 #Toggling all Event (DLC) armor
 Activer toutes
@@ -152,7 +152,7 @@ Error
 %1 à %2
 
 Défense
-Résultas
+Résultats
 Supprimer tous les joyaux
 Paramètres A.S.S.
 Nombre de résultats maximum
@@ -174,7 +174,7 @@ Type objet
 
 #Strings for the skill description dialog
 Montrer
-Déscription
+Description
 Talents
 Arbre des talents
 Disponible sur ces pièces d'armures :
