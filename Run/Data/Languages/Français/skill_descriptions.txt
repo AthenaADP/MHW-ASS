@@ -1,8 +1,8 @@
 Réduit la durée du poison de 30%
 Réduit la durée du poison de 60%
 Protège du poison
-Réduit la durée de la paalysie de 30%
-Réduit la durée de la paalysie de 60%
+Réduit la durée de la paralysie de 30%
+Réduit la durée de la paralysie de 60%
 Protège de la paralysie
 Réduit la durée de sommeil de 30%
 Réduit la durée de sommeil de 60%
